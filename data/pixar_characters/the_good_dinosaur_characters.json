@@ -1,0 +1,40 @@
+{
+  "franchise": "The Good Dinosaur",
+  "films": ["The Good Dinosaur (2015)"],
+  "total_estimated_characters": 15,
+  "categories": {
+    "the_good_dinosaur": {
+      "year": 2015,
+      "count": 15,
+      "characters": [
+        {"name": "Arlo", "role": "protagonist", "species": "dinosaur (Apatosaurus)", "gender": "male", "voice_actor": "Raymond Ochoa"},
+        {"name": "Spot", "role": "deuteragonist", "species": "human (caveboy)", "gender": "male", "voice_actor": "Jack Bright", "notes": "Mostly non-verbal"},
+        {"name": "Poppa Henry", "role": "mentor", "species": "dinosaur (Apatosaurus)", "gender": "male", "voice_actor": "Jeffrey Wright"},
+        {"name": "Momma Ida", "role": "supporting", "species": "dinosaur (Apatosaurus)", "gender": "female", "voice_actor": "Frances McDormand"},
+        {"name": "Buck", "role": "supporting", "species": "dinosaur (Apatosaurus)", "gender": "male", "voice_actor": "Marcus Scribner"},
+        {"name": "Libby", "role": "supporting", "species": "dinosaur (Apatosaurus)", "gender": "female", "voice_actor": "Maleah Nipay-Padilla"},
+        {"name": "Butch", "role": "ally", "species": "dinosaur (T-Rex)", "gender": "male", "voice_actor": "Sam Elliott"},
+        {"name": "Nash", "role": "supporting", "species": "dinosaur (T-Rex)", "gender": "male", "voice_actor": "A.J. Buckley"},
+        {"name": "Ramsey", "role": "supporting", "species": "dinosaur (T-Rex)", "gender": "female", "voice_actor": "Anna Paquin"},
+        {"name": "Thunderclap", "role": "villain", "species": "dinosaur (Pterodactyl)", "gender": "male", "voice_actor": "Steve Zahn"},
+        {"name": "Downpour", "role": "henchman", "species": "dinosaur (Pterodactyl)", "gender": "female", "voice_actor": "Mandy Freund"},
+        {"name": "Coldfront", "role": "henchman", "species": "dinosaur (Pterodactyl)", "gender": "unknown", "voice_actor": "unknown"},
+        {"name": "Frostbite", "role": "henchman", "species": "dinosaur (Pterodactyl)", "gender": "unknown", "voice_actor": "unknown"},
+        {"name": "Windgust", "role": "henchman", "species": "dinosaur (Pterodactyl)", "gender": "unknown", "voice_actor": "unknown"},
+        {"name": "Forrest Woodbush", "role": "comic relief", "species": "dinosaur (Styracosaurus)", "gender": "male", "voice_actor": "Peter Sohn"},
+        {"name": "Earl", "role": "minor", "species": "dinosaur", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

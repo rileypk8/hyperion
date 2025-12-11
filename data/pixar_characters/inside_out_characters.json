@@ -1,0 +1,69 @@
+{
+  "franchise": "Inside Out",
+  "films": ["Inside Out (2015)", "Inside Out 2 (2024)"],
+  "total_estimated_characters": 30,
+  "categories": {
+    "core_recurring_cast": {
+      "count": 8,
+      "characters": [
+        {"name": "Joy", "role": "protagonist", "species": "emotion", "gender": "female", "voice_actor": "Amy Poehler"},
+        {"name": "Sadness", "role": "deuteragonist", "species": "emotion", "gender": "female", "voice_actor": "Phyllis Smith"},
+        {"name": "Fear", "role": "supporting", "species": "emotion", "gender": "male", "voice_actor": "Bill Hader (IO1), Tony Hale (IO2)"},
+        {"name": "Anger", "role": "supporting", "species": "emotion", "gender": "male", "voice_actor": "Lewis Black"},
+        {"name": "Disgust", "role": "supporting", "species": "emotion", "gender": "female", "voice_actor": "Mindy Kaling (IO1), Liza Lapira (IO2)"},
+        {"name": "Riley Andersen", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Kaitlyn Dias (IO1), Kensington Tallman (IO2)"},
+        {"name": "Mom (Jill Andersen)", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Diane Lane"},
+        {"name": "Dad (Bill Andersen)", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Kyle MacLachlan"}
+      ]
+    },
+    "inside_out": {
+      "year": 2015,
+      "count": 12,
+      "characters": [
+        {"name": "Bing Bong", "role": "ally", "species": "imaginary friend", "gender": "male", "voice_actor": "Richard Kind"},
+        {"name": "Rainbow Unicorn", "role": "minor", "species": "imaginary creature", "gender": "female", "voice_actor": "Bobby Moynihan"},
+        {"name": "Jangles the Clown", "role": "minor", "species": "imaginary creature", "gender": "male", "voice_actor": "Josh Cooley"},
+        {"name": "Forgetter Paula", "role": "minor", "species": "mind worker", "gender": "female", "voice_actor": "Paula Poundstone"},
+        {"name": "Forgetter Bobby", "role": "minor", "species": "mind worker", "gender": "male", "voice_actor": "Bobby Moynihan"},
+        {"name": "Mind Workers", "role": "minor", "species": "mind worker", "gender": "various", "voice_actor": "various"},
+        {"name": "Dream Director", "role": "minor", "species": "mind worker", "gender": "male", "voice_actor": "Rich Moore"},
+        {"name": "Subconscious Guards", "role": "minor", "species": "mind worker", "gender": "male", "voice_actor": "various"},
+        {"name": "Mom's Joy", "role": "minor", "species": "emotion", "gender": "female", "voice_actor": "Diane Lane"},
+        {"name": "Mom's Sadness", "role": "minor", "species": "emotion", "gender": "female", "voice_actor": "Paris Van Dyke"},
+        {"name": "Dad's Anger", "role": "minor", "species": "emotion", "gender": "male", "voice_actor": "Kyle MacLachlan"},
+        {"name": "Meg", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Paris Van Dyke", "notes": "Riley's Minnesota friend"},
+        {"name": "Fritz", "role": "minor", "species": "mind worker", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    },
+    "inside_out_2": {
+      "year": 2024,
+      "count": 15,
+      "characters": [
+        {"name": "Anxiety", "role": "antagonist", "species": "emotion", "gender": "female", "voice_actor": "Maya Hawke"},
+        {"name": "Envy", "role": "supporting", "species": "emotion", "gender": "female", "voice_actor": "Ayo Edebiri"},
+        {"name": "Ennui", "role": "supporting", "species": "emotion", "gender": "female", "voice_actor": "Adèle Exarchopoulos"},
+        {"name": "Embarrassment", "role": "supporting", "species": "emotion", "gender": "male", "voice_actor": "Paul Walter Hauser"},
+        {"name": "Nostalgia", "role": "comic relief", "species": "emotion", "gender": "female", "voice_actor": "June Squibb"},
+        {"name": "Lance Slashblade", "role": "minor", "species": "imaginary character", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Pouchy", "role": "minor", "species": "imaginary creature", "gender": "unknown", "voice_actor": "unknown", "notes": "Backpack character"},
+        {"name": "Val Ortiz", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Lilimar"},
+        {"name": "Grace Hsieh", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Grace Lu"},
+        {"name": "Bree Young", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Sumayyah Nuriddin-Green"},
+        {"name": "Coach Roberts", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Yvette Nicole Brown"},
+        {"name": "Bloofy", "role": "minor", "species": "imaginary creature", "gender": "male", "voice_actor": "Ron Funches"},
+        {"name": "Deep Dark Secret", "role": "minor", "species": "secret", "gender": "unknown", "voice_actor": "Steve Purcell"},
+        {"name": "The Sar-Chasm", "role": "minor", "species": "location/concept", "gender": "n/a", "voice_actor": null},
+        {"name": "Belief System Workers", "role": "minor", "species": "mind worker", "gender": "various", "voice_actor": "various"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

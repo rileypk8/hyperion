@@ -1,0 +1,232 @@
+{
+  "franchise": "Disney Hybrid Films",
+  "studio": "Walt Disney Pictures",
+  "films": [
+    "The Reluctant Dragon (1941)",
+    "Victory Through Air Power (1943)",
+    "Song of the South (1946)",
+    "So Dear to My Heart (1948)",
+    "Mary Poppins (1964)",
+    "Bedknobs and Broomsticks (1971)",
+    "Pete's Dragon (1977)",
+    "Who Framed Roger Rabbit (1988)",
+    "James and the Giant Peach (1996)",
+    "Enchanted (2007)",
+    "Mary Poppins Returns (2018)",
+    "Chip 'n Dale: Rescue Rangers (2022)",
+    "Disenchanted (2022)"
+  ],
+  "animation_type": "hybrid",
+  "total_estimated_characters": 98,
+  "schema_extensions": {
+    "actor": "string | null - Live-action performer",
+    "character_type": "'live_action' | 'animated' | 'hybrid' - How character appears in film"
+  },
+  "categories": {
+    "the_reluctant_dragon_1941": {
+      "year": 1941,
+      "count": 4,
+      "characters": [
+        {"name": "Robert Benchley", "role": "protagonist", "actor": "Robert Benchley", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Humorist touring Disney Studios"},
+        {"name": "The Reluctant Dragon", "role": "supporting", "actor": null, "voice_actor": "Barnett Parker", "character_type": "animated", "species": "dragon", "gender": "male", "notes": "Poetry-loving dragon"},
+        {"name": "Sir Giles", "role": "supporting", "actor": null, "voice_actor": "Claud Allister", "character_type": "animated", "species": "human", "gender": "male", "notes": "Knight who befriends the dragon"},
+        {"name": "The Boy", "role": "supporting", "actor": null, "voice_actor": "Billy Lee", "character_type": "animated", "species": "human", "gender": "male", "notes": "Young boy who discovers the dragon"}
+      ]
+    },
+    "victory_through_air_power_1943": {
+      "year": 1943,
+      "count": 2,
+      "characters": [
+        {"name": "Major Alexander de Seversky", "role": "protagonist", "actor": "Alexander P. de Seversky", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Aviation advocate presenting his theories"},
+        {"name": "Narrator", "role": "supporting", "actor": null, "voice_actor": "Art Baker", "character_type": "animated", "species": "human", "gender": "male", "notes": "Narrates animated sequences"}
+      ]
+    },
+    "song_of_the_south_1946": {
+      "year": 1946,
+      "count": 8,
+      "characters": [
+        {"name": "Uncle Remus", "role": "protagonist", "actor": "James Baskett", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Storyteller who shares Br'er Rabbit tales"},
+        {"name": "Johnny", "role": "protagonist", "actor": "Bobby Driscoll", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Young boy who befriends Uncle Remus"},
+        {"name": "Ginny Favers", "role": "supporting", "actor": "Luana Patten", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Johnny's friend"},
+        {"name": "Sally", "role": "supporting", "actor": "Ruth Warrick", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Johnny's mother"},
+        {"name": "Aunt Tempy", "role": "supporting", "actor": "Hattie McDaniel", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "House servant"},
+        {"name": "Br'er Rabbit", "role": "protagonist", "actor": null, "voice_actor": "Johnny Lee", "character_type": "animated", "species": "rabbit", "gender": "male", "notes": "Trickster rabbit hero of the tales"},
+        {"name": "Br'er Fox", "role": "antagonist", "actor": null, "voice_actor": "James Baskett", "character_type": "animated", "species": "fox", "gender": "male", "notes": "Cunning fox who schemes to catch Br'er Rabbit"},
+        {"name": "Br'er Bear", "role": "antagonist", "actor": null, "voice_actor": "Nick Stewart", "character_type": "animated", "species": "bear", "gender": "male", "notes": "Dim-witted bear who helps Br'er Fox"}
+      ]
+    },
+    "so_dear_to_my_heart_1948": {
+      "year": 1948,
+      "count": 5,
+      "characters": [
+        {"name": "Jeremiah Kincaid", "role": "protagonist", "actor": "Bobby Driscoll", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Young boy who raises a black lamb"},
+        {"name": "Granny Kincaid", "role": "supporting", "actor": "Beulah Bondi", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Jeremiah's grandmother"},
+        {"name": "Uncle Hiram", "role": "supporting", "actor": "Burl Ives", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Traveling singer and Jeremiah's uncle"},
+        {"name": "Tildy", "role": "supporting", "actor": "Luana Patten", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Jeremiah's friend"},
+        {"name": "Wise Old Owl", "role": "supporting", "actor": null, "voice_actor": "Ken Carson", "character_type": "animated", "species": "owl", "gender": "male", "notes": "Animated character from Jeremiah's scrapbook"}
+      ]
+    },
+    "mary_poppins_1964": {
+      "year": 1964,
+      "count": 9,
+      "characters": [
+        {"name": "Mary Poppins", "role": "protagonist", "actor": "Julie Andrews", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Magical nanny"},
+        {"name": "Bert", "role": "deuteragonist", "actor": "Dick Van Dyke", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Jack-of-all-trades and Mary's friend"},
+        {"name": "Mr. George Banks", "role": "supporting", "actor": "David Tomlinson", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Father of Jane and Michael"},
+        {"name": "Mrs. Winifred Banks", "role": "supporting", "actor": "Glynis Johns", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Mother and suffragette"},
+        {"name": "Jane Banks", "role": "supporting", "actor": "Karen Dotrice", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Eldest Banks child"},
+        {"name": "Michael Banks", "role": "supporting", "actor": "Matthew Garber", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Youngest Banks child"},
+        {"name": "Mr. Dawes Sr.", "role": "antagonist", "actor": "Dick Van Dyke", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Director of the bank"},
+        {"name": "Uncle Albert", "role": "comic_relief", "actor": "Ed Wynn", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Floats when he laughs"},
+        {"name": "Penguin Waiters", "role": "minor", "actor": null, "voice_actor": "J. Pat O'Malley", "character_type": "animated", "species": "penguin", "gender": "male", "notes": "Serve in chalk drawing sequence"}
+      ]
+    },
+    "bedknobs_and_broomsticks_1971": {
+      "year": 1971,
+      "count": 9,
+      "characters": [
+        {"name": "Miss Eglantine Price", "role": "protagonist", "actor": "Angela Lansbury", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Apprentice witch"},
+        {"name": "Professor Emelius Browne", "role": "deuteragonist", "actor": "David Tomlinson", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Con man posing as magic teacher"},
+        {"name": "Charlie Rawlins", "role": "supporting", "actor": "Ian Weighill", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Eldest evacuee child"},
+        {"name": "Carrie Rawlins", "role": "supporting", "actor": "Cindy O'Callaghan", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Middle evacuee child"},
+        {"name": "Paul Rawlins", "role": "supporting", "actor": "Roy Snart", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Youngest evacuee child"},
+        {"name": "King Leonidas", "role": "supporting", "actor": null, "voice_actor": "Lennie Weinrib", "character_type": "animated", "species": "lion", "gender": "male", "notes": "Lion king of Naboombu"},
+        {"name": "Secretary Bird", "role": "minor", "actor": null, "voice_actor": "Lennie Weinrib", "character_type": "animated", "species": "bird (secretary)", "gender": "male", "notes": "Referee in soccer match"},
+        {"name": "Codfish", "role": "minor", "actor": null, "voice_actor": "Bob Holt", "character_type": "animated", "species": "fish", "gender": "male", "notes": "Underwater character"},
+        {"name": "Bear", "role": "minor", "actor": null, "voice_actor": "Dal McKennon", "character_type": "animated", "species": "bear", "gender": "male", "notes": "Soccer player"}
+      ]
+    },
+    "petes_dragon_1977": {
+      "year": 1977,
+      "count": 8,
+      "characters": [
+        {"name": "Pete", "role": "protagonist", "actor": "Sean Marshall", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Orphan boy who befriends Elliott"},
+        {"name": "Elliott", "role": "protagonist", "actor": null, "voice_actor": "Charlie Callas", "character_type": "animated", "species": "dragon", "gender": "male", "notes": "Friendly green dragon who can turn invisible"},
+        {"name": "Nora", "role": "deuteragonist", "actor": "Helen Reddy", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Lighthouse keeper's daughter who takes in Pete"},
+        {"name": "Lampie", "role": "supporting", "actor": "Mickey Rooney", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Lighthouse keeper, Nora's father"},
+        {"name": "Dr. Terminus", "role": "villain", "actor": "Jim Dale", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Traveling medicine man who wants to capture Elliott"},
+        {"name": "Hoagy", "role": "henchman", "actor": "Red Buttons", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Dr. Terminus's sidekick"},
+        {"name": "Lena Gogan", "role": "antagonist", "actor": "Shelley Winters", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Abusive adoptive mother"},
+        {"name": "The Mayor", "role": "minor", "actor": "Jim Backus", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Mayor of Passamaquoddy"}
+      ]
+    },
+    "who_framed_roger_rabbit_1988": {
+      "year": 1988,
+      "count": 10,
+      "characters": [
+        {"name": "Eddie Valiant", "role": "protagonist", "actor": "Bob Hoskins", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Private investigator with grudge against toons"},
+        {"name": "Roger Rabbit", "role": "protagonist", "actor": null, "voice_actor": "Charles Fleischer", "character_type": "animated", "species": "rabbit (toon)", "gender": "male", "notes": "Toon star accused of murder"},
+        {"name": "Jessica Rabbit", "role": "supporting", "actor": null, "voice_actor": "Kathleen Turner", "character_type": "animated", "species": "human (toon)", "gender": "female", "notes": "Roger's wife, sultry nightclub singer"},
+        {"name": "Judge Doom", "role": "villain", "actor": "Christopher Lloyd", "voice_actor": "Christopher Lloyd", "character_type": "hybrid", "species": "toon (disguised as human)", "gender": "male", "notes": "Villain revealed to be a toon in disguise"},
+        {"name": "Dolores", "role": "love_interest", "actor": "Joanna Cassidy", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Eddie's girlfriend, bar owner"},
+        {"name": "Marvin Acme", "role": "supporting", "actor": "Stubby Kaye", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Owner of Toontown who is murdered"},
+        {"name": "R.K. Maroon", "role": "supporting", "actor": "Alan Tilvern", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Head of Maroon Cartoons studio"},
+        {"name": "Baby Herman", "role": "supporting", "actor": null, "voice_actor": "Lou Hirsch", "character_type": "animated", "species": "human (toon)", "gender": "male", "notes": "Toon baby who is actually 50 years old"},
+        {"name": "Benny the Cab", "role": "ally", "actor": null, "voice_actor": "Charles Fleischer", "character_type": "animated", "species": "automobile (toon)", "gender": "male", "notes": "Wise-cracking taxi cab toon"},
+        {"name": "Betty Boop", "role": "minor", "actor": null, "voice_actor": "Mae Questel", "character_type": "animated", "species": "human (toon)", "gender": "female", "notes": "Classic cartoon character as waitress"}
+      ]
+    },
+    "james_and_the_giant_peach_1996": {
+      "year": 1996,
+      "count": 10,
+      "characters": [
+        {"name": "James Henry Trotter", "role": "protagonist", "actor": "Paul Terry", "voice_actor": "Paul Terry", "character_type": "hybrid", "species": "human", "gender": "male", "notes": "Orphan boy; live-action outside peach, stop-motion inside"},
+        {"name": "Aunt Spiker", "role": "villain", "actor": "Joanna Lumley", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "James's cruel thin aunt"},
+        {"name": "Aunt Sponge", "role": "villain", "actor": "Miriam Margolyes", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "James's cruel fat aunt"},
+        {"name": "The Magic Man", "role": "supporting", "actor": "Pete Postlethwaite", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Mysterious stranger who gives James magic"},
+        {"name": "Mr. Centipede", "role": "sidekick", "actor": null, "voice_actor": "Richard Dreyfuss", "character_type": "animated", "species": "centipede", "gender": "male", "notes": "Brash New York-accented centipede"},
+        {"name": "Mr. Grasshopper", "role": "ally", "actor": null, "voice_actor": "Simon Callow", "character_type": "animated", "species": "grasshopper", "gender": "male", "notes": "Refined British grasshopper musician"},
+        {"name": "Miss Spider", "role": "ally", "actor": null, "voice_actor": "Susan Sarandon", "character_type": "animated", "species": "spider", "gender": "female", "notes": "French-accented spider"},
+        {"name": "Mrs. Ladybug", "role": "ally", "actor": null, "voice_actor": "Jane Leeves", "character_type": "animated", "species": "ladybug", "gender": "female", "notes": "Motherly ladybug"},
+        {"name": "Mr. Earthworm", "role": "comic_relief", "actor": null, "voice_actor": "David Thewlis", "character_type": "animated", "species": "earthworm", "gender": "male", "notes": "Pessimistic blind earthworm"},
+        {"name": "Mrs. Glowworm", "role": "supporting", "actor": null, "voice_actor": "Miriam Margolyes", "character_type": "animated", "species": "glowworm", "gender": "female", "notes": "Elderly glowworm"}
+      ]
+    },
+    "enchanted_2007": {
+      "year": 2007,
+      "count": 9,
+      "characters": [
+        {"name": "Giselle", "role": "protagonist", "actor": "Amy Adams", "voice_actor": "Amy Adams", "character_type": "hybrid", "species": "human", "gender": "female", "notes": "Princess-to-be; animated in Andalasia, live-action in NYC"},
+        {"name": "Robert Philip", "role": "deuteragonist", "actor": "Patrick Dempsey", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Cynical divorce lawyer who helps Giselle"},
+        {"name": "Prince Edward", "role": "supporting", "actor": "James Marsden", "voice_actor": "James Marsden", "character_type": "hybrid", "species": "human", "gender": "male", "notes": "Giselle's prince from Andalasia"},
+        {"name": "Queen Narissa", "role": "villain", "actor": "Susan Sarandon", "voice_actor": "Susan Sarandon", "character_type": "hybrid", "species": "human", "gender": "female", "notes": "Evil queen who banishes Giselle"},
+        {"name": "Nathaniel", "role": "henchman", "actor": "Timothy Spall", "voice_actor": "Timothy Spall", "character_type": "hybrid", "species": "human", "gender": "male", "notes": "Narissa's henchman"},
+        {"name": "Nancy Tremaine", "role": "love_interest", "actor": "Idina Menzel", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Robert's girlfriend"},
+        {"name": "Morgan Philip", "role": "supporting", "actor": "Rachel Covey", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Robert's daughter"},
+        {"name": "Pip", "role": "sidekick", "actor": null, "voice_actor": "Jeff Bennett", "character_type": "hybrid", "species": "chipmunk", "gender": "male", "notes": "Animated in Andalasia, CGI in NYC"},
+        {"name": "Narrator", "role": "minor", "actor": null, "voice_actor": "Julie Andrews", "character_type": "animated", "species": "n/a", "gender": "female", "notes": "Storybook narrator"}
+      ]
+    },
+    "mary_poppins_returns_2018": {
+      "year": 2018,
+      "count": 14,
+      "characters": [
+        {"name": "Mary Poppins", "role": "protagonist", "actor": "Emily Blunt", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Magical nanny returns to Banks family"},
+        {"name": "Jack", "role": "deuteragonist", "actor": "Lin-Manuel Miranda", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Lamplighter and former apprentice of Bert"},
+        {"name": "Michael Banks", "role": "supporting", "actor": "Ben Whishaw", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Widowed father working at the bank"},
+        {"name": "Jane Banks", "role": "supporting", "actor": "Emily Mortimer", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Union organizer, Michael's sister"},
+        {"name": "Annabel Banks", "role": "supporting", "actor": "Pixie Davies", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Michael's eldest child"},
+        {"name": "John Banks", "role": "supporting", "actor": "Nathanael Saleh", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Michael's son"},
+        {"name": "Georgie Banks", "role": "supporting", "actor": "Joel Dawson", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Michael's youngest son"},
+        {"name": "William Weatherall Wilkins", "role": "villain", "actor": "Colin Firth", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Scheming bank president"},
+        {"name": "Cousin Topsy", "role": "supporting", "actor": "Meryl Streep", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Mary's eccentric cousin"},
+        {"name": "Mr. Dawes Jr.", "role": "supporting", "actor": "Dick Van Dyke", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Retired bank chairman"},
+        {"name": "Balloon Lady", "role": "minor", "actor": "Angela Lansbury", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Kindly balloon seller in the park"},
+        {"name": "The Wolf", "role": "antagonist", "actor": null, "voice_actor": "Colin Firth", "character_type": "animated", "species": "wolf", "gender": "male", "notes": "Animated villain in Royal Doulton bowl sequence"},
+        {"name": "The Badger", "role": "minor", "actor": null, "voice_actor": "Jeremy Swift", "character_type": "animated", "species": "badger", "gender": "male", "notes": "Animated character in bowl sequence"},
+        {"name": "The Weasel", "role": "minor", "actor": null, "voice_actor": "Kobna Holdbrook-Smith", "character_type": "animated", "species": "weasel", "gender": "male", "notes": "Animated character in bowl sequence"}
+      ]
+    },
+    "chip_n_dale_rescue_rangers_2022": {
+      "year": 2022,
+      "count": 10,
+      "characters": [
+        {"name": "Dale", "role": "protagonist", "actor": null, "voice_actor": "Andy Samberg", "character_type": "animated", "species": "chipmunk (CGI)", "gender": "male", "notes": "CGI chipmunk, nostalgia convention regular"},
+        {"name": "Chip", "role": "protagonist", "actor": null, "voice_actor": "John Mulaney", "character_type": "animated", "species": "chipmunk (2D)", "gender": "male", "notes": "2D animated chipmunk, insurance salesman"},
+        {"name": "Ellie", "role": "deuteragonist", "actor": "KiKi Layne", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "FBI agent who helps the chipmunks"},
+        {"name": "Sweet Pete", "role": "villain", "actor": null, "voice_actor": "Will Arnett", "character_type": "animated", "species": "human (CGI)", "gender": "male", "notes": "Grown-up child star turned crime boss"},
+        {"name": "Monterey Jack", "role": "supporting", "actor": null, "voice_actor": "Eric Bana", "character_type": "animated", "species": "mouse", "gender": "male", "notes": "Missing Rescue Ranger with cheese addiction"},
+        {"name": "Gadget Hackwrench", "role": "supporting", "actor": null, "voice_actor": "Tress MacNeille", "character_type": "animated", "species": "mouse", "gender": "female", "notes": "Inventor mouse from original team"},
+        {"name": "Zipper", "role": "supporting", "actor": null, "voice_actor": "Dennis Haysbert", "character_type": "animated", "species": "fly", "gender": "male", "notes": "Fly from original Rescue Rangers"},
+        {"name": "Captain Putty", "role": "ally", "actor": null, "voice_actor": "J.K. Simmons", "character_type": "animated", "species": "clay figure", "gender": "male", "notes": "Police detective made of clay"},
+        {"name": "Ugly Sonic", "role": "comic_relief", "actor": null, "voice_actor": "Tim Robinson", "character_type": "animated", "species": "hedgehog (CGI)", "gender": "male", "notes": "Rejected original Sonic design"},
+        {"name": "Bob the Warrior Viking", "role": "henchman", "actor": null, "voice_actor": "Seth Rogen", "character_type": "animated", "species": "human (CGI)", "gender": "male", "notes": "Sweet Pete's henchman"}
+      ]
+    },
+    "disenchanted_2022": {
+      "year": 2022,
+      "count": 10,
+      "characters": [
+        {"name": "Giselle", "role": "protagonist", "actor": "Amy Adams", "voice_actor": "Amy Adams", "character_type": "hybrid", "species": "human", "gender": "female", "notes": "Now living in suburbs, accidentally casts a spell"},
+        {"name": "Robert Philip", "role": "supporting", "actor": "Patrick Dempsey", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Giselle's husband"},
+        {"name": "Morgan Philip", "role": "deuteragonist", "actor": "Gabriella Baldacchino", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Robert's now-teenage daughter"},
+        {"name": "Prince Edward", "role": "supporting", "actor": "James Marsden", "voice_actor": "James Marsden", "character_type": "hybrid", "species": "human", "gender": "male", "notes": "Now King of Andalasia"},
+        {"name": "Nancy Tremaine", "role": "supporting", "actor": "Idina Menzel", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Now Queen of Andalasia"},
+        {"name": "Malvina Monroe", "role": "villain", "actor": "Maya Rudolph", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Queen bee of Monroeville suburbs"},
+        {"name": "Rosaleen", "role": "henchman", "actor": "Yvette Nicole Brown", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Malvina's minion"},
+        {"name": "Ruby", "role": "henchman", "actor": "Jayma Mays", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Malvina's minion"},
+        {"name": "Edgar", "role": "supporting", "actor": null, "voice_actor": "Oscar Nunez", "character_type": "animated", "species": "magic mirror", "gender": "male", "notes": "Malvina's magic mirror"},
+        {"name": "Pip", "role": "supporting", "actor": null, "voice_actor": "Griffin Newman", "character_type": "animated", "species": "chipmunk", "gender": "male", "notes": "Chipmunk narrator"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Second most important character",
+    "hero": "Primary force for good (if distinct from protagonist)",
+    "villain": "Primary antagonist/evil force",
+    "antagonist": "Opposes protagonist (not necessarily evil)",
+    "henchman": "Serves the villain",
+    "ally": "Helps protagonist, not central to plot",
+    "sidekick": "Constant companion to main character",
+    "love_interest": "Romantic focus for a main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "character_type_usage": "live_action = filmed actor only; animated = drawn/CGI only; hybrid = same character appears in both forms",
+    "actor_vs_voice_actor": "actor field for live-action performance; voice_actor for animated/voice work; both filled when character transitions between forms",
+    "species_conventions": "For toons in Roger Rabbit, append '(toon)' to indicate cartoon nature"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "franchise": "Make Mine Music",
+  "films": [
+    "Make Mine Music (1946)"
+  ],
+  "animation_type": "hybrid",
+  "total_estimated_characters": 18,
+  "categories": {
+    "make_mine_music_1946": {
+      "year": 1946,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Peter",
+          "role": "protagonist",
+          "voice_actor": "Sterling Holloway",
+          "notes": "Peter and the Wolf segment",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sasha the Bird",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Peter and the Wolf",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Sonia the Duck",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Peter and the Wolf",
+          "species": "duck",
+          "gender": "unknown"
+        },
+        {
+          "name": "Ivan the Cat",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Peter and the Wolf",
+          "species": "cat",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Wolf",
+          "role": "villain",
+          "voice_actor": null,
+          "notes": "Peter and the Wolf",
+          "species": "wolf",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Hunters",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Peter and the Wolf",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Grandpa",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Peter and the Wolf",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Casey",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Casey at the Bat, narrated segment",
+          "species": "train",
+          "gender": "male"
+        },
+        {
+          "name": "Johnny Fedora",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Johnny Fedora and Alice Blue Bonnet",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Alice Blue Bonnet",
+          "role": "love_interest",
+          "voice_actor": null,
+          "notes": "Johnny Fedora and Alice Blue Bonnet",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Willie the Whale",
+          "role": "protagonist",
+          "voice_actor": "Nelson Eddy",
+          "notes": "The Whale Who Wanted to Sing at the Met",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tetti-Tatti",
+          "role": "villain",
+          "voice_actor": "Nelson Eddy",
+          "notes": "Impresario who kills Willie",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Martins and Coys",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Feuding families segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Benny Goodman (animated)",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "All the Cats Join In segment",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Ballerina",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Two Silhouettes segment",
+          "species": "toy",
+          "gender": "female"
+        },
+        {
+          "name": "The Male Dancer",
+          "role": "love_interest",
+          "voice_actor": null,
+          "notes": "Two Silhouettes segment",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Narrator",
+          "role": "narrator",
+          "voice_actor": "Sterling Holloway, Jerry Colonna (Casey)",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "format": "Package film with ten musical segments",
+    "musical_performers": "The Andrews Sisters, Dinah Shore, Benny Goodman, Nelson Eddy, etc."
+  }
+}

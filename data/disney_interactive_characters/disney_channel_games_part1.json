@@ -1,0 +1,137 @@
+{
+  "franchise": "Disney Channel Games (Part 1)",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Kim Possible: What's the Switch? (2006)",
+    "Kim Possible: Global Gemini (2007)",
+    "Kim Possible: Kimmunicator (2005)",
+    "High School Musical: Makin' the Cut! (2007)",
+    "High School Musical 3: Senior Year DANCE! (2008)",
+    "Hannah Montana: Music Jam (2007)",
+    "Hannah Montana: The Movie (2009)"
+  ],
+  "total_estimated_characters": 65,
+  "categories": {
+    "kim_possible_whats_the_switch": {
+      "year": 2006,
+      "platform": "PlayStation 2",
+      "developer": "Artificial Mind and Movement",
+      "game_type": "action_platformer",
+      "count": 15,
+      "characters": [
+        {"name": "Kim Possible", "role": "protagonist", "voice_actor": "Christy Carlson Romano", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Ron Stoppable", "role": "protagonist", "voice_actor": "Will Friedle", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Rufus", "role": "ally", "voice_actor": "Nancy Cartwright", "species": "naked mole rat", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Wade", "role": "ally", "voice_actor": "Tahj Mowry", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Dr. Drakken", "role": "villain", "voice_actor": "John DiMaggio", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Shego", "role": "antagonist", "voice_actor": "Nicole Sullivan", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Monkey Fist", "role": "antagonist", "voice_actor": "Tom Kane", "species": "human/mutant", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Duff Killigan", "role": "antagonist", "voice_actor": "Brian George", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Señor Senior Sr.", "role": "antagonist", "voice_actor": "Ricardo Montalban (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Señor Senior Jr.", "role": "antagonist", "voice_actor": "Nestor Carbonell", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Dr. Possible", "role": "supporting", "voice_actor": "Gary Cole", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Mrs. Possible", "role": "supporting", "voice_actor": "Jean Smart", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Henchmen", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Ninjas", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Robots", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "disney", "origin_franchise": "Kim Possible"}
+      ]
+    },
+    "kim_possible_global_gemini": {
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "developer": "Artificial Mind and Movement",
+      "game_type": "action_platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Kim Possible", "role": "protagonist", "voice_actor": "Christy Carlson Romano (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Ron Stoppable", "role": "ally", "voice_actor": "Will Friedle (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Rufus", "role": "ally", "voice_actor": "Nancy Cartwright (archive)", "species": "naked mole rat", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Wade", "role": "ally", "voice_actor": "Tahj Mowry (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Gemini", "role": "villain", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Dr. Drakken", "role": "antagonist", "voice_actor": "John DiMaggio (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Shego", "role": "antagonist", "voice_actor": "Nicole Sullivan (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Motor Ed", "role": "antagonist", "voice_actor": "John DiMaggio (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Electronique", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Global Justice Agents", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "WEE Agents", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Kim Possible"},
+        {"name": "Henchmen", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Kim Possible"}
+      ]
+    },
+    "high_school_musical_makin_the_cut": {
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "developer": "A2M",
+      "game_type": "rhythm",
+      "count": 10,
+      "characters": [
+        {"name": "Troy Bolton", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Gabriella Montez", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Sharpay Evans", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Ryan Evans", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Chad Danforth", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Taylor McKessie", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Kelsi Nielsen", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Zeke Baylor", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Jason Cross", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Ms. Darbus", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"}
+      ]
+    },
+    "hsm3_dance": {
+      "year": 2008,
+      "platform": "Multi-platform",
+      "developer": "Page 44 Studios",
+      "game_type": "rhythm_dance",
+      "count": 12,
+      "characters": [
+        {"name": "Troy Bolton", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Gabriella Montez", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Sharpay Evans", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Ryan Evans", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Chad Danforth", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Taylor McKessie", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Kelsi Nielsen", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "Tiara Gold", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical 3"},
+        {"name": "Jimmie Zara", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical 3"},
+        {"name": "Donny Dion", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "High School Musical 3"},
+        {"name": "Martha Cox", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "High School Musical"},
+        {"name": "East High Students", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "High School Musical"}
+      ]
+    },
+    "hannah_montana_music_jam": {
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "developer": "Altron",
+      "game_type": "rhythm_simulation",
+      "count": 8,
+      "characters": [
+        {"name": "Miley Stewart/Hannah Montana", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Lilly Truscott/Lola Luftnagle", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Oliver Oken", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Robby Ray Stewart", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Jackson Stewart", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Rico Suave", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Band Members", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Concert Crowd", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Hannah Montana"}
+      ]
+    },
+    "hannah_montana_movie_game": {
+      "year": 2009,
+      "platform": "Multi-platform",
+      "developer": "Avalanche Software",
+      "game_type": "rhythm_adventure",
+      "count": 10,
+      "characters": [
+        {"name": "Miley Stewart/Hannah Montana", "role": "protagonist", "voice_actor": "Miley Cyrus (likeness)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Lilly Truscott", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Robby Ray Stewart", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Jackson Stewart", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Travis Brody", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana: The Movie"},
+        {"name": "Grandma Ruby", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hannah Montana: The Movie"},
+        {"name": "Oswald Granger", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana: The Movie"},
+        {"name": "Vita", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hannah Montana"},
+        {"name": "Crowley Corners Residents", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Hannah Montana: The Movie"},
+        {"name": "Blue Jeans", "role": "supporting", "voice_actor": "N/A", "species": "horse", "gender": "male", "origin": "disney", "origin_franchise": "Hannah Montana: The Movie"}
+      ]
+    }
+  }
+}

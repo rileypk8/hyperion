@@ -1,0 +1,166 @@
+{
+  "franchise": "Aladdin",
+  "films": [
+    "Aladdin (1992)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "aladdin_1992": {
+      "year": 1992,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Aladdin",
+          "role": "protagonist",
+          "voice_actor": "Scott Weinger, Brad Kane (singing)",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Princess Jasmine",
+          "role": "deuteragonist",
+          "voice_actor": "Linda Larkin, Lea Salonga (singing)",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Genie",
+          "role": "mentor",
+          "voice_actor": "Robin Williams",
+          "species": "genie",
+          "gender": "male"
+        },
+        {
+          "name": "Jafar",
+          "role": "villain",
+          "voice_actor": "Jonathan Freeman",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Iago",
+          "role": "henchman",
+          "voice_actor": "Gilbert Gottfried",
+          "species": "parrot",
+          "gender": "male"
+        },
+        {
+          "name": "Abu",
+          "role": "sidekick",
+          "voice_actor": "Frank Welker",
+          "species": "monkey",
+          "gender": "male"
+        },
+        {
+          "name": "The Sultan",
+          "role": "supporting",
+          "voice_actor": "Douglas Seale",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Magic Carpet",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "enchanted_object",
+          "gender": "n/a"
+        },
+        {
+          "name": "Rajah",
+          "role": "ally",
+          "voice_actor": "Frank Welker",
+          "notes": "Jasmine's tiger",
+          "species": "tiger",
+          "gender": "male"
+        },
+        {
+          "name": "The Cave of Wonders",
+          "role": "supporting",
+          "voice_actor": "Frank Welker",
+          "species": "enchanted_object",
+          "gender": "male"
+        },
+        {
+          "name": "Prince Achmed",
+          "role": "minor",
+          "voice_actor": "Corey Burton",
+          "notes": "Rejected suitor",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Razoul",
+          "role": "antagonist",
+          "voice_actor": "Jim Cummings",
+          "notes": "Captain of the guards",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Guards",
+          "role": "henchman",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Farouk",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Fruit merchant",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Peddler",
+          "role": "narrator",
+          "voice_actor": "Robin Williams",
+          "notes": "Opening narrator",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Gazeem",
+          "role": "minor",
+          "voice_actor": "Charlie Adler",
+          "notes": "Thief killed by Cave of Wonders",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Old Jafar",
+          "role": "minor",
+          "voice_actor": "Jonathan Freeman",
+          "notes": "Jafar's disguise",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Snake Jafar",
+          "role": "villain",
+          "voice_actor": null,
+          "notes": "Jafar's transformation",
+          "species": "human",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

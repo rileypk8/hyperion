@@ -1,0 +1,191 @@
+{
+  "franchise": "Robin Hood",
+  "films": [
+    "Robin Hood (1973)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 22,
+  "categories": {
+    "robin_hood_1973": {
+      "year": 1973,
+      "count": 22,
+      "characters": [
+        {
+          "name": "Robin Hood",
+          "role": "protagonist",
+          "voice_actor": "Brian Bedford",
+          "species": "fox",
+          "gender": "male"
+        },
+        {
+          "name": "Little John",
+          "role": "deuteragonist",
+          "voice_actor": "Phil Harris",
+          "species": "bear",
+          "gender": "male"
+        },
+        {
+          "name": "Maid Marian",
+          "role": "love_interest",
+          "voice_actor": "Monica Evans",
+          "species": "fox",
+          "gender": "female"
+        },
+        {
+          "name": "Prince John",
+          "role": "villain",
+          "voice_actor": "Peter Ustinov",
+          "species": "lion",
+          "gender": "male"
+        },
+        {
+          "name": "Sir Hiss",
+          "role": "henchman",
+          "voice_actor": "Terry-Thomas",
+          "species": "snake",
+          "gender": "male"
+        },
+        {
+          "name": "The Sheriff of Nottingham",
+          "role": "villain",
+          "voice_actor": "Pat Buttram",
+          "species": "wolf",
+          "gender": "male"
+        },
+        {
+          "name": "Friar Tuck",
+          "role": "ally",
+          "voice_actor": "Andy Devine",
+          "species": "badger",
+          "gender": "male"
+        },
+        {
+          "name": "Lady Kluck",
+          "role": "ally",
+          "voice_actor": "Carole Shelley",
+          "species": "chicken",
+          "gender": "female"
+        },
+        {
+          "name": "Alan-a-Dale",
+          "role": "narrator",
+          "voice_actor": "Roger Miller",
+          "notes": "Rooster minstrel",
+          "species": "rooster",
+          "gender": "male"
+        },
+        {
+          "name": "Trigger",
+          "role": "henchman",
+          "voice_actor": "George Lindsey",
+          "notes": "Vulture guard",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Nutsy",
+          "role": "henchman",
+          "voice_actor": "Ken Curtis",
+          "notes": "Vulture guard",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "King Richard",
+          "role": "supporting",
+          "voice_actor": "Peter Ustinov",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Skippy Rabbit",
+          "role": "supporting",
+          "voice_actor": "Billy Whitaker",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Sis Rabbit",
+          "role": "supporting",
+          "voice_actor": "Dana Laurita",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Tagalong Rabbit",
+          "role": "supporting",
+          "voice_actor": "Dori Whitaker",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Mother Rabbit",
+          "role": "supporting",
+          "voice_actor": "Barbara Luddy",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Toby Turtle",
+          "role": "supporting",
+          "voice_actor": "Richie Sanders",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Father Sexton",
+          "role": "minor",
+          "voice_actor": "J. Pat O'Malley",
+          "notes": "Church mouse",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mother Church Mouse",
+          "role": "minor",
+          "voice_actor": "Candy Candido",
+          "species": "mouse",
+          "gender": "female"
+        },
+        {
+          "name": "Otto",
+          "role": "minor",
+          "voice_actor": "J. Pat O'Malley",
+          "notes": "Blacksmith dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Captain of the Guard",
+          "role": "henchman",
+          "voice_actor": "Ken Curtis",
+          "notes": "Crocodile",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "The Rhino Guards",
+          "role": "henchman",
+          "voice_actor": null,
+          "species": "hamster",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

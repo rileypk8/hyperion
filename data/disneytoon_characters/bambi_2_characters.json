@@ -1,0 +1,33 @@
+{
+  "film": "Bambi II",
+  "studio": "DisneyToon Studios",
+  "year": 2006,
+  "release_type": "theatrical",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Bambi", "role": "protagonist", "species": "deer", "gender": "male", "voice_actor": "Alexander Gould"},
+    {"name": "The Great Prince of the Forest", "role": "deuteragonist", "species": "deer", "gender": "male", "voice_actor": "Patrick Stewart"},
+    {"name": "Thumper", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Brendon Baerg"},
+    {"name": "Flower", "role": "ally", "species": "skunk", "gender": "male", "voice_actor": "Nicky Jones"},
+    {"name": "Ronno", "role": "antagonist", "species": "deer", "gender": "male", "voice_actor": "Anthony Ghannam"},
+    {"name": "Faline", "role": "love_interest", "species": "deer", "gender": "female", "voice_actor": "Andrea Bowen"},
+    {"name": "Mena", "role": "supporting", "species": "deer", "gender": "female", "voice_actor": "Cree Summer"},
+    {"name": "Friend Owl", "role": "supporting", "species": "owl", "gender": "male", "voice_actor": "Keith Ferguson"},
+    {"name": "Thumper's Mother", "role": "minor", "species": "rabbit", "gender": "female", "voice_actor": "n/a"},
+    {"name": "Bambi's Mother", "role": "minor", "species": "deer", "gender": "female", "voice_actor": "n/a", "notes": "Appears in dream sequence"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "antagonist": "Character opposing protagonist",
+    "ally": "Friend supporting protagonist",
+    "love_interest": "Romantic interest",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  },
+  "notes": {
+    "midquel": "Set between Bambi's mother's death and the 'spring' sequence of the original film",
+    "theatrical_international": "Released theatrically internationally; direct-to-video in US"
+  }
+}

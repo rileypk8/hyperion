@@ -1,0 +1,181 @@
+{
+  "franchise": "Beauty and the Beast",
+  "films": [
+    "Beauty and the Beast (1991)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 20,
+  "categories": {
+    "beauty_and_the_beast_1991": {
+      "year": 1991,
+      "count": 20,
+      "characters": [
+        {
+          "name": "Belle",
+          "role": "protagonist",
+          "voice_actor": "Paige O'Hara",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Beast / Prince Adam",
+          "role": "deuteragonist",
+          "voice_actor": "Robby Benson",
+          "species": "beast",
+          "gender": "male"
+        },
+        {
+          "name": "Gaston",
+          "role": "villain",
+          "voice_actor": "Richard White",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "LeFou",
+          "role": "henchman",
+          "voice_actor": "Jesse Corti",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Lumiere",
+          "role": "ally",
+          "voice_actor": "Jerry Orbach",
+          "species": "enchanted_object",
+          "gender": "male"
+        },
+        {
+          "name": "Cogsworth",
+          "role": "ally",
+          "voice_actor": "David Ogden Stiers",
+          "species": "enchanted_object",
+          "gender": "male"
+        },
+        {
+          "name": "Mrs. Potts",
+          "role": "ally",
+          "voice_actor": "Angela Lansbury",
+          "species": "enchanted_object",
+          "gender": "female"
+        },
+        {
+          "name": "Chip",
+          "role": "sidekick",
+          "voice_actor": "Bradley Pierce",
+          "species": "enchanted_object",
+          "gender": "male"
+        },
+        {
+          "name": "Maurice",
+          "role": "supporting",
+          "voice_actor": "Rex Everhart",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Wardrobe / Madame de la Grande Bouche",
+          "role": "ally",
+          "voice_actor": "Jo Anne Worley",
+          "species": "enchanted_object",
+          "gender": "female"
+        },
+        {
+          "name": "Fifi / Plumette",
+          "role": "supporting",
+          "voice_actor": "Kimmy Robertson",
+          "notes": "Feather duster",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Stove",
+          "role": "minor",
+          "voice_actor": "Brian Cummings",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Philippe",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Maurice's horse",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "The Bimbettes",
+          "role": "minor",
+          "voice_actor": "Mary Kay Bergman, Kath Soucie",
+          "notes": "Gaston's admirers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Monsieur D'Arque",
+          "role": "henchman",
+          "voice_actor": "Tony Jay",
+          "notes": "Asylum keeper",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Wolves",
+          "role": "antagonist",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Enchantress",
+          "role": "supporting",
+          "voice_actor": "Kath Soucie",
+          "notes": "Cursed the Beast",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Villagers",
+          "role": "antagonist",
+          "voice_actor": "various",
+          "notes": "Mob scene",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Footstool",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Transformed dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Sultan",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Transformed footstool/dog",
+          "species": "human",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "First animated film nominated for Best Picture at the Academy Awards"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "studio": "Fox-Distributed (Third-Party)",
+  "parent_company": "20th Century Animation (Disney-owned)",
+  "films": ["Hugo the Hippo (1975)", "Wizards (1977)", "Fire and Ice (1983)", "FernGully: The Last Rainforest (1992)", "Once Upon a Forest (1993)", "The Pagemaster (1994)", "FernGully 2: The Magical Rescue (1998)"],
+  "animation_type": "mixed",
+  "total_estimated_characters": 95,
+  "categories": {
+    "hugo_the_hippo_1975": {
+      "year": 1975,
+      "animation_type": "fully_animated",
+      "count": 10,
+      "characters": [
+        {"name": "Hugo", "role": "protagonist", "voice_actor": null, "species": "hippopotamus", "gender": "male", "notes": "Non-speaking baby hippo"},
+        {"name": "The Sultan", "role": "supporting", "voice_actor": "Robert Morley", "species": "human", "gender": "male", "notes": "Sultan of Zanzibar"},
+        {"name": "Aban Khan", "role": "villain", "voice_actor": "Paul Lynde", "species": "human", "gender": "male", "notes": "Evil advisor"},
+        {"name": "Jorma", "role": "ally", "voice_actor": "Ronnie Cox", "species": "human", "gender": "male", "notes": "Farm boy who befriends Hugo"},
+        {"name": "Jorma's Father", "role": "supporting", "voice_actor": "Percy Rodrigues", "species": "human", "gender": "male", "notes": null},
+        {"name": "Royal Magician", "role": "supporting", "voice_actor": "Jesse Emmett", "species": "human", "gender": "male", "notes": null},
+        {"name": "Mr. M'Bow-Wow", "role": "supporting", "voice_actor": "Lance Taylor Sr.", "species": "human", "gender": "male", "notes": null},
+        {"name": "Judge", "role": "minor", "voice_actor": "Len Maxwell", "species": "human", "gender": "male", "notes": null},
+        {"name": "Narrator", "role": "supporting", "voice_actor": "Burl Ives", "species": "n/a", "gender": "male", "notes": "Also performs songs"},
+        {"name": "Various Characters", "role": "minor", "voice_actor": "Frank Welker", "species": "various", "gender": "various", "notes": "Special voice effects"}
+      ]
+    },
+    "wizards_1977": {
+      "year": 1977,
+      "animation_type": "fully_animated",
+      "count": 12,
+      "characters": [
+        {"name": "Avatar", "role": "protagonist", "voice_actor": "Bob Holt", "species": "wizard/elf", "gender": "male", "notes": "Good wizard, Peter Falk-style voice"},
+        {"name": "Blackwolf", "role": "villain", "voice_actor": "Steve Gravers", "species": "mutant wizard", "gender": "male", "notes": "Avatar's evil twin"},
+        {"name": "Elinore", "role": "love_interest", "voice_actor": "Jesse Welles", "species": "fairy", "gender": "female", "notes": "Princess, Avatar's love interest"},
+        {"name": "Weehawk", "role": "ally", "voice_actor": "Richard Romanus", "species": "elf", "gender": "male", "notes": "Warrior elf"},
+        {"name": "Peace (Necron 99)", "role": "ally", "voice_actor": "David Proval", "species": "robot", "gender": "male", "notes": "Reformed assassin"},
+        {"name": "President", "role": "supporting", "voice_actor": "Jim Connell", "species": "elf", "gender": "male", "notes": "Elinore's father"},
+        {"name": "Sean", "role": "minor", "voice_actor": "Mark Hamill", "species": "fairy", "gender": "male", "notes": "Captain of the guards; Hamill's film debut"},
+        {"name": "Priest", "role": "minor", "voice_actor": "Hyman Wien", "species": "elf", "gender": "male", "notes": null},
+        {"name": "Peewhittle", "role": "minor", "voice_actor": "Christopher Tayback", "species": "elf", "gender": "male", "notes": null},
+        {"name": "General", "role": "minor", "voice_actor": "Peter Hobbs", "species": "mutant", "gender": "male", "notes": null},
+        {"name": "Prostitute", "role": "minor", "voice_actor": "Tina Romanus", "species": "fairy", "gender": "female", "notes": null},
+        {"name": "Narrator", "role": "supporting", "voice_actor": "Susan Tyrrell", "species": "n/a", "gender": "female", "notes": "Uncredited"}
+      ]
+    },
+    "fire_and_ice_1983": {
+      "year": 1983,
+      "animation_type": "fully_animated",
+      "count": 14,
+      "characters": [
+        {"name": "Larn", "role": "protagonist", "voice_actor": "William Ostrander (voice), Randy Norton (model)", "species": "human", "gender": "male", "notes": "Young warrior"},
+        {"name": "Teegra", "role": "deuteragonist", "voice_actor": "Cynthia Leake", "species": "human", "gender": "female", "notes": "Princess of Fire Keep"},
+        {"name": "Darkwolf", "role": "hero", "voice_actor": "Steve Sandor", "species": "human", "gender": "male", "notes": "Mysterious warrior"},
+        {"name": "Nekron", "role": "villain", "voice_actor": "Sean Hannon", "species": "human", "gender": "male", "notes": "Ice Lord"},
+        {"name": "Queen Juliana", "role": "villain", "voice_actor": "Eileen O'Neill", "species": "human", "gender": "female", "notes": "Nekron's mother"},
+        {"name": "King Jarol", "role": "supporting", "voice_actor": "Leo Gordon", "species": "human", "gender": "male", "notes": "Teegra's father, ruler of Fire Keep"},
+        {"name": "Taro", "role": "supporting", "voice_actor": "William Ostrander", "species": "human", "gender": "male", "notes": "Teegra's brother"},
+        {"name": "Roleil", "role": "supporting", "voice_actor": "Elizabeth Lloyd Shaw", "species": "human", "gender": "female", "notes": null},
+        {"name": "Otwa", "role": "supporting", "voice_actor": "Micky Morton", "species": "human", "gender": "female", "notes": "Witch"},
+        {"name": "Monga", "role": "minor", "voice_actor": "Big Yank", "species": "human", "gender": "male", "notes": "Otwa's servant"},
+        {"name": "Pako", "role": "minor", "voice_actor": "Greg Wayne Elam", "species": "human", "gender": "male", "notes": null},
+        {"name": "Tutor", "role": "minor", "voice_actor": "Tamarah Park", "species": "human", "gender": "female", "notes": null},
+        {"name": "Subhumans", "role": "henchman", "voice_actor": "Various", "species": "subhuman", "gender": "various", "notes": "Nekron's foot soldiers"},
+        {"name": "Narrator", "role": "minor", "voice_actor": "Susan Tyrrell", "species": "n/a", "gender": "female", "notes": null}
+      ]
+    },
+    "ferngully_1992": {
+      "year": 1992,
+      "animation_type": "fully_animated",
+      "count": 14,
+      "characters": [
+        {"name": "Crysta", "role": "protagonist", "voice_actor": "Samantha Mathis", "species": "fairy", "gender": "female", "notes": "Young fairy apprentice"},
+        {"name": "Zak Young", "role": "deuteragonist", "voice_actor": "Jonathan Ward", "species": "human", "gender": "male", "notes": "Logger shrunk to fairy size"},
+        {"name": "Batty Koda", "role": "sidekick", "voice_actor": "Robin Williams", "species": "fruit bat", "gender": "male", "notes": "Traumatized lab bat; Williams' first animation role"},
+        {"name": "Hexxus", "role": "villain", "voice_actor": "Tim Curry", "species": "pollution spirit", "gender": "male", "notes": "Ancient evil entity"},
+        {"name": "Pips", "role": "ally", "voice_actor": "Christian Slater", "species": "fairy", "gender": "male", "notes": "Crysta's friend, jealous of Zak"},
+        {"name": "Magi Lune", "role": "supporting", "voice_actor": "Grace Zabriskie", "species": "fairy", "gender": "female", "notes": "Elderly fairy mentor"},
+        {"name": "Ralph", "role": "supporting", "voice_actor": "Geoffrey Blake", "species": "human", "gender": "male", "notes": "Logger"},
+        {"name": "Tony", "role": "supporting", "voice_actor": "Robert Pastorelli", "species": "human", "gender": "male", "notes": "Logger"},
+        {"name": "Stump", "role": "comic_relief", "voice_actor": "Cheech Marin", "species": "beetle", "gender": "male", "notes": "Beetle brother"},
+        {"name": "Root", "role": "comic_relief", "voice_actor": "Tommy Chong", "species": "beetle", "gender": "male", "notes": "Beetle brother; Cheech & Chong reunion"},
+        {"name": "Goanna", "role": "supporting", "voice_actor": "Tone Loc", "species": "goanna (lizard)", "gender": "male", "notes": null},
+        {"name": "Elder #1", "role": "minor", "voice_actor": "Kathleen Freeman", "species": "fairy", "gender": "female", "notes": null},
+        {"name": "Elder #2", "role": "minor", "voice_actor": "Naomi Lewis", "species": "fairy", "gender": "female", "notes": null},
+        {"name": "Ash", "role": "minor", "voice_actor": "Danny Mann", "species": "beetle", "gender": "male", "notes": null}
+      ]
+    },
+    "once_upon_a_forest_1993": {
+      "year": 1993,
+      "animation_type": "fully_animated",
+      "count": 12,
+      "characters": [
+        {"name": "Cornelius", "role": "protagonist", "voice_actor": "Michael Crawford", "species": "badger", "gender": "male", "notes": "Elderly teacher"},
+        {"name": "Abigail", "role": "deuteragonist", "voice_actor": "Ellen Blain", "species": "wood mouse", "gender": "female", "notes": "Resourceful Furling"},
+        {"name": "Edgar", "role": "ally", "voice_actor": "Benji Gregory", "species": "mole", "gender": "male", "notes": "Inventive Furling"},
+        {"name": "Russell", "role": "ally", "voice_actor": "Paige Gosney", "species": "hedgehog", "gender": "male", "notes": "Timid Furling"},
+        {"name": "Michelle", "role": "supporting", "voice_actor": "Elisabeth Moss", "species": "badger", "gender": "female", "notes": "Cornelius's niece, poisoned by gas"},
+        {"name": "Phineas", "role": "supporting", "voice_actor": "Ben Vereen", "species": "bird (preacher)", "gender": "male", "notes": "Gospel-singing bird"},
+        {"name": "Willy", "role": "supporting", "voice_actor": "Will Estes", "species": "bird", "gender": "male", "notes": null},
+        {"name": "Waggs", "role": "supporting", "voice_actor": "Charlie Adler", "species": "unknown", "gender": "male", "notes": null},
+        {"name": "Bosworth", "role": "minor", "voice_actor": "Rickey D'Shon Collins", "species": "animal", "gender": "male", "notes": null},
+        {"name": "Abigail's Father", "role": "minor", "voice_actor": "Paul Eiding", "species": "wood mouse", "gender": "male", "notes": null},
+        {"name": "Edgar's Mom", "role": "minor", "voice_actor": "Janet Waldo", "species": "mole", "gender": "female", "notes": null},
+        {"name": "Russell's Mom", "role": "minor", "voice_actor": "Susan Silo", "species": "hedgehog", "gender": "female", "notes": null}
+      ]
+    },
+    "the_pagemaster_1994": {
+      "year": 1994,
+      "animation_type": "hybrid",
+      "animation_percentage": 70,
+      "count": 18,
+      "characters": [
+        {"name": "Richard Tyler", "role": "protagonist", "actor": "Macaulay Culkin", "voice_actor": "Macaulay Culkin", "species": "human", "gender": "male", "character_type": "hybrid", "notes": "Fearful boy; live-action and animated"},
+        {"name": "Adventure", "role": "ally", "actor": null, "voice_actor": "Patrick Stewart", "species": "book", "gender": "male", "character_type": "animated", "notes": "Swashbuckling pirate book"},
+        {"name": "Fantasy", "role": "ally", "actor": null, "voice_actor": "Whoopi Goldberg", "species": "book", "gender": "female", "character_type": "animated", "notes": "Fairy tale book"},
+        {"name": "Horror", "role": "ally", "actor": null, "voice_actor": "Frank Welker", "species": "book", "gender": "male", "character_type": "animated", "notes": "Hunchback book"},
+        {"name": "Mr. Dewey/The Pagemaster", "role": "supporting", "actor": "Christopher Lloyd", "voice_actor": "Christopher Lloyd", "species": "human/magical entity", "gender": "male", "character_type": "hybrid", "notes": "Librarian; live-action and animated"},
+        {"name": "Dr. Jekyll/Mr. Hyde", "role": "antagonist", "actor": null, "voice_actor": "Leonard Nimoy", "species": "human", "gender": "male", "character_type": "animated", "notes": "Classic literary villain"},
+        {"name": "Long John Silver", "role": "antagonist", "actor": null, "voice_actor": "Jim Cummings", "species": "human", "gender": "male", "character_type": "animated", "notes": "Pirate captain"},
+        {"name": "Captain Ahab", "role": "antagonist", "actor": null, "voice_actor": "George Hearn", "species": "human", "gender": "male", "character_type": "animated", "notes": "Moby Dick character"},
+        {"name": "Dragon", "role": "antagonist", "actor": null, "voice_actor": "Frank Welker", "species": "dragon", "gender": "male", "character_type": "animated", "notes": "Final boss"},
+        {"name": "Alan Tyler", "role": "supporting", "actor": "Ed Begley Jr.", "voice_actor": null, "species": "human", "gender": "male", "character_type": "live_action", "notes": "Richard's father"},
+        {"name": "Claire Tyler", "role": "supporting", "actor": "Mel Harris", "voice_actor": null, "species": "human", "gender": "female", "character_type": "live_action", "notes": "Richard's mother"},
+        {"name": "George Merry", "role": "minor", "actor": null, "voice_actor": "Ed Gilbert", "species": "human", "gender": "male", "character_type": "animated", "notes": "Pirate"},
+        {"name": "Tom Morgan", "role": "minor", "actor": null, "voice_actor": "B.J. Ward", "species": "human", "gender": "male", "character_type": "animated", "notes": "Pirate"},
+        {"name": "Queen of Hearts", "role": "minor", "actor": null, "voice_actor": null, "species": "human", "gender": "female", "character_type": "animated", "notes": "Alice in Wonderland character"},
+        {"name": "Neighborhood Kid 1", "role": "minor", "actor": "Kanin Howell", "voice_actor": null, "species": "human", "gender": "male", "character_type": "live_action", "notes": null},
+        {"name": "Neighborhood Kid 2", "role": "minor", "actor": "Alexis Kirschner", "voice_actor": null, "species": "human", "gender": "female", "character_type": "live_action", "notes": null},
+        {"name": "Neighborhood Kid 3", "role": "minor", "actor": "Jessica Kirschner", "voice_actor": null, "species": "human", "gender": "female", "character_type": "live_action", "notes": null},
+        {"name": "Moby Dick", "role": "minor", "actor": null, "voice_actor": null, "species": "whale", "gender": "male", "character_type": "animated", "notes": "Non-speaking"}
+      ]
+    },
+    "ferngully_2_1998": {
+      "year": 1998,
+      "animation_type": "fully_animated",
+      "count": 15,
+      "characters": [
+        {"name": "Crysta", "role": "protagonist", "voice_actor": "Laura Erlich", "species": "fairy", "gender": "female", "notes": "New voice cast"},
+        {"name": "Pips", "role": "deuteragonist", "voice_actor": "Digory Oaks", "species": "fairy", "gender": "male", "notes": "Takes hero role in sequel"},
+        {"name": "Batty Koda", "role": "sidekick", "voice_actor": "Matt K. Miller", "species": "fruit bat", "gender": "male", "notes": "Robin Williams not returning"},
+        {"name": "Budgie", "role": "ally", "voice_actor": "Connie Champagne", "species": "human", "gender": "female", "notes": "Human girl who helps the fairies"},
+        {"name": "Boss", "role": "villain", "voice_actor": "Harry Joseph", "species": "human", "gender": "male", "notes": "Poacher leader"},
+        {"name": "Mac", "role": "henchman", "voice_actor": "Gary Martin", "species": "human", "gender": "male", "notes": "Poacher"},
+        {"name": "Stump", "role": "comic_relief", "voice_actor": "Erik Bergmann", "species": "beetle", "gender": "male", "notes": "Returning character, new voice"},
+        {"name": "Root", "role": "comic_relief", "voice_actor": "James S. Baker", "species": "beetle", "gender": "male", "notes": "Returning character, new voice"},
+        {"name": "Bark", "role": "ally", "voice_actor": "K.T. Vogt", "species": "fairy", "gender": "male", "notes": null},
+        {"name": "Twig", "role": "supporting", "voice_actor": "J.F. Rockstar", "species": "baby animal", "gender": "male", "notes": "Captured baby"},
+        {"name": "Wal", "role": "minor", "voice_actor": "K.T. Vogt", "species": "baby animal", "gender": "male", "notes": "Captured baby"},
+        {"name": "Nugget", "role": "minor", "voice_actor": "Holly Conner", "species": "human", "gender": "male", "notes": "Poacher"},
+        {"name": "Bandy", "role": "minor", "voice_actor": "Holly Conner", "species": "baby animal", "gender": "male", "notes": null},
+        {"name": "Mr. Chuckles", "role": "minor", "voice_actor": "Westin Peace", "species": "animal", "gender": "male", "notes": null},
+        {"name": "Goanna", "role": "supporting", "voice_actor": "Gary Martin", "species": "goanna (lizard)", "gender": "male", "notes": "Returning character, new voice"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Second most important character",
+    "hero": "Primary force for good (if distinct from protagonist)",
+    "villain": "Primary antagonist/evil force",
+    "antagonist": "Opposes protagonist (not necessarily evil)",
+    "henchman": "Serves the villain",
+    "ally": "Helps protagonist, not central to plot",
+    "sidekick": "Constant companion to main character",
+    "love_interest": "Romantic focus for a main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "schema_extensions": {
+    "hybrid_films": {
+      "actor": "Live-action performer (nullable)",
+      "voice_actor": "Voice performer (nullable)", 
+      "character_type": "'live_action' | 'animated' | 'hybrid'"
+    }
+  },
+  "notes": {
+    "distribution_note": "These films were produced by third parties but distributed by 20th Century Fox",
+    "disney_ownership": "Disney acquired distribution rights via 2019 Fox acquisition",
+    "production_studios": {
+      "hugo_the_hippo": "Pannónia Filmstúdió (Hungary) / Brut Productions",
+      "wizards": "Bakshi Productions",
+      "fire_and_ice": "Bakshi Productions / Frazetta",
+      "ferngully": "Kroyer Films / Youngheart Productions / FAI Films",
+      "once_upon_a_forest": "Hanna-Barbera",
+      "the_pagemaster": "Turner Pictures / Hanna-Barbera",
+      "ferngully_2": "Wild Brain Productions"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "franchise": "The Sword in the Stone",
+  "films": [
+    "The Sword in the Stone (1963)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "sword_in_the_stone_1963": {
+      "year": 1963,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Arthur / Wart",
+          "role": "protagonist",
+          "voice_actor": "Rickie Sorensen, Richard Reitherman, Robert Reitherman",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Merlin",
+          "role": "mentor",
+          "voice_actor": "Karl Swenson",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Archimedes",
+          "role": "sidekick",
+          "voice_actor": "Junius Matthews",
+          "notes": "Merlin's owl",
+          "species": "owl",
+          "gender": "male"
+        },
+        {
+          "name": "Madam Mim",
+          "role": "villain",
+          "voice_actor": "Martha Wentworth",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Sir Ector",
+          "role": "antagonist",
+          "voice_actor": "Sebastian Cabot",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sir Kay",
+          "role": "antagonist",
+          "voice_actor": "Norman Alden",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sir Pellinore",
+          "role": "comic_relief",
+          "voice_actor": "Alan Napier",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Girl Squirrel",
+          "role": "supporting",
+          "voice_actor": "Ginny Tyler",
+          "notes": "Falls in love with Wart-squirrel",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Old Lady Squirrel",
+          "role": "comic_relief",
+          "voice_actor": "Martha Wentworth",
+          "notes": "Pursues Merlin-squirrel",
+          "species": "dog",
+          "gender": "female"
+        },
+        {
+          "name": "The Pike",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Giant fish",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Hawk",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Attacks Wart as bird",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Wolf",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Recurring predator",
+          "species": "wolf",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Scullery Maid",
+          "role": "minor",
+          "voice_actor": "Barbara Jo Allen",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Black Bart",
+          "role": "minor",
+          "voice_actor": "Thurl Ravenscroft",
+          "notes": "Sir Ector's hawk",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Narrator",
+          "role": "narrator",
+          "voice_actor": "Sebastian Cabot",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

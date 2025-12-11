@@ -1,0 +1,90 @@
+{
+  "studio": "Fox Animation Studios",
+  "parent_company": "20th Century Animation (Disney-owned)",
+  "films": ["Anastasia (1997)", "Bartok the Magnificent (1999)", "Titan A.E. (2000)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 45,
+  "categories": {
+    "anastasia_1997": {
+      "year": 1997,
+      "count": 15,
+      "characters": [
+        {"name": "Anastasia/Anya", "role": "protagonist", "voice_actor": "Meg Ryan (speaking), Liz Callaway (singing)", "species": "human", "gender": "female", "notes": "Amnesiac Russian princess"},
+        {"name": "Dimitri", "role": "deuteragonist", "voice_actor": "John Cusack (speaking), Jonathan Dokuchitz (singing)", "species": "human", "gender": "male", "notes": "Con artist turned hero"},
+        {"name": "Vladimir", "role": "ally", "voice_actor": "Kelsey Grammer", "species": "human", "gender": "male", "notes": "Former Russian aristocrat"},
+        {"name": "Grigori Rasputin", "role": "villain", "voice_actor": "Christopher Lloyd (speaking), Jim Cummings (singing)", "species": "undead human (lich)", "gender": "male", "notes": "Evil sorcerer"},
+        {"name": "Bartok", "role": "comic_relief", "voice_actor": "Hank Azaria", "species": "albino bat", "gender": "male", "notes": "Rasputin's reluctant minion"},
+        {"name": "Dowager Empress Marie", "role": "supporting", "voice_actor": "Angela Lansbury", "species": "human", "gender": "female", "notes": "Anastasia's grandmother"},
+        {"name": "Sophie", "role": "supporting", "voice_actor": "Bernadette Peters", "species": "human", "gender": "female", "notes": "Marie's lady-in-waiting"},
+        {"name": "Young Anastasia", "role": "supporting", "voice_actor": "Kirsten Dunst (speaking), Lacey Chabert (singing)", "species": "human", "gender": "female", "notes": "Anastasia as a child"},
+        {"name": "Czar Nicholas II", "role": "minor", "voice_actor": "Rick Jones", "species": "human", "gender": "male", "notes": "Anastasia's father"},
+        {"name": "Phlegmenkoff", "role": "minor", "voice_actor": "Andrea Martin", "species": "human", "gender": "female", "notes": "Orphanage caretaker"},
+        {"name": "Young Dimitri", "role": "minor", "voice_actor": "Glenn Walker Harris Jr.", "species": "human", "gender": "male", "notes": "Dimitri as a servant boy"},
+        {"name": "Czarina Alexandra", "role": "minor", "voice_actor": "Andrea Martin", "species": "human", "gender": "female", "notes": "Anastasia's mother"},
+        {"name": "Servant", "role": "minor", "voice_actor": "Rick Jones", "species": "human", "gender": "male", "notes": null},
+        {"name": "Revolutionary Soldier", "role": "minor", "voice_actor": "Rick Jones", "species": "human", "gender": "male", "notes": null},
+        {"name": "Ticket Agent", "role": "minor", "voice_actor": "Rick Jones", "species": "human", "gender": "male", "notes": null}
+      ]
+    },
+    "bartok_the_magnificent_1999": {
+      "year": 1999,
+      "count": 12,
+      "characters": [
+        {"name": "Bartok", "role": "protagonist", "voice_actor": "Hank Azaria", "species": "albino bat", "gender": "male", "notes": "Magician and con artist"},
+        {"name": "Zozi", "role": "deuteragonist", "voice_actor": "Kelsey Grammer", "species": "bear", "gender": "male", "notes": "Bartok's business partner"},
+        {"name": "Baba Yaga", "role": "ally", "voice_actor": "Andrea Martin", "species": "witch", "gender": "female", "notes": "Misunderstood witch"},
+        {"name": "Ludmilla", "role": "villain", "voice_actor": "Catherine O'Hara", "species": "human", "gender": "female", "notes": "Power-hungry regent"},
+        {"name": "The Skull", "role": "supporting", "voice_actor": "Tim Curry", "species": "skull", "gender": "male", "notes": "Baba Yaga's servant"},
+        {"name": "Piloff", "role": "supporting", "voice_actor": "Jennifer Tilly", "species": "snake", "gender": "female", "notes": "Pink snake"},
+        {"name": "Prince Ivan", "role": "supporting", "voice_actor": "Phillip Van Dyke", "species": "human", "gender": "male", "notes": "Young tsar"},
+        {"name": "Vol", "role": "henchman", "voice_actor": "Diedrich Bader", "species": "human", "gender": "male", "notes": "Ludmilla's henchman"},
+        {"name": "Oble", "role": "minor", "voice_actor": "French Stewart", "species": "human", "gender": "male", "notes": null},
+        {"name": "Little Girl", "role": "minor", "voice_actor": "Kelly Marie Berger", "species": "human", "gender": "female", "notes": null},
+        {"name": "Little Boy", "role": "minor", "voice_actor": "Zachary Charles", "species": "human", "gender": "male", "notes": null},
+        {"name": "Townspeople", "role": "minor", "voice_actor": "Glenn Shadix", "species": "human", "gender": "various", "notes": null}
+      ]
+    },
+    "titan_ae_2000": {
+      "year": 2000,
+      "count": 18,
+      "characters": [
+        {"name": "Cale Tucker", "role": "protagonist", "voice_actor": "Matt Damon", "species": "human", "gender": "male", "notes": "Young survivor of Earth's destruction"},
+        {"name": "Akima Kunimoto", "role": "deuteragonist", "voice_actor": "Drew Barrymore", "species": "human", "gender": "female", "notes": "Pilot and Cale's love interest"},
+        {"name": "Captain Joseph Korso", "role": "antagonist", "voice_actor": "Bill Pullman", "species": "human", "gender": "male", "notes": "Morally ambiguous captain"},
+        {"name": "Preed", "role": "villain", "voice_actor": "Nathan Lane", "species": "akrennian", "gender": "male", "notes": "Traitorous first mate"},
+        {"name": "Gune", "role": "ally", "voice_actor": "John Leguizamo", "species": "grepoan", "gender": "male", "notes": "Eccentric scientist"},
+        {"name": "Stith", "role": "ally", "voice_actor": "Janeane Garofalo", "species": "mantrin", "gender": "female", "notes": "Weapons expert"},
+        {"name": "Professor Sam Tucker", "role": "supporting", "voice_actor": "Ron Perlman", "species": "human", "gender": "male", "notes": "Cale's father, Titan creator"},
+        {"name": "Young Cale", "role": "supporting", "voice_actor": "Alex D. Linz", "species": "human", "gender": "male", "notes": "Cale as a child"},
+        {"name": "Tek", "role": "supporting", "voice_actor": "Tone Loc", "species": "alien", "gender": "male", "notes": "Old family friend"},
+        {"name": "The Cook", "role": "comic_relief", "voice_actor": "Jim Breuer", "species": "human", "gender": "male", "notes": null},
+        {"name": "Queen Drej", "role": "villain", "voice_actor": "Christopher Scarabosio", "species": "drej", "gender": "female", "notes": "Leader of the Drej"},
+        {"name": "Chowquin", "role": "minor", "voice_actor": "Jim Cummings", "species": "alien", "gender": "male", "notes": null},
+        {"name": "Firrikash", "role": "minor", "voice_actor": "Charles Rocket", "species": "alien", "gender": "male", "notes": null},
+        {"name": "Po", "role": "minor", "voice_actor": "Ken Hudson Campbell", "species": "alien", "gender": "male", "notes": null},
+        {"name": "Old Woman", "role": "minor", "voice_actor": "Tsai Chin", "species": "human", "gender": "female", "notes": null},
+        {"name": "Drifter Girl", "role": "minor", "voice_actor": "Crystal Scales", "species": "human", "gender": "female", "notes": null},
+        {"name": "Mayor of New Bangkok", "role": "minor", "voice_actor": "David L. Lander", "species": "alien", "gender": "male", "notes": null},
+        {"name": "First Alien", "role": "minor", "voice_actor": "Roger L. Jackson", "species": "alien", "gender": "male", "notes": null}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Second most important character",
+    "hero": "Primary force for good (if distinct from protagonist)",
+    "villain": "Primary antagonist/evil force",
+    "antagonist": "Opposes protagonist (not necessarily evil)",
+    "henchman": "Serves the villain",
+    "ally": "Helps protagonist, not central to plot",
+    "sidekick": "Constant companion to main character",
+    "love_interest": "Romantic focus for a main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "studio_history": "Fox Animation Studios operated 1994-2000, produced 3 films before closure",
+    "disney_ownership": "Disney acquired Fox assets in 2019"
+  }
+}

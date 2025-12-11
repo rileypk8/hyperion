@@ -1,0 +1,31 @@
+{
+  "film": "The Jungle Book 2",
+  "studio": "DisneyToon Studios",
+  "year": 2003,
+  "release_type": "theatrical",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 11,
+  "characters": [
+    {"name": "Mowgli", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Haley Joel Osment"},
+    {"name": "Baloo", "role": "deuteragonist", "species": "bear", "gender": "male", "voice_actor": "John Goodman"},
+    {"name": "Shere Khan", "role": "villain", "species": "tiger", "gender": "male", "voice_actor": "Tony Jay"},
+    {"name": "Shanti", "role": "love_interest", "species": "human", "gender": "female", "voice_actor": "Mae Whitman"},
+    {"name": "Bagheera", "role": "ally", "species": "panther", "gender": "male", "voice_actor": "Bob Joles"},
+    {"name": "Kaa", "role": "antagonist", "species": "python", "gender": "male", "voice_actor": "Jim Cummings"},
+    {"name": "Ranjan", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Connor Funk"},
+    {"name": "Mowgli's Adopted Father", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "John Rhys-Davies"},
+    {"name": "Colonel Hathi", "role": "minor", "species": "elephant", "gender": "male", "voice_actor": "Jim Cummings"},
+    {"name": "Lucky", "role": "minor", "species": "vulture", "gender": "male", "voice_actor": "Phil Collins"},
+    {"name": "The Vultures", "role": "minor", "species": "vulture", "gender": "male", "voice_actor": "Various"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "antagonist": "Character opposing protagonist",
+    "love_interest": "Romantic interest",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  }
+}

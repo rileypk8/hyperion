@@ -1,0 +1,194 @@
+{
+  "franchise": "Hercules",
+  "films": [
+    "Hercules (1997)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 22,
+  "categories": {
+    "hercules_1997": {
+      "year": 1997,
+      "count": 22,
+      "characters": [
+        {
+          "name": "Hercules",
+          "role": "protagonist",
+          "voice_actor": "Tate Donovan, Roger Bart (singing), Josh Keaton (teen)",
+          "species": "demigod",
+          "gender": "male"
+        },
+        {
+          "name": "Megara (Meg)",
+          "role": "love_interest",
+          "voice_actor": "Susan Egan",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Hades",
+          "role": "villain",
+          "voice_actor": "James Woods",
+          "species": "god",
+          "gender": "male"
+        },
+        {
+          "name": "Philoctetes (Phil)",
+          "role": "mentor",
+          "voice_actor": "Danny DeVito",
+          "species": "satyr",
+          "gender": "male"
+        },
+        {
+          "name": "Zeus",
+          "role": "supporting",
+          "voice_actor": "Rip Torn",
+          "species": "god",
+          "gender": "male"
+        },
+        {
+          "name": "Hera",
+          "role": "supporting",
+          "voice_actor": "Samantha Eggar",
+          "species": "god",
+          "gender": "female"
+        },
+        {
+          "name": "Pain",
+          "role": "henchman",
+          "voice_actor": "Bobcat Goldthwait",
+          "species": "demon",
+          "gender": "male"
+        },
+        {
+          "name": "Panic",
+          "role": "henchman",
+          "voice_actor": "Matt Frewer",
+          "species": "demon",
+          "gender": "male"
+        },
+        {
+          "name": "Pegasus",
+          "role": "sidekick",
+          "voice_actor": "Frank Welker",
+          "notes": "Non-speaking, horse sounds",
+          "species": "pegasus",
+          "gender": "male"
+        },
+        {
+          "name": "Amphitryon",
+          "role": "supporting",
+          "voice_actor": "Hal Holbrook",
+          "notes": "Hercules's adoptive father",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Alcmene",
+          "role": "supporting",
+          "voice_actor": "Barbara Barrie",
+          "notes": "Hercules's adoptive mother",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Muses",
+          "role": "narrator",
+          "voice_actor": "Lillias White, Van\u00e9ese Thomas, Cheryl Freeman, LaChanze, Roz Ryan",
+          "species": "muse",
+          "gender": "female"
+        },
+        {
+          "name": "Hermes",
+          "role": "comic_relief",
+          "voice_actor": "Paul Shaffer",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Hydra",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Non-speaking monster",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Titans",
+          "role": "antagonist",
+          "voice_actor": "various",
+          "notes": "Rock, Ice, Lava, Wind Titans",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Nessus",
+          "role": "antagonist",
+          "voice_actor": "Jim Cummings",
+          "notes": "River centaur",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Fates",
+          "role": "supporting",
+          "voice_actor": "Amanda Plummer, Carole Shelley, Paddi Edwards",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Demetrius",
+          "role": "minor",
+          "voice_actor": "Wayne Knight",
+          "notes": "Pottery merchant",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Apollo",
+          "role": "minor",
+          "voice_actor": "Keith David",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Aphrodite",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Cerberus",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Three-headed dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Teenage Girls",
+          "role": "comic_relief",
+          "voice_actor": "various",
+          "notes": "Hercules's fans",
+          "species": "human",
+          "gender": "female"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

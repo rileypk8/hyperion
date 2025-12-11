@@ -1,0 +1,257 @@
+{
+  "franchise": "Frozen",
+  "films": [
+    "Frozen (2013)",
+    "Frozen II (2019)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 30,
+  "categories": {
+    "frozen_2013": {
+      "year": 2013,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Elsa",
+          "role": "deuteragonist",
+          "voice_actor": "Idina Menzel",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Anna",
+          "role": "protagonist",
+          "voice_actor": "Kristen Bell",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Kristoff",
+          "role": "ally",
+          "voice_actor": "Jonathan Groff",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Olaf",
+          "role": "sidekick",
+          "voice_actor": "Josh Gad",
+          "species": "snowman",
+          "gender": "male"
+        },
+        {
+          "name": "Hans",
+          "role": "villain",
+          "voice_actor": "Santino Fontana",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sven",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Reindeer, non-speaking",
+          "species": "reindeer",
+          "gender": "male"
+        },
+        {
+          "name": "The Duke of Weselton",
+          "role": "antagonist",
+          "voice_actor": "Alan Tudyk",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Pabbie (Grand Pabbie)",
+          "role": "mentor",
+          "voice_actor": "Ciar\u00e1n Hinds",
+          "species": "troll",
+          "gender": "male"
+        },
+        {
+          "name": "Bulda",
+          "role": "comic_relief",
+          "voice_actor": "Maia Wilson",
+          "species": "troll",
+          "gender": "female"
+        },
+        {
+          "name": "Marshmallow",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Snow monster guardian",
+          "species": "snow_monster",
+          "gender": "male"
+        },
+        {
+          "name": "Oaken",
+          "role": "comic_relief",
+          "voice_actor": "Chris Williams",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "King Agnarr",
+          "role": "supporting",
+          "voice_actor": "Maurice LaMarche",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Queen Iduna",
+          "role": "supporting",
+          "voice_actor": "Jennifer Lee",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Young Anna",
+          "role": "minor",
+          "voice_actor": "Livvy Stubenrauch, Katie Lopez (singing)",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Young Elsa",
+          "role": "minor",
+          "voice_actor": "Eva Bella, Spencer Ganus (older)",
+          "species": "human",
+          "gender": "female"
+        }
+      ]
+    },
+    "frozen_2_2019": {
+      "year": 2019,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Elsa",
+          "role": "protagonist",
+          "voice_actor": "Idina Menzel",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Anna",
+          "role": "protagonist",
+          "voice_actor": "Kristen Bell",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Kristoff",
+          "role": "supporting",
+          "voice_actor": "Jonathan Groff",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Olaf",
+          "role": "sidekick",
+          "voice_actor": "Josh Gad",
+          "species": "snowman",
+          "gender": "male"
+        },
+        {
+          "name": "Sven",
+          "role": "sidekick",
+          "voice_actor": null,
+          "species": "reindeer",
+          "gender": "male"
+        },
+        {
+          "name": "Lieutenant Mattias",
+          "role": "ally",
+          "voice_actor": "Sterling K. Brown",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Yelana",
+          "role": "supporting",
+          "voice_actor": "Martha Plimpton",
+          "notes": "Northuldra leader",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Honeymaren",
+          "role": "ally",
+          "voice_actor": "Rachel Matthews",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Ryder",
+          "role": "ally",
+          "voice_actor": "Jason Ritter",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "King Runeard",
+          "role": "villain",
+          "voice_actor": "Jeremy Sisto",
+          "notes": "Deceased grandfather",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Queen Iduna",
+          "role": "supporting",
+          "voice_actor": "Evan Rachel Wood",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "King Agnarr",
+          "role": "supporting",
+          "voice_actor": "Alfred Molina",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Bruni",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Fire spirit salamander",
+          "species": "salamander",
+          "gender": "male"
+        },
+        {
+          "name": "The Nokk",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Water spirit horse",
+          "species": "water_spirit",
+          "gender": "male"
+        },
+        {
+          "name": "The Earth Giants",
+          "role": "antagonist",
+          "voice_actor": null,
+          "species": "earth_spirit",
+          "gender": "n/a"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "source": "Loosely inspired by The Snow Queen by Hans Christian Andersen",
+    "milestone": "Highest-grossing animated film of all time (at 2013 release)"
+  }
+}

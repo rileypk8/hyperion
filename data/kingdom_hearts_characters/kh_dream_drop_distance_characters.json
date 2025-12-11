@@ -1,0 +1,386 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts 3D: Dream Drop Distance",
+  "year": 2012,
+  "platform": "Nintendo 3DS",
+  "total_estimated_characters": 55,
+  "characters": [
+    {
+      "name": "Sora",
+      "role": "protagonist",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable, taking Mark of Mastery exam"
+    },
+    {
+      "name": "Riku",
+      "role": "protagonist",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable, becomes Keyblade Master"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "ally",
+      "voice_actor": "Bret Iwan",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "supporting",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Goofy",
+      "role": "supporting",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male"
+    },
+    {
+      "name": "Yen Sid",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Fantasia",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Master Xehanort",
+      "role": "villain",
+      "voice_actor": "Leonard Nimoy",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Nimoy's final performance as Xehanort"
+    },
+    {
+      "name": "Young Xehanort",
+      "role": "villain",
+      "voice_actor": "Ben Diskin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "First appearance"
+    },
+    {
+      "name": "Xemnas",
+      "role": "villain",
+      "voice_actor": "Paul St. Peter",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Ansem, Seeker of Darkness",
+      "role": "villain",
+      "voice_actor": "Richard Epcar",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "heartless",
+      "gender": "male"
+    },
+    {
+      "name": "Xigbar",
+      "role": "villain",
+      "voice_actor": "James Patrick Stuart",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Axel / Lea",
+      "role": "ally",
+      "voice_actor": "Quinton Flynn",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Recompleted as human"
+    },
+    {
+      "name": "Kairi",
+      "role": "supporting",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Roxas",
+      "role": "supporting",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Appears in dreams"
+    },
+    {
+      "name": "Ventus",
+      "role": "supporting",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Appears in dreams"
+    },
+    {
+      "name": "Terra",
+      "role": "supporting",
+      "voice_actor": "Jason Dohring",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Aqua",
+      "role": "supporting",
+      "voice_actor": "Willa Holland",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Xion",
+      "role": "supporting",
+      "voice_actor": "Hayden Panettiere",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "replica",
+      "gender": "female",
+      "notes": "Appears in dreams"
+    },
+    {
+      "name": "Neku Sakuraba",
+      "role": "ally",
+      "voice_actor": "Jesse David Corti",
+      "origin": "twewy",
+      "origin_franchise": "The World Ends with You",
+      "species": "human",
+      "gender": "male",
+      "notes": "First TWEWY character in KH"
+    },
+    {
+      "name": "Shiki Misaki",
+      "role": "supporting",
+      "voice_actor": "Heather Hogan",
+      "origin": "twewy",
+      "origin_franchise": "The World Ends with You",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Joshua",
+      "role": "supporting",
+      "voice_actor": "Aaron Spann",
+      "origin": "twewy",
+      "origin_franchise": "The World Ends with You",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Beat",
+      "role": "supporting",
+      "voice_actor": "Crawford Wilson",
+      "origin": "twewy",
+      "origin_franchise": "The World Ends with You",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Rhyme",
+      "role": "supporting",
+      "voice_actor": "Ashley Rose",
+      "origin": "twewy",
+      "origin_franchise": "The World Ends with You",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Quasimodo",
+      "role": "ally",
+      "voice_actor": "Ari Rubin",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Esmeralda",
+      "role": "supporting",
+      "voice_actor": "Renee Faia",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Phoebus",
+      "role": "supporting",
+      "voice_actor": "Phil LaMarr",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Frollo",
+      "role": "villain",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Hugo",
+      "role": "comic_relief",
+      "voice_actor": "Jason Alexander",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "gargoyle",
+      "gender": "male"
+    },
+    {
+      "name": "Victor",
+      "role": "comic_relief",
+      "voice_actor": "Charles Kimbrough",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "gargoyle",
+      "gender": "male"
+    },
+    {
+      "name": "Laverne",
+      "role": "comic_relief",
+      "voice_actor": "April Winchell",
+      "origin": "disney",
+      "origin_franchise": "The Hunchback of Notre Dame",
+      "species": "gargoyle",
+      "gender": "female"
+    },
+    {
+      "name": "Sam Flynn",
+      "role": "ally",
+      "voice_actor": "Ross Thomas",
+      "origin": "disney",
+      "origin_franchise": "Tron: Legacy",
+      "species": "human/program",
+      "gender": "male"
+    },
+    {
+      "name": "Quorra",
+      "role": "ally",
+      "voice_actor": "Erin Cottrell",
+      "origin": "disney",
+      "origin_franchise": "Tron: Legacy",
+      "species": "ISO",
+      "gender": "female"
+    },
+    {
+      "name": "Kevin Flynn / CLU",
+      "role": "supporting",
+      "voice_actor": "Fred Tatasciore",
+      "origin": "disney",
+      "origin_franchise": "Tron: Legacy",
+      "species": "human/program",
+      "gender": "male"
+    },
+    {
+      "name": "Rinzler / Tron",
+      "role": "antagonist",
+      "voice_actor": "Fred Tatasciore",
+      "origin": "disney",
+      "origin_franchise": "Tron: Legacy",
+      "species": "program",
+      "gender": "male"
+    },
+    {
+      "name": "Pinocchio",
+      "role": "ally",
+      "voice_actor": "Elan Garfias",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "puppet",
+      "gender": "male"
+    },
+    {
+      "name": "Jiminy Cricket",
+      "role": "supporting",
+      "voice_actor": "Phil Snyder",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "cricket",
+      "gender": "male"
+    },
+    {
+      "name": "Geppetto",
+      "role": "supporting",
+      "voice_actor": "Jeff Bennett",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Blue Fairy",
+      "role": "supporting",
+      "voice_actor": "Laraine Newman",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Minnie Mouse",
+      "role": "supporting",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "female"
+    },
+    {
+      "name": "Pete (Musketeer)",
+      "role": "antagonist",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "The Three Musketeers",
+      "species": "anthropomorphic cat",
+      "gender": "male"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Party member or major helper",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role"
+  }
+}

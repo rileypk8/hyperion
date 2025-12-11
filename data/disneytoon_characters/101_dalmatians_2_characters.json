@@ -1,0 +1,30 @@
+{
+  "film": "101 Dalmatians II: Patch's London Adventure",
+  "studio": "DisneyToon Studios",
+  "year": 2002,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 12,
+  "characters": [
+    {"name": "Patch", "role": "protagonist", "species": "dalmatian", "gender": "male", "voice_actor": "Bobby Lockwood"},
+    {"name": "Thunderbolt", "role": "deuteragonist", "species": "dog (German Shepherd)", "gender": "male", "voice_actor": "Barry Bostwick"},
+    {"name": "Lil' Lightning", "role": "villain", "species": "dog", "gender": "male", "voice_actor": "Jason Alexander"},
+    {"name": "Pongo", "role": "supporting", "species": "dalmatian", "gender": "male", "voice_actor": "Kevin Schon"},
+    {"name": "Perdita", "role": "supporting", "species": "dalmatian", "gender": "female", "voice_actor": "Kath Soucie"},
+    {"name": "Cruella de Vil", "role": "villain", "species": "human", "gender": "female", "voice_actor": "Susanne Blakeslee"},
+    {"name": "Lars", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Martin Short"},
+    {"name": "Horace", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Jasper", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Maurice LaMarche"},
+    {"name": "Roger Radcliffe", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Tim Bentinck"},
+    {"name": "Anita Radcliffe", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Jodi Benson"},
+    {"name": "Nanny", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Mary MacLeod"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "henchman": "Villain's subordinate",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "franchise": "Disney Channel/XD Games (Part 2)",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Gravity Falls: Legend of the Gnome Gemulets (2015)",
+    "Wizards of Waverly Place (2009)",
+    "Camp Rock: The Final Jam (2010)",
+    "Sonny with a Chance (2010)",
+    "That's So Raven (2004)",
+    "The Suite Life of Zack & Cody: Tipton Caper (2006)",
+    "Jonas (2009)"
+  ],
+  "total_estimated_characters": 55,
+  "categories": {
+    "gravity_falls_gnome_gemulets": {
+      "year": 2015,
+      "platform": "Nintendo 3DS",
+      "developer": "Ubisoft San Francisco",
+      "game_type": "action_adventure",
+      "count": 15,
+      "characters": [
+        {"name": "Dipper Pines", "role": "protagonist", "voice_actor": "Jason Ritter", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Mabel Pines", "role": "protagonist", "voice_actor": "Kristen Schaal", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Grunkle Stan", "role": "ally", "voice_actor": "Alex Hirsch", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Soos Ramirez", "role": "ally", "voice_actor": "Alex Hirsch", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Wendy Corduroy", "role": "ally", "voice_actor": "Linda Cardellini", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Jeff", "role": "antagonist", "voice_actor": "Alex Hirsch", "species": "gnome", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Gnomes", "role": "antagonist", "voice_actor": "Various", "species": "gnome", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Bill Cipher", "role": "villain", "voice_actor": "Alex Hirsch", "species": "dream demon", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Waddles", "role": "ally", "voice_actor": "N/A", "species": "pig", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Old Man McGucket", "role": "supporting", "voice_actor": "Alex Hirsch", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Gideon Gleeful", "role": "antagonist", "voice_actor": "Thurop Van Orman", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Manotaurs", "role": "supporting", "voice_actor": "N/A", "species": "manotaur", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Multi-Bear", "role": "supporting", "voice_actor": "N/A", "species": "multi-bear", "gender": "male", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Gravity Falls Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "disney", "origin_franchise": "Gravity Falls"},
+        {"name": "Townsfolk", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Gravity Falls"}
+      ]
+    },
+    "wizards_waverly_place": {
+      "year": 2009,
+      "platform": "Nintendo DS",
+      "developer": "Disney Interactive Studios",
+      "game_type": "adventure",
+      "count": 10,
+      "characters": [
+        {"name": "Alex Russo", "role": "protagonist", "voice_actor": "N/A", "species": "human/wizard", "gender": "female", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Justin Russo", "role": "ally", "voice_actor": "N/A", "species": "human/wizard", "gender": "male", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Max Russo", "role": "ally", "voice_actor": "N/A", "species": "human/wizard", "gender": "male", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Jerry Russo", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Theresa Russo", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Harper Finkle", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Professor Crumbs", "role": "supporting", "voice_actor": "N/A", "species": "human/wizard", "gender": "male", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Magical Creatures", "role": "supporting", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"},
+        {"name": "Enemy Wizards", "role": "antagonist", "voice_actor": "N/A", "species": "human/wizard", "gender": "various", "origin": "original", "origin_franchise": "Wizards of Waverly Place (Game)"},
+        {"name": "Subway Station Characters", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Wizards of Waverly Place"}
+      ]
+    },
+    "camp_rock_final_jam": {
+      "year": 2010,
+      "platform": "Nintendo DS",
+      "developer": "Backbone Entertainment",
+      "game_type": "rhythm",
+      "count": 8,
+      "characters": [
+        {"name": "Mitchie Torres", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Shane Gray", "role": "deuteragonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Nate Gray", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Jason Gray", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Caitlyn Gellar", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Tess Tyler", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Brown Cesario", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Camp Rock"},
+        {"name": "Camp Rockers", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Camp Rock"}
+      ]
+    },
+    "thats_so_raven": {
+      "year": 2004,
+      "platform": "Game Boy Advance",
+      "developer": "Disney Interactive Studios",
+      "game_type": "adventure",
+      "count": 8,
+      "characters": [
+        {"name": "Raven Baxter", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "Chelsea Daniels", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "Eddie Thomas", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "Victor Baxter", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "Tanya Baxter", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "Cory Baxter", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "School Students", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "That's So Raven"},
+        {"name": "Vision Characters", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "That's So Raven"}
+      ]
+    },
+    "suite_life_tipton_caper": {
+      "year": 2006,
+      "platform": "Game Boy Advance/Nintendo DS",
+      "developer": "Griptonite Games",
+      "game_type": "adventure",
+      "count": 10,
+      "characters": [
+        {"name": "Zack Martin", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Cody Martin", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Maddie Fitzpatrick", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "London Tipton", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Mr. Moseby", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Carey Martin", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Esteban Ramirez", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Arwin Hawkhauser", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Hotel Guests", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "The Suite Life of Zack & Cody"},
+        {"name": "Mystery Villain", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "unknown", "origin": "original", "origin_franchise": "Tipton Caper"}
+      ]
+    },
+    "jonas_2009": {
+      "year": 2009,
+      "platform": "Nintendo DS",
+      "developer": "Disney Interactive Studios",
+      "game_type": "rhythm",
+      "count": 6,
+      "characters": [
+        {"name": "Kevin Lucas", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Jonas"},
+        {"name": "Joe Lucas", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Jonas"},
+        {"name": "Nick Lucas", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Jonas"},
+        {"name": "Macy Misa", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Jonas"},
+        {"name": "Stella Malone", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Jonas"},
+        {"name": "Fans", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Jonas"}
+      ]
+    }
+  }
+}

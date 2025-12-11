@@ -1,0 +1,64 @@
+{
+  "franchise": "The Lion King",
+  "studio": "DisneyToon Studios",
+  "films": ["The Lion King II: Simba's Pride (1998)", "The Lion King 1½ (2004)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 28,
+  "categories": {
+    "simbas_pride_1998": {
+      "year": 1998,
+      "release_type": "direct_to_video",
+      "count": 16,
+      "characters": [
+        {"name": "Kiara", "role": "protagonist", "species": "lion", "gender": "female", "voice_actor": "Neve Campbell"},
+        {"name": "Kovu", "role": "deuteragonist", "species": "lion", "gender": "male", "voice_actor": "Jason Marsden"},
+        {"name": "Simba", "role": "supporting", "species": "lion", "gender": "male", "voice_actor": "Matthew Broderick"},
+        {"name": "Zira", "role": "villain", "species": "lion", "gender": "female", "voice_actor": "Suzanne Pleshette"},
+        {"name": "Nala", "role": "supporting", "species": "lion", "gender": "female", "voice_actor": "Moira Kelly"},
+        {"name": "Timon", "role": "comic_relief", "species": "meerkat", "gender": "male", "voice_actor": "Nathan Lane"},
+        {"name": "Pumbaa", "role": "comic_relief", "species": "warthog", "gender": "male", "voice_actor": "Ernie Sabella"},
+        {"name": "Nuka", "role": "henchman", "species": "lion", "gender": "male", "voice_actor": "Andy Dick"},
+        {"name": "Vitani", "role": "henchman", "species": "lion", "gender": "female", "voice_actor": "Lacey Chabert"},
+        {"name": "Rafiki", "role": "supporting", "species": "mandrill", "gender": "male", "voice_actor": "Robert Guillaume"},
+        {"name": "Zazu", "role": "supporting", "species": "hornbill", "gender": "male", "voice_actor": "Edward Hibbert"},
+        {"name": "Young Kiara", "role": "protagonist", "species": "lion", "gender": "female", "voice_actor": "Michelle Horn"},
+        {"name": "Young Kovu", "role": "deuteragonist", "species": "lion", "gender": "male", "voice_actor": "Ryan O'Donohue"},
+        {"name": "Mufasa", "role": "minor", "species": "lion (spirit)", "gender": "male", "voice_actor": "James Earl Jones"},
+        {"name": "Outsider Lions", "role": "henchman", "species": "lion", "gender": "various", "voice_actor": "Various"},
+        {"name": "Young Vitani", "role": "minor", "species": "lion", "gender": "female", "voice_actor": "Crysta Macalush"}
+      ]
+    },
+    "lion_king_1_half_2004": {
+      "year": 2004,
+      "release_type": "direct_to_video",
+      "count": 12,
+      "characters": [
+        {"name": "Timon", "role": "protagonist", "species": "meerkat", "gender": "male", "voice_actor": "Nathan Lane"},
+        {"name": "Pumbaa", "role": "deuteragonist", "species": "warthog", "gender": "male", "voice_actor": "Ernie Sabella"},
+        {"name": "Ma", "role": "supporting", "species": "meerkat", "gender": "female", "voice_actor": "Julie Kavner"},
+        {"name": "Uncle Max", "role": "supporting", "species": "meerkat", "gender": "male", "voice_actor": "Jerry Stiller"},
+        {"name": "Simba", "role": "supporting", "species": "lion", "gender": "male", "voice_actor": "Matthew Broderick"},
+        {"name": "Rafiki", "role": "supporting", "species": "mandrill", "gender": "male", "voice_actor": "Robert Guillaume"},
+        {"name": "Shenzi", "role": "villain", "species": "hyena", "gender": "female", "voice_actor": "Whoopi Goldberg"},
+        {"name": "Banzai", "role": "villain", "species": "hyena", "gender": "male", "voice_actor": "Cheech Marin"},
+        {"name": "Ed", "role": "villain", "species": "hyena", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Nala", "role": "minor", "species": "lion", "gender": "female", "voice_actor": "Moira Kelly"},
+        {"name": "Mufasa", "role": "minor", "species": "lion", "gender": "male", "voice_actor": "James Earl Jones"},
+        {"name": "Scar", "role": "minor", "species": "lion", "gender": "male", "voice_actor": "Jim Cummings"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Villain's subordinate",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "midquel": "Lion King 1½ is a midquel/parallel story showing Timon and Pumbaa's perspective during the original film",
+    "returning_cast": "Nathan Lane, Ernie Sabella, Matthew Broderick, and Moira Kelly returned from the original"
+  }
+}

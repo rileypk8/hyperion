@@ -1,0 +1,85 @@
+{
+  "franchise": "Aladdin Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Aladdin (1993 - Genesis/SNES versions)",
+    "Aladdin in Nasira's Revenge (2000)",
+    "Disney's Aladdin Chess Adventures (1996)"
+  ],
+  "total_estimated_characters": 35,
+  "categories": {
+    "aladdin_genesis": {
+      "year": 1993,
+      "platform": "Sega Genesis",
+      "developer": "Virgin Games",
+      "game_type": "platformer",
+      "count": 15,
+      "characters": [
+        {"name": "Aladdin", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Abu", "role": "ally", "voice_actor": "N/A", "species": "monkey", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Genie", "role": "ally", "voice_actor": "N/A", "species": "genie", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Jasmine", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Jafar", "role": "villain", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Iago", "role": "antagonist", "voice_actor": "N/A", "species": "parrot", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Sultan", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Rajah", "role": "supporting", "voice_actor": "N/A", "species": "tiger", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Carpet", "role": "ally", "voice_actor": "N/A", "species": "magic carpet", "gender": "none", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Palace Guards", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Razoul", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Cave of Wonders", "role": "supporting", "voice_actor": "N/A", "species": "magical entity", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Agrabah Thieves", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Aladdin (Genesis)"},
+        {"name": "Desert Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Aladdin (Genesis)"},
+        {"name": "Snake Jafar", "role": "antagonist", "voice_actor": "N/A", "species": "snake", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"}
+      ]
+    },
+    "aladdin_snes": {
+      "year": 1993,
+      "platform": "SNES",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 12,
+      "notes": "Different game from Genesis version",
+      "characters": [
+        {"name": "Aladdin", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Abu", "role": "ally", "voice_actor": "N/A", "species": "monkey", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Genie", "role": "ally", "voice_actor": "N/A", "species": "genie", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Jasmine", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Jafar", "role": "villain", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Iago", "role": "antagonist", "voice_actor": "N/A", "species": "parrot", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Carpet", "role": "ally", "voice_actor": "N/A", "species": "magic carpet", "gender": "none", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Palace Guards", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Cave Guardians", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Aladdin (SNES)"},
+        {"name": "Genie Jafar", "role": "antagonist", "voice_actor": "N/A", "species": "genie", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Marketplace Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Aladdin (SNES)"},
+        {"name": "Pyramid Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Aladdin (SNES)"}
+      ]
+    },
+    "nasiras_revenge": {
+      "year": 2000,
+      "platform": "PlayStation/PC",
+      "developer": "Argonaut Games",
+      "game_type": "action_adventure",
+      "count": 18,
+      "characters": [
+        {"name": "Aladdin", "role": "protagonist", "voice_actor": "Scott Weinger", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Abu", "role": "ally", "voice_actor": "Frank Welker", "species": "monkey", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Jasmine", "role": "protagonist", "voice_actor": "Linda Larkin", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Aladdin", "notes": "Playable character"},
+        {"name": "Genie", "role": "ally", "voice_actor": "Dan Castellaneta", "species": "genie", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Carpet", "role": "ally", "voice_actor": "N/A", "species": "magic carpet", "gender": "none", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Iago", "role": "ally", "voice_actor": "Gilbert Gottfried", "species": "parrot", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Sultan", "role": "supporting", "voice_actor": "Val Bettin", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Rajah", "role": "supporting", "voice_actor": "Frank Welker", "species": "tiger", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Nasira", "role": "villain", "voice_actor": "Jodi Benson", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Nasira's Revenge", "notes": "Jafar's twin sister"},
+        {"name": "Jafar (Spirit)", "role": "villain", "voice_actor": "Jonathan Freeman", "species": "spirit", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Razoul", "role": "supporting", "voice_actor": "Jim Cummings", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Palace Guards", "role": "antagonist", "voice_actor": "Various", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Aladdin"},
+        {"name": "Nasira's Minions", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Nasira's Revenge"},
+        {"name": "Anubis Warriors", "role": "antagonist", "voice_actor": "N/A", "species": "undead", "gender": "male", "origin": "original", "origin_franchise": "Nasira's Revenge"},
+        {"name": "Mummies", "role": "antagonist", "voice_actor": "N/A", "species": "undead", "gender": "various", "origin": "original", "origin_franchise": "Nasira's Revenge"},
+        {"name": "Skeleton Warriors", "role": "antagonist", "voice_actor": "N/A", "species": "undead", "gender": "various", "origin": "original", "origin_franchise": "Nasira's Revenge"},
+        {"name": "Desert Monsters", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Nasira's Revenge"},
+        {"name": "Boss Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Nasira's Revenge"}
+      ]
+    }
+  }
+}

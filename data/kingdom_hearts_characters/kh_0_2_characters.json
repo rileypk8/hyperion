@@ -1,0 +1,134 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage",
+  "year": 2017,
+  "platform": "PlayStation 4",
+  "total_estimated_characters": 15,
+  "notes": "Short episode bridging Birth by Sleep and Kingdom Hearts III. Released as part of HD 2.8 Final Chapter Prologue.",
+  "characters": [
+    {
+      "name": "Aqua",
+      "role": "protagonist",
+      "voice_actor": "Willa Holland",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Sole playable character, trapped in Realm of Darkness"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "ally",
+      "voice_actor": "Bret Iwan",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male"
+    },
+    {
+      "name": "Terra",
+      "role": "supporting",
+      "voice_actor": "Jason Dohring",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Appears in illusions/memories"
+    },
+    {
+      "name": "Ventus",
+      "role": "supporting",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Appears in illusions/memories"
+    },
+    {
+      "name": "Terra-Xehanort",
+      "role": "antagonist",
+      "voice_actor": "Richard Epcar",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Appears in flashbacks"
+    },
+    {
+      "name": "Sora",
+      "role": "supporting",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Appears in ending"
+    },
+    {
+      "name": "Riku",
+      "role": "supporting",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Appears in ending"
+    },
+    {
+      "name": "Kairi",
+      "role": "supporting",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Appears in ending"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "supporting",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male",
+      "notes": "Appears in ending"
+    },
+    {
+      "name": "Goofy",
+      "role": "supporting",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male",
+      "notes": "Appears in ending"
+    },
+    {
+      "name": "Yen Sid",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Fantasia",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Phantom Aqua",
+      "role": "antagonist",
+      "voice_actor": "Willa Holland",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "illusion",
+      "gender": "female",
+      "notes": "Dark manifestation"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Party member or major helper",
+    "supporting": "Significant but secondary role"
+  }
+}

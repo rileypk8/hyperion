@@ -1,0 +1,242 @@
+{
+  "franchise": "Rio",
+  "studio": "Blue Sky Studios",
+  "films": [
+    "Rio (2011)",
+    "Rio 2 (2014)"
+  ],
+  "characters": {
+    "main_characters": [
+      {
+        "name": "Blu",
+        "species": "Spix's macaw",
+        "gender": "Male",
+        "role": "protagonist",
+        "voice_actor": "Jesse Eisenberg",
+        "notes": "Domesticated bird from Minnesota who can't fly initially"
+      },
+      {
+        "name": "Jewel",
+        "species": "Spix's macaw",
+        "gender": "Female",
+        "role": "deuteragonist",
+        "voice_actor": "Anne Hathaway",
+        "notes": "Wild and free-spirited, Blu's love interest and later wife"
+      },
+      {
+        "name": "Linda Gunderson",
+        "species": "Human",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Leslie Mann",
+        "notes": "Blu's human owner from Minnesota"
+      },
+      {
+        "name": "Túlio Monteiro",
+        "species": "Human",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Rodrigo Santoro",
+        "notes": "Brazilian ornithologist; later Linda's husband"
+      }
+    ],
+    "bird_friends": [
+      {
+        "name": "Rafael",
+        "species": "Toco toucan",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "George Lopez",
+        "notes": "Wise mentor figure who helps Blu"
+      },
+      {
+        "name": "Nico",
+        "species": "Yellow canary",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Jamie Foxx",
+        "notes": "Loves samba; wears a bottle cap hat"
+      },
+      {
+        "name": "Pedro",
+        "species": "Red-crested cardinal",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "will.i.am",
+        "notes": "Nico's best friend"
+      },
+      {
+        "name": "Luiz",
+        "species": "Bulldog",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Tracy Morgan",
+        "notes": "Has drooling problem; helps remove Blu and Jewel's chain"
+      },
+      {
+        "name": "Eva",
+        "species": "Keel-billed toucan",
+        "gender": "Female",
+        "role": "minor",
+        "voice_actor": "Bebel Gilberto (Rio) / Rita Moreno (Rio 2)",
+        "notes": "Rafael's wife"
+      }
+    ],
+    "rio_1_villains": [
+      {
+        "name": "Nigel",
+        "species": "Sulphur-crested cockatoo",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Jemaine Clement",
+        "notes": "Former TV star, now bird smuggler's henchman"
+      },
+      {
+        "name": "Marcel",
+        "species": "Human",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Carlos Ponce",
+        "notes": "Lead smuggler who captures exotic birds"
+      },
+      {
+        "name": "Tipa",
+        "species": "Human",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Jeffrey Garcia",
+        "notes": "Heavy smuggler working for Marcel"
+      },
+      {
+        "name": "Armando",
+        "species": "Human",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Davi Vieira",
+        "notes": "Tall smuggler working for Marcel"
+      },
+      {
+        "name": "Fernando",
+        "species": "Human",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Jake T. Austin",
+        "notes": "Orphan boy who initially helps smugglers, later befriends the heroes"
+      }
+    ],
+    "rio_1_minor": [
+      {
+        "name": "Mauro",
+        "species": "Marmoset",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "N/A",
+        "notes": "Lead marmoset working for Nigel"
+      },
+      {
+        "name": "Alice",
+        "species": "Goose",
+        "gender": "Female",
+        "role": "minor",
+        "voice_actor": "Jane Lynch",
+        "notes": "Domestic goose in Minnesota"
+      },
+      {
+        "name": "Chloe",
+        "species": "Goose",
+        "gender": "Female",
+        "role": "minor",
+        "voice_actor": "Wanda Sykes",
+        "notes": "Domestic goose in Minnesota"
+      }
+    ],
+    "rio_2_new_characters": [
+      {
+        "name": "Eduardo",
+        "species": "Spix's macaw",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "Andy García",
+        "notes": "Jewel's father, leader of the Amazon tribe"
+      },
+      {
+        "name": "Roberto",
+        "species": "Spix's macaw",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "Bruno Mars",
+        "notes": "Jewel's childhood friend, Blu's rival"
+      },
+      {
+        "name": "Mimi",
+        "species": "Spix's macaw",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Rita Moreno",
+        "notes": "Jewel's aunt"
+      },
+      {
+        "name": "Gabi",
+        "species": "Poison dart frog",
+        "gender": "Female",
+        "role": "villain",
+        "voice_actor": "Kristin Chenoweth",
+        "notes": "Obsessed with Nigel"
+      },
+      {
+        "name": "Charlie",
+        "species": "Anteater",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "N/A (silent)",
+        "notes": "Works with Nigel"
+      },
+      {
+        "name": "Big Boss",
+        "species": "Human",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Miguel Ferrer",
+        "notes": "Illegal logger destroying the Amazon"
+      }
+    ],
+    "blu_and_jewel_children": [
+      {
+        "name": "Carla",
+        "species": "Spix's macaw",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Rachel Crow",
+        "notes": "Eldest daughter of Blu and Jewel; music lover"
+      },
+      {
+        "name": "Bia",
+        "species": "Spix's macaw",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Amandla Stenberg",
+        "notes": "Middle daughter; smart and studious like Blu"
+      },
+      {
+        "name": "Tiago",
+        "species": "Spix's macaw",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Pierce Gagnon",
+        "notes": "Son of Blu and Jewel; mischievous"
+      }
+    ]
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

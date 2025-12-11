@@ -1,0 +1,242 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts 358/2 Days",
+  "year": 2009,
+  "platform": "Nintendo DS",
+  "total_estimated_characters": 35,
+  "characters": [
+    {
+      "name": "Roxas",
+      "role": "protagonist",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. XIII"
+    },
+    {
+      "name": "Xion",
+      "role": "deuteragonist",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "replica",
+      "gender": "female",
+      "notes": "First appearance, No. i"
+    },
+    {
+      "name": "Axel",
+      "role": "deuteragonist",
+      "voice_actor": "Quinton Flynn",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. VIII"
+    },
+    {
+      "name": "Xemnas",
+      "role": "villain",
+      "voice_actor": "Paul St. Peter",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. I"
+    },
+    {
+      "name": "Xigbar",
+      "role": "antagonist",
+      "voice_actor": "James Patrick Stuart",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. II"
+    },
+    {
+      "name": "Xaldin",
+      "role": "antagonist",
+      "voice_actor": "David Dayan Fisher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. III"
+    },
+    {
+      "name": "Vexen",
+      "role": "antagonist",
+      "voice_actor": "Derek Stephen Prince",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. IV"
+    },
+    {
+      "name": "Lexaeus",
+      "role": "antagonist",
+      "voice_actor": "Dave Boat",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. V"
+    },
+    {
+      "name": "Zexion",
+      "role": "antagonist",
+      "voice_actor": "Vincent Corazza",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. VI"
+    },
+    {
+      "name": "Saïx",
+      "role": "antagonist",
+      "voice_actor": "Kirk Thornton",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. VII, gives missions"
+    },
+    {
+      "name": "Demyx",
+      "role": "supporting",
+      "voice_actor": "Ryan O'Donohue",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. IX"
+    },
+    {
+      "name": "Luxord",
+      "role": "supporting",
+      "voice_actor": "Robin Atkin Downes",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. X"
+    },
+    {
+      "name": "Marluxia",
+      "role": "antagonist",
+      "voice_actor": "Keith Ferguson",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male",
+      "notes": "Organization XIII No. XI"
+    },
+    {
+      "name": "Larxene",
+      "role": "antagonist",
+      "voice_actor": "Shanelle Workman",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "female",
+      "notes": "Organization XIII No. XII"
+    },
+    {
+      "name": "Riku",
+      "role": "supporting",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Sora",
+      "role": "supporting",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Sleeping, seen in memories"
+    },
+    {
+      "name": "Naminé",
+      "role": "supporting",
+      "voice_actor": "Meaghan Jette Martin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "female"
+    },
+    {
+      "name": "DiZ",
+      "role": "supporting",
+      "voice_actor": "Christopher Lee",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "supporting",
+      "voice_actor": "Wayne Allwine",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male",
+      "notes": "Allwine's final role before death"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "minor",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male",
+      "notes": "Playable in Mission Mode"
+    },
+    {
+      "name": "Goofy",
+      "role": "minor",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male",
+      "notes": "Playable in Mission Mode"
+    },
+    {
+      "name": "Pete",
+      "role": "minor",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic cat",
+      "gender": "male"
+    },
+    {
+      "name": "Maleficent",
+      "role": "minor",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

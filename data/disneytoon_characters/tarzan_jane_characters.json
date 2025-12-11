@@ -1,0 +1,31 @@
+{
+  "film": "Tarzan & Jane",
+  "studio": "DisneyToon Studios",
+  "year": 2002,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Tarzan", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Michael T. Weiss"},
+    {"name": "Jane Porter", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Olivia d'Abo"},
+    {"name": "Terk", "role": "ally", "species": "gorilla", "gender": "female", "voice_actor": "April Winchell"},
+    {"name": "Tantor", "role": "ally", "species": "elephant", "gender": "male", "voice_actor": "Jim Cummings"},
+    {"name": "Professor Archimedes Q. Porter", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Johannes Niels", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Alexis Denisof"},
+    {"name": "Merkus", "role": "villain", "species": "human", "gender": "male", "voice_actor": "David Faustino"},
+    {"name": "Robert Canler", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Mama Gunda", "role": "villain", "species": "gorilla", "gender": "female", "voice_actor": "n/a"},
+    {"name": "Kerchak", "role": "minor", "species": "gorilla", "gender": "male", "voice_actor": "n/a", "notes": "Flashback only"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "villain": "Primary antagonist",
+    "antagonist": "Character opposing protagonist",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  },
+  "notes": {
+    "anthology": "Three episodes from cancelled Tarzan TV series compiled into film"
+  }
+}

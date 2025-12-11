@@ -1,0 +1,752 @@
+{
+  "franchise": "Disney+ Animated Releases (20th Century/Fox Properties)",
+  "films": [
+    "Diary of a Wimpy Kid (2021)",
+    "Diary of a Wimpy Kid: Rodrick Rules (2022)",
+    "The Ice Age Adventures of Buck Wild (2022)",
+    "Night at the Museum: Kahmunrah Rises Again (2022)",
+    "Diary of a Wimpy Kid Christmas: Cabin Fever (2023)",
+    "Diary of a Wimpy Kid: The Last Straw (2025)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 120,
+  "production_notes": "Disney+ original animated films based on Fox/20th Century properties. Released under Walt Disney Pictures banner rather than 20th Century Studios. Animation by Bardel Entertainment (Wimpy Kid, Ice Age) and Disney Television Animation (Night at the Museum).",
+  "categories": [
+    "protagonist",
+    "family",
+    "friend",
+    "antagonist",
+    "supporting",
+    "minor"
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "family": "Family members of protagonists",
+    "friend": "Close friends and allies",
+    "antagonist": "Primary opposition or villain",
+    "supporting": "Named characters with significant screen time",
+    "minor": "Named characters with limited appearances"
+  },
+  "film_data": {
+    "diary_of_a_wimpy_kid_2021": {
+      "title": "Diary of a Wimpy Kid",
+      "year": 2021,
+      "animation_studio": "Bardel Entertainment",
+      "distributor": "Walt Disney Pictures",
+      "runtime": "56 minutes",
+      "based_on": "Diary of a Wimpy Kid (Book 1) by Jeff Kinney",
+      "characters": [
+        {
+          "name": "Greg Heffley",
+          "role": "protagonist",
+          "voice_actor": "Brady Noon",
+          "species": "human",
+          "gender": "male",
+          "notes": "Ambitious middle schooler with dreams of fame"
+        },
+        {
+          "name": "Rowley Jefferson",
+          "role": "friend",
+          "voice_actor": "Ethan William Childress",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's best friend, more kindhearted and innocent"
+        },
+        {
+          "name": "Frank Heffley",
+          "role": "family",
+          "voice_actor": "Chris Diamantopoulos",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's father, disapproves of video games"
+        },
+        {
+          "name": "Susan Heffley",
+          "role": "family",
+          "voice_actor": "Erica Cerra",
+          "species": "human",
+          "gender": "female",
+          "notes": "Greg's mother"
+        },
+        {
+          "name": "Rodrick Heffley",
+          "role": "family",
+          "voice_actor": "Hunter Dillon",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's older brother, loves to torment him"
+        },
+        {
+          "name": "Manny Heffley",
+          "role": "family",
+          "voice_actor": "Gracen Newton",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's younger brother"
+        },
+        {
+          "name": "Fregley",
+          "role": "supporting",
+          "voice_actor": "Christian Convery",
+          "species": "human",
+          "gender": "male",
+          "notes": "Weird classmate"
+        },
+        {
+          "name": "Chirag Gupta",
+          "role": "supporting",
+          "voice_actor": "Veda Maharaj",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's classmate"
+        },
+        {
+          "name": "Homeroom Teacher",
+          "role": "minor",
+          "voice_actor": "Lossen Chambers",
+          "species": "human",
+          "gender": "female",
+          "notes": "Fears Greg will be as bad as Rodrick"
+        }
+      ]
+    },
+    "diary_of_a_wimpy_kid_rodrick_rules_2022": {
+      "title": "Diary of a Wimpy Kid: Rodrick Rules",
+      "year": 2022,
+      "animation_studio": "Bardel Entertainment",
+      "distributor": "Walt Disney Pictures",
+      "runtime": "74 minutes",
+      "based_on": "Diary of a Wimpy Kid: Rodrick Rules (Book 2) by Jeff Kinney",
+      "characters": [
+        {
+          "name": "Greg Heffley",
+          "role": "protagonist",
+          "voice_actor": "Brady Noon",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns from first film"
+        },
+        {
+          "name": "Rodrick Heffley",
+          "role": "family",
+          "voice_actor": "Hunter Dillon",
+          "species": "human",
+          "gender": "male",
+          "notes": "Central focus of this installment; plays in band Löded Diper"
+        },
+        {
+          "name": "Rowley Jefferson",
+          "role": "friend",
+          "voice_actor": "Ethan William Childress",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's best friend"
+        },
+        {
+          "name": "Frank Heffley",
+          "role": "family",
+          "voice_actor": "Chris Diamantopoulos",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's father"
+        },
+        {
+          "name": "Susan Heffley",
+          "role": "family",
+          "voice_actor": "Erica Cerra",
+          "species": "human",
+          "gender": "female",
+          "notes": "Greg's mother"
+        },
+        {
+          "name": "Manny Heffley",
+          "role": "family",
+          "voice_actor": "Gracen Newton",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's younger brother"
+        },
+        {
+          "name": "Grandpa Heffley",
+          "role": "family",
+          "voice_actor": "Ed Asner",
+          "species": "human",
+          "gender": "male",
+          "notes": "Posthumous performance; Ed Asner died August 2021"
+        },
+        {
+          "name": "Fregley",
+          "role": "supporting",
+          "voice_actor": "Christian Convery",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns from first film"
+        },
+        {
+          "name": "Chirag Gupta",
+          "role": "supporting",
+          "voice_actor": "Veda Maharaj",
+          "species": "human",
+          "gender": "male",
+          "notes": "Greg's classmate"
+        },
+        {
+          "name": "Holly Hills",
+          "role": "supporting",
+          "voice_actor": "Kimberly-Ann Truong",
+          "species": "human",
+          "gender": "female",
+          "notes": "Greg's school crush"
+        },
+        {
+          "name": "Bill Walter",
+          "role": "supporting",
+          "voice_actor": "Robbie Daymond",
+          "species": "human",
+          "gender": "male",
+          "notes": "Supporting character"
+        }
+      ]
+    },
+    "ice_age_adventures_of_buck_wild_2022": {
+      "title": "The Ice Age Adventures of Buck Wild",
+      "year": 2022,
+      "animation_studio": "Bardel Entertainment",
+      "distributor": "Walt Disney Pictures",
+      "runtime": "82 minutes",
+      "based_on": "Ice Age franchise spin-off",
+      "production_notes": "First Ice Age film not produced by Blue Sky Studios (closed April 2021). Simon Pegg is only returning voice actor from theatrical films.",
+      "characters": [
+        {
+          "name": "Buck Wild",
+          "role": "protagonist",
+          "voice_actor": "Simon Pegg",
+          "species": "weasel",
+          "gender": "male",
+          "notes": "Only original cast member to return; one-eyed adventurer first introduced in Dawn of the Dinosaurs"
+        },
+        {
+          "name": "Crash",
+          "role": "protagonist",
+          "voice_actor": "Vincent Tong",
+          "species": "opossum",
+          "gender": "male",
+          "notes": "Ellie's adopted brother; originally voiced by Seann William Scott"
+        },
+        {
+          "name": "Eddie",
+          "role": "protagonist",
+          "voice_actor": "Aaron Harris",
+          "species": "opossum",
+          "gender": "male",
+          "notes": "Crash's twin brother; originally voiced by Josh Peck; Harris's film debut"
+        },
+        {
+          "name": "Orson",
+          "role": "antagonist",
+          "voice_actor": "Utkarsh Ambudkar",
+          "species": "protoceratops",
+          "gender": "male",
+          "notes": "New villain; wants to take over the Lost World with his raptors"
+        },
+        {
+          "name": "Zee",
+          "role": "friend",
+          "voice_actor": "Justina Machado",
+          "species": "zorilla",
+          "gender": "female",
+          "notes": "New character; Buck's old friend often mistaken for a skunk"
+        },
+        {
+          "name": "Manny",
+          "role": "supporting",
+          "voice_actor": "Sean Kenin Elias-Reyes",
+          "species": "mammoth",
+          "gender": "male",
+          "notes": "Recast; originally voiced by Ray Romano"
+        },
+        {
+          "name": "Ellie",
+          "role": "supporting",
+          "voice_actor": "Dominique Jennings",
+          "species": "mammoth",
+          "gender": "female",
+          "notes": "Recast; originally voiced by Queen Latifah; narrator of the film"
+        },
+        {
+          "name": "Sid",
+          "role": "supporting",
+          "voice_actor": "Jake Green",
+          "species": "sloth",
+          "gender": "male",
+          "notes": "Recast; originally voiced by John Leguizamo"
+        },
+        {
+          "name": "Diego",
+          "role": "supporting",
+          "voice_actor": "Skyler Stone",
+          "species": "saber-toothed tiger",
+          "gender": "male",
+          "notes": "Recast; originally voiced by Denis Leary"
+        },
+        {
+          "name": "Momma Dino",
+          "role": "supporting",
+          "voice_actor": null,
+          "species": "tyrannosaurus rex",
+          "gender": "female",
+          "notes": "Non-speaking; Buck's nemesis from Dawn of the Dinosaurs"
+        },
+        {
+          "name": "Penelope",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "pterodactyl",
+          "gender": "female",
+          "notes": "Buck's flying companion"
+        }
+      ]
+    },
+    "night_at_the_museum_kahmunrah_rises_again_2022": {
+      "title": "Night at the Museum: Kahmunrah Rises Again",
+      "year": 2022,
+      "animation_studio": "Disney Television Animation",
+      "distributor": "Walt Disney Pictures",
+      "runtime": "77 minutes",
+      "based_on": "Night at the Museum franchise",
+      "production_notes": "First traditionally animated (2D) Disney film since Winnie the Pooh (2011). Directed by Matt Danner (Legend of the Three Caballeros).",
+      "characters": [
+        {
+          "name": "Nick Daley",
+          "role": "protagonist",
+          "voice_actor": "Joshua Bassett",
+          "species": "human",
+          "gender": "male",
+          "notes": "Larry's teenage son; new protagonist taking over as night watchman"
+        },
+        {
+          "name": "Larry Daley",
+          "role": "family",
+          "voice_actor": "Zachary Levi",
+          "species": "human",
+          "gender": "male",
+          "notes": "Recast; originally played by Ben Stiller in live-action films"
+        },
+        {
+          "name": "Laaa",
+          "role": "supporting",
+          "voice_actor": "Zachary Levi",
+          "species": "caveman",
+          "gender": "male",
+          "notes": "Larry's Neanderthal doppelganger; also voiced by Levi"
+        },
+        {
+          "name": "Kahmunrah",
+          "role": "antagonist",
+          "voice_actor": "Joseph Kamal",
+          "species": "human (mummy)",
+          "gender": "male",
+          "notes": "Recast; originally played by Hank Azaria; Ahkmenrah's villainous older brother"
+        },
+        {
+          "name": "Theodore Roosevelt",
+          "role": "supporting",
+          "voice_actor": "Thomas Lennon",
+          "species": "wax figure",
+          "gender": "male",
+          "notes": "Recast; originally played by the late Robin Williams"
+        },
+        {
+          "name": "Joan of Arc",
+          "role": "friend",
+          "voice_actor": "Alice Isaaz",
+          "species": "wax figure",
+          "gender": "female",
+          "notes": "New character; has visions that help Nick"
+        },
+        {
+          "name": "Jedediah",
+          "role": "supporting",
+          "voice_actor": "Jack Whitehall",
+          "species": "miniature (diorama)",
+          "gender": "male",
+          "notes": "Recast; originally voiced by Owen Wilson; cowboy from Old West diorama"
+        },
+        {
+          "name": "Octavius",
+          "role": "supporting",
+          "voice_actor": "Steve Zahn",
+          "species": "miniature (diorama)",
+          "gender": "male",
+          "notes": "Recast; originally voiced by Steve Coogan; Roman general"
+        },
+        {
+          "name": "Sacagawea",
+          "role": "supporting",
+          "voice_actor": "Kieran Sequoia",
+          "species": "wax figure",
+          "gender": "female",
+          "notes": "Recast; originally played by Mizuo Peck"
+        },
+        {
+          "name": "Attila the Hun",
+          "role": "supporting",
+          "voice_actor": "Alexander Salamat",
+          "species": "wax figure",
+          "gender": "male",
+          "notes": "Recast; originally played by Patrick Gallagher"
+        },
+        {
+          "name": "Seth",
+          "role": "antagonist",
+          "voice_actor": "Akmal Saleh",
+          "species": "deity",
+          "gender": "male",
+          "notes": "Egyptian God of Chaos; helps Kahmunrah"
+        },
+        {
+          "name": "Erica Daley",
+          "role": "family",
+          "voice_actor": "Gillian Jacobs",
+          "species": "human",
+          "gender": "female",
+          "notes": "Recast; originally played by Kim Raver; Nick's mother"
+        },
+        {
+          "name": "Dr. McPhee",
+          "role": "supporting",
+          "voice_actor": "Jamie Demetriou",
+          "species": "human",
+          "gender": "male",
+          "notes": "Recast; originally played by Ricky Gervais"
+        },
+        {
+          "name": "Ahkmenrah",
+          "role": "supporting",
+          "voice_actor": "Bowen Yang",
+          "species": "human (mummy)",
+          "gender": "male",
+          "notes": "Recast; originally played by Rami Malek; good pharaoh brother"
+        },
+        {
+          "name": "George Washington",
+          "role": "minor",
+          "voice_actor": "Chris Parnell",
+          "species": "painting figure",
+          "gender": "male",
+          "notes": "Appears from 'Washington Crossing the Delaware' painting"
+        },
+        {
+          "name": "Dexter",
+          "role": "supporting",
+          "voice_actor": "Dee Bradley Baker",
+          "species": "capuchin monkey",
+          "gender": "male",
+          "notes": "Originally portrayed by Crystal the Monkey"
+        },
+        {
+          "name": "Moai (Easter Island Head)",
+          "role": "minor",
+          "voice_actor": "Kelemete Misipeka",
+          "species": "statue",
+          "gender": "male",
+          "notes": "Recast; originally voiced by Brad Garrett"
+        },
+        {
+          "name": "Merenkahre",
+          "role": "minor",
+          "voice_actor": "Jonathan Roumie",
+          "species": "human (mummy)",
+          "gender": "male",
+          "notes": "Recast; originally played by Ben Kingsley; Kahmunrah's father"
+        },
+        {
+          "name": "Ra",
+          "role": "minor",
+          "voice_actor": "Zeeko Zaki",
+          "species": "deity",
+          "gender": "male",
+          "notes": "Egyptian Sun God"
+        },
+        {
+          "name": "Ms. Montefusco",
+          "role": "supporting",
+          "voice_actor": "Lidia Porto",
+          "species": "human",
+          "gender": "female",
+          "notes": "Nick's teacher who sees promise in him"
+        },
+        {
+          "name": "Mia",
+          "role": "minor",
+          "voice_actor": "Shelby Simmons",
+          "species": "human",
+          "gender": "female",
+          "notes": "Nick's school crush"
+        },
+        {
+          "name": "Rexy",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "tyrannosaurus rex skeleton",
+          "gender": "female",
+          "notes": "Non-speaking; guards the museum"
+        }
+      ]
+    },
+    "diary_of_a_wimpy_kid_christmas_cabin_fever_2023": {
+      "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+      "year": 2023,
+      "animation_studio": "Bardel Entertainment",
+      "distributor": "Walt Disney Pictures",
+      "runtime": "64 minutes",
+      "based_on": "Diary of a Wimpy Kid: Cabin Fever (Book 6) by Jeff Kinney",
+      "characters": [
+        {
+          "name": "Greg Heffley",
+          "role": "protagonist",
+          "voice_actor": "Wesley Kimmel",
+          "species": "human",
+          "gender": "male",
+          "notes": "New voice actor replacing Brady Noon"
+        },
+        {
+          "name": "Rowley Jefferson",
+          "role": "friend",
+          "voice_actor": "Spencer Howell",
+          "species": "human",
+          "gender": "male",
+          "notes": "New voice actor replacing Ethan William Childress"
+        },
+        {
+          "name": "Frank Heffley",
+          "role": "family",
+          "voice_actor": "Chris Diamantopoulos",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns; monitors family during snowstorm"
+        },
+        {
+          "name": "Susan Heffley",
+          "role": "family",
+          "voice_actor": "Erica Cerra",
+          "species": "human",
+          "gender": "female",
+          "notes": "Returns from previous films"
+        },
+        {
+          "name": "Rodrick Heffley",
+          "role": "family",
+          "voice_actor": "Hunter Dillon",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns from previous films"
+        },
+        {
+          "name": "Manny Heffley",
+          "role": "family",
+          "voice_actor": "Gracen Newton",
+          "species": "human",
+          "gender": "male",
+          "notes": "Hoards supplies during the blizzard"
+        },
+        {
+          "name": "Fregley",
+          "role": "supporting",
+          "voice_actor": "Christian Convery",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns from previous films"
+        },
+        {
+          "name": "Officer Vasquez",
+          "role": "supporting",
+          "voice_actor": "Gabriel Iglesias",
+          "species": "human",
+          "gender": "male",
+          "notes": "Police officer investigating snowplow damage"
+        },
+        {
+          "name": "Officer Leonard",
+          "role": "supporting",
+          "voice_actor": "Ego Nwodim",
+          "species": "human",
+          "gender": "female",
+          "notes": "Police officer"
+        },
+        {
+          "name": "Gabby",
+          "role": "supporting",
+          "voice_actor": "Lisa Ann Walter",
+          "species": "human",
+          "gender": "female",
+          "notes": "Supporting character"
+        },
+        {
+          "name": "Prison Guard",
+          "role": "minor",
+          "voice_actor": "Windham Rotunda",
+          "species": "human",
+          "gender": "male",
+          "notes": "Only film role for WWE wrestler Bray Wyatt; died August 2023 before release"
+        },
+        {
+          "name": "Mr. Jefferson",
+          "role": "minor",
+          "voice_actor": "Randy Pearlstein",
+          "species": "human",
+          "gender": "male",
+          "notes": "Rowley's father"
+        },
+        {
+          "name": "Nutcracker",
+          "role": "minor",
+          "voice_actor": "Anthony Parnther",
+          "species": "object (animated)",
+          "gender": "male",
+          "notes": "Holiday decoration character"
+        }
+      ]
+    },
+    "diary_of_a_wimpy_kid_the_last_straw_2025": {
+      "title": "Diary of a Wimpy Kid: The Last Straw",
+      "year": 2025,
+      "animation_studio": "Bardel Entertainment",
+      "distributor": "Walt Disney Pictures",
+      "runtime": "TBD",
+      "release_date": "December 5, 2025",
+      "based_on": "Diary of a Wimpy Kid: The Last Straw (Book 3) by Jeff Kinney",
+      "production_notes": "Fourth animated film but adapts third book. Delayed from original plans due to 2023 SAG-AFTRA strikes. Directed by Matt Danner (Night at the Museum: Kahmunrah Rises Again).",
+      "characters": [
+        {
+          "name": "Greg Heffley",
+          "role": "protagonist",
+          "voice_actor": "Aaron D. Harris",
+          "species": "human",
+          "gender": "male",
+          "notes": "New voice actor (third actor to voice animated Greg)"
+        },
+        {
+          "name": "Rowley Jefferson",
+          "role": "friend",
+          "voice_actor": "Jude Zarzaur",
+          "species": "human",
+          "gender": "male",
+          "notes": "New voice actor (third actor to voice animated Rowley)"
+        },
+        {
+          "name": "Frank Heffley",
+          "role": "family",
+          "voice_actor": "Chris Diamantopoulos",
+          "species": "human",
+          "gender": "male",
+          "notes": "Central role; threatens to send Greg to military school"
+        },
+        {
+          "name": "Susan Heffley",
+          "role": "family",
+          "voice_actor": "Erica Cerra",
+          "species": "human",
+          "gender": "female",
+          "notes": "Returns from previous films"
+        },
+        {
+          "name": "Rodrick Heffley",
+          "role": "family",
+          "voice_actor": "Hunter Dillon",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns from previous films"
+        },
+        {
+          "name": "Manny Heffley",
+          "role": "family",
+          "voice_actor": "Gracen Newton",
+          "species": "human",
+          "gender": "male",
+          "notes": "Returns from previous films"
+        },
+        {
+          "name": "Mrs. Canfield",
+          "role": "supporting",
+          "voice_actor": "Jill Basey",
+          "species": "human",
+          "gender": "female",
+          "notes": "Adult supporting character"
+        },
+        {
+          "name": "Mr. Warren",
+          "role": "supporting",
+          "voice_actor": "Bashir Salahuddin",
+          "species": "human",
+          "gender": "male",
+          "notes": "Adult supporting character"
+        },
+        {
+          "name": "Troopmaster Barrett",
+          "role": "supporting",
+          "voice_actor": "William Stanford Davis",
+          "species": "human",
+          "gender": "male",
+          "notes": "Scout master at wilderness camp"
+        },
+        {
+          "name": "Lenwood",
+          "role": "supporting",
+          "voice_actor": "Jabari Banks",
+          "species": "human",
+          "gender": "male",
+          "notes": "Supporting character"
+        },
+        {
+          "name": "Mrs. Winsky",
+          "role": "minor",
+          "voice_actor": "Punam Patel",
+          "species": "human",
+          "gender": "female",
+          "notes": "Adult character"
+        },
+        {
+          "name": "Mr. Hills",
+          "role": "minor",
+          "voice_actor": "Brian Stepanek",
+          "species": "human",
+          "gender": "male",
+          "notes": "Holly's father"
+        },
+        {
+          "name": "Hildegard Hills",
+          "role": "minor",
+          "voice_actor": "Jessica DiCicco",
+          "species": "human",
+          "gender": "female",
+          "notes": "Holly's mother"
+        },
+        {
+          "name": "Holly Hills",
+          "role": "supporting",
+          "voice_actor": "Lila Bahng",
+          "species": "human",
+          "gender": "female",
+          "notes": "Greg's crush; talent show subplot"
+        },
+        {
+          "name": "Mr. Gupta",
+          "role": "minor",
+          "voice_actor": "Sanjay Rao",
+          "species": "human",
+          "gender": "male",
+          "notes": "Chirag's father"
+        },
+        {
+          "name": "Mr. Jefferson",
+          "role": "minor",
+          "voice_actor": "Randy Pearlstein",
+          "species": "human",
+          "gender": "male",
+          "notes": "Rowley's father; returns from Cabin Fever"
+        }
+      ]
+    }
+  }
+}

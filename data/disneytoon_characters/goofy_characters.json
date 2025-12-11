@@ -1,0 +1,65 @@
+{
+  "franchise": "Goofy",
+  "studio": "DisneyToon Studios",
+  "films": ["A Goofy Movie (1995)", "An Extremely Goofy Movie (2000)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 26,
+  "categories": {
+    "goofy_movie_1995": {
+      "year": 1995,
+      "release_type": "theatrical",
+      "count": 14,
+      "characters": [
+        {"name": "Goofy", "role": "protagonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Max Goof", "role": "deuteragonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Jason Marsden"},
+        {"name": "Roxanne", "role": "love_interest", "species": "dog (anthropomorphic)", "gender": "female", "voice_actor": "Kellie Martin"},
+        {"name": "P.J. Pete", "role": "ally", "species": "cat (anthropomorphic)", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Pete", "role": "antagonist", "species": "cat (anthropomorphic)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Powerline", "role": "supporting", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Tevin Campbell"},
+        {"name": "Bobby", "role": "comic_relief", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Pauly Shore"},
+        {"name": "Stacey", "role": "supporting", "species": "dog (anthropomorphic)", "gender": "female", "voice_actor": "Jenna von Oy"},
+        {"name": "Principal Mazur", "role": "minor", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Wallace Shawn"},
+        {"name": "Bigfoot", "role": "minor", "species": "bigfoot", "gender": "male", "voice_actor": "Frank Welker"},
+        {"name": "Lester", "role": "minor", "species": "possum", "gender": "male", "voice_actor": "Pat Buttram"},
+        {"name": "Peg Pete", "role": "minor", "species": "cat (anthropomorphic)", "gender": "female", "voice_actor": "April Winchell"},
+        {"name": "Pistol Pete", "role": "minor", "species": "cat (anthropomorphic)", "gender": "female", "voice_actor": "Nancy Cartwright"},
+        {"name": "Waitress", "role": "minor", "species": "various", "gender": "female", "voice_actor": "Julie Brown"}
+      ]
+    },
+    "extremely_goofy_movie_2000": {
+      "year": 2000,
+      "release_type": "direct_to_video",
+      "count": 12,
+      "characters": [
+        {"name": "Goofy", "role": "protagonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Max Goof", "role": "deuteragonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Jason Marsden"},
+        {"name": "P.J. Pete", "role": "ally", "species": "cat (anthropomorphic)", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Bobby", "role": "ally", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Pauly Shore"},
+        {"name": "Bradley Uppercrust III", "role": "villain", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Sylvia Marpole", "role": "love_interest", "species": "dog (anthropomorphic)", "gender": "female", "voice_actor": "Bebe Neuwirth"},
+        {"name": "Tank", "role": "henchman", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Brad Garrett"},
+        {"name": "Pete", "role": "antagonist", "species": "cat (anthropomorphic)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Beret Girl", "role": "love_interest", "species": "dog (anthropomorphic)", "gender": "female", "voice_actor": "Vicki Lewis"},
+        {"name": "Dean", "role": "supporting", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Jess Harnell"},
+        {"name": "Chuck the Sportscaster", "role": "minor", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Gamma Mu Mu Fraternity", "role": "minor", "species": "various", "gender": "male", "voice_actor": "Various"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "antagonist": "Character opposing protagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "love_interest": "Romantic interest",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "goof_troop": "Both films are continuations of the Goof Troop TV series (1992-1993)",
+    "theatrical": "A Goofy Movie was the only theatrical release, receiving a 53 Metascore"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "franchise": "The Adventures of Ichabod and Mr. Toad",
+  "films": [
+    "The Adventures of Ichabod and Mr. Toad (1949)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "ichabod_mr_toad_1949": {
+      "year": 1949,
+      "count": 18,
+      "characters": [
+        {
+          "name": "J. Thaddeus Toad",
+          "role": "protagonist",
+          "voice_actor": "Eric Blore",
+          "notes": "The Wind in the Willows segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Ratty (Water Rat)",
+          "role": "deuteragonist",
+          "voice_actor": "Claude Allister",
+          "notes": "Wind in the Willows",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Moley (Mole)",
+          "role": "sidekick",
+          "voice_actor": "Colin Campbell",
+          "notes": "Wind in the Willows",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Angus MacBadger",
+          "role": "supporting",
+          "voice_actor": "Campbell Grant",
+          "notes": "Wind in the Willows",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Cyril Proudbottom",
+          "role": "sidekick",
+          "voice_actor": "J. Pat O'Malley",
+          "notes": "Toad's horse friend",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mr. Winkie",
+          "role": "villain",
+          "voice_actor": "Ollie Wallace",
+          "notes": "Tavern owner, Wind in the Willows",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Weasels",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Winkie's gang",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Prosecutor",
+          "role": "antagonist",
+          "voice_actor": "John Ployardt",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Judge",
+          "role": "supporting",
+          "voice_actor": "Leslie Denison",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Basil Rathbone",
+          "role": "narrator",
+          "voice_actor": "Basil Rathbone",
+          "notes": "Wind in the Willows narrator",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Ichabod Crane",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Non-speaking, Legend of Sleepy Hollow",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Katrina Van Tassel",
+          "role": "love_interest",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Brom Bones",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Rival, possibly the Horseman",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Headless Horseman",
+          "role": "villain",
+          "voice_actor": null,
+          "notes": "May be Brom Bones in disguise",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Baltus Van Tassel",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Katrina's father",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Gunpowder",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Ichabod's horse",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Tilda",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "One of Ichabod's students",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Bing Crosby",
+          "role": "narrator",
+          "voice_actor": "Bing Crosby",
+          "notes": "Sleepy Hollow narrator/singer",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "format": "Two-segment package film",
+    "segments": [
+      "The Wind in the Willows",
+      "The Legend of Sleepy Hollow"
+    ],
+    "based_on": [
+      "The Wind in the Willows by Kenneth Grahame",
+      "The Legend of Sleepy Hollow by Washington Irving"
+    ]
+  }
+}

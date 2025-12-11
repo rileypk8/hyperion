@@ -1,0 +1,172 @@
+{
+  "franchise": "The Little Mermaid",
+  "films": [
+    "The Little Mermaid (1989)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 20,
+  "categories": {
+    "little_mermaid_1989": {
+      "year": 1989,
+      "count": 20,
+      "characters": [
+        {
+          "name": "Ariel",
+          "role": "protagonist",
+          "voice_actor": "Jodi Benson",
+          "species": "mermaid",
+          "gender": "female"
+        },
+        {
+          "name": "Prince Eric",
+          "role": "love_interest",
+          "voice_actor": "Christopher Daniel Barnes",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Ursula",
+          "role": "villain",
+          "voice_actor": "Pat Carroll",
+          "species": "cecaelia",
+          "gender": "female"
+        },
+        {
+          "name": "Sebastian",
+          "role": "deuteragonist",
+          "voice_actor": "Samuel E. Wright",
+          "species": "crab",
+          "gender": "male"
+        },
+        {
+          "name": "Flounder",
+          "role": "sidekick",
+          "voice_actor": "Jason Marin",
+          "species": "fish",
+          "gender": "male"
+        },
+        {
+          "name": "Scuttle",
+          "role": "comic_relief",
+          "voice_actor": "Buddy Hackett",
+          "species": "seagull",
+          "gender": "male"
+        },
+        {
+          "name": "King Triton",
+          "role": "supporting",
+          "voice_actor": "Kenneth Mars",
+          "species": "merman",
+          "gender": "male"
+        },
+        {
+          "name": "Flotsam and Jetsam",
+          "role": "henchman",
+          "voice_actor": "Paddi Edwards",
+          "notes": "Ursula's eels",
+          "species": "eel",
+          "gender": "male"
+        },
+        {
+          "name": "Grimsby",
+          "role": "supporting",
+          "voice_actor": "Ben Wright",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Max",
+          "role": "ally",
+          "voice_actor": "Frank Welker",
+          "notes": "Eric's sheepdog",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Chef Louis",
+          "role": "comic_relief",
+          "voice_actor": "Ren\u00e9 Auberjonois",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Carlotta",
+          "role": "supporting",
+          "voice_actor": "Edie McClurg",
+          "notes": "Palace maid",
+          "species": "robot",
+          "gender": "male"
+        },
+        {
+          "name": "Ariel's Sisters",
+          "role": "supporting",
+          "voice_actor": "various",
+          "notes": "Aquata, Andrina, Arista, Attina, Adella, Alana",
+          "species": "mermaid",
+          "gender": "female"
+        },
+        {
+          "name": "The Sailors",
+          "role": "minor",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Vanessa",
+          "role": "villain",
+          "voice_actor": "Jodi Benson",
+          "notes": "Ursula's human disguise",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Wedding Priest",
+          "role": "minor",
+          "voice_actor": "Will Ryan",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Glut",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Shark, non-speaking",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Harold the Seahorse",
+          "role": "minor",
+          "voice_actor": "Will Ryan",
+          "species": "horse",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Seagulls",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "Started the Disney Renaissance era"
+  }
+}

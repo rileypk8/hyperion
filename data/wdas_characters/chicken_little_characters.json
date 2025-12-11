@@ -1,0 +1,165 @@
+{
+  "franchise": "Chicken Little",
+  "films": [
+    "Chicken Little (2005)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "chicken_little_2005": {
+      "year": 2005,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Chicken Little",
+          "role": "protagonist",
+          "voice_actor": "Zach Braff",
+          "species": "chicken",
+          "gender": "male"
+        },
+        {
+          "name": "Abby Mallard (Ugly Duckling)",
+          "role": "love_interest",
+          "voice_actor": "Joan Cusack",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Runt of the Litter",
+          "role": "sidekick",
+          "voice_actor": "Steve Zahn",
+          "species": "pig",
+          "gender": "male"
+        },
+        {
+          "name": "Fish Out of Water",
+          "role": "sidekick",
+          "voice_actor": "Dan Molina",
+          "notes": "Communicates via pantomime",
+          "species": "fish",
+          "gender": "male"
+        },
+        {
+          "name": "Buck Cluck",
+          "role": "supporting",
+          "voice_actor": "Garry Marshall",
+          "notes": "Chicken Little's father",
+          "species": "chicken",
+          "gender": "male"
+        },
+        {
+          "name": "Foxy Loxy",
+          "role": "antagonist",
+          "voice_actor": "Amy Sedaris",
+          "species": "fox",
+          "gender": "female"
+        },
+        {
+          "name": "Goosey Loosey",
+          "role": "antagonist",
+          "voice_actor": "Mark Walton",
+          "species": "goose",
+          "gender": "female"
+        },
+        {
+          "name": "Mayor Turkey Lurkey",
+          "role": "supporting",
+          "voice_actor": "Don Knotts",
+          "species": "turkey",
+          "gender": "male"
+        },
+        {
+          "name": "Mr. Woolensworth",
+          "role": "minor",
+          "voice_actor": "Patrick Stewart",
+          "notes": "Sheep teacher",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Kirby",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Alien child",
+          "species": "alien",
+          "gender": "male"
+        },
+        {
+          "name": "Melvin (Kirby's Father)",
+          "role": "supporting",
+          "voice_actor": "Fred Willard",
+          "species": "alien",
+          "gender": "male"
+        },
+        {
+          "name": "Tina (Kirby's Mother)",
+          "role": "supporting",
+          "voice_actor": "Catherine O'Hara",
+          "species": "alien",
+          "gender": "male"
+        },
+        {
+          "name": "Coach",
+          "role": "minor",
+          "voice_actor": "Wallace Shawn",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Morkubine Porcupine",
+          "role": "minor",
+          "voice_actor": "Mark Dindal",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Dog Announcer",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "species": "dog",
+          "gender": "unknown"
+        },
+        {
+          "name": "Hollywood Chicken Little",
+          "role": "minor",
+          "voice_actor": "Adam West",
+          "notes": "Movie version",
+          "species": "chicken",
+          "gender": "male"
+        },
+        {
+          "name": "Chloe Cluck",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Chicken Little's deceased mother",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Principal Fetchit",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "First fully CGI Walt Disney Animation Studios feature film"
+  }
+}

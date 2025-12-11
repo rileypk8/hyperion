@@ -1,0 +1,73 @@
+{
+  "franchise": "Lilo & Stitch",
+  "studio": "DisneyToon Studios",
+  "films": ["Stitch! The Movie (2003)", "Lilo & Stitch 2: Stitch Has a Glitch (2005)", "Leroy & Stitch (2006)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 30,
+  "categories": {
+    "stitch_the_movie_2003": {
+      "year": 2003,
+      "release_type": "direct_to_video",
+      "count": 10,
+      "characters": [
+        {"name": "Lilo Pelekai", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Daveigh Chase"},
+        {"name": "Stitch (Experiment 626)", "role": "protagonist", "species": "alien experiment", "gender": "male", "voice_actor": "Chris Sanders"},
+        {"name": "Dr. Jumba Jookiba", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "David Ogden Stiers"},
+        {"name": "Pleakley", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "Kevin McDonald"},
+        {"name": "Nani Pelekai", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Tia Carrere"},
+        {"name": "Gantu", "role": "villain", "species": "alien", "gender": "male", "voice_actor": "Kevin Michael Richardson"},
+        {"name": "Dr. Hämsterviel", "role": "villain", "species": "alien", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Experiment 625 (Reuben)", "role": "henchman", "species": "alien experiment", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Grand Councilwoman", "role": "supporting", "species": "alien", "gender": "female", "voice_actor": "Zoe Caldwell"},
+        {"name": "David Kawena", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jason Scott Lee"}
+      ]
+    },
+    "stitch_has_a_glitch_2005": {
+      "year": 2005,
+      "release_type": "direct_to_video",
+      "count": 10,
+      "characters": [
+        {"name": "Lilo Pelekai", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Dakota Fanning"},
+        {"name": "Stitch (Experiment 626)", "role": "protagonist", "species": "alien experiment", "gender": "male", "voice_actor": "Chris Sanders"},
+        {"name": "Dr. Jumba Jookiba", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "David Ogden Stiers"},
+        {"name": "Pleakley", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "Kevin McDonald"},
+        {"name": "Nani Pelekai", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Tia Carrere"},
+        {"name": "David Kawena", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jason Scott Lee"},
+        {"name": "Mertle Edmonds", "role": "antagonist", "species": "human", "gender": "female", "voice_actor": "Liliana Mumy"},
+        {"name": "Myrtle's Posse", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Various"},
+        {"name": "Kumu", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Kunewa Mook"},
+        {"name": "Mrs. Hasagawa", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Amy Hill"}
+      ]
+    },
+    "leroy_and_stitch_2006": {
+      "year": 2006,
+      "release_type": "direct_to_video",
+      "count": 10,
+      "characters": [
+        {"name": "Lilo Pelekai", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Daveigh Chase"},
+        {"name": "Stitch (Experiment 626)", "role": "protagonist", "species": "alien experiment", "gender": "male", "voice_actor": "Chris Sanders"},
+        {"name": "Leroy", "role": "villain", "species": "alien experiment", "gender": "male", "voice_actor": "Chris Sanders"},
+        {"name": "Dr. Hämsterviel", "role": "villain", "species": "alien", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Dr. Jumba Jookiba", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "David Ogden Stiers"},
+        {"name": "Pleakley", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "Kevin McDonald"},
+        {"name": "Gantu", "role": "ally", "species": "alien", "gender": "male", "voice_actor": "Kevin Michael Richardson", "notes": "Reformed"},
+        {"name": "Experiment 625 (Reuben)", "role": "ally", "species": "alien experiment", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Grand Councilwoman", "role": "supporting", "species": "alien", "gender": "female", "voice_actor": "Zoe Caldwell"},
+        {"name": "All 625 Experiments", "role": "supporting", "species": "alien experiments", "gender": "various", "voice_actor": "Various"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Character opposing protagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "tv_series": "Stitch! The Movie serves as pilot for Lilo & Stitch: The Series; Leroy & Stitch is its finale",
+    "timeline": "Stitch Has a Glitch is set between original film and TV series"
+  }
+}

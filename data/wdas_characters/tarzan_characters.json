@@ -1,0 +1,169 @@
+{
+  "franchise": "Tarzan",
+  "films": [
+    "Tarzan (1999)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "tarzan_1999": {
+      "year": 1999,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Tarzan",
+          "role": "protagonist",
+          "voice_actor": "Tony Goldwyn, Alex D. Linz (young)",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Jane Porter",
+          "role": "love_interest",
+          "voice_actor": "Minnie Driver",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Kerchak",
+          "role": "antagonist",
+          "voice_actor": "Lance Henriksen",
+          "notes": "Gorilla leader",
+          "species": "gorilla",
+          "gender": "male"
+        },
+        {
+          "name": "Kala",
+          "role": "mentor",
+          "voice_actor": "Glenn Close",
+          "notes": "Tarzan's adoptive mother",
+          "species": "gorilla",
+          "gender": "female"
+        },
+        {
+          "name": "Terk",
+          "role": "deuteragonist",
+          "voice_actor": "Rosie O'Donnell",
+          "species": "gorilla",
+          "gender": "female"
+        },
+        {
+          "name": "Tantor",
+          "role": "sidekick",
+          "voice_actor": "Wayne Knight",
+          "species": "elephant",
+          "gender": "male"
+        },
+        {
+          "name": "Clayton",
+          "role": "villain",
+          "voice_actor": "Brian Blessed",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Professor Archimedes Q. Porter",
+          "role": "comic_relief",
+          "voice_actor": "Nigel Hawthorne",
+          "species": "owl",
+          "gender": "male"
+        },
+        {
+          "name": "Sabor",
+          "role": "antagonist",
+          "voice_actor": "Frank Welker",
+          "notes": "Leopard",
+          "species": "leopard",
+          "gender": "female"
+        },
+        {
+          "name": "Tarzan's Father",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Killed by Sabor",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tarzan's Mother",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Killed by Sabor",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Flynt",
+          "role": "minor",
+          "voice_actor": "Erik von Detten",
+          "notes": "Young gorilla",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mungo",
+          "role": "minor",
+          "voice_actor": "Jason Marsden",
+          "notes": "Young gorilla",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Gorillas",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Captain",
+          "role": "minor",
+          "voice_actor": "Taylor Dempsey",
+          "notes": "Ship captain",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "Young Tantor",
+          "role": "minor",
+          "voice_actor": "Taylor Dempsey",
+          "species": "elephant",
+          "gender": "male"
+        },
+        {
+          "name": "Kala's Baby",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Killed by Sabor",
+          "species": "gorilla",
+          "gender": "female"
+        },
+        {
+          "name": "The Baboons",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "source": "Based on Tarzan of the Apes by Edgar Rice Burroughs",
+    "milestone": "Last film of the Disney Renaissance era"
+  }
+}

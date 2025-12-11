@@ -1,0 +1,149 @@
+{
+  "franchise": "Dinosaur",
+  "films": [
+    "Dinosaur (2000)"
+  ],
+  "animation_type": "hybrid",
+  "total_estimated_characters": 15,
+  "categories": {
+    "dinosaur_2000": {
+      "year": 2000,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Aladar",
+          "role": "protagonist",
+          "voice_actor": "D.B. Sweeney",
+          "species": "iguanodon",
+          "gender": "male"
+        },
+        {
+          "name": "Neera",
+          "role": "love_interest",
+          "voice_actor": "Julianna Margulies",
+          "species": "iguanodon",
+          "gender": "female"
+        },
+        {
+          "name": "Plio",
+          "role": "mentor",
+          "voice_actor": "Alfre Woodard",
+          "notes": "Lemur matriarch",
+          "species": "lemur",
+          "gender": "female"
+        },
+        {
+          "name": "Yar",
+          "role": "supporting",
+          "voice_actor": "Ossie Davis",
+          "notes": "Lemur elder",
+          "species": "lemur",
+          "gender": "male"
+        },
+        {
+          "name": "Zini",
+          "role": "comic_relief",
+          "voice_actor": "Max Casella",
+          "notes": "Lemur",
+          "species": "lemur",
+          "gender": "male"
+        },
+        {
+          "name": "Suri",
+          "role": "supporting",
+          "voice_actor": "Hayden Panettiere",
+          "notes": "Young lemur",
+          "species": "lemur",
+          "gender": "female"
+        },
+        {
+          "name": "Kron",
+          "role": "villain",
+          "voice_actor": "Samuel E. Wright",
+          "notes": "Herd leader",
+          "species": "iguanodon",
+          "gender": "male"
+        },
+        {
+          "name": "Bruton",
+          "role": "antagonist",
+          "voice_actor": "Peter Siragusa",
+          "notes": "Kron's lieutenant, redeemed",
+          "species": "iguanodon",
+          "gender": "male"
+        },
+        {
+          "name": "Baylene",
+          "role": "ally",
+          "voice_actor": "Joan Plowright",
+          "notes": "Elderly Brachiosaurus",
+          "species": "brachiosaurus",
+          "gender": "female"
+        },
+        {
+          "name": "Eema",
+          "role": "ally",
+          "voice_actor": "Della Reese",
+          "notes": "Elderly Styracosaurus",
+          "species": "styracosaurus",
+          "gender": "female"
+        },
+        {
+          "name": "Url",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "notes": "Ankylosaur, non-speaking",
+          "species": "ankylosaur",
+          "gender": "male"
+        },
+        {
+          "name": "The Carnotaurs",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Non-speaking predators",
+          "species": "carnotaurus",
+          "gender": "male"
+        },
+        {
+          "name": "Aladar's Mother",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Iguanodon, seen at beginning",
+          "species": "iguanodon",
+          "gender": "male"
+        },
+        {
+          "name": "The Herd",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Pteranodons",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "technique": "CGI dinosaurs composited on live-action backgrounds"
+  }
+}

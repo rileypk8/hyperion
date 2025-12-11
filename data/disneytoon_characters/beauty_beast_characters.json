@@ -1,0 +1,56 @@
+{
+  "franchise": "Beauty and the Beast",
+  "studio": "DisneyToon Studios",
+  "films": ["Beauty and the Beast: The Enchanted Christmas (1997)", "Belle's Magical World (1998)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 20,
+  "categories": {
+    "enchanted_christmas_1997": {
+      "year": 1997,
+      "release_type": "direct_to_video",
+      "count": 12,
+      "characters": [
+        {"name": "Belle", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Paige O'Hara"},
+        {"name": "Beast", "role": "deuteragonist", "species": "beast/human", "gender": "male", "voice_actor": "Robby Benson"},
+        {"name": "Forte", "role": "villain", "species": "pipe organ (enchanted)", "gender": "male", "voice_actor": "Tim Curry"},
+        {"name": "Lumière", "role": "ally", "species": "candelabra (enchanted)", "gender": "male", "voice_actor": "Jerry Orbach"},
+        {"name": "Cogsworth", "role": "ally", "species": "clock (enchanted)", "gender": "male", "voice_actor": "David Ogden Stiers"},
+        {"name": "Mrs. Potts", "role": "ally", "species": "teapot (enchanted)", "gender": "female", "voice_actor": "Angela Lansbury"},
+        {"name": "Chip", "role": "ally", "species": "teacup (enchanted)", "gender": "male", "voice_actor": "Haley Joel Osment"},
+        {"name": "Fife", "role": "henchman", "species": "piccolo (enchanted)", "gender": "male", "voice_actor": "Paul Reubens"},
+        {"name": "Angelique", "role": "supporting", "species": "angel ornament (enchanted)", "gender": "female", "voice_actor": "Bernadette Peters"},
+        {"name": "Axe", "role": "minor", "species": "axe", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Philippe", "role": "minor", "species": "horse", "gender": "male", "voice_actor": "Frank Welker"},
+        {"name": "Sultan", "role": "minor", "species": "footstool (enchanted dog)", "gender": "male", "voice_actor": "Frank Welker"}
+      ]
+    },
+    "belles_magical_world_1998": {
+      "year": 1998,
+      "release_type": "direct_to_video",
+      "count": 8,
+      "characters": [
+        {"name": "Belle", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Paige O'Hara"},
+        {"name": "Beast", "role": "deuteragonist", "species": "beast/human", "gender": "male", "voice_actor": "Robby Benson"},
+        {"name": "Lumière", "role": "ally", "species": "candelabra (enchanted)", "gender": "male", "voice_actor": "Jerry Orbach"},
+        {"name": "Cogsworth", "role": "ally", "species": "clock (enchanted)", "gender": "male", "voice_actor": "David Ogden Stiers"},
+        {"name": "Mrs. Potts", "role": "ally", "species": "teapot (enchanted)", "gender": "female", "voice_actor": "Anne Rogers"},
+        {"name": "Chip", "role": "ally", "species": "teacup (enchanted)", "gender": "male", "voice_actor": "Gregory Grudt"},
+        {"name": "Webster", "role": "supporting", "species": "dictionary (enchanted)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Le Plume", "role": "supporting", "species": "quill pen (enchanted)", "gender": "male", "voice_actor": "Jeff Bennett"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "midquels": "Both films are midquels set during Belle's stay at the castle",
+    "returning_cast": "Paige O'Hara, Robby Benson, Jerry Orbach, and David Ogden Stiers returned"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts: Melody of Memory",
+  "year": 2020,
+  "platform": "PlayStation 4 / Xbox One / Nintendo Switch",
+  "total_estimated_characters": 40,
+  "notes": "Rhythm game recapping the series from Kairi's perspective. Limited new story content.",
+  "characters": [
+    {
+      "name": "Kairi",
+      "role": "protagonist",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Narrator and focus character"
+    },
+    {
+      "name": "Sora",
+      "role": "protagonist",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable in memories"
+    },
+    {
+      "name": "Riku",
+      "role": "deuteragonist",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable in memories and new content"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "ally",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male",
+      "notes": "Playable party member"
+    },
+    {
+      "name": "Goofy",
+      "role": "ally",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male",
+      "notes": "Playable party member"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "ally",
+      "voice_actor": "Bret Iwan",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male"
+    },
+    {
+      "name": "Terra",
+      "role": "supporting",
+      "voice_actor": "Jason Dohring",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable team"
+    },
+    {
+      "name": "Aqua",
+      "role": "supporting",
+      "voice_actor": "Willa Holland",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Playable team"
+    },
+    {
+      "name": "Ventus",
+      "role": "supporting",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable team"
+    },
+    {
+      "name": "Roxas",
+      "role": "supporting",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable team"
+    },
+    {
+      "name": "Xion",
+      "role": "supporting",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "replica",
+      "gender": "female",
+      "notes": "Playable team"
+    },
+    {
+      "name": "Axel / Lea",
+      "role": "supporting",
+      "voice_actor": "Quinton Flynn",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Playable team"
+    },
+    {
+      "name": "Naminé",
+      "role": "supporting",
+      "voice_actor": "Meaghan Jette Martin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "female"
+    },
+    {
+      "name": "Ansem, Seeker of Darkness",
+      "role": "antagonist",
+      "voice_actor": "Richard Epcar",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "heartless",
+      "gender": "male"
+    },
+    {
+      "name": "Master Xehanort",
+      "role": "antagonist",
+      "voice_actor": "Christopher Lloyd",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Young Xehanort",
+      "role": "antagonist",
+      "voice_actor": "Ben Diskin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Xemnas",
+      "role": "antagonist",
+      "voice_actor": "Paul St. Peter",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Yen Sid",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Fantasia",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Fairy Godmother",
+      "role": "supporting",
+      "voice_actor": "Barbara Dirickson",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Maleficent",
+      "role": "antagonist",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Pete",
+      "role": "antagonist",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic cat",
+      "gender": "male"
+    },
+    {
+      "name": "Nameless Star",
+      "role": "minor",
+      "voice_actor": "Madison Davenport",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "unknown",
+      "gender": "female",
+      "notes": "New story connection"
+    },
+    {
+      "name": "Aladdin",
+      "role": "ally",
+      "voice_actor": "Scott Weinger",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "human",
+      "gender": "male",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Ariel",
+      "role": "ally",
+      "voice_actor": "Jodi Benson",
+      "origin": "disney",
+      "origin_franchise": "The Little Mermaid",
+      "species": "mermaid",
+      "gender": "female",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Beast",
+      "role": "ally",
+      "voice_actor": "Robby Benson",
+      "origin": "disney",
+      "origin_franchise": "Beauty and the Beast",
+      "species": "cursed human",
+      "gender": "male",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Jack Skellington",
+      "role": "ally",
+      "voice_actor": "Chris Sarandon",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "skeleton",
+      "gender": "male",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Simba",
+      "role": "ally",
+      "voice_actor": "Cam Clarke",
+      "origin": "disney",
+      "origin_franchise": "The Lion King",
+      "species": "lion",
+      "gender": "male",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Hercules",
+      "role": "ally",
+      "voice_actor": "Tate Donovan",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "demigod",
+      "gender": "male",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Mulan",
+      "role": "ally",
+      "voice_actor": "Ming-Na Wen",
+      "origin": "disney",
+      "origin_franchise": "Mulan",
+      "species": "human",
+      "gender": "female",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Jack Sparrow",
+      "role": "ally",
+      "voice_actor": "Jared Butler",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "human",
+      "gender": "male",
+      "notes": "World ally in memories"
+    },
+    {
+      "name": "Tron",
+      "role": "ally",
+      "voice_actor": "Bruce Boxleitner",
+      "origin": "disney",
+      "origin_franchise": "Tron",
+      "species": "program",
+      "gender": "male",
+      "notes": "World ally in memories"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Party member or major helper",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

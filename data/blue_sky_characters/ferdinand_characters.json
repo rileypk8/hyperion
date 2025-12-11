@@ -1,0 +1,211 @@
+{
+  "franchise": "Ferdinand",
+  "studio": "Blue Sky Studios",
+  "films": [
+    "Ferdinand (2017)"
+  ],
+  "characters": {
+    "main_characters": [
+      {
+        "name": "Ferdinand",
+        "species": "Spanish Fighting Bull",
+        "gender": "Male",
+        "role": "protagonist",
+        "voice_actor": "John Cena",
+        "notes": "Gentle, flower-loving bull who refuses to fight"
+      },
+      {
+        "name": "Lupe",
+        "species": "Goat",
+        "gender": "Female",
+        "role": "sidekick",
+        "voice_actor": "Kate McKinnon",
+        "notes": "Calming goat who becomes Ferdinand's mentor and friend"
+      }
+    ],
+    "casa_del_toro_bulls": [
+      {
+        "name": "Valiente",
+        "species": "Spanish Fighting Bull",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "Bobby Cannavale",
+        "notes": "Arrogant bull who bullies Ferdinand; later becomes friend"
+      },
+      {
+        "name": "Bones",
+        "species": "Bull",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Anthony Anderson",
+        "notes": "Undersized but agile bull"
+      },
+      {
+        "name": "Guapo",
+        "species": "Spanish Fighting Bull",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Peyton Manning",
+        "notes": "Loudmouthed bull with stage fright"
+      },
+      {
+        "name": "Angus",
+        "species": "Scottish Highland Bull",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "David Tennant",
+        "notes": "Scottish bull with long hair covering his eyes"
+      },
+      {
+        "name": "Maquina",
+        "species": "Robot (mechanical bull)",
+        "gender": "N/A",
+        "role": "minor",
+        "voice_actor": "Tim Nordquist",
+        "notes": "Mechanical training bull"
+      }
+    ],
+    "german_horses": [
+      {
+        "name": "Hans",
+        "species": "Lipizzaner Horse",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Flula Borg",
+        "notes": "Snobbish horse"
+      },
+      {
+        "name": "Klaus",
+        "species": "Lipizzaner Horse",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Boris Kodjoe",
+        "notes": "Snobbish horse"
+      },
+      {
+        "name": "Greta",
+        "species": "Lipizzaner Horse",
+        "gender": "Female",
+        "role": "comic_relief",
+        "voice_actor": "Sally Phillips",
+        "notes": "Snobbish horse"
+      }
+    ],
+    "hedgehogs": [
+      {
+        "name": "Una",
+        "species": "Hedgehog",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Gina Rodriguez",
+        "notes": "Leader of the trio"
+      },
+      {
+        "name": "Dos",
+        "species": "Hedgehog",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Daveed Diggs",
+        "notes": "Una's brother"
+      },
+      {
+        "name": "Cuatro",
+        "species": "Hedgehog",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Gabriel Iglesias",
+        "notes": "Una and Dos's brother"
+      }
+    ],
+    "humans": [
+      {
+        "name": "Nina",
+        "species": "Human",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Lily Day",
+        "notes": "Ferdinand's human owner who raised him as a calf"
+      },
+      {
+        "name": "Juan",
+        "species": "Human",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Juanes",
+        "notes": "Nina's father"
+      },
+      {
+        "name": "El Primero",
+        "species": "Human",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Miguel Ángel Silvestre",
+        "notes": "Famous matador seeking Ferdinand for his final fight"
+      },
+      {
+        "name": "Moreno",
+        "species": "Human",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "Raúl Esparza",
+        "notes": "Owner of Casa del Toro"
+      }
+    ],
+    "young_characters": [
+      {
+        "name": "Young Ferdinand",
+        "species": "Spanish Fighting Bull (calf)",
+        "gender": "Male",
+        "role": "protagonist",
+        "voice_actor": "Colin H. Murphy",
+        "notes": "Ferdinand as a calf"
+      },
+      {
+        "name": "Young Valiente",
+        "species": "Spanish Fighting Bull (calf)",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "Jack Gore",
+        "notes": "Valiente as a calf"
+      },
+      {
+        "name": "Young Nina",
+        "species": "Human",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Julia Scarpa Saldanha",
+        "notes": "Nina as a child"
+      },
+      {
+        "name": "Ferdinand's Father",
+        "species": "Spanish Fighting Bull",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Jeremy Sisto",
+        "notes": "Ferdinand's father who is taken to fight"
+      }
+    ],
+    "other_animals": [
+      {
+        "name": "Paco",
+        "species": "Bull",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Jerrod Carmichael",
+        "notes": "Bull at Casa del Toro"
+      }
+    ]
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

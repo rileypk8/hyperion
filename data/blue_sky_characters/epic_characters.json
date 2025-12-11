@@ -1,0 +1,143 @@
+{
+  "franchise": "Epic",
+  "studio": "Blue Sky Studios",
+  "films": [
+    "Epic (2013)"
+  ],
+  "characters": {
+    "main_characters": [
+      {
+        "name": "Mary Katherine (M.K.)",
+        "species": "Human",
+        "gender": "Female",
+        "role": "protagonist",
+        "voice_actor": "Amanda Seyfried",
+        "notes": "17-year-old girl shrunk down and transported to the forest world"
+      },
+      {
+        "name": "Nod",
+        "species": "Leafman",
+        "gender": "Male",
+        "role": "deuteragonist",
+        "voice_actor": "Josh Hutcherson",
+        "notes": "Young, rebellious Leafman; M.K.'s love interest"
+      },
+      {
+        "name": "Ronin",
+        "species": "Leafman",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Colin Farrell",
+        "notes": "Seasoned Leafman general; leader of Queen Tara's guard"
+      },
+      {
+        "name": "Queen Tara",
+        "species": "Leafman",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Beyoncé Knowles",
+        "notes": "Queen of the forest; chooses M.K. to protect the pod"
+      }
+    ],
+    "comic_relief": [
+      {
+        "name": "Mub",
+        "species": "Slug",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Aziz Ansari",
+        "notes": "Caretaker of the pods; self-proclaimed ladies' man"
+      },
+      {
+        "name": "Grub",
+        "species": "Snail",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Chris O'Dowd",
+        "notes": "Mub's best friend and fellow pod caretaker"
+      },
+      {
+        "name": "Nim Galuu",
+        "species": "Glowworm",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Steven Tyler",
+        "notes": "Keeps magical scrolls; serves as oracle"
+      }
+    ],
+    "villains": [
+      {
+        "name": "Mandrake",
+        "species": "Boggan",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Christoph Waltz",
+        "notes": "Leader of the Boggans; wants to destroy the forest"
+      },
+      {
+        "name": "Dagda",
+        "species": "Boggan",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Blake Anderson",
+        "notes": "Mandrake's son; killed early in the film"
+      }
+    ],
+    "human_world": [
+      {
+        "name": "Professor Bomba",
+        "species": "Human",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Jason Sudeikis",
+        "notes": "M.K.'s father; eccentric scientist who studies the Leafmen"
+      },
+      {
+        "name": "Ozzy",
+        "species": "Dog (Pug)",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "N/A",
+        "notes": "M.K.'s three-legged pug"
+      }
+    ],
+    "other_characters": [
+      {
+        "name": "Bufo",
+        "species": "Toad",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Pitbull",
+        "notes": "Runs races and deals in information"
+      },
+      {
+        "name": "Finn",
+        "species": "Leafman",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Thomas F. Wilson",
+        "notes": "Second-in-command of the Leafmen"
+      },
+      {
+        "name": "Larry",
+        "species": "Human",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Judah Friedlander",
+        "notes": "Taxi driver at the beginning"
+      }
+    ]
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

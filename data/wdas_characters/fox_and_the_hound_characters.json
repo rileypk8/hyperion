@@ -1,0 +1,143 @@
+{
+  "franchise": "The Fox and the Hound",
+  "films": [
+    "The Fox and the Hound (1981)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "fox_and_the_hound_1981": {
+      "year": 1981,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Tod",
+          "role": "protagonist",
+          "voice_actor": "Keith Coogan (young), Mickey Rooney (adult)",
+          "species": "fox",
+          "gender": "male"
+        },
+        {
+          "name": "Copper",
+          "role": "deuteragonist",
+          "voice_actor": "Corey Feldman (young), Kurt Russell (adult)",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Amos Slade",
+          "role": "villain",
+          "voice_actor": "Jack Albertson",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Widow Tweed",
+          "role": "mentor",
+          "voice_actor": "Jeanette Nolan",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Big Mama",
+          "role": "mentor",
+          "voice_actor": "Pearl Bailey",
+          "notes": "Owl who looks after Tod",
+          "species": "owl",
+          "gender": "female"
+        },
+        {
+          "name": "Chief",
+          "role": "antagonist",
+          "voice_actor": "Pat Buttram",
+          "notes": "Amos's older hunting dog",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Vixey",
+          "role": "love_interest",
+          "voice_actor": "Sandy Duncan",
+          "species": "fox",
+          "gender": "female"
+        },
+        {
+          "name": "Dinky",
+          "role": "comic_relief",
+          "voice_actor": "Dick Bakalyan",
+          "notes": "Finch",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Boomer",
+          "role": "comic_relief",
+          "voice_actor": "Paul Winchell",
+          "notes": "Woodpecker",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Squeeks",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Caterpillar, non-speaking",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Bear",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Non-speaking, final threat",
+          "species": "bear",
+          "gender": "unknown"
+        },
+        {
+          "name": "Porcupine",
+          "role": "minor",
+          "voice_actor": "John McIntire",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Badger",
+          "role": "minor",
+          "voice_actor": "John Fiedler",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Tod's Mother",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Non-speaking, killed by hunter",
+          "species": "fox",
+          "gender": "male"
+        },
+        {
+          "name": "The Game Warden",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Stops Amos at reserve",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

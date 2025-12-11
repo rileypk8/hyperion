@@ -1,0 +1,203 @@
+{
+  "franchise": "The Book of Life",
+  "studio": "20th Century Animation",
+  "co_production": "Reel FX Animation Studios",
+  "films": ["The Book of Life (2014)"],
+  "total_estimated_characters": 28,
+  "categories": {
+    "book_of_life": {
+      "year": 2014,
+      "count": 28,
+      "animation_type": "CGI (3D)",
+      "characters": [
+        {
+          "name": "Manolo Sánchez",
+          "role": "protagonist",
+          "voice_actor": "Diego Luna",
+          "singing_voice": "Diego Luna",
+          "notes": "Bullfighter who wants to be a musician"
+        },
+        {
+          "name": "María Posada",
+          "role": "love_interest",
+          "voice_actor": "Zoe Saldaña",
+          "notes": "Independent woman, daughter of General Posada"
+        },
+        {
+          "name": "Joaquín Mondragon Jr.",
+          "role": "deuteragonist",
+          "voice_actor": "Channing Tatum",
+          "notes": "Town hero, Manolo's best friend and rival"
+        },
+        {
+          "name": "La Muerte",
+          "role": "supporting",
+          "voice_actor": "Kate del Castillo",
+          "notes": "Goddess ruler of Land of the Remembered"
+        },
+        {
+          "name": "Xibalba",
+          "role": "antagonist",
+          "voice_actor": "Ron Perlman",
+          "notes": "God ruler of Land of the Forgotten"
+        },
+        {
+          "name": "The Candle Maker",
+          "role": "supporting",
+          "voice_actor": "Ice Cube",
+          "notes": "Overseer of mortal lives and Book of Life"
+        },
+        {
+          "name": "Mary Beth",
+          "role": "narrator",
+          "voice_actor": "Christina Applegate",
+          "notes": "Museum tour guide who tells the story"
+        },
+        {
+          "name": "Carlos Sánchez",
+          "role": "supporting",
+          "voice_actor": "Héctor Elizondo",
+          "notes": "Manolo's father, bullfighter"
+        },
+        {
+          "name": "General Ramiro Posada",
+          "role": "supporting",
+          "voice_actor": "Carlos Alazraqui",
+          "notes": "María's father, town general"
+        },
+        {
+          "name": "Skeleton Carmen Sánchez",
+          "role": "supporting",
+          "voice_actor": "Ana de la Reguera",
+          "notes": "Manolo's deceased mother"
+        },
+        {
+          "name": "Skeleton Luis Sánchez",
+          "role": "supporting",
+          "voice_actor": "Danny Trejo",
+          "notes": "Manolo's great-great-grandfather"
+        },
+        {
+          "name": "Skeleton Jorge Sánchez",
+          "role": "supporting",
+          "voice_actor": "Plácido Domingo",
+          "notes": "Sánchez family ancestor, singer"
+        },
+        {
+          "name": "Skeleton Carmelo Sánchez",
+          "role": "minor",
+          "voice_actor": "Jorge R. Gutierrez",
+          "notes": "Director cameo as ancestor"
+        },
+        {
+          "name": "Grandma Sánchez",
+          "role": "minor",
+          "voice_actor": "Grey DeLisle-Griffin",
+          "notes": "Manolo's grandmother"
+        },
+        {
+          "name": "Pepe Rodriguez",
+          "role": "comic_relief",
+          "voice_actor": "Gabriel Iglesias",
+          "notes": "Member of the Rodriguez Brothers"
+        },
+        {
+          "name": "Pancho Rodriguez",
+          "role": "comic_relief",
+          "voice_actor": "Cheech Marin",
+          "notes": "Member of the Rodriguez Brothers"
+        },
+        {
+          "name": "Pablo Rodriguez",
+          "role": "comic_relief",
+          "voice_actor": "Ricardo 'El Mandril' Sanchez",
+          "notes": "Member of the Rodriguez Brothers"
+        },
+        {
+          "name": "Chakal",
+          "role": "villain",
+          "voice_actor": "Dan Navarro",
+          "notes": "Bandit king threatening San Angel"
+        },
+        {
+          "name": "Young Manolo",
+          "role": "minor",
+          "voice_actor": "Emil-Bastien Bouffard",
+          "singing_voice": "Joe Matthews",
+          "notes": "Young Manolo"
+        },
+        {
+          "name": "Young María",
+          "role": "minor",
+          "voice_actor": "Genesis Ochoa",
+          "notes": "Young María"
+        },
+        {
+          "name": "Young Joaquín",
+          "role": "minor",
+          "voice_actor": "Elijah Rodriguez",
+          "notes": "Young Joaquín"
+        },
+        {
+          "name": "Chuy",
+          "role": "comic_relief",
+          "voice_actor": "Carlos Alazraqui",
+          "notes": "María's pet pig"
+        },
+        {
+          "name": "Adelita Sanchez",
+          "role": "minor",
+          "voice_actor": "Sandra Equihua",
+          "notes": "Revolutionary ancestor"
+        },
+        {
+          "name": "Captain Mondragon",
+          "role": "minor",
+          "voice_actor": "Eugenio Derbez",
+          "notes": "Joaquín's deceased father"
+        },
+        {
+          "name": "La Muerte (Old Woman disguise)",
+          "role": "minor",
+          "voice_actor": "Tonita Castro",
+          "notes": "La Muerte in disguise testing Manolo"
+        },
+        {
+          "name": "Old Man Hemingway",
+          "role": "minor",
+          "voice_actor": "Troy Evans",
+          "notes": "Elderly resident of San Angel"
+        },
+        {
+          "name": "Scardelita Sánchez",
+          "role": "minor",
+          "voice_actor": "Anjelah Johnson-Reyes",
+          "notes": "Sánchez family ancestor"
+        },
+        {
+          "name": "Conductor",
+          "role": "minor",
+          "voice_actor": "Brad Booker",
+          "notes": "Train conductor to Land of Forgotten"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character",
+    "deuteragonist": "Secondary lead",
+    "love_interest": "Romantic partner",
+    "antagonist": "Character opposing protagonist",
+    "villain": "Evil character",
+    "narrator": "Tells the story",
+    "supporting": "Important secondary characters",
+    "comic_relief": "Comedic characters",
+    "minor": "Brief appearances"
+  },
+  "notes": {
+    "producer": "Guillermo del Toro",
+    "theme": "Day of the Dead, Mexican folklore",
+    "box_office": "Grossed $99.8 million worldwide",
+    "golden_globe": "Nominated for Best Animated Feature"
+  }
+}

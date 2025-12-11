@@ -1,0 +1,219 @@
+{
+  "franchise": "Zootopia",
+  "films": [
+    "Zootopia (2016)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 25,
+  "categories": {
+    "zootopia_2016": {
+      "year": 2016,
+      "count": 25,
+      "characters": [
+        {
+          "name": "Judy Hopps",
+          "role": "protagonist",
+          "voice_actor": "Ginnifer Goodwin",
+          "species": "rabbit",
+          "gender": "female"
+        },
+        {
+          "name": "Nick Wilde",
+          "role": "deuteragonist",
+          "voice_actor": "Jason Bateman",
+          "species": "fox",
+          "gender": "male"
+        },
+        {
+          "name": "Chief Bogo",
+          "role": "supporting",
+          "voice_actor": "Idris Elba",
+          "species": "buffalo",
+          "gender": "male"
+        },
+        {
+          "name": "Assistant Mayor Bellwether",
+          "role": "villain",
+          "voice_actor": "Jenny Slate",
+          "species": "sheep",
+          "gender": "female"
+        },
+        {
+          "name": "Mayor Lionheart",
+          "role": "antagonist",
+          "voice_actor": "J.K. Simmons",
+          "species": "lion",
+          "gender": "male"
+        },
+        {
+          "name": "Mr. Big",
+          "role": "supporting",
+          "voice_actor": "Maurice LaMarche",
+          "notes": "Arctic shrew crime boss",
+          "species": "shrew",
+          "gender": "male"
+        },
+        {
+          "name": "Flash",
+          "role": "comic_relief",
+          "voice_actor": "Raymond S. Persi",
+          "notes": "DMV sloth",
+          "species": "sloth",
+          "gender": "male"
+        },
+        {
+          "name": "Clawhauser",
+          "role": "comic_relief",
+          "voice_actor": "Nate Torrence",
+          "species": "cheetah",
+          "gender": "male"
+        },
+        {
+          "name": "Stu Hopps",
+          "role": "supporting",
+          "voice_actor": "Don Lake",
+          "notes": "Judy's father",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Bonnie Hopps",
+          "role": "supporting",
+          "voice_actor": "Bonnie Hunt",
+          "notes": "Judy's mother",
+          "species": "rabbit",
+          "gender": "female"
+        },
+        {
+          "name": "Finnick",
+          "role": "ally",
+          "voice_actor": "Tommy Lister",
+          "notes": "Nick's fennec fox partner",
+          "species": "fennec_fox",
+          "gender": "male"
+        },
+        {
+          "name": "Duke Weaselton",
+          "role": "minor",
+          "voice_actor": "Alan Tudyk",
+          "species": "weasel",
+          "gender": "male"
+        },
+        {
+          "name": "Yax",
+          "role": "minor",
+          "voice_actor": "Tommy Chong",
+          "notes": "Naturist yak",
+          "species": "yak",
+          "gender": "male"
+        },
+        {
+          "name": "Mrs. Otterton",
+          "role": "supporting",
+          "voice_actor": "Octavia Spencer",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Emmitt Otterton",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Missing otter",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Fru Fru",
+          "role": "minor",
+          "voice_actor": "Leah Latham",
+          "notes": "Mr. Big's daughter",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Manchas",
+          "role": "minor",
+          "voice_actor": "Jesse Corti",
+          "notes": "Limo driver jaguar",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Gideon Grey",
+          "role": "minor",
+          "voice_actor": "Phil Johnston",
+          "species": "cat",
+          "gender": "male"
+        },
+        {
+          "name": "Doug",
+          "role": "henchman",
+          "voice_actor": "Rich Moore",
+          "notes": "Night howler chemist",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Woolter and Jesse",
+          "role": "henchman",
+          "voice_actor": "John DiMaggio, various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Gazelle",
+          "role": "minor",
+          "voice_actor": "Shakira",
+          "species": "gazelle",
+          "gender": "female"
+        },
+        {
+          "name": "Peter Moosebridge",
+          "role": "minor",
+          "voice_actor": "Peter Mansbridge",
+          "notes": "News anchor",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Koslov",
+          "role": "minor",
+          "voice_actor": "John DiMaggio",
+          "notes": "Mr. Big's polar bear enforcer",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Jerry Jumbeaux Jr.",
+          "role": "minor",
+          "voice_actor": "John DiMaggio",
+          "notes": "Ice cream parlor elephant",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Priscilla",
+          "role": "minor",
+          "voice_actor": "Kristen Bell",
+          "notes": "Sloth at DMV",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

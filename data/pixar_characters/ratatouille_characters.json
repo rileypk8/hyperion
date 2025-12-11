@@ -1,0 +1,42 @@
+{
+  "franchise": "Ratatouille",
+  "films": ["Ratatouille (2007)"],
+  "total_estimated_characters": 18,
+  "categories": {
+    "ratatouille": {
+      "year": 2007,
+      "count": 18,
+      "characters": [
+        {"name": "Remy", "role": "protagonist", "species": "rat", "gender": "male", "voice_actor": "Patton Oswalt"},
+        {"name": "Alfredo Linguini", "role": "deuteragonist", "species": "human", "gender": "male", "voice_actor": "Lou Romano"},
+        {"name": "Colette Tatou", "role": "love interest", "species": "human", "gender": "female", "voice_actor": "Janeane Garofalo"},
+        {"name": "Anton Ego", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Peter O'Toole", "notes": "Redeemed"},
+        {"name": "Skinner", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Ian Holm"},
+        {"name": "Django", "role": "supporting", "species": "rat", "gender": "male", "voice_actor": "Brian Dennehy"},
+        {"name": "Emile", "role": "sidekick", "species": "rat", "gender": "male", "voice_actor": "Peter Sohn"},
+        {"name": "Auguste Gusteau", "role": "mentor", "species": "human (ghost)", "gender": "male", "voice_actor": "Brad Garrett", "notes": "Ghost/hallucination"},
+        {"name": "Horst", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Will Arnett"},
+        {"name": "Lalo", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Julius Callahan"},
+        {"name": "Pompidou", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Tony Fucile"},
+        {"name": "Larousse", "role": "minor", "species": "human", "gender": "male", "voice_actor": "James Remar"},
+        {"name": "Mustafa", "role": "minor", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"},
+        {"name": "Talon Labarthe", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Teddy Newton"},
+        {"name": "Renata Linguini", "role": "minor", "species": "human", "gender": "female", "voice_actor": null, "notes": "Deceased, flashback only"},
+        {"name": "Git", "role": "minor", "species": "rat", "gender": "male", "voice_actor": null, "notes": "Remy's brother"},
+        {"name": "Ambrister Minion", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Brad Bird"},
+        {"name": "Health Inspector", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Tony Fucile"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

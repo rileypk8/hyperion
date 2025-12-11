@@ -1,0 +1,95 @@
+{
+  "franchise": "Saludos Amigos",
+  "films": [
+    "Saludos Amigos (1942)"
+  ],
+  "animation_type": "hybrid",
+  "total_estimated_characters": 8,
+  "categories": {
+    "saludos_amigos_1942": {
+      "year": 1942,
+      "count": 8,
+      "characters": [
+        {
+          "name": "Donald Duck",
+          "role": "protagonist",
+          "voice_actor": "Clarence Nash",
+          "notes": "Lake Titicaca and Aquarela do Brasil segments",
+          "species": "duck",
+          "gender": "male"
+        },
+        {
+          "name": "Goofy",
+          "role": "protagonist",
+          "voice_actor": "Pinto Colvig",
+          "notes": "El Gaucho Goofy segment",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Jos\u00e9 Carioca",
+          "role": "deuteragonist",
+          "voice_actor": "Jos\u00e9 Oliveira",
+          "notes": "Brazilian parrot, debut appearance",
+          "species": "parrot",
+          "gender": "male"
+        },
+        {
+          "name": "Pedro",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Mail plane, Pedro segment",
+          "species": "airplane",
+          "gender": "male"
+        },
+        {
+          "name": "Papa Plane",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Pedro segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mama Plane",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Pedro segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Llama",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Lake Titicaca, annoys Donald",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Narrator",
+          "role": "narrator",
+          "voice_actor": "Fred Shields",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "format": "Package film with four animated segments and live-action documentary footage",
+    "context": "Good Neighbor policy film promoting Latin American relations during WWII"
+  }
+}

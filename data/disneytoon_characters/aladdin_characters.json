@@ -1,0 +1,65 @@
+{
+  "franchise": "Aladdin",
+  "studio": "DisneyToon Studios",
+  "films": ["The Return of Jafar (1994)", "Aladdin and the King of Thieves (1996)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 28,
+  "categories": {
+    "return_of_jafar_1994": {
+      "year": 1994,
+      "release_type": "direct_to_video",
+      "count": 12,
+      "characters": [
+        {"name": "Aladdin", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Scott Weinger"},
+        {"name": "Jasmine", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Linda Larkin"},
+        {"name": "Jafar", "role": "villain", "species": "human/genie", "gender": "male", "voice_actor": "Jonathan Freeman"},
+        {"name": "Iago", "role": "deuteragonist", "species": "parrot", "gender": "male", "voice_actor": "Gilbert Gottfried"},
+        {"name": "Genie", "role": "ally", "species": "genie", "gender": "male", "voice_actor": "Dan Castellaneta", "notes": "Robin Williams did not return"},
+        {"name": "Abu", "role": "sidekick", "species": "monkey", "gender": "male", "voice_actor": "Frank Welker"},
+        {"name": "Magic Carpet", "role": "ally", "species": "magic carpet", "gender": "n/a", "voice_actor": "n/a", "notes": "Non-speaking"},
+        {"name": "The Sultan", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Val Bettin"},
+        {"name": "Razoul", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Abis Mal", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Jason Alexander"},
+        {"name": "Haroud Hazi Bin", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Rajah", "role": "minor", "species": "tiger", "gender": "male", "voice_actor": "Frank Welker"}
+      ]
+    },
+    "king_of_thieves_1996": {
+      "year": 1996,
+      "release_type": "direct_to_video",
+      "count": 16,
+      "characters": [
+        {"name": "Aladdin", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Scott Weinger"},
+        {"name": "Jasmine", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Linda Larkin"},
+        {"name": "Cassim", "role": "deuteragonist", "species": "human", "gender": "male", "voice_actor": "John Rhys-Davies", "notes": "Aladdin's father, King of Thieves"},
+        {"name": "Genie", "role": "ally", "species": "genie", "gender": "male", "voice_actor": "Robin Williams", "notes": "Robin Williams returned"},
+        {"name": "Iago", "role": "ally", "species": "parrot", "gender": "male", "voice_actor": "Gilbert Gottfried"},
+        {"name": "Abu", "role": "sidekick", "species": "monkey", "gender": "male", "voice_actor": "Frank Welker"},
+        {"name": "Magic Carpet", "role": "ally", "species": "magic carpet", "gender": "n/a", "voice_actor": "n/a"},
+        {"name": "The Sultan", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Val Bettin"},
+        {"name": "Razoul", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Sa'luk", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Jerry Orbach"},
+        {"name": "The Oracle", "role": "supporting", "species": "magical being", "gender": "female", "voice_actor": "CCH Pounder"},
+        {"name": "Rajah", "role": "minor", "species": "tiger", "gender": "male", "voice_actor": "Frank Welker"},
+        {"name": "Forty Thieves", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Various"},
+        {"name": "Hand of Midas", "role": "minor", "species": "artifact", "gender": "n/a", "voice_actor": "n/a"},
+        {"name": "Peddler", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Robin Williams"},
+        {"name": "Turtle", "role": "minor", "species": "sea turtle", "gender": "male", "voice_actor": "Frank Welker"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "sidekick": "Constant companion to protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "robin_williams": "Robin Williams returned for King of Thieves after sitting out Return of Jafar due to disputes with Disney",
+    "tv_series": "The Aladdin TV series (1994-1995) ran between these two films"
+  }
+}

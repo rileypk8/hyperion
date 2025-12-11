@@ -1,0 +1,105 @@
+{
+  "franchise": "Cars",
+  "films": ["Cars (2006)", "Cars 2 (2011)", "Cars 3 (2017)"],
+  "total_estimated_characters": 60,
+  "categories": {
+    "core_recurring_cast": {
+      "count": 12,
+      "characters": [
+        {"name": "Lightning McQueen", "role": "protagonist", "species": "car (race car)", "gender": "male", "voice_actor": "Owen Wilson"},
+        {"name": "Mater", "role": "sidekick", "species": "car (tow truck)", "gender": "male", "voice_actor": "Larry the Cable Guy", "notes": "Protagonist in Cars 2"},
+        {"name": "Sally Carrera", "role": "love interest", "species": "car (Porsche)", "gender": "female", "voice_actor": "Bonnie Hunt"},
+        {"name": "Doc Hudson", "role": "mentor", "species": "car (Hudson Hornet)", "gender": "male", "voice_actor": "Paul Newman", "notes": "Deceased after Cars 1"},
+        {"name": "Luigi", "role": "supporting", "species": "car (Fiat)", "gender": "male", "voice_actor": "Tony Shalhoub"},
+        {"name": "Guido", "role": "supporting", "species": "car (forklift)", "gender": "male", "voice_actor": "Guido Quaroni"},
+        {"name": "Ramone", "role": "supporting", "species": "car (Impala)", "gender": "male", "voice_actor": "Cheech Marin"},
+        {"name": "Flo", "role": "supporting", "species": "car (show car)", "gender": "female", "voice_actor": "Jenifer Lewis"},
+        {"name": "Fillmore", "role": "supporting", "species": "car (VW bus)", "gender": "male", "voice_actor": "George Carlin (C1), Lloyd Sherr (C2-3)"},
+        {"name": "Sarge", "role": "supporting", "species": "car (military jeep)", "gender": "male", "voice_actor": "Paul Dooley"},
+        {"name": "Sheriff", "role": "supporting", "species": "car (police car)", "gender": "male", "voice_actor": "Michael Wallis"},
+        {"name": "Mack", "role": "supporting", "species": "car (semi truck)", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    },
+    "cars": {
+      "year": 2006,
+      "count": 15,
+      "characters": [
+        {"name": "Chick Hicks", "role": "antagonist", "species": "car (race car)", "gender": "male", "voice_actor": "Michael Keaton"},
+        {"name": "The King (Strip Weathers)", "role": "supporting", "species": "car (race car)", "gender": "male", "voice_actor": "Richard Petty"},
+        {"name": "Lynda Weathers", "role": "minor", "species": "car", "gender": "female", "voice_actor": "Lynda Petty"},
+        {"name": "Harv", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Jeremy Piven", "notes": "Voice only, McQueen's agent"},
+        {"name": "Lizzie", "role": "comic relief", "species": "car (Model T)", "gender": "female", "voice_actor": "Katherine Helmond"},
+        {"name": "Red", "role": "minor", "species": "car (fire truck)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Tex Dinoco", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Humpy Wheeler"},
+        {"name": "Mia and Tia", "role": "minor", "species": "car", "gender": "female", "voice_actor": "Lindsey Collins"},
+        {"name": "Boost", "role": "antagonist", "species": "car", "gender": "male", "voice_actor": "Jonas Rivera"},
+        {"name": "DJ", "role": "antagonist", "species": "car", "gender": "male", "voice_actor": "E.J. Holowicki"},
+        {"name": "Wingo", "role": "antagonist", "species": "car", "gender": "male", "voice_actor": "Adrian Ochoa"},
+        {"name": "Snot Rod", "role": "antagonist", "species": "car", "gender": "male", "voice_actor": "Lou Romano"},
+        {"name": "Frank", "role": "minor", "species": "vehicle (combine harvester)", "gender": "male", "voice_actor": null},
+        {"name": "Tractors", "role": "minor", "species": "vehicle (tractor)", "gender": "n/a", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Fred", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Andrew Stanton"}
+      ]
+    },
+    "cars_2": {
+      "year": 2011,
+      "count": 20,
+      "characters": [
+        {"name": "Finn McMissile", "role": "deuteragonist", "species": "car (Aston Martin)", "gender": "male", "voice_actor": "Michael Caine"},
+        {"name": "Holley Shiftwell", "role": "love interest", "species": "car", "gender": "female", "voice_actor": "Emily Mortimer"},
+        {"name": "Miles Axlerod", "role": "villain", "species": "car (Range Rover)", "gender": "male", "voice_actor": "Eddie Izzard"},
+        {"name": "Professor Zündapp", "role": "henchman", "species": "car (Zündapp)", "gender": "male", "voice_actor": "Thomas Kretschmann"},
+        {"name": "Francesco Bernoulli", "role": "antagonist", "species": "car (Formula 1)", "gender": "male", "voice_actor": "John Turturro"},
+        {"name": "Grem", "role": "henchman", "species": "car (Gremlin)", "gender": "male", "voice_actor": "Joe Mantegna"},
+        {"name": "Acer", "role": "henchman", "species": "car (Pacer)", "gender": "male", "voice_actor": "Peter Jacobson"},
+        {"name": "Rod 'Torque' Redline", "role": "supporting", "species": "car", "gender": "male", "voice_actor": "Bruce Campbell"},
+        {"name": "Siddeley", "role": "supporting", "species": "vehicle (jet)", "gender": "male", "voice_actor": "Jason Isaacs"},
+        {"name": "Tomber", "role": "supporting", "species": "car (three-wheeler)", "gender": "male", "voice_actor": "Michel Michelis"},
+        {"name": "Uncle Topolino", "role": "minor", "species": "car (Fiat)", "gender": "male", "voice_actor": "Franco Nero"},
+        {"name": "Mama Topolino", "role": "minor", "species": "car", "gender": "female", "voice_actor": "Vanessa Redgrave"},
+        {"name": "Lewis Hamilton", "role": "minor", "species": "car (race car)", "gender": "male", "voice_actor": "Lewis Hamilton"},
+        {"name": "Jeff Gorvette", "role": "minor", "species": "car (Corvette)", "gender": "male", "voice_actor": "Jeff Gordon"},
+        {"name": "Carla Veloso", "role": "minor", "species": "car (race car)", "gender": "female", "voice_actor": "Cristela Alonzo"},
+        {"name": "Nigel Gearsley", "role": "minor", "species": "car (race car)", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Shu Todoroki", "role": "minor", "species": "car (race car)", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Raoul ÇaRoule", "role": "minor", "species": "car (race car)", "gender": "male", "voice_actor": "unknown"},
+        {"name": "The Queen", "role": "minor", "species": "car", "gender": "female", "voice_actor": "Vanessa Redgrave"},
+        {"name": "Prince Wheeliam", "role": "minor", "species": "car", "gender": "male", "voice_actor": "unknown"}
+      ]
+    },
+    "cars_3": {
+      "year": 2017,
+      "count": 15,
+      "characters": [
+        {"name": "Cruz Ramirez", "role": "deuteragonist", "species": "car (race car)", "gender": "female", "voice_actor": "Cristela Alonzo"},
+        {"name": "Jackson Storm", "role": "antagonist", "species": "car (next-gen race car)", "gender": "male", "voice_actor": "Armie Hammer"},
+        {"name": "Sterling", "role": "antagonist", "species": "car", "gender": "male", "voice_actor": "Nathan Fillion"},
+        {"name": "Smokey", "role": "mentor", "species": "car (pickup truck)", "gender": "male", "voice_actor": "Chris Cooper"},
+        {"name": "Louise Nash", "role": "supporting", "species": "car (race car)", "gender": "female", "voice_actor": "Margo Martindale"},
+        {"name": "River Scott", "role": "supporting", "species": "car (race car)", "gender": "male", "voice_actor": "Isiah Whitlock Jr."},
+        {"name": "Junior Moon", "role": "supporting", "species": "car (race car)", "gender": "male", "voice_actor": "Junior Johnson"},
+        {"name": "Natalie Certain", "role": "minor", "species": "car", "gender": "female", "voice_actor": "Kerry Washington"},
+        {"name": "Miss Fritter", "role": "supporting", "species": "vehicle (school bus)", "gender": "female", "voice_actor": "Lea DeLaria"},
+        {"name": "Arvy", "role": "minor", "species": "vehicle (RV)", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Dr. Damage", "role": "minor", "species": "vehicle (ambulance)", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Hamilton", "role": "minor", "species": "car", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Shannon Spokes", "role": "minor", "species": "car", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Bob Cutlass", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Bob Costas"},
+        {"name": "Darrell Cartrip", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Darrell Waltrip"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

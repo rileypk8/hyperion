@@ -1,0 +1,30 @@
+{
+  "film": "Atlantis: Milo's Return",
+  "studio": "DisneyToon Studios",
+  "year": 2003,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Milo Thatch", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "James Arnold Taylor"},
+    {"name": "Kida", "role": "deuteragonist", "species": "atlantean", "gender": "female", "voice_actor": "Cree Summer"},
+    {"name": "Vinny Santorini", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Don Novello"},
+    {"name": "Audrey Ramirez", "role": "ally", "species": "human", "gender": "female", "voice_actor": "Jacqueline Obradors"},
+    {"name": "Dr. Joshua Sweet", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Phil Morris"},
+    {"name": "Gaetan Molière", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Corey Burton"},
+    {"name": "Mrs. Packard", "role": "ally", "species": "human", "gender": "female", "voice_actor": "Florence Stanley"},
+    {"name": "Preston B. Whitmore", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "John Mahoney"},
+    {"name": "Edgar Volgud", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Clancy Brown"},
+    {"name": "Chakashi", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Floyd Red Crow Westerman"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role"
+  },
+  "notes": {
+    "anthology": "Three episodes compiled into one film, originally planned for a cancelled TV series"
+  }
+}

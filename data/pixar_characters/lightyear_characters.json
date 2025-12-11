@@ -1,0 +1,39 @@
+{
+  "franchise": "Lightyear",
+  "films": ["Lightyear (2022)"],
+  "total_estimated_characters": 15,
+  "categories": {
+    "lightyear": {
+      "year": 2022,
+      "count": 15,
+      "characters": [
+        {"name": "Buzz Lightyear", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Chris Evans"},
+        {"name": "Izzy Hawthorne", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Keke Palmer"},
+        {"name": "Alisha Hawthorne", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Uzo Aduba"},
+        {"name": "Sox", "role": "sidekick", "species": "robot (cat)", "gender": "male", "voice_actor": "Peter Sohn"},
+        {"name": "Emperor Zurg", "role": "villain", "species": "human (alternate timeline)", "gender": "male", "voice_actor": "James Brolin", "notes": "Revealed as alternate Buzz"},
+        {"name": "Mo Morrison", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Taika Waititi"},
+        {"name": "Darby Steel", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Dale Soules"},
+        {"name": "Commander Cal Burnside", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Isiah Whitlock Jr."},
+        {"name": "IVAN", "role": "minor", "species": "robot (AI)", "gender": "female", "voice_actor": "Mary McDonald-Lewis"},
+        {"name": "DERIC", "role": "minor", "species": "robot (AI)", "gender": "male", "voice_actor": "Angus MacLane"},
+        {"name": "Zyclops", "role": "henchman", "species": "robot", "gender": "n/a", "voice_actor": null, "notes": "Robot army"},
+        {"name": "Keke", "role": "minor", "species": "human", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Featheringhamstan", "role": "minor", "species": "alien", "gender": "male", "voice_actor": "Bill Hader"},
+        {"name": "Eric", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Efren Ramirez"},
+        {"name": "Airman Diaz", "role": "minor", "species": "human", "gender": "unknown", "voice_actor": "unknown"},
+        {"name": "Bombardier", "role": "minor", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

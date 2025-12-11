@@ -1,0 +1,41 @@
+{
+  "franchise": "Soul",
+  "films": ["Soul (2020)"],
+  "total_estimated_characters": 18,
+  "categories": {
+    "soul": {
+      "year": 2020,
+      "count": 18,
+      "characters": [
+        {"name": "Joe Gardner", "role": "protagonist", "species": "human / soul", "gender": "male", "voice_actor": "Jamie Foxx"},
+        {"name": "22", "role": "deuteragonist", "species": "soul", "gender": "female", "voice_actor": "Tina Fey"},
+        {"name": "Terry", "role": "antagonist", "species": "cosmic being (accountant)", "gender": "non-binary", "voice_actor": "Rachel House"},
+        {"name": "Moonwind", "role": "ally", "species": "human / soul", "gender": "male", "voice_actor": "Graham Norton"},
+        {"name": "Jerry", "role": "supporting", "species": "cosmic being (counselor)", "gender": "various", "voice_actor": "Richard Ayoade, Alice Braga, Wes Studi"},
+        {"name": "Libba Gardner", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Phylicia Rashad"},
+        {"name": "Dorothea Williams", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Angela Bassett"},
+        {"name": "Curley Baker", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Ahmir-Khalib Thompson"},
+        {"name": "Miho", "role": "minor", "species": "human", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Connie", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Cora Champommier"},
+        {"name": "Mr. Mittens", "role": "comic relief", "species": "cat", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Paul", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Daveed Diggs"},
+        {"name": "Melba", "role": "minor", "species": "soul", "gender": "female", "voice_actor": "Wes Studi"},
+        {"name": "Dez", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Donnell Rawlings"},
+        {"name": "Gerel", "role": "minor", "species": "soul", "gender": "unknown", "voice_actor": null, "notes": "Soul in Great Before"},
+        {"name": "Lincoln", "role": "minor", "species": "soul", "gender": "male", "voice_actor": "unknown", "notes": "Abraham Lincoln, cameo"},
+        {"name": "Carl Jung", "role": "minor", "species": "soul", "gender": "male", "voice_actor": "unknown", "notes": "Cameo"},
+        {"name": "Mother Teresa", "role": "minor", "species": "soul", "gender": "female", "voice_actor": "unknown", "notes": "Cameo"},
+        {"name": "Moonray", "role": "minor", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "franchise": "Meet the Robinsons",
+  "films": [
+    "Meet the Robinsons (2007)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 22,
+  "categories": {
+    "meet_the_robinsons_2007": {
+      "year": 2007,
+      "count": 22,
+      "characters": [
+        {
+          "name": "Lewis / Cornelius Robinson",
+          "role": "protagonist",
+          "voice_actor": "Daniel Hansen (young), Jordan Fry (older)",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Wilbur Robinson",
+          "role": "deuteragonist",
+          "voice_actor": "Wesley Singerman",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Bowler Hat Guy / Michael 'Goob' Yagoobian",
+          "role": "villain",
+          "voice_actor": "Stephen Anderson",
+          "species": "owl",
+          "gender": "male"
+        },
+        {
+          "name": "DOR-15 / Doris",
+          "role": "villain",
+          "voice_actor": null,
+          "notes": "Evil bowler hat robot",
+          "species": "robot",
+          "gender": "female"
+        },
+        {
+          "name": "Franny Robinson",
+          "role": "supporting",
+          "voice_actor": "Nicole Sullivan",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Bud Robinson",
+          "role": "supporting",
+          "voice_actor": "Daniel Hansen",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Lucille Robinson",
+          "role": "supporting",
+          "voice_actor": "Laurie Metcalf",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Carl",
+          "role": "ally",
+          "voice_actor": "Harland Williams",
+          "notes": "Robot butler",
+          "species": "robot",
+          "gender": "male"
+        },
+        {
+          "name": "Tiny the T-Rex",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Uncle Art",
+          "role": "comic_relief",
+          "voice_actor": "Adam West",
+          "notes": "Pizza delivery astronaut",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Aunt Billie",
+          "role": "minor",
+          "voice_actor": "Laurie Metcalf",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Grandpa Bud",
+          "role": "comic_relief",
+          "voice_actor": "Daniel Hansen",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Uncle Gaston",
+          "role": "comic_relief",
+          "voice_actor": "Don Hall",
+          "notes": "Fires himself from cannon",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Fritz and Petunia",
+          "role": "minor",
+          "voice_actor": "various",
+          "notes": "Puppet married couple",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Spike and Dimitri",
+          "role": "minor",
+          "voice_actor": "various",
+          "notes": "Franny's brothers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Tallulah",
+          "role": "minor",
+          "voice_actor": "Tracey Miller-Zarneke",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Laszlo",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Artist who paints on walls",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mr. Willerstein",
+          "role": "supporting",
+          "voice_actor": "Tom Kenny",
+          "notes": "Science fair organizer",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mildred",
+          "role": "supporting",
+          "voice_actor": "Angela Bassett",
+          "notes": "Orphanage director",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Lewis's Mother",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Seen only from behind",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Frankie the Frog",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "notes": "Singing frog band",
+          "species": "frog",
+          "gender": "unknown"
+        },
+        {
+          "name": "Stanley",
+          "role": "minor",
+          "voice_actor": "Paul Butcher",
+          "notes": "Lewis's roommate",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "source": "Based on A Day with Wilbur Robinson by William Joyce",
+    "tagline": "Keep Moving Forward - Walt Disney quote"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "film": "Pocahontas II: Journey to a New World",
+  "studio": "DisneyToon Studios",
+  "year": 1998,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 12,
+  "characters": [
+    {"name": "Pocahontas", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Irene Bedard"},
+    {"name": "John Rolfe", "role": "deuteragonist", "species": "human", "gender": "male", "voice_actor": "Billy Zane"},
+    {"name": "John Smith", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Donal Gibson"},
+    {"name": "Meeko", "role": "sidekick", "species": "raccoon", "gender": "male", "voice_actor": "n/a"},
+    {"name": "Flit", "role": "sidekick", "species": "hummingbird", "gender": "male", "voice_actor": "n/a"},
+    {"name": "Percy", "role": "sidekick", "species": "pug", "gender": "male", "voice_actor": "n/a"},
+    {"name": "Governor Ratcliffe", "role": "villain", "species": "human", "gender": "male", "voice_actor": "David Ogden Stiers"},
+    {"name": "King James I", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"},
+    {"name": "Queen Anne", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Finola Hughes"},
+    {"name": "Mrs. Jenkins", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Jean Stapleton"},
+    {"name": "Uttamatomakkin", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Brad Garrett"},
+    {"name": "Chief Powhatan", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "sidekick": "Constant companion",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role"
+  }
+}

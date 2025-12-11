@@ -1,0 +1,135 @@
+{
+  "franchise": "Winnie the Pooh",
+  "studio": "DisneyToon Studios",
+  "films": [
+    "Pooh's Grand Adventure: The Search for Christopher Robin (1997)",
+    "Winnie the Pooh: Seasons of Giving (1999)",
+    "The Tigger Movie (2000)",
+    "Winnie the Pooh: A Very Merry Pooh Year (2002)",
+    "Piglet's Big Movie (2003)",
+    "Winnie the Pooh: Springtime with Roo (2004)",
+    "Pooh's Heffalump Movie (2005)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 35,
+  "categories": {
+    "poohs_grand_adventure_1997": {
+      "year": 1997,
+      "release_type": "direct_to_video",
+      "count": 7,
+      "characters": [
+        {"name": "Winnie the Pooh", "role": "protagonist", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Christopher Robin", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Brady Bluhm"},
+        {"name": "Piglet", "role": "ally", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Tigger", "role": "ally", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Rabbit", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom"},
+        {"name": "Owl", "role": "supporting", "species": "owl", "gender": "male", "voice_actor": "Andre Stojka"}
+      ]
+    },
+    "seasons_of_giving_1999": {
+      "year": 1999,
+      "release_type": "direct_to_video",
+      "count": 8,
+      "characters": [
+        {"name": "Winnie the Pooh", "role": "protagonist", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Piglet", "role": "ally", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Tigger", "role": "ally", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Rabbit", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom"},
+        {"name": "Gopher", "role": "supporting", "species": "gopher", "gender": "male", "voice_actor": "Michael Gough"},
+        {"name": "Kanga", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "female", "voice_actor": "Kath Soucie"},
+        {"name": "Roo", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "male", "voice_actor": "Nikita Hopkins"}
+      ]
+    },
+    "tigger_movie_2000": {
+      "year": 2000,
+      "release_type": "theatrical",
+      "count": 9,
+      "characters": [
+        {"name": "Tigger", "role": "protagonist", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Roo", "role": "deuteragonist", "species": "kangaroo (stuffed)", "gender": "male", "voice_actor": "Nikita Hopkins"},
+        {"name": "Winnie the Pooh", "role": "ally", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Piglet", "role": "ally", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Rabbit", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom"},
+        {"name": "Owl", "role": "supporting", "species": "owl", "gender": "male", "voice_actor": "Andre Stojka"},
+        {"name": "Kanga", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "female", "voice_actor": "Kath Soucie"},
+        {"name": "Narrator", "role": "narrator", "species": "human", "gender": "male", "voice_actor": "John Hurt"}
+      ]
+    },
+    "very_merry_pooh_year_2002": {
+      "year": 2002,
+      "release_type": "direct_to_video",
+      "count": 8,
+      "characters": [
+        {"name": "Winnie the Pooh", "role": "protagonist", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Piglet", "role": "ally", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Tigger", "role": "ally", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Rabbit", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom"},
+        {"name": "Kanga", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "female", "voice_actor": "Kath Soucie"},
+        {"name": "Roo", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "male", "voice_actor": "Nikita Hopkins"},
+        {"name": "Christopher Robin", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "William Green"}
+      ]
+    },
+    "piglets_big_movie_2003": {
+      "year": 2003,
+      "release_type": "theatrical",
+      "count": 8,
+      "characters": [
+        {"name": "Piglet", "role": "protagonist", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Winnie the Pooh", "role": "ally", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Tigger", "role": "ally", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Rabbit", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom"},
+        {"name": "Kanga", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "female", "voice_actor": "Kath Soucie"},
+        {"name": "Roo", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "male", "voice_actor": "Nikita Hopkins"},
+        {"name": "Owl", "role": "supporting", "species": "owl", "gender": "male", "voice_actor": "Andre Stojka"}
+      ]
+    },
+    "springtime_with_roo_2004": {
+      "year": 2004,
+      "release_type": "direct_to_video",
+      "count": 8,
+      "characters": [
+        {"name": "Roo", "role": "protagonist", "species": "kangaroo (stuffed)", "gender": "male", "voice_actor": "Jimmy Bennett"},
+        {"name": "Rabbit", "role": "antagonist", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom", "notes": "A Christmas Carol homage - Rabbit as Scrooge"},
+        {"name": "Winnie the Pooh", "role": "ally", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Tigger", "role": "ally", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Piglet", "role": "ally", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Kanga", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "female", "voice_actor": "Kath Soucie"},
+        {"name": "Narrator", "role": "narrator", "species": "human", "gender": "male", "voice_actor": "David Ogden Stiers"}
+      ]
+    },
+    "heffalump_movie_2005": {
+      "year": 2005,
+      "release_type": "theatrical",
+      "count": 9,
+      "characters": [
+        {"name": "Roo", "role": "protagonist", "species": "kangaroo (stuffed)", "gender": "male", "voice_actor": "Nikita Hopkins"},
+        {"name": "Lumpy", "role": "deuteragonist", "species": "heffalump", "gender": "male", "voice_actor": "Kyle Stanger"},
+        {"name": "Winnie the Pooh", "role": "ally", "species": "bear (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Tigger", "role": "ally", "species": "tiger (stuffed)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Piglet", "role": "ally", "species": "pig (stuffed)", "gender": "male", "voice_actor": "John Fiedler"},
+        {"name": "Eeyore", "role": "ally", "species": "donkey (stuffed)", "gender": "male", "voice_actor": "Peter Cullen"},
+        {"name": "Rabbit", "role": "ally", "species": "rabbit", "gender": "male", "voice_actor": "Ken Sansom"},
+        {"name": "Kanga", "role": "supporting", "species": "kangaroo (stuffed)", "gender": "female", "voice_actor": "Kath Soucie"},
+        {"name": "Lumpy's Mother", "role": "supporting", "species": "heffalump", "gender": "female", "voice_actor": "Brenda Blethyn"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "antagonist": "Character opposing protagonist",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "narrator": "Voice-over narrator"
+  },
+  "notes": {
+    "core_cast": "Jim Cummings voiced both Pooh and Tigger throughout. John Fiedler voiced Piglet until his death in 2005.",
+    "theatrical_releases": "The Tigger Movie (2000), Piglet's Big Movie (2003), and Pooh's Heffalump Movie (2005) received theatrical releases."
+  }
+}

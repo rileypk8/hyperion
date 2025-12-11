@@ -1,0 +1,533 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts",
+  "year": 2002,
+  "platform": "PlayStation 2",
+  "total_estimated_characters": 55,
+  "characters": [
+    {
+      "name": "Sora",
+      "role": "protagonist",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Keyblade wielder, main protagonist of the series"
+    },
+    {
+      "name": "Riku",
+      "role": "deuteragonist",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Sora's best friend, falls to darkness"
+    },
+    {
+      "name": "Kairi",
+      "role": "supporting",
+      "voice_actor": "Hayden Panettiere",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Princess of Heart"
+    },
+    {
+      "name": "Ansem, Seeker of Darkness",
+      "role": "villain",
+      "voice_actor": "Billy Zane",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "heartless",
+      "gender": "male",
+      "notes": "Main antagonist, Xehanort's Heartless"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "ally",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male",
+      "notes": "Court mage, party member"
+    },
+    {
+      "name": "Goofy",
+      "role": "ally",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male",
+      "notes": "Captain of the Royal Knights, party member"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "supporting",
+      "voice_actor": "Wayne Allwine",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male",
+      "notes": "King of Disney Castle, appears briefly"
+    },
+    {
+      "name": "Leon (Squall)",
+      "role": "ally",
+      "voice_actor": "David Boreanaz",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VIII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Leader of the Traverse Town group"
+    },
+    {
+      "name": "Aerith",
+      "role": "supporting",
+      "voice_actor": "Mandy Moore",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Cloud",
+      "role": "supporting",
+      "voice_actor": "Steve Burton",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Coliseum fighter, working for Hades"
+    },
+    {
+      "name": "Yuffie",
+      "role": "supporting",
+      "voice_actor": "Christy Carlson Romano",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Cid",
+      "role": "supporting",
+      "voice_actor": null,
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Non-voiced in KH1"
+    },
+    {
+      "name": "Sephiroth",
+      "role": "antagonist",
+      "voice_actor": "Lance Bass",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Secret boss"
+    },
+    {
+      "name": "Tidus",
+      "role": "minor",
+      "voice_actor": "Shaun Fleming",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy X",
+      "species": "human",
+      "gender": "male",
+      "notes": "Destiny Islands child"
+    },
+    {
+      "name": "Wakka",
+      "role": "minor",
+      "voice_actor": "Dee Bradley Baker",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy X",
+      "species": "human",
+      "gender": "male",
+      "notes": "Destiny Islands child"
+    },
+    {
+      "name": "Selphie",
+      "role": "minor",
+      "voice_actor": "Molly Keck",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VIII",
+      "species": "human",
+      "gender": "female",
+      "notes": "Destiny Islands child"
+    },
+    {
+      "name": "Maleficent",
+      "role": "villain",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female",
+      "notes": "Leader of the Disney villains"
+    },
+    {
+      "name": "Hades",
+      "role": "villain",
+      "voice_actor": "James Woods",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "god",
+      "gender": "male"
+    },
+    {
+      "name": "Jafar",
+      "role": "villain",
+      "voice_actor": "Jonathan Freeman",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Ursula",
+      "role": "villain",
+      "voice_actor": "Pat Carroll",
+      "origin": "disney",
+      "origin_franchise": "The Little Mermaid",
+      "species": "sea witch",
+      "gender": "female"
+    },
+    {
+      "name": "Oogie Boogie",
+      "role": "villain",
+      "voice_actor": "Ken Page",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "boogeyman",
+      "gender": "male"
+    },
+    {
+      "name": "Captain Hook",
+      "role": "villain",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Hercules",
+      "role": "ally",
+      "voice_actor": "Sean Astin",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "demigod",
+      "gender": "male"
+    },
+    {
+      "name": "Philoctetes",
+      "role": "supporting",
+      "voice_actor": "Robert Costanzo",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "satyr",
+      "gender": "male"
+    },
+    {
+      "name": "Aladdin",
+      "role": "ally",
+      "voice_actor": "Scott Weinger",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Jasmine",
+      "role": "supporting",
+      "voice_actor": "Linda Larkin",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "human",
+      "gender": "female",
+      "notes": "Princess of Heart"
+    },
+    {
+      "name": "Genie",
+      "role": "ally",
+      "voice_actor": "Dan Castellaneta",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "genie",
+      "gender": "male"
+    },
+    {
+      "name": "Ariel",
+      "role": "ally",
+      "voice_actor": "Jodi Benson",
+      "origin": "disney",
+      "origin_franchise": "The Little Mermaid",
+      "species": "mermaid",
+      "gender": "female"
+    },
+    {
+      "name": "King Triton",
+      "role": "supporting",
+      "voice_actor": "Kenneth Mars",
+      "origin": "disney",
+      "origin_franchise": "The Little Mermaid",
+      "species": "merman",
+      "gender": "male"
+    },
+    {
+      "name": "Sebastian",
+      "role": "supporting",
+      "voice_actor": "Kevin Michael Richardson",
+      "origin": "disney",
+      "origin_franchise": "The Little Mermaid",
+      "species": "crab",
+      "gender": "male"
+    },
+    {
+      "name": "Flounder",
+      "role": "supporting",
+      "voice_actor": "Eli Linnetz",
+      "origin": "disney",
+      "origin_franchise": "The Little Mermaid",
+      "species": "fish",
+      "gender": "male"
+    },
+    {
+      "name": "Jack Skellington",
+      "role": "ally",
+      "voice_actor": "Chris Sarandon",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "skeleton",
+      "gender": "male"
+    },
+    {
+      "name": "Sally",
+      "role": "supporting",
+      "voice_actor": "Kath Soucie",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "ragdoll",
+      "gender": "female"
+    },
+    {
+      "name": "Dr. Finkelstein",
+      "role": "supporting",
+      "voice_actor": "Jess Harnell",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "mad scientist",
+      "gender": "male"
+    },
+    {
+      "name": "Lock",
+      "role": "minor",
+      "voice_actor": "Jess Harnell",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "trick-or-treater",
+      "gender": "male"
+    },
+    {
+      "name": "Shock",
+      "role": "minor",
+      "voice_actor": "Kath Soucie",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "trick-or-treater",
+      "gender": "female"
+    },
+    {
+      "name": "Barrel",
+      "role": "minor",
+      "voice_actor": "Jeff Bennett",
+      "origin": "disney",
+      "origin_franchise": "The Nightmare Before Christmas",
+      "species": "trick-or-treater",
+      "gender": "male"
+    },
+    {
+      "name": "Peter Pan",
+      "role": "ally",
+      "voice_actor": "Christopher Steele",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Wendy",
+      "role": "supporting",
+      "voice_actor": "Kathryn Beaumont",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Mr. Smee",
+      "role": "henchman",
+      "voice_actor": "Jeff Bennett",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Tarzan",
+      "role": "ally",
+      "voice_actor": "Tony Goldwyn",
+      "origin": "disney",
+      "origin_franchise": "Tarzan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Jane Porter",
+      "role": "supporting",
+      "voice_actor": "Naia Kelly",
+      "origin": "disney",
+      "origin_franchise": "Tarzan",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Clayton",
+      "role": "villain",
+      "voice_actor": "Brian Blessed",
+      "origin": "disney",
+      "origin_franchise": "Tarzan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Terk",
+      "role": "supporting",
+      "voice_actor": "Audrey Wasilewski",
+      "origin": "disney",
+      "origin_franchise": "Tarzan",
+      "species": "gorilla",
+      "gender": "female"
+    },
+    {
+      "name": "Alice",
+      "role": "supporting",
+      "voice_actor": "Kathryn Beaumont",
+      "origin": "disney",
+      "origin_franchise": "Alice in Wonderland",
+      "species": "human",
+      "gender": "female",
+      "notes": "Princess of Heart"
+    },
+    {
+      "name": "Queen of Hearts",
+      "role": "antagonist",
+      "voice_actor": "Tress MacNeille",
+      "origin": "disney",
+      "origin_franchise": "Alice in Wonderland",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "White Rabbit",
+      "role": "minor",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Alice in Wonderland",
+      "species": "rabbit",
+      "gender": "male"
+    },
+    {
+      "name": "Doorknob",
+      "role": "minor",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Alice in Wonderland",
+      "species": "enchanted object",
+      "gender": "male"
+    },
+    {
+      "name": "Beast",
+      "role": "ally",
+      "voice_actor": "Robby Benson",
+      "origin": "disney",
+      "origin_franchise": "Beauty and the Beast",
+      "species": "cursed human",
+      "gender": "male"
+    },
+    {
+      "name": "Winnie the Pooh",
+      "role": "ally",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "stuffed bear",
+      "gender": "male"
+    },
+    {
+      "name": "Tigger",
+      "role": "supporting",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "stuffed tiger",
+      "gender": "male"
+    },
+    {
+      "name": "Piglet",
+      "role": "supporting",
+      "voice_actor": "John Fiedler",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "stuffed pig",
+      "gender": "male"
+    },
+    {
+      "name": "Jiminy Cricket",
+      "role": "supporting",
+      "voice_actor": "Eddie Carroll",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "cricket",
+      "gender": "male",
+      "notes": "Chronicles the journey"
+    },
+    {
+      "name": "Pinocchio",
+      "role": "supporting",
+      "voice_actor": "Seth Adkins",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "puppet",
+      "gender": "male"
+    },
+    {
+      "name": "Geppetto",
+      "role": "minor",
+      "voice_actor": "Tony Pope",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "human",
+      "gender": "male"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Party member or major helper",
+    "sidekick": "Loyal companion to main characters",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

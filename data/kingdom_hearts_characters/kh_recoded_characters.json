@@ -1,0 +1,207 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts Re:coded",
+  "year": 2010,
+  "platform": "Nintendo DS",
+  "total_estimated_characters": 30,
+  "notes": "Features data versions of characters from Jiminy's Journal. Original 'coded' was mobile-only (2008-2010).",
+  "characters": [
+    {
+      "name": "Data-Sora",
+      "role": "protagonist",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "data construct",
+      "gender": "male",
+      "notes": "Digital version of Sora"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "deuteragonist",
+      "voice_actor": "Bret Iwan",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "ally",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Goofy",
+      "role": "ally",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male"
+    },
+    {
+      "name": "Jiminy Cricket",
+      "role": "supporting",
+      "voice_actor": "Phil Snyder",
+      "origin": "disney",
+      "origin_franchise": "Pinocchio",
+      "species": "cricket",
+      "gender": "male"
+    },
+    {
+      "name": "Data-Riku",
+      "role": "ally",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "data construct",
+      "gender": "male"
+    },
+    {
+      "name": "Data-Naminé",
+      "role": "supporting",
+      "voice_actor": "Meaghan Jette Martin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "data construct",
+      "gender": "female"
+    },
+    {
+      "name": "Data-Roxas",
+      "role": "antagonist",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "data construct",
+      "gender": "male"
+    },
+    {
+      "name": "Maleficent",
+      "role": "antagonist",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Pete",
+      "role": "antagonist",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic cat",
+      "gender": "male"
+    },
+    {
+      "name": "Chip",
+      "role": "minor",
+      "voice_actor": "Tress MacNeille",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "chipmunk",
+      "gender": "male"
+    },
+    {
+      "name": "Dale",
+      "role": "minor",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "chipmunk",
+      "gender": "male"
+    },
+    {
+      "name": "Alice",
+      "role": "supporting",
+      "voice_actor": "Hynden Walch",
+      "origin": "disney",
+      "origin_franchise": "Alice in Wonderland",
+      "species": "human",
+      "gender": "female",
+      "notes": "Data version"
+    },
+    {
+      "name": "Hercules",
+      "role": "ally",
+      "voice_actor": "Tate Donovan",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "demigod",
+      "gender": "male",
+      "notes": "Data version"
+    },
+    {
+      "name": "Cloud",
+      "role": "ally",
+      "voice_actor": "Steve Burton",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Data version"
+    },
+    {
+      "name": "Aladdin",
+      "role": "ally",
+      "voice_actor": "Scott Weinger",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "human",
+      "gender": "male",
+      "notes": "Data version"
+    },
+    {
+      "name": "Genie",
+      "role": "ally",
+      "voice_actor": "Jim Meskimen",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "genie",
+      "gender": "male",
+      "notes": "Data version"
+    },
+    {
+      "name": "Jafar",
+      "role": "antagonist",
+      "voice_actor": "Jonathan Freeman",
+      "origin": "disney",
+      "origin_franchise": "Aladdin",
+      "species": "human",
+      "gender": "male",
+      "notes": "Data version"
+    },
+    {
+      "name": "Hades",
+      "role": "antagonist",
+      "voice_actor": "James Woods",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "god",
+      "gender": "male",
+      "notes": "Data version"
+    },
+    {
+      "name": "Captain Hook",
+      "role": "antagonist",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male",
+      "notes": "Data version"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Party member or major helper",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

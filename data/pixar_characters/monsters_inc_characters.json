@@ -1,0 +1,75 @@
+{
+  "franchise": "Monsters, Inc.",
+  "films": ["Monsters, Inc. (2001)", "Monsters University (2013)"],
+  "total_estimated_characters": 35,
+  "categories": {
+    "core_recurring_cast": {
+      "count": 5,
+      "characters": [
+        {"name": "James P. Sullivan (Sulley)", "role": "protagonist", "species": "monster", "gender": "male", "voice_actor": "John Goodman"},
+        {"name": "Mike Wazowski", "role": "deuteragonist", "species": "monster", "gender": "male", "voice_actor": "Billy Crystal"},
+        {"name": "Randall Boggs", "role": "villain", "species": "monster (chameleon-like)", "gender": "male", "voice_actor": "Steve Buscemi"},
+        {"name": "Celia Mae", "role": "love interest", "species": "monster (gorgon-like)", "gender": "female", "voice_actor": "Jennifer Tilly"},
+        {"name": "Roz", "role": "supporting", "species": "monster (slug-like)", "gender": "female", "voice_actor": "Bob Peterson", "notes": "Revealed as CDA agent"}
+      ]
+    },
+    "monsters_inc": {
+      "year": 2001,
+      "count": 15,
+      "characters": [
+        {"name": "Boo", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Mary Gibbs"},
+        {"name": "Henry J. Waternoose", "role": "villain", "species": "monster (crab-like)", "gender": "male", "voice_actor": "James Coburn"},
+        {"name": "Fungus", "role": "henchman", "species": "monster", "gender": "male", "voice_actor": "Frank Oz"},
+        {"name": "Needleman", "role": "comic relief", "species": "monster", "gender": "male", "voice_actor": "Daniel Gerson"},
+        {"name": "Smitty", "role": "comic relief", "species": "monster", "gender": "male", "voice_actor": "Daniel Gerson"},
+        {"name": "George Sanderson", "role": "comic relief", "species": "monster", "gender": "male", "voice_actor": "Samuel Lord Black"},
+        {"name": "Charlie", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "Philip Proctor"},
+        {"name": "Jerry", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "Steve Susskind"},
+        {"name": "Flint", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "Bonnie Hunt"},
+        {"name": "Ted", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "Jeff Pidgeon"},
+        {"name": "Yeti (Abominable Snowman)", "role": "comic relief", "species": "monster (yeti)", "gender": "male", "voice_actor": "John Ratzenberger"},
+        {"name": "Thaddeus Bile", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "Jeff Pidgeon"},
+        {"name": "Ms. Flint", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "Bonnie Hunt"},
+        {"name": "CDA Agents", "role": "supporting", "species": "monster", "gender": "various", "voice_actor": "various"},
+        {"name": "Tony", "role": "minor", "species": "monster", "gender": "male", "voice_actor": null, "notes": "Restaurant host"}
+      ]
+    },
+    "monsters_university": {
+      "year": 2013,
+      "count": 20,
+      "characters": [
+        {"name": "Dean Hardscrabble", "role": "antagonist", "species": "monster (centipede-dragon)", "gender": "female", "voice_actor": "Helen Mirren"},
+        {"name": "Don Carlton", "role": "supporting", "species": "monster (octopus-like)", "gender": "male", "voice_actor": "Joel Murray"},
+        {"name": "Squishy (Scott Squibbles)", "role": "supporting", "species": "monster", "gender": "male", "voice_actor": "Peter Sohn"},
+        {"name": "Terri Perry", "role": "supporting", "species": "monster (two-headed)", "gender": "male", "voice_actor": "Sean Hayes"},
+        {"name": "Terry Perry", "role": "supporting", "species": "monster (two-headed)", "gender": "male", "voice_actor": "Dave Foley"},
+        {"name": "Art", "role": "comic relief", "species": "monster", "gender": "male", "voice_actor": "Charlie Day"},
+        {"name": "Ms. Squibbles", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "Julia Sweeney"},
+        {"name": "Johnny Worthington III", "role": "antagonist", "species": "monster", "gender": "male", "voice_actor": "Nathan Fillion"},
+        {"name": "Chet Alexander", "role": "henchman", "species": "monster (crab-like)", "gender": "male", "voice_actor": "Bobby Moynihan"},
+        {"name": "Javier Rios", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Chip Goff", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Reggie Jacobs", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Rosie Levin", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Carrie Williams", "role": "antagonist", "species": "monster (gorgon-like)", "gender": "female", "voice_actor": "Aubrey Plaza"},
+        {"name": "Naomi Jackson", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Brock Pearson", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "Tyler Labine"},
+        {"name": "Claire Wheeler", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "Beth Behrs"},
+        {"name": "Professor Knight", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "Alfred Molina"},
+        {"name": "Frank McCay", "role": "minor", "species": "monster", "gender": "male", "voice_actor": "John Krasinski"},
+        {"name": "Karen Graves", "role": "minor", "species": "monster", "gender": "female", "voice_actor": "Bonnie Hunt"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

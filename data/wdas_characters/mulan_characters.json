@@ -1,0 +1,178 @@
+{
+  "franchise": "Mulan",
+  "films": [
+    "Mulan (1998)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 20,
+  "categories": {
+    "mulan_1998": {
+      "year": 1998,
+      "count": 20,
+      "characters": [
+        {
+          "name": "Fa Mulan",
+          "role": "protagonist",
+          "voice_actor": "Ming-Na Wen, Lea Salonga (singing)",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Li Shang",
+          "role": "deuteragonist",
+          "voice_actor": "BD Wong, Donny Osmond (singing)",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mushu",
+          "role": "sidekick",
+          "voice_actor": "Eddie Murphy",
+          "species": "dragon",
+          "gender": "male"
+        },
+        {
+          "name": "Shan Yu",
+          "role": "villain",
+          "voice_actor": "Miguel Ferrer",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Cri-Kee",
+          "role": "sidekick",
+          "voice_actor": "Frank Welker",
+          "notes": "Lucky cricket",
+          "species": "cricket",
+          "gender": "male"
+        },
+        {
+          "name": "Fa Zhou",
+          "role": "supporting",
+          "voice_actor": "Soon-Tek Oh",
+          "notes": "Mulan's father",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Fa Li",
+          "role": "supporting",
+          "voice_actor": "Freda Foh Shen",
+          "notes": "Mulan's mother",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Grandmother Fa",
+          "role": "comic_relief",
+          "voice_actor": "June Foray",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Emperor",
+          "role": "supporting",
+          "voice_actor": "Pat Morita",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Chi-Fu",
+          "role": "antagonist",
+          "voice_actor": "James Hong",
+          "notes": "Imperial advisor",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Yao",
+          "role": "ally",
+          "voice_actor": "Harvey Fierstein",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Ling",
+          "role": "ally",
+          "voice_actor": "Gedde Watanabe",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Chien-Po",
+          "role": "ally",
+          "voice_actor": "Jerry Tondo",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Matchmaker",
+          "role": "antagonist",
+          "voice_actor": "Miriam Margolyes",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "General Li",
+          "role": "supporting",
+          "voice_actor": "James Shigeta",
+          "notes": "Shang's father",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "First Ancestor Fa",
+          "role": "supporting",
+          "voice_actor": "George Takei",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Khan",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Mulan's horse, non-speaking",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "Little Brother",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Mulan's dog",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Hun Army",
+          "role": "henchman",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Hayabusa",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Shan Yu's falcon",
+          "species": "monkey",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "franchise": "The Lion King Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "The Lion King (1994)",
+    "Timon & Pumbaa's Jungle Games (1995)",
+    "The Lion King: Simba's Mighty Adventure (2000)",
+    "Disney's Activity Center: The Lion King II (1998)"
+  ],
+  "total_estimated_characters": 30,
+  "categories": {
+    "lion_king_1994": {
+      "year": 1994,
+      "platform": "SNES/Genesis/PC/Game Boy",
+      "developer": "Westwood Studios/Virgin Interactive",
+      "game_type": "platformer",
+      "count": 18,
+      "characters": [
+        {"name": "Simba (Cub)", "role": "protagonist", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Simba (Adult)", "role": "protagonist", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Mufasa", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Scar", "role": "villain", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Nala", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Timon", "role": "ally", "voice_actor": "N/A", "species": "meerkat", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Pumbaa", "role": "ally", "voice_actor": "N/A", "species": "warthog", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Rafiki", "role": "supporting", "voice_actor": "N/A", "species": "mandrill", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Zazu", "role": "supporting", "voice_actor": "N/A", "species": "hornbill", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Shenzi", "role": "antagonist", "voice_actor": "N/A", "species": "hyena", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Banzai", "role": "antagonist", "voice_actor": "N/A", "species": "hyena", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Ed", "role": "antagonist", "voice_actor": "N/A", "species": "hyena", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Hyena Pack", "role": "antagonist", "voice_actor": "N/A", "species": "hyena", "gender": "various", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Wildebeest", "role": "antagonist", "voice_actor": "N/A", "species": "wildebeest", "gender": "various", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Beetles", "role": "antagonist", "voice_actor": "N/A", "species": "insect", "gender": "unknown", "origin": "original", "origin_franchise": "The Lion King (Game)"},
+        {"name": "Lizards", "role": "antagonist", "voice_actor": "N/A", "species": "lizard", "gender": "unknown", "origin": "original", "origin_franchise": "The Lion King (Game)"},
+        {"name": "Monkeys", "role": "antagonist", "voice_actor": "N/A", "species": "monkey", "gender": "various", "origin": "original", "origin_franchise": "The Lion King (Game)"},
+        {"name": "Porcupines", "role": "antagonist", "voice_actor": "N/A", "species": "porcupine", "gender": "unknown", "origin": "original", "origin_franchise": "The Lion King (Game)"}
+      ]
+    },
+    "timon_pumbaas_jungle_games": {
+      "year": 1995,
+      "platform": "PC/SNES",
+      "developer": "7th Level/Tiertex",
+      "game_type": "minigame_collection",
+      "count": 8,
+      "characters": [
+        {"name": "Timon", "role": "protagonist", "voice_actor": "N/A", "species": "meerkat", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Pumbaa", "role": "protagonist", "voice_actor": "N/A", "species": "warthog", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Simba", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Bugs/Grubs", "role": "supporting", "voice_actor": "N/A", "species": "insect", "gender": "unknown", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Hippo", "role": "supporting", "voice_actor": "N/A", "species": "hippo", "gender": "unknown", "origin": "original", "origin_franchise": "Timon & Pumbaa's Jungle Games"},
+        {"name": "Jungle Creatures", "role": "supporting", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Timon & Pumbaa's Jungle Games"},
+        {"name": "Slingshot Targets", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Timon & Pumbaa's Jungle Games"},
+        {"name": "Pinball Creatures", "role": "supporting", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Timon & Pumbaa's Jungle Games"}
+      ]
+    },
+    "simbas_mighty_adventure": {
+      "year": 2000,
+      "platform": "PlayStation/Game Boy Color",
+      "developer": "Paradox Development",
+      "game_type": "platformer",
+      "count": 15,
+      "notes": "Covers both Lion King films",
+      "characters": [
+        {"name": "Simba (Cub)", "role": "protagonist", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Simba (Adult)", "role": "protagonist", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Kiara", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King II"},
+        {"name": "Kovu", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King II"},
+        {"name": "Nala", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Scar", "role": "villain", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Zira", "role": "villain", "voice_actor": "N/A", "species": "lion", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King II"},
+        {"name": "Timon", "role": "ally", "voice_actor": "N/A", "species": "meerkat", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Pumbaa", "role": "ally", "voice_actor": "N/A", "species": "warthog", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Rafiki", "role": "supporting", "voice_actor": "N/A", "species": "mandrill", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Mufasa", "role": "supporting", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Hyenas", "role": "antagonist", "voice_actor": "N/A", "species": "hyena", "gender": "various", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Outsiders", "role": "antagonist", "voice_actor": "N/A", "species": "lion", "gender": "various", "origin": "disney", "origin_franchise": "The Lion King II"},
+        {"name": "Nuka", "role": "antagonist", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King II"},
+        {"name": "Vitani", "role": "antagonist", "voice_actor": "N/A", "species": "lion", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King II"}
+      ]
+    }
+  }
+}

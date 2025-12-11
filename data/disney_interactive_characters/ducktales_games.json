@@ -1,0 +1,78 @@
+{
+  "franchise": "DuckTales Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "DuckTales (1989)",
+    "DuckTales 2 (1993)",
+    "DuckTales Remastered (2013)",
+    "DuckTales: The Quest for Gold (1990)"
+  ],
+  "total_estimated_characters": 35,
+  "categories": {
+    "ducktales_1989": {
+      "year": 1989,
+      "platform": "NES/Game Boy",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 10,
+      "characters": [
+        {"name": "Scrooge McDuck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Huey", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Dewey", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Louie", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Webby Vanderquack", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Launchpad McQuack", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Mrs. Beakley", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Flintheart Glomgold", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Magica De Spell", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Beagle Boys", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic dogs", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"}
+      ]
+    },
+    "ducktales_2": {
+      "year": 1993,
+      "platform": "NES/Game Boy",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Scrooge McDuck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Huey, Dewey, and Louie", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic ducks", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Webby Vanderquack", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Launchpad McQuack", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Gyro Gearloose", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic chicken", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Flintheart Glomgold", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Magica De Spell", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Beagle Boys", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic dogs", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "D-1000", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "DuckTales 2"},
+        {"name": "Bubba Duck", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Fenton Crackshell/Gizmoduck", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Mrs. Beakley", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"}
+      ]
+    },
+    "ducktales_remastered": {
+      "year": 2013,
+      "platform": "Multi-platform",
+      "developer": "WayForward Technologies",
+      "game_type": "platformer",
+      "count": 15,
+      "notes": "HD remake with full voice acting",
+      "characters": [
+        {"name": "Scrooge McDuck", "role": "protagonist", "voice_actor": "Alan Young", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Huey", "role": "ally", "voice_actor": "Russi Taylor", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Dewey", "role": "ally", "voice_actor": "Russi Taylor", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Louie", "role": "ally", "voice_actor": "Russi Taylor", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Webby Vanderquack", "role": "ally", "voice_actor": "Russi Taylor", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Launchpad McQuack", "role": "ally", "voice_actor": "Terry McGovern", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Mrs. Beakley", "role": "ally", "voice_actor": "Joan Gerber", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Duckworth", "role": "ally", "voice_actor": "Chuck McCann", "species": "anthropomorphic dog", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Gyro Gearloose", "role": "ally", "voice_actor": "Chris Edgerly", "species": "anthropomorphic chicken", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Fenton Crackshell/Gizmoduck", "role": "ally", "voice_actor": "Eric Bauza", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Flintheart Glomgold", "role": "villain", "voice_actor": "Brian George", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Magica De Spell", "role": "villain", "voice_actor": "June Foray", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Beagle Boys", "role": "antagonist", "voice_actor": "Eric Bauza", "species": "anthropomorphic dogs", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Dracula Duck", "role": "antagonist", "voice_actor": "N/A", "species": "vampire duck", "gender": "male", "origin": "original", "origin_franchise": "DuckTales Remastered"},
+        {"name": "Count Dracula Duck", "role": "antagonist", "voice_actor": "Chris Edgerly", "species": "vampire", "gender": "male", "origin": "original", "origin_franchise": "DuckTales Remastered"}
+      ]
+    }
+  }
+}

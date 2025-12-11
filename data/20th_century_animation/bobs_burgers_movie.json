@@ -1,0 +1,218 @@
+{
+  "franchise": "Bob's Burgers",
+  "studio": "20th Century Animation",
+  "films": ["The Bob's Burgers Movie (2022)"],
+  "total_estimated_characters": 35,
+  "categories": {
+    "bobs_burgers_movie": {
+      "year": 2022,
+      "count": 35,
+      "animation_type": "2D traditional",
+      "characters": [
+        {
+          "name": "Bob Belcher",
+          "role": "protagonist",
+          "voice_actor": "H. Jon Benjamin",
+          "notes": "Also voices Jimmy Jr., Bad/Good Kuchi Kopi, Ms. Labonz"
+        },
+        {
+          "name": "Linda Belcher",
+          "role": "deuteragonist",
+          "voice_actor": "John Roberts",
+          "notes": "Bob's wife, restaurant co-owner"
+        },
+        {
+          "name": "Tina Belcher",
+          "role": "hero",
+          "voice_actor": "Dan Mintz",
+          "notes": "Oldest child, obsessed with Jimmy Jr."
+        },
+        {
+          "name": "Gene Belcher",
+          "role": "hero",
+          "voice_actor": "Eugene Mirman",
+          "notes": "Middle child, musical enthusiast"
+        },
+        {
+          "name": "Louise Belcher",
+          "role": "hero",
+          "voice_actor": "Kristen Schaal",
+          "notes": "Youngest child, main protagonist of film's mystery plot"
+        },
+        {
+          "name": "Teddy",
+          "role": "ally",
+          "voice_actor": "Larry Murphy",
+          "notes": "Loyal handyman customer"
+        },
+        {
+          "name": "Calvin Fischoeder",
+          "role": "supporting",
+          "voice_actor": "Kevin Kline",
+          "notes": "Eccentric landlord"
+        },
+        {
+          "name": "Felix Fischoeder",
+          "role": "antagonist",
+          "voice_actor": "Zach Galifianakis",
+          "notes": "Calvin's scheming brother"
+        },
+        {
+          "name": "Grover Fischoeder",
+          "role": "villain",
+          "voice_actor": "David Wain",
+          "notes": "Fischoeder cousin"
+        },
+        {
+          "name": "Jimmy Jr.",
+          "role": "love_interest",
+          "voice_actor": "H. Jon Benjamin",
+          "notes": "Tina's crush"
+        },
+        {
+          "name": "Sergeant Bosco",
+          "role": "supporting",
+          "voice_actor": "Gary Cole",
+          "notes": "Police sergeant"
+        },
+        {
+          "name": "Mickey",
+          "role": "supporting",
+          "voice_actor": "John Q. Kubin",
+          "notes": "Ex-bank robber who helps the kids"
+        },
+        {
+          "name": "Tammy Larsen",
+          "role": "supporting",
+          "voice_actor": "Jenny Slate",
+          "notes": "Popular girl at school"
+        },
+        {
+          "name": "Jocelyn",
+          "role": "supporting",
+          "voice_actor": "John Roberts",
+          "notes": "Tammy's friend"
+        },
+        {
+          "name": "Zeke",
+          "role": "supporting",
+          "voice_actor": "Bobby Tisdale",
+          "notes": "Jimmy Jr.'s friend, wrestler"
+        },
+        {
+          "name": "Regular Sized Rudy",
+          "role": "supporting",
+          "voice_actor": "Brian Huskey",
+          "notes": "Kid with asthma, Louise's friend"
+        },
+        {
+          "name": "Andy and Ollie Pesto",
+          "role": "supporting",
+          "voice_actor": "Laura Silverman, Sarah Silverman",
+          "notes": "Jimmy Jr.'s twin brothers"
+        },
+        {
+          "name": "Hugo",
+          "role": "supporting",
+          "voice_actor": "Sam Seder",
+          "notes": "Health inspector"
+        },
+        {
+          "name": "Ron",
+          "role": "supporting",
+          "voice_actor": "Ron Lynch",
+          "notes": "Hugo's partner"
+        },
+        {
+          "name": "Mort",
+          "role": "supporting",
+          "voice_actor": "Andy Kindler",
+          "notes": "Mortician neighbor"
+        },
+        {
+          "name": "Fanny",
+          "role": "minor",
+          "voice_actor": "Stephanie Beatriz",
+          "notes": "Wonder Wharf fortune teller"
+        },
+        {
+          "name": "Trev",
+          "role": "minor",
+          "voice_actor": "Rob Huebel",
+          "notes": "Bank loan officer"
+        },
+        {
+          "name": "Mr. Frond",
+          "role": "minor",
+          "voice_actor": "David Herman",
+          "notes": "School guidance counselor"
+        },
+        {
+          "name": "Darryl",
+          "role": "minor",
+          "voice_actor": "Aziz Ansari",
+          "notes": "Louise's friend"
+        },
+        {
+          "name": "Courtney Wheeler",
+          "role": "minor",
+          "voice_actor": "David Herman",
+          "notes": "Gene's sometimes-girlfriend"
+        },
+        {
+          "name": "Millie Frock",
+          "role": "minor",
+          "voice_actor": "Molly Shannon",
+          "notes": "Louise's obsessive friend"
+        },
+        {
+          "name": "Phillip Frond",
+          "role": "minor",
+          "voice_actor": "David Herman",
+          "notes": "School counselor"
+        },
+        {
+          "name": "Cotton Candy Carny",
+          "role": "minor",
+          "voice_actor": "Jordan Peele",
+          "notes": "Wonder Wharf vendor"
+        },
+        {
+          "name": "Mudflap",
+          "role": "minor",
+          "voice_actor": "Nicole Byer",
+          "notes": "Carnival worker"
+        },
+        {
+          "name": "Clem Clements",
+          "role": "minor",
+          "voice_actor": "Nick Kroll",
+          "notes": "Carny murdered years ago (flashback)"
+        },
+        {
+          "name": "Sugarpie Hinklemeyer",
+          "role": "minor",
+          "voice_actor": "Paul Rudd",
+          "notes": "Carnival worker"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character",
+    "deuteragonist": "Secondary lead",
+    "hero": "Characters who help save the day",
+    "villain": "Primary antagonist",
+    "antagonist": "Character opposing protagonists",
+    "love_interest": "Romantic interest",
+    "ally": "Supporting friend",
+    "supporting": "Important recurring characters",
+    "minor": "Brief appearances"
+  },
+  "notes": {
+    "based_on": "Animated TV series Bob's Burgers (2011-present)",
+    "musical": "Features four original songs by Loren Bouchard and Nora Smith",
+    "timeline": "Set between seasons 12 and 13 of TV series",
+    "box_office": "Grossed $34.2 million worldwide"
+  }
+}

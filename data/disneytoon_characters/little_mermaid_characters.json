@@ -1,0 +1,62 @@
+{
+  "franchise": "The Little Mermaid",
+  "studio": "DisneyToon Studios",
+  "films": ["The Little Mermaid II: Return to the Sea (2000)", "The Little Mermaid: Ariel's Beginning (2008)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 24,
+  "categories": {
+    "return_to_sea_2000": {
+      "year": 2000,
+      "release_type": "direct_to_video",
+      "count": 14,
+      "characters": [
+        {"name": "Melody", "role": "protagonist", "species": "human/mermaid", "gender": "female", "voice_actor": "Tara Strong"},
+        {"name": "Ariel", "role": "supporting", "species": "human (former mermaid)", "gender": "female", "voice_actor": "Jodi Benson"},
+        {"name": "Morgana", "role": "villain", "species": "sea witch", "gender": "female", "voice_actor": "Pat Carroll"},
+        {"name": "Prince Eric", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Sebastian", "role": "ally", "species": "crab", "gender": "male", "voice_actor": "Samuel E. Wright"},
+        {"name": "Flounder", "role": "ally", "species": "fish", "gender": "male", "voice_actor": "Cam Clarke"},
+        {"name": "Scuttle", "role": "comic_relief", "species": "seagull", "gender": "male", "voice_actor": "Buddy Hackett"},
+        {"name": "King Triton", "role": "supporting", "species": "merman", "gender": "male", "voice_actor": "Kenneth Mars"},
+        {"name": "Tip", "role": "comic_relief", "species": "penguin", "gender": "male", "voice_actor": "Max Casella"},
+        {"name": "Dash", "role": "comic_relief", "species": "walrus", "gender": "male", "voice_actor": "Stephen Furst"},
+        {"name": "Undertow", "role": "henchman", "species": "shark (shrunken)", "gender": "male", "voice_actor": "Clancy Brown"},
+        {"name": "Grimsby", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Kay E. Kuter"},
+        {"name": "Chef Louis", "role": "minor", "species": "human", "gender": "male", "voice_actor": "René Auberjonois"},
+        {"name": "Max", "role": "minor", "species": "dog", "gender": "male", "voice_actor": "Frank Welker"}
+      ]
+    },
+    "ariels_beginning_2008": {
+      "year": 2008,
+      "release_type": "direct_to_video",
+      "count": 10,
+      "characters": [
+        {"name": "Ariel", "role": "protagonist", "species": "mermaid", "gender": "female", "voice_actor": "Jodi Benson"},
+        {"name": "King Triton", "role": "antagonist", "species": "merman", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Sebastian", "role": "deuteragonist", "species": "crab", "gender": "male", "voice_actor": "Samuel E. Wright"},
+        {"name": "Marina Del Rey", "role": "villain", "species": "mermaid", "gender": "female", "voice_actor": "Sally Field"},
+        {"name": "Flounder", "role": "ally", "species": "fish", "gender": "male", "voice_actor": "Parker Goris"},
+        {"name": "Attina", "role": "supporting", "species": "mermaid", "gender": "female", "voice_actor": "Kari Wahlgren"},
+        {"name": "Queen Athena", "role": "supporting", "species": "mermaid", "gender": "female", "voice_actor": "Lorelei Hill Butters", "notes": "Ariel's mother"},
+        {"name": "Benjamin", "role": "henchman", "species": "manatee", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Ariel's Sisters", "role": "supporting", "species": "mermaid", "gender": "female", "voice_actor": "Various", "notes": "Alana, Adella, Aquata, Arista, Andrina"},
+        {"name": "The Catfish Club Band", "role": "supporting", "species": "various sea creatures", "gender": "various", "voice_actor": "Various"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Character opposing protagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "timeline": "Ariel's Beginning is a prequel; Return to the Sea is a sequel set 12 years after the original",
+    "returning_cast": "Jodi Benson and Samuel E. Wright reprised their roles in both films"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "franchise": "Lilo & Stitch Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Lilo & Stitch (2002)",
+    "Lilo & Stitch: Trouble in Paradise (2002)",
+    "Disney's Stitch: Experiment 626 (2002)",
+    "Lilo & Stitch 2: Hämsterviel Havoc (2004)",
+    "Disney's Stitch Jam (2009)"
+  ],
+  "total_estimated_characters": 40,
+  "categories": {
+    "stitch_experiment_626": {
+      "year": 2002,
+      "platform": "PlayStation 2",
+      "developer": "High Voltage Software",
+      "game_type": "action_platformer",
+      "count": 12,
+      "notes": "Prequel to film",
+      "characters": [
+        {"name": "Experiment 626 (Stitch)", "role": "protagonist", "voice_actor": "Chris Sanders", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Dr. Jumba Jookiba", "role": "supporting", "voice_actor": "David Ogden Stiers", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Captain Gantu", "role": "antagonist", "voice_actor": "Kevin Michael Richardson", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Grand Councilwoman", "role": "antagonist", "voice_actor": "Zoe Caldwell", "species": "alien", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Experiment 621", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "unknown", "origin": "original", "origin_franchise": "Stitch: Experiment 626"},
+        {"name": "Experiment 625 (Reuben)", "role": "supporting", "voice_actor": "Rob Paulsen", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Galactic Federation Soldiers", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Dr. Hämsterviel", "role": "villain", "voice_actor": "Jeff Bennett", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Other Experiments", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Prison Guards", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "original", "origin_franchise": "Stitch: Experiment 626"},
+        {"name": "Lab Technicians", "role": "minor", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "original", "origin_franchise": "Stitch: Experiment 626"},
+        {"name": "Security Robots", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Stitch: Experiment 626"}
+      ]
+    },
+    "trouble_in_paradise": {
+      "year": 2002,
+      "platform": "PlayStation/PC",
+      "developer": "Blitz Games",
+      "game_type": "action_adventure",
+      "count": 15,
+      "characters": [
+        {"name": "Stitch", "role": "protagonist", "voice_actor": "Chris Sanders", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Lilo Pelekai", "role": "protagonist", "voice_actor": "Daveigh Chase", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Nani Pelekai", "role": "supporting", "voice_actor": "Tia Carrere", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "David Kawena", "role": "supporting", "voice_actor": "Jason Scott Lee", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Cobra Bubbles", "role": "supporting", "voice_actor": "Ving Rhames (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Dr. Jumba Jookiba", "role": "ally", "voice_actor": "David Ogden Stiers", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Pleakley", "role": "ally", "voice_actor": "Kevin McDonald", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Captain Gantu", "role": "antagonist", "voice_actor": "Kevin Michael Richardson", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Mertle Edmonds", "role": "antagonist", "voice_actor": "Liliana Mumy", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Myrtle's Friends", "role": "antagonist", "voice_actor": "Various", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Hawaiian Townspeople", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Tourists", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Mr. Stenchy (Experiment 254)", "role": "supporting", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Sparky (Experiment 221)", "role": "supporting", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Various Experiments", "role": "supporting", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"}
+      ]
+    },
+    "hamsterviel_havoc": {
+      "year": 2004,
+      "platform": "Game Boy Advance",
+      "developer": "Climax Group",
+      "game_type": "platformer",
+      "count": 13,
+      "characters": [
+        {"name": "Stitch", "role": "protagonist", "voice_actor": "Chris Sanders (archive)", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Lilo Pelekai", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Dr. Hämsterviel", "role": "villain", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Captain Gantu", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Experiment 625 (Reuben)", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Dr. Jumba Jookiba", "role": "ally", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Pleakley", "role": "ally", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Angel (Experiment 624)", "role": "ally", "voice_actor": "N/A", "species": "alien", "gender": "female", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Sparky (Experiment 221)", "role": "ally", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Felix (Experiment 010)", "role": "ally", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Sample (Experiment 258)", "role": "supporting", "voice_actor": "N/A", "species": "alien", "gender": "male", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Captured Experiments", "role": "supporting", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"},
+        {"name": "Enemy Experiments", "role": "antagonist", "voice_actor": "N/A", "species": "alien", "gender": "various", "origin": "disney", "origin_franchise": "Lilo & Stitch"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "film": "Lady and the Tramp II: Scamp's Adventure",
+  "studio": "DisneyToon Studios",
+  "year": 2001,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 12,
+  "characters": [
+    {"name": "Scamp", "role": "protagonist", "species": "dog", "gender": "male", "voice_actor": "Scott Wolf"},
+    {"name": "Angel", "role": "love_interest", "species": "dog", "gender": "female", "voice_actor": "Alyssa Milano"},
+    {"name": "Tramp", "role": "supporting", "species": "dog", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Lady", "role": "supporting", "species": "dog", "gender": "female", "voice_actor": "Jodi Benson"},
+    {"name": "Buster", "role": "villain", "species": "dog", "gender": "male", "voice_actor": "Chazz Palminteri"},
+    {"name": "Junkyard Dogs", "role": "ally", "species": "dog", "gender": "various", "voice_actor": "Various", "notes": "Sparky, Mooch, Francois, Ruby"},
+    {"name": "Jim Dear", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Nick Jameson"},
+    {"name": "Darling", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Barbara Goodson"},
+    {"name": "Annette, Collette, Danielle", "role": "minor", "species": "dog", "gender": "female", "voice_actor": "Various"},
+    {"name": "Trusty", "role": "minor", "species": "dog", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Jock", "role": "minor", "species": "dog", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Reggie", "role": "minor", "species": "dog", "gender": "male", "voice_actor": "Cathy Moriarty"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "love_interest": "Romantic interest",
+    "villain": "Primary antagonist",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  }
+}

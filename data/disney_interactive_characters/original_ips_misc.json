@@ -1,0 +1,127 @@
+{
+  "franchise": "Disney Interactive Original IPs (Misc)",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Pure (2008)",
+    "Turok (2008)",
+    "Guilty Party (2010)",
+    "Nightmare Ned (1997)"
+  ],
+  "total_estimated_characters": 65,
+  "categories": {
+    "pure": {
+      "year": 2008,
+      "platform": "PC/PS3/Xbox 360",
+      "developer": "Black Rock Studio",
+      "game_type": "racing",
+      "count": 10,
+      "notes": "ATV off-road racing; minimal story/characters",
+      "characters": [
+        {"name": "Player Rider", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "player choice", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "World Tour Competitors", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Race Announcer", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Freestyle Riders", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Sprint Specialists", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Team Managers", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Pit Crew", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Event Coordinators", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Championship Rivals", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Pure"},
+        {"name": "Tutorial Guide", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Pure"}
+      ]
+    },
+    "turok": {
+      "year": 2008,
+      "platform": "PC/PS3/Xbox 360",
+      "developer": "Propaganda Games",
+      "game_type": "first_person_shooter",
+      "count": 20,
+      "notes": "Reboot of Turok series; published under Touchstone Games label",
+      "characters": [
+        {"name": "Joseph Turok", "role": "protagonist", "voice_actor": "Gregory Norman Cruz", "species": "human", "gender": "male", "origin": "licensed", "origin_franchise": "Turok (Acclaim)", "notes": "Native American special ops soldier"},
+        {"name": "Roland Kane", "role": "villain", "voice_actor": "Powers Boothe", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)", "notes": "Former mentor turned war criminal"},
+        {"name": "Slade", "role": "deuteragonist", "voice_actor": "Ron Perlman", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Reese", "role": "ally", "voice_actor": "Timothy Olyphant", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Shepard", "role": "ally", "voice_actor": "William Fichtner", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Foster", "role": "ally", "voice_actor": "Donnie Wahlberg", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Gonzalez", "role": "ally", "voice_actor": "Michelle Rodriguez", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Logan", "role": "ally", "voice_actor": "Gideon Emery", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Henderson", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Parker", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Whiskey Company Soldiers", "role": "ally", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Mendel-Gruman Soldiers", "role": "antagonist", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "T-Rex", "role": "antagonist", "voice_actor": "N/A", "species": "dinosaur", "gender": "unknown", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Raptors", "role": "antagonist", "voice_actor": "N/A", "species": "dinosaur", "gender": "unknown", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Dilophosaurus", "role": "antagonist", "voice_actor": "N/A", "species": "dinosaur", "gender": "unknown", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Lurkers", "role": "antagonist", "voice_actor": "N/A", "species": "dinosaur", "gender": "unknown", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Parasaurolophus", "role": "minor", "voice_actor": "N/A", "species": "dinosaur", "gender": "unknown", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Giant Insects", "role": "antagonist", "voice_actor": "N/A", "species": "insect", "gender": "unknown", "origin": "original", "origin_franchise": "Turok (2008)"},
+        {"name": "Mama Scarface", "role": "antagonist", "voice_actor": "N/A", "species": "dinosaur", "gender": "female", "origin": "original", "origin_franchise": "Turok (2008)", "notes": "Recurring T-Rex boss"},
+        {"name": "Ship AI", "role": "supporting", "voice_actor": "Unknown", "species": "AI", "gender": "female", "origin": "original", "origin_franchise": "Turok (2008)"}
+      ]
+    },
+    "guilty_party": {
+      "year": 2010,
+      "platform": "Wii/Nintendo DS",
+      "developer": "Wideload Games",
+      "game_type": "puzzle_adventure",
+      "count": 20,
+      "notes": "Mystery party game",
+      "characters": [
+        {"name": "The Commodore", "role": "deuteragonist", "voice_actor": "Tom Kane", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Guilty Party", "notes": "Patriarch of Dickens Detective Agency"},
+        {"name": "Charlotte Dickens", "role": "protagonist", "voice_actor": "Grey DeLisle", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Ling-Ling Dickens", "role": "protagonist", "voice_actor": "Janice Kawaye", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Butch Dickens", "role": "protagonist", "voice_actor": "Fred Tatasciore", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Max Dickens", "role": "protagonist", "voice_actor": "James Arnold Taylor", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Phoebe Dickens", "role": "protagonist", "voice_actor": "Kath Soucie", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Mr. Valentine", "role": "villain", "voice_actor": "Dee Bradley Baker", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Guilty Party", "notes": "Master criminal"},
+        {"name": "Olivia Dickens", "role": "supporting", "voice_actor": "Tress MacNeille", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Guilty Party", "notes": "The Commodore's wife"},
+        {"name": "Detective Suspects", "role": "supporting", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Doris", "role": "supporting", "voice_actor": "Tress MacNeille", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Various Culprits", "role": "antagonist", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Various Witnesses", "role": "supporting", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Hotel Staff", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Cruise Ship Passengers", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Casino Patrons", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Museum Visitors", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Party Guests", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Train Passengers", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Yacht Club Members", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"},
+        {"name": "Ski Lodge Guests", "role": "minor", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Guilty Party"}
+      ]
+    },
+    "nightmare_ned": {
+      "year": 1997,
+      "platform": "PC",
+      "developer": "Creative Capers Entertainment",
+      "game_type": "adventure",
+      "count": 15,
+      "notes": "Based on short-lived TV series",
+      "characters": [
+        {"name": "Ned Needlemeyer", "role": "protagonist", "voice_actor": "Courtland Mead", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Ned's Mom", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Ned's Dad", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Shadow Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "shadow", "gender": "none", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Tooth Fairy Monster", "role": "antagonist", "voice_actor": "Unknown", "species": "monster", "gender": "unknown", "origin": "disney", "origin_franchise": "Nightmare Ned", "notes": "Medical nightmare boss"},
+        {"name": "Giant Needle", "role": "antagonist", "voice_actor": "N/A", "species": "object", "gender": "none", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "School Nightmare Creatures", "role": "antagonist", "voice_actor": "Various", "species": "nightmare", "gender": "various", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Graveyard Nightmare Creatures", "role": "antagonist", "voice_actor": "Various", "species": "undead", "gender": "various", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Bathroom Nightmare Creatures", "role": "antagonist", "voice_actor": "Various", "species": "nightmare", "gender": "various", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Attic Nightmare Creatures", "role": "antagonist", "voice_actor": "Various", "species": "nightmare", "gender": "various", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Quilt Monster", "role": "antagonist", "voice_actor": "Unknown", "species": "monster", "gender": "unknown", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Vernon", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Nightmare Ned", "notes": "Ned's friend"},
+        {"name": "Conrad", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Nightmare Ned", "notes": "Ned's friend"},
+        {"name": "School Bully", "role": "antagonist", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Nightmare Ned"},
+        {"name": "Principal", "role": "supporting", "voice_actor": "Unknown", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Nightmare Ned"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main playable character",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "antagonist": "Enemy or obstacle",
+    "ally": "Helpful NPC",
+    "supporting": "Notable NPC",
+    "minor": "Background or brief appearance"
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "franchise": "Sony Spider-Verse",
+  "type": "film_collection",
+  "animation_style": "hybrid",
+  "status": "ongoing",
+  "films": [
+    "Spider-Man: Into the Spider-Verse (2018)",
+    "Spider-Man: Across the Spider-Verse (2023)",
+    "Spider-Man: Beyond the Spider-Verse (2027)"
+  ],
+  "total_estimated_characters": 85,
+  "categories": {
+    "into_the_spider_verse": {
+      "year": 2018,
+      "count": 22,
+      "characters": [
+        {
+          "name": "Miles Morales / Spider-Man",
+          "role": "protagonist",
+          "voice_actor": "Shameik Moore",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Afro-Latino Brooklyn teen, main character of franchise"
+        },
+        {
+          "name": "Peter B. Parker / Spider-Man",
+          "role": "deuteragonist",
+          "voice_actor": "Jake Johnson",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Older, schlubby Spider-Man from alternate dimension"
+        },
+        {
+          "name": "Gwen Stacy / Spider-Woman",
+          "role": "ally",
+          "voice_actor": "Hailee Steinfeld",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Spider-Gwen from Earth-65"
+        },
+        {
+          "name": "Wilson Fisk / Kingpin",
+          "role": "villain",
+          "voice_actor": "Liev Schreiber",
+          "species": "human",
+          "gender": "male",
+          "notes": "Main antagonist, building super-collider"
+        },
+        {
+          "name": "Aaron Davis / Prowler",
+          "role": "antagonist",
+          "voice_actor": "Mahershala Ali",
+          "species": "human",
+          "gender": "male",
+          "notes": "Miles's uncle, secretly works for Kingpin"
+        },
+        {
+          "name": "Peter Parker / Spider-Man (Blonde)",
+          "role": "hero",
+          "voice_actor": "Chris Pine",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Original Spider-Man of Miles's universe, killed by Kingpin"
+        },
+        {
+          "name": "Jefferson Davis",
+          "role": "supporting",
+          "voice_actor": "Brian Tyree Henry",
+          "species": "human",
+          "gender": "male",
+          "notes": "Miles's father, NYPD officer"
+        },
+        {
+          "name": "Rio Morales",
+          "role": "supporting",
+          "voice_actor": "Luna Lauren Vélez",
+          "species": "human",
+          "gender": "female",
+          "notes": "Miles's mother, nurse"
+        },
+        {
+          "name": "May Parker",
+          "role": "ally",
+          "voice_actor": "Lily Tomlin",
+          "species": "human",
+          "gender": "female",
+          "notes": "Peter's aunt, runs Spider-lair"
+        },
+        {
+          "name": "Spider-Man Noir",
+          "role": "ally",
+          "voice_actor": "Nicolas Cage",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "1930s black-and-white Spider-Man"
+        },
+        {
+          "name": "Peni Parker",
+          "role": "ally",
+          "voice_actor": "Kimiko Glenn",
+          "species": "human",
+          "gender": "female",
+          "notes": "Anime-style girl with SP//dr mech suit"
+        },
+        {
+          "name": "Peter Porker / Spider-Ham",
+          "role": "comic_relief",
+          "voice_actor": "John Mulaney",
+          "species": "pig_mutate",
+          "gender": "male",
+          "notes": "Cartoon pig Spider-Man"
+        },
+        {
+          "name": "Dr. Olivia Octavius / Doc Ock",
+          "role": "villain",
+          "voice_actor": "Kathryn Hahn",
+          "species": "human",
+          "gender": "female",
+          "notes": "Female Doctor Octopus, Alchemax scientist"
+        },
+        {
+          "name": "Tombstone",
+          "role": "henchman",
+          "voice_actor": "Marvin 'Krondon' Jones III",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Kingpin's enforcer"
+        },
+        {
+          "name": "Scorpion",
+          "role": "henchman",
+          "voice_actor": "Joaquín Cosío",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Kingpin's enforcer"
+        },
+        {
+          "name": "Green Goblin",
+          "role": "henchman",
+          "voice_actor": "Jorma Taccone",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Monstrous version, killed in collider accident"
+        },
+        {
+          "name": "Mary Jane Watson",
+          "role": "minor",
+          "voice_actor": "Zoë Kravitz",
+          "species": "human",
+          "gender": "female",
+          "notes": "Eulogy at Peter's funeral"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "minor",
+          "voice_actor": "Stan Lee",
+          "species": "human",
+          "gender": "male",
+          "notes": "Cameo as costume shop owner"
+        },
+        {
+          "name": "Ganke Lee",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "male",
+          "notes": "Miles's roommate, dialogue cut from final film"
+        },
+        {
+          "name": "J. Jonah Jameson",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "male",
+          "notes": "News broadcast voice"
+        },
+        {
+          "name": "Miguel O'Hara / Spider-Man 2099",
+          "role": "minor",
+          "voice_actor": "Oscar Isaac",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Post-credits scene only"
+        },
+        {
+          "name": "Lyla",
+          "role": "minor",
+          "voice_actor": "Greta Lee",
+          "species": "ai",
+          "gender": "female_presenting",
+          "notes": "Miguel's AI assistant, post-credits"
+        }
+      ]
+    },
+    "across_the_spider_verse": {
+      "year": 2023,
+      "count": 45,
+      "characters": [
+        {
+          "name": "Miles Morales / Spider-Man",
+          "role": "protagonist",
+          "voice_actor": "Shameik Moore",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Now experienced Spider-Man, 15 months after first film"
+        },
+        {
+          "name": "Gwen Stacy / Spider-Woman",
+          "role": "deuteragonist",
+          "voice_actor": "Hailee Steinfeld",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Expanded role, opening sequence in her universe"
+        },
+        {
+          "name": "Miguel O'Hara / Spider-Man 2099",
+          "role": "antagonist",
+          "voice_actor": "Oscar Isaac",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Leader of Spider-Society, believes in canon events"
+        },
+        {
+          "name": "Dr. Jonathan Ohnn / The Spot",
+          "role": "villain",
+          "voice_actor": "Jason Schwartzman",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Main villain, portal-based powers from collider accident"
+        },
+        {
+          "name": "Peter B. Parker / Spider-Man",
+          "role": "ally",
+          "voice_actor": "Jake Johnson",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Now married to MJ, has baby daughter Mayday"
+        },
+        {
+          "name": "Jessica Drew / Spider-Woman",
+          "role": "ally",
+          "voice_actor": "Issa Rae",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Pregnant Spider-Woman, Miguel's second-in-command"
+        },
+        {
+          "name": "Hobie Brown / Spider-Punk",
+          "role": "ally",
+          "voice_actor": "Daniel Kaluuya",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "British anarchist Spider-Man, helps Miles escape"
+        },
+        {
+          "name": "Pavitr Prabhakar / Spider-Man India",
+          "role": "ally",
+          "voice_actor": "Karan Soni",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Spider-Man from Mumbattan (Earth-50101)"
+        },
+        {
+          "name": "Jefferson Davis",
+          "role": "supporting",
+          "voice_actor": "Brian Tyree Henry",
+          "species": "human",
+          "gender": "male",
+          "notes": "Promoted to captain, targeted as canon event"
+        },
+        {
+          "name": "Rio Morales",
+          "role": "supporting",
+          "voice_actor": "Luna Lauren Vélez",
+          "species": "human",
+          "gender": "female",
+          "notes": "Miles's mother"
+        },
+        {
+          "name": "George Stacy",
+          "role": "supporting",
+          "voice_actor": "Shea Whigham",
+          "species": "human",
+          "gender": "male",
+          "notes": "Gwen's father, police captain on Earth-65"
+        },
+        {
+          "name": "Miles G. Morales / Prowler",
+          "role": "antagonist",
+          "voice_actor": "Jharrel Jerome",
+          "species": "human",
+          "gender": "male",
+          "notes": "Earth-42 Miles, became Prowler instead of Spider-Man"
+        },
+        {
+          "name": "Ben Reilly / Scarlet Spider",
+          "role": "supporting",
+          "voice_actor": "Andy Samberg",
+          "species": "human_clone",
+          "gender": "male",
+          "notes": "Spider-Society member"
+        },
+        {
+          "name": "Mayday Parker",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "female",
+          "notes": "Peter B. and MJ's baby daughter"
+        },
+        {
+          "name": "Lyla",
+          "role": "supporting",
+          "voice_actor": "Greta Lee",
+          "species": "ai",
+          "gender": "female_presenting",
+          "notes": "Miguel's AI assistant"
+        },
+        {
+          "name": "The Vulture (Renaissance)",
+          "role": "minor",
+          "voice_actor": "Jorma Taccone",
+          "species": "human",
+          "gender": "male",
+          "notes": "Leonardo da Vinci-inspired Vulture from Earth-65"
+        },
+        {
+          "name": "Peter Parker / Spider-Man (Insomniac)",
+          "role": "minor",
+          "voice_actor": "Yuri Lowenthal",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "From PlayStation Spider-Man games"
+        },
+        {
+          "name": "Margo Kess / Spider-Byte",
+          "role": "minor",
+          "voice_actor": "Amandla Stenberg",
+          "species": "human",
+          "gender": "female",
+          "notes": "Digital Spider-Woman"
+        },
+        {
+          "name": "Ganke Lee",
+          "role": "minor",
+          "voice_actor": "Peter Sohn",
+          "species": "human",
+          "gender": "male",
+          "notes": "Miles's roommate"
+        },
+        {
+          "name": "Inspector Singh",
+          "role": "minor",
+          "voice_actor": "Urmila Seshagiri",
+          "species": "human",
+          "gender": "male",
+          "notes": "Pavitr's girlfriend Gayatri's father, Mumbattan police"
+        },
+        {
+          "name": "Gayatri Singh",
+          "role": "minor",
+          "voice_actor": "Sohm Kapila",
+          "species": "human",
+          "gender": "female",
+          "notes": "Pavitr's girlfriend"
+        },
+        {
+          "name": "Aaron Davis (Earth-42)",
+          "role": "minor",
+          "voice_actor": "Mahershala Ali",
+          "species": "human",
+          "gender": "male",
+          "notes": "Alive in Earth-42, dating Rio"
+        },
+        {
+          "name": "Mary Jane Watson-Parker",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "female",
+          "notes": "Peter B.'s wife"
+        },
+        {
+          "name": "J. Jonah Jameson (LEGO)",
+          "role": "minor",
+          "voice_actor": "J.K. Simmons",
+          "species": "lego_minifigure",
+          "gender": "male",
+          "notes": "LEGO universe cameo"
+        },
+        {
+          "name": "Mrs. Chen",
+          "role": "minor",
+          "voice_actor": "Peggy Lu",
+          "species": "human",
+          "gender": "female",
+          "notes": "Cameo from Venom films"
+        },
+        {
+          "name": "Spider-Man (1967 series)",
+          "role": "minor",
+          "voice_actor": "Jorma Taccone",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Classic animated series Spider-Man cameo"
+        },
+        {
+          "name": "Spider-Man (Spectacular)",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "From The Spectacular Spider-Man animated series"
+        },
+        {
+          "name": "Spider-Man (Unlimited)",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "From Spider-Man Unlimited animated series"
+        },
+        {
+          "name": "Peter Parker 65 (Lizard)",
+          "role": "minor",
+          "voice_actor": "Jack Quaid",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Gwen's universe Peter who became Lizard and died"
+        },
+        {
+          "name": "Malala Monroe",
+          "role": "minor",
+          "voice_actor": "Rachel Dratch",
+          "species": "human",
+          "gender": "female",
+          "notes": "School counselor"
+        },
+        {
+          "name": "Rio Morales (Earth-42)",
+          "role": "minor",
+          "voice_actor": "Luna Lauren Vélez",
+          "species": "human",
+          "gender": "female",
+          "notes": "Earth-42 version of Miles's mother"
+        },
+        {
+          "name": "Spider-Therapist",
+          "role": "minor",
+          "voice_actor": "Michael Rianda",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Spider-Man seeing therapist in trailer/film"
+        },
+        {
+          "name": "Web-Slinger",
+          "role": "minor",
+          "voice_actor": "Kris Anka",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Western cowboy Spider-Man"
+        },
+        {
+          "name": "Spider-Cat",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "cat_mutate",
+          "gender": "unknown",
+          "notes": "Cat Spider-Man, Peter B.'s pet"
+        },
+        {
+          "name": "Cyborg Spider-Woman",
+          "role": "minor",
+          "voice_actor": "Ayo Edebiri",
+          "species": "cyborg",
+          "gender": "female",
+          "notes": "Spider-Society member"
+        },
+        {
+          "name": "Patrick O'Hara",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Spider-Cop, Spider-Society member"
+        },
+        {
+          "name": "Sun-Spider",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Spider-Society member using crutches"
+        },
+        {
+          "name": "Spinstress",
+          "role": "minor",
+          "voice_actor": "Melissa Sturm",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Spider-Society member"
+        },
+        {
+          "name": "Spider-Monkey",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "monkey_mutate",
+          "gender": "male",
+          "notes": "Spider-Society member"
+        },
+        {
+          "name": "Spider-Rex",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "dinosaur_mutate",
+          "gender": "unknown",
+          "notes": "Dinosaur Spider-Man"
+        },
+        {
+          "name": "Mrs. Weber",
+          "role": "minor",
+          "voice_actor": "Greta Lee",
+          "species": "human",
+          "gender": "female",
+          "notes": "Teacher"
+        },
+        {
+          "name": "Em Jay",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "female",
+          "notes": "Gwen's bandmate"
+        },
+        {
+          "name": "Betty Brant",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "female",
+          "notes": "Gwen's bandmate"
+        },
+        {
+          "name": "Glory Grant",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "female",
+          "notes": "Gwen's bandmate"
+        },
+        {
+          "name": "Adriana Soria / Spider-Queen",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Spider-Society background"
+        }
+      ]
+    },
+    "beyond_the_spider_verse": {
+      "year": 2027,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Miles Morales / Spider-Man",
+          "role": "protagonist",
+          "voice_actor": "Shameik Moore",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Trapped on Earth-42, on the run as fugitive"
+        },
+        {
+          "name": "Gwen Stacy / Spider-Woman",
+          "role": "deuteragonist",
+          "voice_actor": "Hailee Steinfeld",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Leading team to find Miles"
+        },
+        {
+          "name": "Dr. Jonathan Ohnn / The Spot",
+          "role": "villain",
+          "voice_actor": "Jason Schwartzman",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Main antagonist continues"
+        },
+        {
+          "name": "Miles G. Morales / Prowler",
+          "role": "antagonist",
+          "voice_actor": "Jharrel Jerome",
+          "species": "human",
+          "gender": "male",
+          "notes": "Earth-42 Prowler"
+        },
+        {
+          "name": "Pavitr Prabhakar / Spider-Man India",
+          "role": "ally",
+          "voice_actor": "Karan Soni",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Part of Gwen's rescue team"
+        },
+        {
+          "name": "Hobie Brown / Spider-Punk",
+          "role": "ally",
+          "voice_actor": "Daniel Kaluuya",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Part of Gwen's rescue team"
+        },
+        {
+          "name": "Spider-Man Noir",
+          "role": "ally",
+          "voice_actor": "Nicolas Cage",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Returning from first film"
+        },
+        {
+          "name": "Peni Parker",
+          "role": "ally",
+          "voice_actor": "Kimiko Glenn",
+          "species": "human",
+          "gender": "female",
+          "notes": "Returning from first film"
+        },
+        {
+          "name": "Peter Porker / Spider-Ham",
+          "role": "ally",
+          "voice_actor": "John Mulaney",
+          "species": "pig_mutate",
+          "gender": "male",
+          "notes": "Returning from first film"
+        },
+        {
+          "name": "Peter B. Parker / Spider-Man",
+          "role": "ally",
+          "voice_actor": "Jake Johnson",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Expected to return"
+        },
+        {
+          "name": "Miguel O'Hara / Spider-Man 2099",
+          "role": "antagonist",
+          "voice_actor": "Oscar Isaac",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Still hunting Miles"
+        },
+        {
+          "name": "Lyla",
+          "role": "supporting",
+          "voice_actor": "Greta Lee",
+          "species": "ai",
+          "gender": "female_presenting",
+          "notes": "Miguel's AI"
+        },
+        {
+          "name": "Jefferson Davis",
+          "role": "supporting",
+          "voice_actor": "Brian Tyree Henry",
+          "species": "human",
+          "gender": "male",
+          "notes": "Targeted for canon event death"
+        },
+        {
+          "name": "Rio Morales",
+          "role": "supporting",
+          "voice_actor": "Luna Lauren Vélez",
+          "species": "human",
+          "gender": "female",
+          "notes": "Miles's mother"
+        },
+        {
+          "name": "Aaron Davis (Earth-42)",
+          "role": "supporting",
+          "voice_actor": "Mahershala Ali",
+          "species": "human",
+          "gender": "male",
+          "notes": "Earth-42 Uncle Aaron"
+        },
+        {
+          "name": "Tombstone",
+          "role": "supporting",
+          "voice_actor": "Marvin 'Krondon' Jones III",
+          "species": "human_mutate",
+          "gender": "male",
+          "notes": "Confirmed returning"
+        },
+        {
+          "name": "Jessica Drew / Spider-Woman",
+          "role": "ally",
+          "voice_actor": "Issa Rae",
+          "species": "human_mutate",
+          "gender": "female",
+          "notes": "Expected to return"
+        },
+        {
+          "name": "Mayday Parker",
+          "role": "minor",
+          "voice_actor": "N/A",
+          "species": "human",
+          "gender": "female",
+          "notes": "Peter B.'s daughter"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Central character driving the main narrative",
+    "deuteragonist": "Second most important character, often close ally to protagonist",
+    "hero": "Character who performs heroic acts but isn't the main focus",
+    "villain": "Primary antagonist with malevolent goals",
+    "antagonist": "Character opposing the protagonist (not necessarily evil)",
+    "henchman": "Subordinate serving a villain",
+    "ally": "Character who assists the protagonist",
+    "sidekick": "Constant companion to a main character",
+    "love_interest": "Romantic focus for a main character",
+    "comic_relief": "Character primarily providing humor",
+    "supporting": "Important recurring character in secondary role",
+    "minor": "Brief appearance with limited impact on plot"
+  },
+  "notes": {
+    "animation_style": "Distinctive hybrid combining CGI with hand-drawn comic book aesthetics, halftone dots, and multiple art styles per universe",
+    "production": "Sony Pictures Animation, not Disney/Marvel Animation",
+    "beyond_cast_note": "Beyond the Spider-Verse cast is confirmed/expected based on December 2025 reporting; additional characters likely",
+    "spider_society_note": "Across the Spider-Verse features 280+ Spider-variants; only named/speaking roles with identified actors included"
+  }
+}

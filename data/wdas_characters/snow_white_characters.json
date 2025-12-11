@@ -1,0 +1,130 @@
+{
+  "franchise": "Snow White and the Seven Dwarfs",
+  "films": [
+    "Snow White and the Seven Dwarfs (1937)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "snow_white_1937": {
+      "year": 1937,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Snow White",
+          "role": "protagonist",
+          "voice_actor": "Adriana Caselotti",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Evil Queen / Queen Grimhilde",
+          "role": "villain",
+          "voice_actor": "Lucille La Verne",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Witch / Old Hag",
+          "role": "villain",
+          "voice_actor": "Lucille La Verne",
+          "notes": "Queen's disguise",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Prince",
+          "role": "love_interest",
+          "voice_actor": "Harry Stockwell",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Doc",
+          "role": "supporting",
+          "voice_actor": "Roy Atwell",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Grumpy",
+          "role": "deuteragonist",
+          "voice_actor": "Pinto Colvig",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Happy",
+          "role": "supporting",
+          "voice_actor": "Otis Harlan",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Sleepy",
+          "role": "comic_relief",
+          "voice_actor": "Pinto Colvig",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Bashful",
+          "role": "comic_relief",
+          "voice_actor": "Scotty Mattraw",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Sneezy",
+          "role": "comic_relief",
+          "voice_actor": "Billy Gilbert",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Dopey",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "The Magic Mirror",
+          "role": "supporting",
+          "voice_actor": "Moroni Olsen",
+          "species": "enchanted_object",
+          "gender": "male"
+        },
+        {
+          "name": "The Huntsman",
+          "role": "supporting",
+          "voice_actor": "Stuart Buchanan",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Forest Animals",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Various woodland creatures",
+          "species": "various_animals",
+          "gender": "various"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

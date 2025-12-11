@@ -1,0 +1,191 @@
+{
+  "franchise": "Encanto",
+  "films": [
+    "Encanto (2021)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 20,
+  "categories": {
+    "encanto_2021": {
+      "year": 2021,
+      "count": 20,
+      "characters": [
+        {
+          "name": "Mirabel Madrigal",
+          "role": "protagonist",
+          "voice_actor": "Stephanie Beatriz",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Bruno Madrigal",
+          "role": "deuteragonist",
+          "voice_actor": "John Leguizamo",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Abuela Alma Madrigal",
+          "role": "antagonist",
+          "voice_actor": "Mar\u00eda Cecilia Botero",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Isabela Madrigal",
+          "role": "supporting",
+          "voice_actor": "Diane Guerrero",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Luisa Madrigal",
+          "role": "supporting",
+          "voice_actor": "Jessica Darrow",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Dolores Madrigal",
+          "role": "supporting",
+          "voice_actor": "Adassa",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Camilo Madrigal",
+          "role": "supporting",
+          "voice_actor": "Rhenzy Feliz",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Antonio Madrigal",
+          "role": "supporting",
+          "voice_actor": "Ravi Cabot-Conyers",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Pico",
+          "role": "minor",
+          "voice_actor": "Alan Tudyk",
+          "species": "toucan",
+          "gender": "male",
+          "notes": "Antonio's toucan companion"
+        },
+        {
+          "name": "Julieta Madrigal",
+          "role": "supporting",
+          "voice_actor": "Angie Cepeda",
+          "notes": "Mirabel's mother",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Agust\u00edn Madrigal",
+          "role": "supporting",
+          "voice_actor": "Wilmer Valderrama",
+          "notes": "Mirabel's father",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Pepa Madrigal",
+          "role": "supporting",
+          "voice_actor": "Carolina Gait\u00e1n",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "F\u00e9lix Madrigal",
+          "role": "supporting",
+          "voice_actor": "Mauro Castillo",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Pedro Madrigal",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Abuela's late husband",
+          "species": "airplane",
+          "gender": "male"
+        },
+        {
+          "name": "Young Alma",
+          "role": "minor",
+          "voice_actor": "Mar\u00eda Cecilia Botero",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mariano Guzm\u00e1n",
+          "role": "minor",
+          "voice_actor": "Maluma",
+          "notes": "Isabela's suitor",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Se\u00f1ora Guzm\u00e1n",
+          "role": "minor",
+          "voice_actor": "Rose Portillo",
+          "notes": "Mariano's mother",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Osvaldo",
+          "role": "minor",
+          "voice_actor": "Juan Castano",
+          "notes": "Townsperson",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Casita",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "The magical house itself",
+          "species": "enchanted_building",
+          "gender": "n/a"
+        },
+        {
+          "name": "Bruno's Rats",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "notes": "Bruno's animal companions",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "The Townspeople",
+          "role": "minor",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "setting": "Colombia",
+    "music": "Songs by Lin-Manuel Miranda",
+    "milestone": "We Don't Talk About Bruno became most-streamed Disney song"
+  }
+}

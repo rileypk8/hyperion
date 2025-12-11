@@ -1,0 +1,31 @@
+{
+  "film": "Return to Never Land",
+  "studio": "DisneyToon Studios",
+  "year": 2002,
+  "release_type": "theatrical",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 12,
+  "characters": [
+    {"name": "Jane", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Harriet Owen"},
+    {"name": "Peter Pan", "role": "deuteragonist", "species": "human (ageless)", "gender": "male", "voice_actor": "Blayne Weaver"},
+    {"name": "Captain Hook", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Corey Burton"},
+    {"name": "Tinker Bell", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "n/a"},
+    {"name": "Wendy Darling", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Kath Soucie"},
+    {"name": "Mr. Smee", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "The Lost Boys", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Various"},
+    {"name": "Danny", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Andrew McDonough"},
+    {"name": "Edward", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Roger Rees"},
+    {"name": "Nana II", "role": "minor", "species": "dog", "gender": "female", "voice_actor": "n/a"},
+    {"name": "Octopus", "role": "minor", "species": "octopus", "gender": "n/a", "voice_actor": "n/a"},
+    {"name": "Pirates", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Various"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  }
+}

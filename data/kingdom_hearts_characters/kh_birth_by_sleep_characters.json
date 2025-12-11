@@ -1,0 +1,472 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts Birth by Sleep",
+  "year": 2010,
+  "platform": "PlayStation Portable",
+  "total_estimated_characters": 60,
+  "characters": [
+    {
+      "name": "Terra",
+      "role": "protagonist",
+      "voice_actor": "Jason Dohring",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Keyblade wielder, playable"
+    },
+    {
+      "name": "Aqua",
+      "role": "protagonist",
+      "voice_actor": "Willa Holland",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Keyblade Master, playable"
+    },
+    {
+      "name": "Ventus",
+      "role": "protagonist",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Keyblade wielder, playable"
+    },
+    {
+      "name": "Master Xehanort",
+      "role": "villain",
+      "voice_actor": "Leonard Nimoy",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Main antagonist"
+    },
+    {
+      "name": "Vanitas",
+      "role": "villain",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "being of darkness",
+      "gender": "male",
+      "notes": "Dark half of Ventus"
+    },
+    {
+      "name": "Master Eraqus",
+      "role": "supporting",
+      "voice_actor": "Mark Hamill",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Terra and Aqua's master"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "ally",
+      "voice_actor": "Bret Iwan",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male",
+      "notes": "Apprentice to Yen Sid"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "minor",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Goofy",
+      "role": "minor",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male"
+    },
+    {
+      "name": "Yen Sid",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Fantasia",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Maleficent",
+      "role": "villain",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Cinderella",
+      "role": "ally",
+      "voice_actor": "Jennifer Hale",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "human",
+      "gender": "female",
+      "notes": "Princess of Heart"
+    },
+    {
+      "name": "Prince Charming",
+      "role": "supporting",
+      "voice_actor": "Matt Nolan",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Fairy Godmother",
+      "role": "supporting",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Lady Tremaine",
+      "role": "antagonist",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Anastasia",
+      "role": "minor",
+      "voice_actor": "Tress MacNeille",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Drizella",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Jaq",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Cinderella",
+      "species": "mouse",
+      "gender": "male"
+    },
+    {
+      "name": "Snow White",
+      "role": "ally",
+      "voice_actor": "Katherine Von Till",
+      "origin": "disney",
+      "origin_franchise": "Snow White",
+      "species": "human",
+      "gender": "female",
+      "notes": "Princess of Heart"
+    },
+    {
+      "name": "The Queen / Evil Queen",
+      "role": "antagonist",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Snow White",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Magic Mirror",
+      "role": "minor",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Snow White",
+      "species": "magic object",
+      "gender": "male"
+    },
+    {
+      "name": "Aurora",
+      "role": "ally",
+      "voice_actor": "Jennifer Hale",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "human",
+      "gender": "female",
+      "notes": "Princess of Heart"
+    },
+    {
+      "name": "Prince Phillip",
+      "role": "supporting",
+      "voice_actor": "Josh Robert Thompson",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Flora",
+      "role": "supporting",
+      "voice_actor": "Barbara Dirickson",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Fauna",
+      "role": "supporting",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Merryweather",
+      "role": "supporting",
+      "voice_actor": "Tress MacNeille",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Experiment 626 / Stitch",
+      "role": "ally",
+      "voice_actor": "Chris Sanders",
+      "origin": "disney",
+      "origin_franchise": "Lilo & Stitch",
+      "species": "alien experiment",
+      "gender": "male"
+    },
+    {
+      "name": "Dr. Jumba",
+      "role": "supporting",
+      "voice_actor": "David Ogden Stiers",
+      "origin": "disney",
+      "origin_franchise": "Lilo & Stitch",
+      "species": "alien",
+      "gender": "male"
+    },
+    {
+      "name": "Captain Gantu",
+      "role": "antagonist",
+      "voice_actor": "Kevin Michael Richardson",
+      "origin": "disney",
+      "origin_franchise": "Lilo & Stitch",
+      "species": "alien",
+      "gender": "male"
+    },
+    {
+      "name": "Grand Councilwoman",
+      "role": "minor",
+      "voice_actor": "Mary Elizabeth McGlynn",
+      "origin": "disney",
+      "origin_franchise": "Lilo & Stitch",
+      "species": "alien",
+      "gender": "female"
+    },
+    {
+      "name": "Peter Pan",
+      "role": "ally",
+      "voice_actor": "Christopher Steele",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Tinker Bell",
+      "role": "supporting",
+      "voice_actor": null,
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "fairy",
+      "gender": "female",
+      "notes": "Non-speaking"
+    },
+    {
+      "name": "Captain Hook",
+      "role": "antagonist",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Mr. Smee",
+      "role": "henchman",
+      "voice_actor": "Jeff Bennett",
+      "origin": "disney",
+      "origin_franchise": "Peter Pan",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Hercules",
+      "role": "ally",
+      "voice_actor": "Tate Donovan",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "demigod",
+      "gender": "male",
+      "notes": "Young Hercules"
+    },
+    {
+      "name": "Zack",
+      "role": "ally",
+      "voice_actor": "Rick Gomez",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "male",
+      "notes": "First KH appearance"
+    },
+    {
+      "name": "Phil",
+      "role": "supporting",
+      "voice_actor": "Robert Costanzo",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "satyr",
+      "gender": "male"
+    },
+    {
+      "name": "Hades",
+      "role": "antagonist",
+      "voice_actor": "James Woods",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "god",
+      "gender": "male"
+    },
+    {
+      "name": "Huey",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Dewey",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Louie",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Pete",
+      "role": "antagonist",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic cat",
+      "gender": "male"
+    },
+    {
+      "name": "Minnie Mouse",
+      "role": "supporting",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "female"
+    },
+    {
+      "name": "Chip",
+      "role": "minor",
+      "voice_actor": "Tress MacNeille",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "chipmunk",
+      "gender": "male"
+    },
+    {
+      "name": "Dale",
+      "role": "minor",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "chipmunk",
+      "gender": "male"
+    },
+    {
+      "name": "Young Sora",
+      "role": "minor",
+      "voice_actor": "Luke Manriquez",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Young Riku",
+      "role": "minor",
+      "voice_actor": "Ty Panitz",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Young Kairi",
+      "role": "minor",
+      "voice_actor": "Ariel Winter",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Kairi's Grandmother",
+      "role": "minor",
+      "voice_actor": "Kathryn Beaumont",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Party member or major helper",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

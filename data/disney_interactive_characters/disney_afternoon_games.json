@@ -1,0 +1,115 @@
+{
+  "franchise": "Disney Afternoon Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Chip 'n Dale: Rescue Rangers (1990)",
+    "Chip 'n Dale: Rescue Rangers 2 (1993)",
+    "TaleSpin (1991)",
+    "Darkwing Duck (1992)",
+    "The Jungle Book (1994)"
+  ],
+  "total_estimated_characters": 50,
+  "categories": {
+    "rescue_rangers": {
+      "year": 1990,
+      "platform": "NES",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Chip", "role": "protagonist", "voice_actor": "N/A", "species": "chipmunk", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Dale", "role": "protagonist", "voice_actor": "N/A", "species": "chipmunk", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Gadget Hackwrench", "role": "ally", "voice_actor": "N/A", "species": "mouse", "gender": "female", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Monterey Jack", "role": "ally", "voice_actor": "N/A", "species": "mouse", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Zipper", "role": "ally", "voice_actor": "N/A", "species": "fly", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Fat Cat", "role": "villain", "voice_actor": "N/A", "species": "cat", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Mepps", "role": "antagonist", "voice_actor": "N/A", "species": "cat", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Snout", "role": "antagonist", "voice_actor": "N/A", "species": "rat", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Wart", "role": "antagonist", "voice_actor": "N/A", "species": "lizard", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Mole", "role": "antagonist", "voice_actor": "N/A", "species": "mole", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Robot Dog", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Rescue Rangers (Game)"},
+        {"name": "Various Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Rescue Rangers (Game)"}
+      ]
+    },
+    "rescue_rangers_2": {
+      "year": 1993,
+      "platform": "NES",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 10,
+      "characters": [
+        {"name": "Chip", "role": "protagonist", "voice_actor": "N/A", "species": "chipmunk", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Dale", "role": "protagonist", "voice_actor": "N/A", "species": "chipmunk", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Gadget Hackwrench", "role": "ally", "voice_actor": "N/A", "species": "mouse", "gender": "female", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Monterey Jack", "role": "ally", "voice_actor": "N/A", "species": "mouse", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Zipper", "role": "ally", "voice_actor": "N/A", "species": "fly", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Fat Cat", "role": "villain", "voice_actor": "N/A", "species": "cat", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Professor Nimnul", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Aldrin Klordane", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Chip 'n Dale: Rescue Rangers"},
+        {"name": "Robot Bosses", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Rescue Rangers 2"},
+        {"name": "Ghost Pirates", "role": "antagonist", "voice_actor": "N/A", "species": "ghost", "gender": "various", "origin": "original", "origin_franchise": "Rescue Rangers 2"}
+      ]
+    },
+    "talespin": {
+      "year": 1991,
+      "platform": "NES/TurboGrafx-16/Genesis/Game Gear",
+      "developer": "Capcom",
+      "game_type": "shoot_em_up",
+      "count": 10,
+      "characters": [
+        {"name": "Baloo", "role": "protagonist", "voice_actor": "N/A", "species": "bear", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Kit Cloudkicker", "role": "ally", "voice_actor": "N/A", "species": "bear", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Rebecca Cunningham", "role": "supporting", "voice_actor": "N/A", "species": "bear", "gender": "female", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Molly Cunningham", "role": "supporting", "voice_actor": "N/A", "species": "bear", "gender": "female", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Wildcat", "role": "ally", "voice_actor": "N/A", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Shere Khan", "role": "antagonist", "voice_actor": "N/A", "species": "tiger", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Don Karnage", "role": "villain", "voice_actor": "N/A", "species": "wolf", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Air Pirates", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Mad Dog", "role": "antagonist", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Dumptruck", "role": "antagonist", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"}
+      ]
+    },
+    "darkwing_duck": {
+      "year": 1992,
+      "platform": "NES/TurboGrafx-16/Game Boy",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Darkwing Duck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Launchpad McQuack", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Gosalyn Mallard", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Steelbeak", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic rooster", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Megavolt", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic rat", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Bushroot", "role": "antagonist", "voice_actor": "N/A", "species": "plant/duck mutant", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Quackerjack", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Liquidator", "role": "antagonist", "voice_actor": "N/A", "species": "water creature", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Moliarty", "role": "antagonist", "voice_actor": "N/A", "species": "mole", "gender": "male", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Wolfduck", "role": "antagonist", "voice_actor": "N/A", "species": "wolf/duck", "gender": "male", "origin": "original", "origin_franchise": "Darkwing Duck (Game)"},
+        {"name": "F.O.W.L. Agents", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "disney", "origin_franchise": "Darkwing Duck"},
+        {"name": "Eggmen", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "disney", "origin_franchise": "Darkwing Duck"}
+      ]
+    },
+    "jungle_book_1994": {
+      "year": 1994,
+      "platform": "SNES/Genesis/Game Boy/Game Gear/PC",
+      "developer": "Eurocom/Virgin Interactive",
+      "game_type": "platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Mowgli", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Baloo", "role": "ally", "voice_actor": "N/A", "species": "bear", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Bagheera", "role": "ally", "voice_actor": "N/A", "species": "panther", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Shere Khan", "role": "villain", "voice_actor": "N/A", "species": "tiger", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Kaa", "role": "antagonist", "voice_actor": "N/A", "species": "python", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "King Louie", "role": "antagonist", "voice_actor": "N/A", "species": "orangutan", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Monkeys", "role": "antagonist", "voice_actor": "N/A", "species": "monkey", "gender": "various", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Wolves", "role": "supporting", "voice_actor": "N/A", "species": "wolf", "gender": "various", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Colonel Hathi", "role": "supporting", "voice_actor": "N/A", "species": "elephant", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Vultures", "role": "supporting", "voice_actor": "N/A", "species": "vulture", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Jungle Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "The Jungle Book (Game)"},
+        {"name": "Bees", "role": "antagonist", "voice_actor": "N/A", "species": "bee", "gender": "unknown", "origin": "original", "origin_franchise": "The Jungle Book (Game)"}
+      ]
+    }
+  }
+}

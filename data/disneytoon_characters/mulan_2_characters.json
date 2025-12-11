@@ -1,0 +1,34 @@
+{
+  "film": "Mulan II",
+  "studio": "DisneyToon Studios",
+  "year": 2004,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 12,
+  "characters": [
+    {"name": "Mulan", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Ming-Na Wen"},
+    {"name": "Li Shang", "role": "deuteragonist", "species": "human", "gender": "male", "voice_actor": "BD Wong"},
+    {"name": "Mushu", "role": "antagonist", "species": "dragon", "gender": "male", "voice_actor": "Mark Moseley"},
+    {"name": "Yao", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Harvey Fierstein"},
+    {"name": "Ling", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Gedde Watanabe"},
+    {"name": "Chien-Po", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Jerry Tondo"},
+    {"name": "Princess Mei", "role": "love_interest", "species": "human", "gender": "female", "voice_actor": "Lucy Liu"},
+    {"name": "Princess Ting-Ting", "role": "love_interest", "species": "human", "gender": "female", "voice_actor": "Sandra Oh"},
+    {"name": "Princess Su", "role": "love_interest", "species": "human", "gender": "female", "voice_actor": "Lauren Tom"},
+    {"name": "Emperor", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Pat Morita"},
+    {"name": "Cri-Kee", "role": "sidekick", "species": "cricket", "gender": "male", "voice_actor": "n/a"},
+    {"name": "Lord Qin", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "n/a"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "antagonist": "Character opposing protagonist",
+    "ally": "Friend supporting protagonist",
+    "sidekick": "Constant companion",
+    "love_interest": "Romantic interest",
+    "supporting": "Important but secondary role"
+  },
+  "notes": {
+    "mushu": "Mushu serves as the film's antagonist, trying to break up Mulan and Shang to avoid losing his guardian status"
+  }
+}

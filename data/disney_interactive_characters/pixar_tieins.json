@@ -1,0 +1,200 @@
+{
+  "franchise": "Pixar Movie Tie-in Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "A Bug's Life (1998)",
+    "Monsters, Inc. (2001)",
+    "Monsters, Inc. Scream Arena (2002)",
+    "Finding Nemo (2003)",
+    "Finding Nemo: Escape to the Big Blue (2006)",
+    "The Incredibles (2004)",
+    "The Incredibles: Rise of the Underminer (2005)",
+    "Ratatouille (2007)",
+    "WALL-E (2008)",
+    "Up (2009)"
+  ],
+  "total_estimated_characters": 100,
+  "categories": {
+    "bugs_life": {
+      "year": 1998,
+      "platform": "PlayStation/N64/PC/Game Boy Color",
+      "developer": "Traveller's Tales",
+      "game_type": "action_platformer",
+      "count": 15,
+      "characters": [
+        {"name": "Flik", "role": "protagonist", "voice_actor": "Dave Foley (archive)", "species": "ant", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Atta", "role": "supporting", "voice_actor": "Julia Louis-Dreyfus (archive)", "species": "ant", "gender": "female", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Dot", "role": "supporting", "voice_actor": "Hayden Panettiere (archive)", "species": "ant", "gender": "female", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "The Queen", "role": "supporting", "voice_actor": "Phyllis Diller (archive)", "species": "ant", "gender": "female", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Hopper", "role": "villain", "voice_actor": "Kevin Spacey (archive)", "species": "grasshopper", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Molt", "role": "antagonist", "voice_actor": "Richard Kind (archive)", "species": "grasshopper", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Thumper", "role": "antagonist", "voice_actor": "N/A", "species": "grasshopper", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "P.T. Flea", "role": "supporting", "voice_actor": "John Ratzenberger (archive)", "species": "flea", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Francis", "role": "ally", "voice_actor": "Denis Leary (archive)", "species": "ladybug", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Slim", "role": "ally", "voice_actor": "David Hyde Pierce (archive)", "species": "stick insect", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Heimlich", "role": "ally", "voice_actor": "Joe Ranft (archive)", "species": "caterpillar", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Dim", "role": "ally", "voice_actor": "Brad Garrett (archive)", "species": "rhinoceros beetle", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Rosie", "role": "ally", "voice_actor": "Bonnie Hunt (archive)", "species": "black widow spider", "gender": "female", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Manny and Gypsy", "role": "ally", "voice_actor": "Jonathan Harris/Madeline Kahn (archive)", "species": "praying mantis/moth", "gender": "male/female", "origin": "pixar", "origin_franchise": "A Bug's Life"},
+        {"name": "Grasshopper Gang", "role": "antagonist", "voice_actor": "N/A", "species": "grasshopper", "gender": "male", "origin": "pixar", "origin_franchise": "A Bug's Life"}
+      ]
+    },
+    "monsters_inc_2001": {
+      "year": 2001,
+      "platform": "PlayStation 2/PC/Game Boy Advance",
+      "developer": "Kodiak Interactive",
+      "game_type": "action_adventure",
+      "count": 15,
+      "characters": [
+        {"name": "Sulley", "role": "protagonist", "voice_actor": "John Goodman (archive)", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Mike Wazowski", "role": "protagonist", "voice_actor": "Billy Crystal (archive)", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Boo", "role": "supporting", "voice_actor": "Mary Gibbs (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Randall Boggs", "role": "villain", "voice_actor": "Steve Buscemi (archive)", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Henry J. Waternoose", "role": "villain", "voice_actor": "James Coburn (archive)", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Celia Mae", "role": "supporting", "voice_actor": "Jennifer Tilly (archive)", "species": "monster", "gender": "female", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Roz", "role": "supporting", "voice_actor": "Bob Peterson (archive)", "species": "monster", "gender": "female", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Fungus", "role": "antagonist", "voice_actor": "Frank Oz (archive)", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "CDA Agents", "role": "supporting", "voice_actor": "N/A", "species": "monster", "gender": "various", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Yeti", "role": "supporting", "voice_actor": "John Ratzenberger (archive)", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Needleman and Smitty", "role": "minor", "voice_actor": "N/A", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "George Sanderson", "role": "minor", "voice_actor": "N/A", "species": "monster", "gender": "male", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Monsters, Inc. Employees", "role": "minor", "voice_actor": "N/A", "species": "monster", "gender": "various", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Scream Factory Workers", "role": "minor", "voice_actor": "N/A", "species": "monster", "gender": "various", "origin": "pixar", "origin_franchise": "Monsters, Inc."},
+        {"name": "Scare Floor Monsters", "role": "minor", "voice_actor": "N/A", "species": "monster", "gender": "various", "origin": "pixar", "origin_franchise": "Monsters, Inc."}
+      ]
+    },
+    "finding_nemo_2003": {
+      "year": 2003,
+      "platform": "Multi-platform",
+      "developer": "Traveller's Tales/KnowWonder",
+      "game_type": "action_adventure",
+      "count": 18,
+      "characters": [
+        {"name": "Nemo", "role": "protagonist", "voice_actor": "Alexander Gould (archive)", "species": "clownfish", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Marlin", "role": "protagonist", "voice_actor": "Albert Brooks (archive)", "species": "clownfish", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Dory", "role": "ally", "voice_actor": "Ellen DeGeneres (archive)", "species": "blue tang", "gender": "female", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Gill", "role": "ally", "voice_actor": "Willem Dafoe (archive)", "species": "moorish idol", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Bloat", "role": "ally", "voice_actor": "Brad Garrett (archive)", "species": "porcupinefish", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Peach", "role": "ally", "voice_actor": "Allison Janney (archive)", "species": "starfish", "gender": "female", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Gurgle", "role": "ally", "voice_actor": "Austin Pendleton (archive)", "species": "royal gramma", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Bubbles", "role": "ally", "voice_actor": "Stephen Root (archive)", "species": "yellow tang", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Deb/Flo", "role": "ally", "voice_actor": "Vicki Lewis (archive)", "species": "damselfish", "gender": "female", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Jacques", "role": "ally", "voice_actor": "Joe Ranft (archive)", "species": "cleaner shrimp", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Bruce", "role": "supporting", "voice_actor": "Barry Humphries (archive)", "species": "great white shark", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Anchor", "role": "supporting", "voice_actor": "Eric Bana (archive)", "species": "hammerhead shark", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Chum", "role": "supporting", "voice_actor": "Bruce Spence (archive)", "species": "mako shark", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Crush", "role": "ally", "voice_actor": "Andrew Stanton (archive)", "species": "sea turtle", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Squirt", "role": "ally", "voice_actor": "Nicholas Bird (archive)", "species": "sea turtle", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Nigel", "role": "ally", "voice_actor": "Geoffrey Rush (archive)", "species": "pelican", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "Darla", "role": "antagonist", "voice_actor": "LuLu Ebeling (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "Finding Nemo"},
+        {"name": "P. Sherman", "role": "antagonist", "voice_actor": "Bill Hunter (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Finding Nemo"}
+      ]
+    },
+    "incredibles_2004": {
+      "year": 2004,
+      "platform": "Multi-platform",
+      "developer": "Heavy Iron Studios",
+      "game_type": "action_adventure",
+      "count": 15,
+      "characters": [
+        {"name": "Mr. Incredible", "role": "protagonist", "voice_actor": "Craig T. Nelson (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Elastigirl", "role": "protagonist", "voice_actor": "Holly Hunter (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Violet", "role": "protagonist", "voice_actor": "Sarah Vowell (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Dash", "role": "protagonist", "voice_actor": "Spencer Fox (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Frozone", "role": "ally", "voice_actor": "Samuel L. Jackson (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Syndrome", "role": "villain", "voice_actor": "Jason Lee (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Mirage", "role": "antagonist", "voice_actor": "Elizabeth Peña (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Edna Mode", "role": "supporting", "voice_actor": "Brad Bird (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Omnidroid", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Bomb Voyage", "role": "antagonist", "voice_actor": "Dominique Louis (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Gilbert Huph", "role": "antagonist", "voice_actor": "Wallace Shawn (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Syndrome's Guards", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Velocipods", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Jack-Jack", "role": "supporting", "voice_actor": "Eli Fucile/Maeve Andrews (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Rick Dicker", "role": "supporting", "voice_actor": "Bud Luckey (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"}
+      ]
+    },
+    "incredibles_rise_underminer": {
+      "year": 2005,
+      "platform": "Multi-platform",
+      "developer": "Heavy Iron Studios",
+      "game_type": "action_adventure",
+      "count": 12,
+      "characters": [
+        {"name": "Mr. Incredible", "role": "protagonist", "voice_actor": "John Mariano", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Frozone", "role": "protagonist", "voice_actor": "Isaac C. Singleton Jr.", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "The Underminer", "role": "villain", "voice_actor": "John Ratzenberger", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Elastigirl", "role": "supporting", "voice_actor": "Elizabeth Daily", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Violet", "role": "supporting", "voice_actor": "Sarah Vowell (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Dash", "role": "supporting", "voice_actor": "Spencer Fox (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "The Incredibles"},
+        {"name": "Xerek", "role": "villain", "voice_actor": "Jason Lee", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Rise of the Underminer"},
+        {"name": "Magnomizer", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Rise of the Underminer"},
+        {"name": "Underminer Robots", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Rise of the Underminer"},
+        {"name": "Corruptrons", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Rise of the Underminer"},
+        {"name": "Gilgenbot", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Rise of the Underminer"},
+        {"name": "Underground Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Rise of the Underminer"}
+      ]
+    },
+    "ratatouille_2007": {
+      "year": 2007,
+      "platform": "Multi-platform",
+      "developer": "Heavy Iron Studios",
+      "game_type": "action_adventure",
+      "count": 12,
+      "characters": [
+        {"name": "Remy", "role": "protagonist", "voice_actor": "Patton Oswalt (archive)", "species": "rat", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Alfredo Linguini", "role": "ally", "voice_actor": "Lou Romano (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Emile", "role": "ally", "voice_actor": "Peter Sohn (archive)", "species": "rat", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Django", "role": "supporting", "voice_actor": "Brian Dennehy (archive)", "species": "rat", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Skinner", "role": "villain", "voice_actor": "Ian Holm (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Colette Tatou", "role": "ally", "voice_actor": "Janeane Garofalo (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Anton Ego", "role": "supporting", "voice_actor": "Peter O'Toole (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Auguste Gusteau (Ghost)", "role": "supporting", "voice_actor": "Brad Garrett (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Horst", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Larousse", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Health Inspector", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Ratatouille"},
+        {"name": "Rat Colony", "role": "supporting", "voice_actor": "N/A", "species": "rat", "gender": "various", "origin": "pixar", "origin_franchise": "Ratatouille"}
+      ]
+    },
+    "wall_e_2008": {
+      "year": 2008,
+      "platform": "Multi-platform",
+      "developer": "Heavy Iron Studios",
+      "game_type": "action_adventure",
+      "count": 12,
+      "characters": [
+        {"name": "WALL-E", "role": "protagonist", "voice_actor": "Ben Burtt (archive)", "species": "robot", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "EVE", "role": "deuteragonist", "voice_actor": "Elissa Knight (archive)", "species": "robot", "gender": "female", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "M-O", "role": "ally", "voice_actor": "Ben Burtt (archive)", "species": "robot", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "Captain McCrea", "role": "ally", "voice_actor": "Jeff Garlin (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "AUTO", "role": "villain", "voice_actor": "MacInTalk", "species": "robot", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "GO-4", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "BURN-E", "role": "supporting", "voice_actor": "N/A", "species": "robot", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "VN-GO", "role": "supporting", "voice_actor": "N/A", "species": "robot", "gender": "male", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "PR-T", "role": "supporting", "voice_actor": "N/A", "species": "robot", "gender": "female", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "BRL-A", "role": "supporting", "voice_actor": "N/A", "species": "robot", "gender": "female", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "Steward Bots", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "pixar", "origin_franchise": "WALL-E"},
+        {"name": "Reject Bots", "role": "ally", "voice_actor": "N/A", "species": "robot", "gender": "various", "origin": "pixar", "origin_franchise": "WALL-E"}
+      ]
+    },
+    "up_2009": {
+      "year": 2009,
+      "platform": "Multi-platform",
+      "developer": "Heavy Iron Studios",
+      "game_type": "action_adventure",
+      "count": 10,
+      "characters": [
+        {"name": "Carl Fredricksen", "role": "protagonist", "voice_actor": "Ed Asner (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Russell", "role": "protagonist", "voice_actor": "Jordan Nagai (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Dug", "role": "ally", "voice_actor": "Bob Peterson (archive)", "species": "dog", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Kevin", "role": "ally", "voice_actor": "N/A", "species": "bird", "gender": "female", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Charles Muntz", "role": "villain", "voice_actor": "Christopher Plummer (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Alpha", "role": "antagonist", "voice_actor": "Bob Peterson (archive)", "species": "dog", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Beta", "role": "antagonist", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Gamma", "role": "antagonist", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Muntz's Dog Pack", "role": "antagonist", "voice_actor": "N/A", "species": "dog", "gender": "various", "origin": "pixar", "origin_franchise": "Up"},
+        {"name": "Kevin's Chicks", "role": "supporting", "voice_actor": "N/A", "species": "bird", "gender": "unknown", "origin": "pixar", "origin_franchise": "Up"}
+      ]
+    }
+  }
+}

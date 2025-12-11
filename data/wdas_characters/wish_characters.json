@@ -1,0 +1,165 @@
+{
+  "franchise": "Wish",
+  "films": [
+    "Wish (2023)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "wish_2023": {
+      "year": 2023,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Asha",
+          "role": "protagonist",
+          "voice_actor": "Ariana DeBose",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Star",
+          "role": "deuteragonist",
+          "voice_actor": null,
+          "notes": "Non-speaking, expresses through animation",
+          "species": "star",
+          "gender": "n/a"
+        },
+        {
+          "name": "King Magnifico",
+          "role": "villain",
+          "voice_actor": "Chris Pine",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Queen Amaya",
+          "role": "supporting",
+          "voice_actor": "Angelique Cabral",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Valentino",
+          "role": "comic_relief",
+          "voice_actor": "Alan Tudyk",
+          "notes": "Pajama-wearing goat",
+          "species": "goat",
+          "gender": "male"
+        },
+        {
+          "name": "Sabino",
+          "role": "supporting",
+          "voice_actor": "Victor Garber",
+          "notes": "Asha's grandfather",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sakina",
+          "role": "supporting",
+          "voice_actor": "Natasha Rothwell",
+          "notes": "Asha's mother",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Dahlia",
+          "role": "ally",
+          "voice_actor": "Jennifer Kumiyama",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Simon",
+          "role": "ally",
+          "voice_actor": "Evan Peters",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Gabo",
+          "role": "ally",
+          "voice_actor": "Harvey Guill\u00e9n",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Hal",
+          "role": "ally",
+          "voice_actor": "Niko Vargas",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Bazeema",
+          "role": "ally",
+          "voice_actor": "Della Saba",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Dario",
+          "role": "ally",
+          "voice_actor": "Jon Rudnitsky",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Safi",
+          "role": "ally",
+          "voice_actor": "Ramy Youssef",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Royal Guards",
+          "role": "henchman",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Citizens of Rosas",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Wishes",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Glowing orbs of captured dreams",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Forest Animals",
+          "role": "ally",
+          "voice_actor": null,
+          "species": "various_animals",
+          "gender": "various"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "Made for Disney's 100th anniversary",
+    "style": "Blends CGI with watercolor-inspired rendering"
+  }
+}

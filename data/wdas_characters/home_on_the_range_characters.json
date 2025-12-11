@@ -1,0 +1,168 @@
+{
+  "franchise": "Home on the Range",
+  "films": [
+    "Home on the Range (2004)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "home_on_the_range_2004": {
+      "year": 2004,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Maggie",
+          "role": "protagonist",
+          "voice_actor": "Roseanne Barr",
+          "species": "cow",
+          "gender": "female"
+        },
+        {
+          "name": "Mrs. Calloway",
+          "role": "deuteragonist",
+          "voice_actor": "Judi Dench",
+          "species": "cow",
+          "gender": "female"
+        },
+        {
+          "name": "Grace",
+          "role": "deuteragonist",
+          "voice_actor": "Jennifer Tilly",
+          "species": "cow",
+          "gender": "female"
+        },
+        {
+          "name": "Alameda Slim",
+          "role": "villain",
+          "voice_actor": "Randy Quaid",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Buck",
+          "role": "ally",
+          "voice_actor": "Cuba Gooding Jr.",
+          "notes": "Sheriff's horse",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "Lucky Jack",
+          "role": "ally",
+          "voice_actor": "Charles Dennis",
+          "notes": "Rabbit bounty hunter",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Rico",
+          "role": "antagonist",
+          "voice_actor": "Charles Haid",
+          "notes": "Bounty hunter",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Willie Brothers",
+          "role": "henchman",
+          "voice_actor": "Sam J. Levine, Lance LeGault, various",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Pearl Gesner",
+          "role": "supporting",
+          "voice_actor": "Carole Cook",
+          "notes": "Patch of Heaven owner",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Sheriff Sam Brown",
+          "role": "supporting",
+          "voice_actor": "Richard Riehle",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Wesley",
+          "role": "henchman",
+          "voice_actor": "Steve Buscemi",
+          "notes": "Slim's secret partner",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Jeb the Goat",
+          "role": "comic_relief",
+          "voice_actor": "Joe Flaherty",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Ollie",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Pig",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Audrey the Hen",
+          "role": "minor",
+          "voice_actor": "Estelle Harris",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Larry",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Duck",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Junior the Buffalo",
+          "role": "ally",
+          "voice_actor": "Lance LeGault",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Rusty",
+          "role": "minor",
+          "voice_actor": "G.W. Bailey",
+          "notes": "Saloon dog",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Barry and Bob",
+          "role": "comic_relief",
+          "voice_actor": "Mark Walton, various",
+          "notes": "Longhorn steers",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "Last traditionally animated WDAS film until The Princess and the Frog (2009)"
+  }
+}

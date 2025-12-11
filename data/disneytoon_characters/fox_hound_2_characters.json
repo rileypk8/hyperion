@@ -1,0 +1,32 @@
+{
+  "film": "The Fox and the Hound 2",
+  "studio": "DisneyToon Studios",
+  "year": 2006,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Tod", "role": "protagonist", "species": "fox", "gender": "male", "voice_actor": "Jonah Bobo"},
+    {"name": "Copper", "role": "protagonist", "species": "hound", "gender": "male", "voice_actor": "Harrison Fahn"},
+    {"name": "Dixie", "role": "love_interest", "species": "dog", "gender": "female", "voice_actor": "Reba McEntire"},
+    {"name": "Cash", "role": "antagonist", "species": "dog", "gender": "male", "voice_actor": "Patrick Swayze"},
+    {"name": "Widow Tweed", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Russi Taylor"},
+    {"name": "Amos Slade", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Big Mama", "role": "supporting", "species": "owl", "gender": "female", "voice_actor": "Vicki Lawrence"},
+    {"name": "Waylon", "role": "comic_relief", "species": "dog", "gender": "male", "voice_actor": "Jeff Foxworthy"},
+    {"name": "Floyd", "role": "comic_relief", "species": "dog", "gender": "male", "voice_actor": "Larry the Cable Guy"},
+    {"name": "Lyle Snodgrass", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "antagonist": "Character opposing protagonist",
+    "love_interest": "Romantic interest",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  },
+  "notes": {
+    "midquel": "Set during the puppyhood sequences of the original film",
+    "country_music": "Features country music theme with voice cast including Reba McEntire and Patrick Swayze"
+  }
+}

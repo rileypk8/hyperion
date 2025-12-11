@@ -1,0 +1,28 @@
+{
+  "film": "Brother Bear 2",
+  "studio": "DisneyToon Studios",
+  "year": 2006,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Kenai", "role": "protagonist", "species": "bear (human-turned)", "gender": "male", "voice_actor": "Patrick Dempsey"},
+    {"name": "Nita", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Mandy Moore"},
+    {"name": "Koda", "role": "ally", "species": "bear", "gender": "male", "voice_actor": "Jeremy Suarez"},
+    {"name": "Rutt", "role": "comic_relief", "species": "moose", "gender": "male", "voice_actor": "Rick Moranis"},
+    {"name": "Tuke", "role": "comic_relief", "species": "moose", "gender": "male", "voice_actor": "Dave Thomas"},
+    {"name": "Atka", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Jeff Bennett"},
+    {"name": "Innoko", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Wendie Malick"},
+    {"name": "Chilkoot", "role": "supporting", "species": "human/spirit", "gender": "male", "voice_actor": "Jim Cummings"},
+    {"name": "Siqiniq", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "n/a"},
+    {"name": "Aunt Siqinirq", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Andrea Martin"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "antagonist": "Character opposing protagonist",
+    "ally": "Friend supporting protagonist",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role"
+  }
+}

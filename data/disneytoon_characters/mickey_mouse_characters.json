@@ -1,0 +1,71 @@
+{
+  "franchise": "Mickey Mouse",
+  "studio": "DisneyToon Studios",
+  "films": ["Mickey's Once Upon a Christmas (1999)", "Mickey's Twice Upon a Christmas (2004)", "Mickey, Donald, Goofy: The Three Musketeers (2004)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 28,
+  "categories": {
+    "once_upon_christmas_1999": {
+      "year": 1999,
+      "release_type": "direct_to_video",
+      "count": 10,
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "species": "mouse", "gender": "male", "voice_actor": "Wayne Allwine"},
+        {"name": "Minnie Mouse", "role": "protagonist", "species": "mouse", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "Donald Duck", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Tony Anselmo"},
+        {"name": "Goofy", "role": "protagonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Max Goof", "role": "deuteragonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Shaun Fleming"},
+        {"name": "Huey, Dewey, Louie", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Various"},
+        {"name": "Daisy Duck", "role": "supporting", "species": "duck", "gender": "female", "voice_actor": "Diane Michelle"},
+        {"name": "Pluto", "role": "sidekick", "species": "dog", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Santa Claus", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Kelsey Grammer"},
+        {"name": "Scrooge McDuck", "role": "supporting", "species": "duck", "gender": "male", "voice_actor": "Alan Young"}
+      ]
+    },
+    "twice_upon_christmas_2004": {
+      "year": 2004,
+      "release_type": "direct_to_video",
+      "count": 10,
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "species": "mouse", "gender": "male", "voice_actor": "Wayne Allwine"},
+        {"name": "Minnie Mouse", "role": "protagonist", "species": "mouse", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "Donald Duck", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Tony Anselmo"},
+        {"name": "Goofy", "role": "protagonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Max Goof", "role": "deuteragonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Jason Marsden"},
+        {"name": "Daisy Duck", "role": "supporting", "species": "duck", "gender": "female", "voice_actor": "Tress MacNeille"},
+        {"name": "Pluto", "role": "sidekick", "species": "dog", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Huey, Dewey, Louie", "role": "supporting", "species": "duck", "gender": "male", "voice_actor": "Various"},
+        {"name": "Scrooge McDuck", "role": "supporting", "species": "duck", "gender": "male", "voice_actor": "Alan Young"},
+        {"name": "Santa Claus", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"}
+      ]
+    },
+    "three_musketeers_2004": {
+      "year": 2004,
+      "release_type": "direct_to_video",
+      "count": 8,
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "species": "mouse", "gender": "male", "voice_actor": "Wayne Allwine"},
+        {"name": "Donald Duck", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Tony Anselmo"},
+        {"name": "Goofy", "role": "protagonist", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Bill Farmer"},
+        {"name": "Pete", "role": "villain", "species": "cat (anthropomorphic)", "gender": "male", "voice_actor": "Jim Cummings"},
+        {"name": "Princess Minnie", "role": "love_interest", "species": "mouse", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "Daisy Duck", "role": "supporting", "species": "duck", "gender": "female", "voice_actor": "Tress MacNeille"},
+        {"name": "Clarabelle Cow", "role": "supporting", "species": "cow", "gender": "female", "voice_actor": "April Winchell"},
+        {"name": "The Beagle Boys", "role": "henchman", "species": "dog (anthropomorphic)", "gender": "male", "voice_actor": "Various"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Villain's subordinate",
+    "sidekick": "Constant companion",
+    "love_interest": "Romantic interest",
+    "supporting": "Important but secondary role"
+  },
+  "notes": {
+    "anthology": "Both Christmas films are anthologies with multiple segments",
+    "cgi": "Twice Upon a Christmas was CGI animated, the others traditional 2D"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "franchise": "Toy Story",
+  "films": ["Toy Story (1995)", "Toy Story 2 (1999)", "Toy Story 3 (2010)", "Toy Story 4 (2019)"],
+  "total_estimated_characters": 75,
+  "categories": {
+    "core_recurring_cast": {
+      "count": 15,
+      "characters": [
+        {"name": "Woody", "role": "protagonist", "species": "toy (cowboy doll)", "gender": "male", "voice_actor": "Tom Hanks"},
+        {"name": "Buzz Lightyear", "role": "deuteragonist", "species": "toy (action figure)", "gender": "male", "voice_actor": "Tim Allen"},
+        {"name": "Jessie", "role": "hero", "species": "toy (cowgirl doll)", "gender": "female", "voice_actor": "Joan Cusack"},
+        {"name": "Bullseye", "role": "sidekick", "species": "toy (horse)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Rex", "role": "comic relief", "species": "toy (dinosaur)", "gender": "male", "voice_actor": "Wallace Shawn"},
+        {"name": "Hamm", "role": "comic relief", "species": "toy (piggy bank)", "gender": "male", "voice_actor": "John Ratzenberger"},
+        {"name": "Slinky Dog", "role": "sidekick", "species": "toy (dog)", "gender": "male", "voice_actor": "Jim Varney (1-2), Blake Clark (3-4)"},
+        {"name": "Mr. Potato Head", "role": "comic relief", "species": "toy (potato)", "gender": "male", "voice_actor": "Don Rickles"},
+        {"name": "Mrs. Potato Head", "role": "supporting", "species": "toy (potato)", "gender": "female", "voice_actor": "Estelle Harris"},
+        {"name": "The Aliens", "role": "comic relief", "species": "toy (squeeze toy)", "gender": "male", "voice_actor": "Jeff Pidgeon"},
+        {"name": "Bo Peep", "role": "love interest", "species": "toy (porcelain lamp)", "gender": "female", "voice_actor": "Annie Potts", "notes": "Elevated to protagonist in TS4"},
+        {"name": "Sarge", "role": "supporting", "species": "toy (army man)", "gender": "male", "voice_actor": "R. Lee Ermey"},
+        {"name": "Barbie", "role": "supporting", "species": "toy (fashion doll)", "gender": "female", "voice_actor": "Jodi Benson", "notes": "Love interest in TS3"},
+        {"name": "Andy Davis", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "John Morris"},
+        {"name": "Mrs. Davis", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Laurie Metcalf"}
+      ]
+    },
+    "toy_story_1": {
+      "year": 1995,
+      "count": 15,
+      "characters": [
+        {"name": "RC", "role": "minor", "species": "toy (remote control car)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Lenny", "role": "minor", "species": "toy (binoculars)", "gender": "male", "voice_actor": "Joe Ranft"},
+        {"name": "Etch", "role": "minor", "species": "toy (Etch A Sketch)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Mr. Spell", "role": "minor", "species": "toy (electronic toy)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Rocky Gibraltar", "role": "minor", "species": "toy (wrestler figure)", "gender": "male", "voice_actor": "Jack Angel"},
+        {"name": "Snake", "role": "minor", "species": "toy (snake)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Robot", "role": "minor", "species": "toy (robot)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Sid Phillips", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Erik von Detten"},
+        {"name": "Hannah Phillips", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Sarah Freeman"},
+        {"name": "Scud", "role": "henchman", "species": "dog", "gender": "male", "voice_actor": null, "notes": "Sid's dog"},
+        {"name": "Babyface", "role": "supporting", "species": "toy (mutant)", "gender": "unknown", "voice_actor": null, "notes": "Mutant toy"},
+        {"name": "Legs", "role": "supporting", "species": "toy (mutant)", "gender": "female", "voice_actor": null, "notes": "Mutant toy"},
+        {"name": "Ducky (mutant)", "role": "supporting", "species": "toy (mutant)", "gender": "unknown", "voice_actor": null, "notes": "Mutant toy"},
+        {"name": "Hand-in-the-Box", "role": "supporting", "species": "toy (mutant)", "gender": "unknown", "voice_actor": null, "notes": "Mutant toy"},
+        {"name": "Roller Bob", "role": "supporting", "species": "toy (mutant)", "gender": "unknown", "voice_actor": null, "notes": "Mutant toy"}
+      ]
+    },
+    "toy_story_2": {
+      "year": 1999,
+      "count": 8,
+      "characters": [
+        {"name": "Stinky Pete", "role": "villain", "species": "toy (prospector doll)", "gender": "male", "voice_actor": "Kelsey Grammer"},
+        {"name": "Al McWhiggin", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Wayne Knight"},
+        {"name": "Wheezy", "role": "supporting", "species": "toy (squeaky penguin)", "gender": "male", "voice_actor": "Joe Ranft"},
+        {"name": "Zurg", "role": "comic relief", "species": "toy (action figure)", "gender": "male", "voice_actor": "Andrew Stanton", "notes": "Parody villain"},
+        {"name": "Utility Belt Buzz", "role": "comic relief", "species": "toy (action figure)", "gender": "male", "voice_actor": "Tim Allen"},
+        {"name": "Tour Guide Barbie", "role": "minor", "species": "toy (fashion doll)", "gender": "female", "voice_actor": "Jodi Benson"},
+        {"name": "Geri the Cleaner", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Jonathan Harris"},
+        {"name": "Emily", "role": "minor", "species": "human", "gender": "female", "voice_actor": null, "notes": "Flashback only"}
+      ]
+    },
+    "toy_story_3": {
+      "year": 2010,
+      "count": 18,
+      "characters": [
+        {"name": "Lotso", "role": "villain", "species": "toy (teddy bear)", "gender": "male", "voice_actor": "Ned Beatty"},
+        {"name": "Ken", "role": "antagonist", "species": "toy (fashion doll)", "gender": "male", "voice_actor": "Michael Keaton", "notes": "Redeemed, also love interest"},
+        {"name": "Big Baby", "role": "henchman", "species": "toy (baby doll)", "gender": "male", "voice_actor": null, "notes": "Redeemed"},
+        {"name": "Stretch", "role": "henchman", "species": "toy (octopus)", "gender": "female", "voice_actor": "Whoopi Goldberg"},
+        {"name": "Chunk", "role": "henchman", "species": "toy (rock monster)", "gender": "male", "voice_actor": "Jack Angel"},
+        {"name": "Twitch", "role": "henchman", "species": "toy (insect warrior)", "gender": "male", "voice_actor": "John Cygan"},
+        {"name": "Sparks", "role": "henchman", "species": "toy (robot)", "gender": "male", "voice_actor": "Jan Rabson"},
+        {"name": "Bookworm", "role": "henchman", "species": "toy (glow worm)", "gender": "male", "voice_actor": "Richard Kind"},
+        {"name": "Chatter Telephone", "role": "ally", "species": "toy (telephone)", "gender": "male", "voice_actor": "Teddy Newton"},
+        {"name": "Bonnie Anderson", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Emily Hahn"},
+        {"name": "Dolly", "role": "supporting", "species": "toy (rag doll)", "gender": "female", "voice_actor": "Bonnie Hunt"},
+        {"name": "Buttercup", "role": "comic relief", "species": "toy (unicorn)", "gender": "male", "voice_actor": "Jeff Garlin"},
+        {"name": "Mr. Pricklepants", "role": "comic relief", "species": "toy (hedgehog)", "gender": "male", "voice_actor": "Timothy Dalton"},
+        {"name": "Trixie", "role": "supporting", "species": "toy (dinosaur)", "gender": "female", "voice_actor": "Kristen Schaal"},
+        {"name": "Chuckles", "role": "supporting", "species": "toy (clown)", "gender": "male", "voice_actor": "Bud Luckey"},
+        {"name": "Peas-in-a-Pod", "role": "minor", "species": "toy (plush peas)", "gender": "mixed", "voice_actor": "Charlie Bright, Amber Kroner, Brianna Maiwand"},
+        {"name": "Molly Davis", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Beatrice Miller"},
+        {"name": "Daisy", "role": "minor", "species": "human", "gender": "female", "voice_actor": null, "notes": "Flashback only"}
+      ]
+    },
+    "toy_story_4": {
+      "year": 2019,
+      "count": 12,
+      "characters": [
+        {"name": "Forky", "role": "deuteragonist", "species": "toy (spork craft)", "gender": "male", "voice_actor": "Tony Hale"},
+        {"name": "Gabby Gabby", "role": "antagonist", "species": "toy (vintage doll)", "gender": "female", "voice_actor": "Christina Hendricks", "notes": "Redeemed"},
+        {"name": "Duke Caboom", "role": "comic relief", "species": "toy (stuntman figure)", "gender": "male", "voice_actor": "Keanu Reeves"},
+        {"name": "Ducky", "role": "comic relief", "species": "toy (carnival plush)", "gender": "male", "voice_actor": "Keegan-Michael Key"},
+        {"name": "Bunny", "role": "comic relief", "species": "toy (carnival plush)", "gender": "male", "voice_actor": "Jordan Peele"},
+        {"name": "Giggle McDimples", "role": "sidekick", "species": "toy (miniature figure)", "gender": "female", "voice_actor": "Ally Maki"},
+        {"name": "The Bensons", "role": "henchmen", "species": "toy (ventriloquist dummies)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Combat Carl Jr.", "role": "minor", "species": "toy (action figure)", "gender": "male", "voice_actor": "Carl Weathers"},
+        {"name": "Margaret", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Madeleine McGraw"},
+        {"name": "Harmony", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Lila Sage Bromley"},
+        {"name": "Mr. Anderson", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Jay Hernandez"},
+        {"name": "Karen Beverly", "role": "minor", "species": "toy (carnival toy)", "gender": "female", "voice_actor": "Melissa Villaseñor"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "hero": "Major heroic character",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "ally": "Helps heroes in key moments",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

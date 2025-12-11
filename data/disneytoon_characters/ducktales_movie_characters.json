@@ -1,0 +1,35 @@
+{
+  "film": "DuckTales the Movie: Treasure of the Lost Lamp",
+  "studio": "DisneyToon Studios",
+  "year": 1990,
+  "release_type": "theatrical",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 12,
+  "characters": [
+    {"name": "Scrooge McDuck", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Alan Young"},
+    {"name": "Huey", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Russi Taylor"},
+    {"name": "Dewey", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Russi Taylor"},
+    {"name": "Louie", "role": "protagonist", "species": "duck", "gender": "male", "voice_actor": "Russi Taylor"},
+    {"name": "Merlock", "role": "villain", "species": "human (sorcerer)", "gender": "male", "voice_actor": "Christopher Lloyd"},
+    {"name": "Dijon", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Richard Libertini"},
+    {"name": "Gene the Genie", "role": "deuteragonist", "species": "genie", "gender": "male", "voice_actor": "Rip Taylor"},
+    {"name": "Launchpad McQuack", "role": "ally", "species": "duck", "gender": "male", "voice_actor": "Terence McGovern"},
+    {"name": "Webby Vanderquack", "role": "ally", "species": "duck", "gender": "female", "voice_actor": "Russi Taylor"},
+    {"name": "Mrs. Beakley", "role": "supporting", "species": "duck", "gender": "female", "voice_actor": "Joan Gerber"},
+    {"name": "Duckworth", "role": "supporting", "species": "dog", "gender": "male", "voice_actor": "Chuck McCann"},
+    {"name": "Collie Baba", "role": "minor", "species": "dog", "gender": "male", "voice_actor": "n/a"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time"
+  },
+  "notes": {
+    "first_dts_film": "First theatrical release from DisneyToon Studios",
+    "tv_series": "Based on the DuckTales TV series (1987-1990)"
+  }
+}

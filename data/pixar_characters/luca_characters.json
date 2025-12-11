@@ -1,0 +1,41 @@
+{
+  "franchise": "Luca",
+  "films": ["Luca (2021)"],
+  "total_estimated_characters": 18,
+  "categories": {
+    "luca": {
+      "year": 2021,
+      "count": 18,
+      "characters": [
+        {"name": "Luca Paguro", "role": "protagonist", "species": "sea monster", "gender": "male", "voice_actor": "Jacob Tremblay"},
+        {"name": "Alberto Scorfano", "role": "deuteragonist", "species": "sea monster", "gender": "male", "voice_actor": "Jack Dylan Grazer"},
+        {"name": "Giulia Marcovaldo", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Emma Berman"},
+        {"name": "Ercole Visconti", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Saverio Raimondo"},
+        {"name": "Massimo Marcovaldo", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Marco Barricelli"},
+        {"name": "Daniela Paguro", "role": "supporting", "species": "sea monster", "gender": "female", "voice_actor": "Maya Rudolph"},
+        {"name": "Lorenzo Paguro", "role": "supporting", "species": "sea monster", "gender": "male", "voice_actor": "Jim Gaffigan"},
+        {"name": "Grandma Paguro", "role": "supporting", "species": "sea monster", "gender": "female", "voice_actor": "Sandy Martin"},
+        {"name": "Ciccio", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Peter Sohn"},
+        {"name": "Guido", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Lorenzo Crisci"},
+        {"name": "Machiavelli", "role": "comic relief", "species": "cat", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Uncle Ugo", "role": "comic relief", "species": "sea monster (deep sea)", "gender": "male", "voice_actor": "Sacha Baron Cohen"},
+        {"name": "Tommaso", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Giacomo Gianniotti"},
+        {"name": "Pinuccia Aragosta", "role": "minor", "species": "human", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Concetta Aragosta", "role": "minor", "species": "human", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Old Lady", "role": "minor", "species": "human", "gender": "female", "voice_actor": "unknown"},
+        {"name": "Priest", "role": "minor", "species": "human", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Alberto's Father", "role": "minor", "species": "sea monster", "gender": "male", "voice_actor": null, "notes": "Referenced but not seen"},
+        {"name": "Schoolmaster", "role": "minor", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Serves the villain",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

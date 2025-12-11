@@ -1,0 +1,153 @@
+{
+  "franchise": "WDAS Movie Tie-in Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "The Little Mermaid (1991)",
+    "The Little Mermaid: Ariel's Undersea Adventure (2006)",
+    "Bolt (2008)",
+    "Tangled (2010)",
+    "Brave: The Video Game (2012)",
+    "Wreck-It Ralph (2012)",
+    "Frozen: Olaf's Quest (2013)"
+  ],
+  "total_estimated_characters": 65,
+  "categories": {
+    "little_mermaid_1991": {
+      "year": 1991,
+      "platform": "NES/Game Boy/Genesis",
+      "developer": "Capcom/BlueSky Software",
+      "game_type": "platformer",
+      "count": 10,
+      "characters": [
+        {"name": "Ariel", "role": "protagonist", "voice_actor": "N/A", "species": "mermaid", "gender": "female", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Flounder", "role": "ally", "voice_actor": "N/A", "species": "fish", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Sebastian", "role": "ally", "voice_actor": "N/A", "species": "crab", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "King Triton", "role": "supporting", "voice_actor": "N/A", "species": "merman", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Prince Eric", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Ursula", "role": "villain", "voice_actor": "N/A", "species": "cecaelia", "gender": "female", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Flotsam and Jetsam", "role": "antagonist", "voice_actor": "N/A", "species": "moray eel", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Scuttle", "role": "ally", "voice_actor": "N/A", "species": "seagull", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Glut the Shark", "role": "antagonist", "voice_actor": "N/A", "species": "shark", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Undersea Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "The Little Mermaid (Game)"}
+      ]
+    },
+    "ariels_undersea_adventure": {
+      "year": 2006,
+      "platform": "Nintendo DS",
+      "developer": "Altron",
+      "game_type": "adventure_rhythm",
+      "count": 10,
+      "characters": [
+        {"name": "Ariel", "role": "protagonist", "voice_actor": "Jodi Benson (archive)", "species": "mermaid", "gender": "female", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Flounder", "role": "ally", "voice_actor": "N/A", "species": "fish", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Sebastian", "role": "ally", "voice_actor": "Samuel E. Wright (archive)", "species": "crab", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "King Triton", "role": "supporting", "voice_actor": "Kenneth Mars (archive)", "species": "merman", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Prince Eric", "role": "supporting", "voice_actor": "Christopher Daniel Barnes (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Ursula", "role": "villain", "voice_actor": "Pat Carroll (archive)", "species": "cecaelia", "gender": "female", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Scuttle", "role": "ally", "voice_actor": "Buddy Hackett (archive)", "species": "seagull", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Ariel's Sisters", "role": "supporting", "voice_actor": "Various", "species": "mermaid", "gender": "female", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Max", "role": "supporting", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"},
+        {"name": "Grimsby", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Little Mermaid"}
+      ]
+    },
+    "bolt_2008": {
+      "year": 2008,
+      "platform": "Multi-platform",
+      "developer": "Avalanche Software",
+      "game_type": "action_adventure",
+      "count": 12,
+      "characters": [
+        {"name": "Bolt", "role": "protagonist", "voice_actor": "John Travolta (archive)", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Penny", "role": "protagonist", "voice_actor": "Miley Cyrus (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Mittens", "role": "ally", "voice_actor": "Susie Essman (archive)", "species": "cat", "gender": "female", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Rhino", "role": "ally", "voice_actor": "Mark Walton (archive)", "species": "hamster", "gender": "male", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Dr. Calico", "role": "villain", "voice_actor": "Malcolm McDowell (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Calico's Henchmen", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Calico's Cats", "role": "antagonist", "voice_actor": "N/A", "species": "cat", "gender": "various", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "The Director", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Penny's Mom", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Agent", "role": "antagonist", "voice_actor": "Greg Germann (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Bolt"},
+        {"name": "Robot Guards", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Bolt (Game)"},
+        {"name": "Enemy Vehicles", "role": "antagonist", "voice_actor": "N/A", "species": "vehicle", "gender": "none", "origin": "original", "origin_franchise": "Bolt (Game)"}
+      ]
+    },
+    "tangled_2010": {
+      "year": 2010,
+      "platform": "Wii/Nintendo DS",
+      "developer": "Planet Moon Studios",
+      "game_type": "action_adventure",
+      "count": 10,
+      "characters": [
+        {"name": "Rapunzel", "role": "protagonist", "voice_actor": "Mandy Moore (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Flynn Rider", "role": "protagonist", "voice_actor": "Zachary Levi (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Pascal", "role": "ally", "voice_actor": "N/A", "species": "chameleon", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Maximus", "role": "ally", "voice_actor": "N/A", "species": "horse", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Mother Gothel", "role": "villain", "voice_actor": "Donna Murphy (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Stabbington Brothers", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Captain of the Guard", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "King and Queen", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male/female", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Pub Thugs", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"},
+        {"name": "Palace Guards", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tangled"}
+      ]
+    },
+    "brave_2012": {
+      "year": 2012,
+      "platform": "Multi-platform",
+      "developer": "Behaviour Interactive",
+      "game_type": "action_adventure",
+      "count": 12,
+      "characters": [
+        {"name": "Merida", "role": "protagonist", "voice_actor": "Kelly Macdonald (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Queen Elinor", "role": "deuteragonist", "voice_actor": "Emma Thompson (archive)", "species": "human/bear", "gender": "female", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "King Fergus", "role": "supporting", "voice_actor": "Billy Connolly (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Harris, Hubert, and Hamish", "role": "supporting", "voice_actor": "N/A", "species": "human/bear", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "The Witch", "role": "supporting", "voice_actor": "Julie Walters (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Mor'du", "role": "villain", "voice_actor": "N/A", "species": "bear", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Lord Dingwall", "role": "supporting", "voice_actor": "Robbie Coltrane (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Lord MacGuffin", "role": "supporting", "voice_actor": "Kevin McKidd (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Lord Macintosh", "role": "supporting", "voice_actor": "Craig Ferguson (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Young Macintosh", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Will-o'-the-Wisps", "role": "supporting", "voice_actor": "N/A", "species": "spirit", "gender": "none", "origin": "pixar", "origin_franchise": "Brave"},
+        {"name": "Wolves", "role": "antagonist", "voice_actor": "N/A", "species": "wolf", "gender": "various", "origin": "original", "origin_franchise": "Brave (Game)"}
+      ]
+    },
+    "wreck_it_ralph_2012": {
+      "year": 2012,
+      "platform": "Wii/3DS",
+      "developer": "Pipeworks Software",
+      "game_type": "platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Wreck-It Ralph", "role": "protagonist", "voice_actor": "John C. Reilly (archive)", "species": "video game character", "gender": "male", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Fix-It Felix Jr.", "role": "protagonist", "voice_actor": "Jack McBrayer (archive)", "species": "video game character", "gender": "male", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Vanellope von Schweetz", "role": "ally", "voice_actor": "Sarah Silverman (archive)", "species": "video game character", "gender": "female", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Sergeant Calhoun", "role": "ally", "voice_actor": "Jane Lynch (archive)", "species": "video game character", "gender": "female", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "King Candy/Turbo", "role": "villain", "voice_actor": "Alan Tudyk (archive)", "species": "video game character", "gender": "male", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Cy-Bugs", "role": "antagonist", "voice_actor": "N/A", "species": "video game creature", "gender": "none", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Nicelanders", "role": "supporting", "voice_actor": "N/A", "species": "video game character", "gender": "various", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Sugar Rush Racers", "role": "antagonist", "voice_actor": "Various", "species": "video game character", "gender": "various", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Sour Bill", "role": "antagonist", "voice_actor": "Rich Moore (archive)", "species": "video game character", "gender": "male", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Wynnchel and Duncan", "role": "antagonist", "voice_actor": "Adam Carolla/Horatio Sanz (archive)", "species": "video game character", "gender": "male", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Hero's Duty Soldiers", "role": "ally", "voice_actor": "N/A", "species": "video game character", "gender": "various", "origin": "disney", "origin_franchise": "Wreck-It Ralph"},
+        {"name": "Q*bert", "role": "supporting", "voice_actor": "N/A", "species": "video game character", "gender": "male", "origin": "licensed", "origin_franchise": "Q*bert"}
+      ]
+    },
+    "frozen_olafs_quest": {
+      "year": 2013,
+      "platform": "Nintendo 3DS/DS",
+      "developer": "1st Playable Productions",
+      "game_type": "platformer",
+      "count": 8,
+      "characters": [
+        {"name": "Olaf", "role": "protagonist", "voice_actor": "Josh Gad (archive)", "species": "snowman", "gender": "male", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Anna", "role": "supporting", "voice_actor": "Kristen Bell (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Elsa", "role": "supporting", "voice_actor": "Idina Menzel (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Kristoff", "role": "supporting", "voice_actor": "Jonathan Groff (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Sven", "role": "supporting", "voice_actor": "N/A", "species": "reindeer", "gender": "male", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Marshmallow", "role": "antagonist", "voice_actor": "N/A", "species": "snow monster", "gender": "male", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Snowgies", "role": "supporting", "voice_actor": "N/A", "species": "snowman", "gender": "none", "origin": "disney", "origin_franchise": "Frozen"},
+        {"name": "Wolves", "role": "antagonist", "voice_actor": "N/A", "species": "wolf", "gender": "various", "origin": "disney", "origin_franchise": "Frozen"}
+      ]
+    }
+  }
+}

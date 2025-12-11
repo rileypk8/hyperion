@@ -1,0 +1,860 @@
+{
+  "franchise": "Kingdom Hearts",
+  "game": "Kingdom Hearts III",
+  "year": 2019,
+  "platform": "PlayStation 4 / Xbox One",
+  "total_estimated_characters": 120,
+  "notes": "Includes Re Mind DLC (2020). First KH game with Pixar worlds.",
+  "characters": [
+    {
+      "name": "Sora",
+      "role": "protagonist",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Riku",
+      "role": "deuteragonist",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Kairi",
+      "role": "deuteragonist",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female",
+      "notes": "Playable in Re Mind DLC"
+    },
+    {
+      "name": "Donald Duck",
+      "role": "ally",
+      "voice_actor": "Tony Anselmo",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Goofy",
+      "role": "ally",
+      "voice_actor": "Bill Farmer",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic dog",
+      "gender": "male"
+    },
+    {
+      "name": "Mickey Mouse",
+      "role": "ally",
+      "voice_actor": "Bret Iwan",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic mouse",
+      "gender": "male"
+    },
+    {
+      "name": "Terra",
+      "role": "ally",
+      "voice_actor": "Jason Dohring",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Aqua",
+      "role": "ally",
+      "voice_actor": "Willa Holland",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Ventus",
+      "role": "ally",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Roxas",
+      "role": "ally",
+      "voice_actor": "Jesse McCartney",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Recompleted"
+    },
+    {
+      "name": "Xion",
+      "role": "ally",
+      "voice_actor": "Alyson Stoner",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "replica",
+      "gender": "female",
+      "notes": "Recompleted"
+    },
+    {
+      "name": "Axel / Lea",
+      "role": "ally",
+      "voice_actor": "Quinton Flynn",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Naminé",
+      "role": "supporting",
+      "voice_actor": "Meaghan Jette Martin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "female"
+    },
+    {
+      "name": "Master Xehanort",
+      "role": "villain",
+      "voice_actor": "Rutger Hauer",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Christopher Lloyd in Re Mind DLC"
+    },
+    {
+      "name": "Young Xehanort",
+      "role": "villain",
+      "voice_actor": "Ben Diskin",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Ansem, Seeker of Darkness",
+      "role": "villain",
+      "voice_actor": "Richard Epcar",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "heartless",
+      "gender": "male"
+    },
+    {
+      "name": "Xemnas",
+      "role": "villain",
+      "voice_actor": "Paul St. Peter",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Xigbar",
+      "role": "villain",
+      "voice_actor": "James Patrick Stuart",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Saïx",
+      "role": "villain",
+      "voice_actor": "Kirk Thornton",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Luxord",
+      "role": "villain",
+      "voice_actor": "Robin Atkin Downes",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Marluxia",
+      "role": "villain",
+      "voice_actor": "Keith Ferguson",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Larxene",
+      "role": "villain",
+      "voice_actor": "Shanelle Workman",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "female"
+    },
+    {
+      "name": "Vanitas",
+      "role": "villain",
+      "voice_actor": "Haley Joel Osment",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "being of darkness",
+      "gender": "male"
+    },
+    {
+      "name": "Terra-Xehanort",
+      "role": "villain",
+      "voice_actor": "Richard Epcar",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Dark Riku",
+      "role": "villain",
+      "voice_actor": "David Gallagher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "replica",
+      "gender": "male"
+    },
+    {
+      "name": "Vexen / Even",
+      "role": "supporting",
+      "voice_actor": "Derek Stephen Prince",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Defects from Organization"
+    },
+    {
+      "name": "Demyx",
+      "role": "supporting",
+      "voice_actor": "Ryan O'Donohue",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "nobody",
+      "gender": "male"
+    },
+    {
+      "name": "Master Eraqus",
+      "role": "supporting",
+      "voice_actor": "Mark Hamill",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Young Eraqus",
+      "role": "minor",
+      "voice_actor": "Drake Bell",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Ansem the Wise",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Ienzo",
+      "role": "supporting",
+      "voice_actor": "Vincent Corazza",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Hayner",
+      "role": "supporting",
+      "voice_actor": "Zachary Gordon",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Pence",
+      "role": "supporting",
+      "voice_actor": "Tristian Chase",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Olette",
+      "role": "supporting",
+      "voice_actor": "Ashley Boettcher",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Chirithy",
+      "role": "supporting",
+      "voice_actor": "Lara Jill Miller",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "dream eater",
+      "gender": "unknown"
+    },
+    {
+      "name": "Ephemer",
+      "role": "minor",
+      "voice_actor": "Michael Johnston",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Master of Masters",
+      "role": "minor",
+      "voice_actor": "Ray Chase",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "human",
+      "gender": "male",
+      "notes": "Re Mind DLC"
+    },
+    {
+      "name": "Yozora",
+      "role": "antagonist",
+      "voice_actor": "Dylan Sprouse",
+      "origin": "original",
+      "origin_franchise": "Kingdom Hearts",
+      "species": "unknown",
+      "gender": "male",
+      "notes": "Re Mind secret boss"
+    },
+    {
+      "name": "Woody",
+      "role": "ally",
+      "voice_actor": "Jim Hanks",
+      "origin": "pixar",
+      "origin_franchise": "Toy Story",
+      "species": "toy",
+      "gender": "male"
+    },
+    {
+      "name": "Buzz Lightyear",
+      "role": "ally",
+      "voice_actor": "Mike MacRae",
+      "origin": "pixar",
+      "origin_franchise": "Toy Story",
+      "species": "toy",
+      "gender": "male"
+    },
+    {
+      "name": "Rex",
+      "role": "supporting",
+      "voice_actor": "Wallace Shawn",
+      "origin": "pixar",
+      "origin_franchise": "Toy Story",
+      "species": "toy",
+      "gender": "male"
+    },
+    {
+      "name": "Hamm",
+      "role": "supporting",
+      "voice_actor": "John Ratzenberger",
+      "origin": "pixar",
+      "origin_franchise": "Toy Story",
+      "species": "toy",
+      "gender": "male"
+    },
+    {
+      "name": "Sarge",
+      "role": "minor",
+      "voice_actor": "Piotr Michael",
+      "origin": "pixar",
+      "origin_franchise": "Toy Story",
+      "species": "toy",
+      "gender": "male"
+    },
+    {
+      "name": "Aliens",
+      "role": "minor",
+      "voice_actor": "Jeff Pidgeon",
+      "origin": "pixar",
+      "origin_franchise": "Toy Story",
+      "species": "toy",
+      "gender": "male"
+    },
+    {
+      "name": "Mike Wazowski",
+      "role": "ally",
+      "voice_actor": "Carlos Alazraqui",
+      "origin": "pixar",
+      "origin_franchise": "Monsters, Inc.",
+      "species": "monster",
+      "gender": "male"
+    },
+    {
+      "name": "Sulley",
+      "role": "ally",
+      "voice_actor": "Christopher Swindle",
+      "origin": "pixar",
+      "origin_franchise": "Monsters, Inc.",
+      "species": "monster",
+      "gender": "male"
+    },
+    {
+      "name": "Boo",
+      "role": "supporting",
+      "voice_actor": "Mary Gibbs",
+      "origin": "pixar",
+      "origin_franchise": "Monsters, Inc.",
+      "species": "human",
+      "gender": "female",
+      "notes": "Archive footage"
+    },
+    {
+      "name": "Randall",
+      "role": "antagonist",
+      "voice_actor": "J.P. Manoux",
+      "origin": "pixar",
+      "origin_franchise": "Monsters, Inc.",
+      "species": "monster",
+      "gender": "male"
+    },
+    {
+      "name": "Rapunzel",
+      "role": "ally",
+      "voice_actor": "Kelsey Lansdowne",
+      "origin": "disney",
+      "origin_franchise": "Tangled",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Flynn Rider",
+      "role": "ally",
+      "voice_actor": "Zachary Levi",
+      "origin": "disney",
+      "origin_franchise": "Tangled",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Mother Gothel",
+      "role": "villain",
+      "voice_actor": "Donna Murphy",
+      "origin": "disney",
+      "origin_franchise": "Tangled",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Elsa",
+      "role": "ally",
+      "voice_actor": "Idina Menzel",
+      "origin": "disney",
+      "origin_franchise": "Frozen",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Anna",
+      "role": "ally",
+      "voice_actor": "Kristen Bell",
+      "origin": "disney",
+      "origin_franchise": "Frozen",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Kristoff",
+      "role": "supporting",
+      "voice_actor": "Jonathan Groff",
+      "origin": "disney",
+      "origin_franchise": "Frozen",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Olaf",
+      "role": "comic_relief",
+      "voice_actor": "Josh Gad",
+      "origin": "disney",
+      "origin_franchise": "Frozen",
+      "species": "snowman",
+      "gender": "male"
+    },
+    {
+      "name": "Marshmallow",
+      "role": "antagonist",
+      "voice_actor": "Paul Briggs",
+      "origin": "disney",
+      "origin_franchise": "Frozen",
+      "species": "snow golem",
+      "gender": "male"
+    },
+    {
+      "name": "Hiro Hamada",
+      "role": "ally",
+      "voice_actor": "Ryan Potter",
+      "origin": "disney",
+      "origin_franchise": "Big Hero 6",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Baymax",
+      "role": "ally",
+      "voice_actor": "Scott Adsit",
+      "origin": "disney",
+      "origin_franchise": "Big Hero 6",
+      "species": "robot",
+      "gender": "male"
+    },
+    {
+      "name": "Go Go Tomago",
+      "role": "supporting",
+      "voice_actor": "Jamie Chung",
+      "origin": "disney",
+      "origin_franchise": "Big Hero 6",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Wasabi",
+      "role": "supporting",
+      "voice_actor": "Khary Payton",
+      "origin": "disney",
+      "origin_franchise": "Big Hero 6",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Honey Lemon",
+      "role": "supporting",
+      "voice_actor": "Genesis Rodriguez",
+      "origin": "disney",
+      "origin_franchise": "Big Hero 6",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Fred",
+      "role": "supporting",
+      "voice_actor": "T.J. Miller",
+      "origin": "disney",
+      "origin_franchise": "Big Hero 6",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Jack Sparrow",
+      "role": "ally",
+      "voice_actor": "Jared Butler",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Will Turner",
+      "role": "ally",
+      "voice_actor": "Crispin Freeman",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Elizabeth Swann",
+      "role": "supporting",
+      "voice_actor": "Eliza Jane Schneider",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Davy Jones",
+      "role": "antagonist",
+      "voice_actor": "Robin Atkin Downes",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "cursed human",
+      "gender": "male"
+    },
+    {
+      "name": "Barbossa",
+      "role": "ally",
+      "voice_actor": "Brian George",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Tia Dalma",
+      "role": "supporting",
+      "voice_actor": "Leslie L. Miller",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "goddess",
+      "gender": "female"
+    },
+    {
+      "name": "Gibbs",
+      "role": "supporting",
+      "voice_actor": "Kevin R. McNally",
+      "origin": "disney",
+      "origin_franchise": "Pirates of the Caribbean",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Hercules",
+      "role": "ally",
+      "voice_actor": "Tate Donovan",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "demigod",
+      "gender": "male"
+    },
+    {
+      "name": "Megara",
+      "role": "supporting",
+      "voice_actor": "Susan Egan",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "human",
+      "gender": "female"
+    },
+    {
+      "name": "Hades",
+      "role": "villain",
+      "voice_actor": "James Woods",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "god",
+      "gender": "male"
+    },
+    {
+      "name": "Zeus",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Hercules",
+      "species": "god",
+      "gender": "male"
+    },
+    {
+      "name": "Maleficent",
+      "role": "antagonist",
+      "voice_actor": "Susanne Blakeslee",
+      "origin": "disney",
+      "origin_franchise": "Sleeping Beauty",
+      "species": "fairy",
+      "gender": "female"
+    },
+    {
+      "name": "Pete",
+      "role": "antagonist",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic cat",
+      "gender": "male"
+    },
+    {
+      "name": "Yen Sid",
+      "role": "supporting",
+      "voice_actor": "Corey Burton",
+      "origin": "disney",
+      "origin_franchise": "Fantasia",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Winnie the Pooh",
+      "role": "ally",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "stuffed bear",
+      "gender": "male"
+    },
+    {
+      "name": "Tigger",
+      "role": "supporting",
+      "voice_actor": "Jim Cummings",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "stuffed tiger",
+      "gender": "male"
+    },
+    {
+      "name": "Piglet",
+      "role": "supporting",
+      "voice_actor": "Travis Oates",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "stuffed pig",
+      "gender": "male"
+    },
+    {
+      "name": "Rabbit",
+      "role": "supporting",
+      "voice_actor": "Tom Kenny",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "rabbit",
+      "gender": "male"
+    },
+    {
+      "name": "Roo",
+      "role": "minor",
+      "voice_actor": "Aidan McGraw",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "kangaroo",
+      "gender": "male"
+    },
+    {
+      "name": "Gopher",
+      "role": "minor",
+      "voice_actor": "Michael Gough",
+      "origin": "disney",
+      "origin_franchise": "Winnie the Pooh",
+      "species": "gopher",
+      "gender": "male"
+    },
+    {
+      "name": "Scrooge McDuck",
+      "role": "supporting",
+      "voice_actor": "Enn Reitel",
+      "origin": "disney",
+      "origin_franchise": "DuckTales",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Huey",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Dewey",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Louie",
+      "role": "minor",
+      "voice_actor": "Russi Taylor",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "anthropomorphic duck",
+      "gender": "male"
+    },
+    {
+      "name": "Chip",
+      "role": "minor",
+      "voice_actor": "Tress MacNeille",
+      "origin": "disney",
+      "origin_franchise": "Mickey Mouse",
+      "species": "chipmunk",
+      "gender": "male"
+    },
+    {
+      "name": "Merlin",
+      "role": "minor",
+      "voice_actor": "Jeff Bennett",
+      "origin": "disney",
+      "origin_franchise": "The Sword in the Stone",
+      "species": "human",
+      "gender": "male"
+    },
+    {
+      "name": "Leon",
+      "role": "minor",
+      "voice_actor": "Doug Erholtz",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VIII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Re Mind DLC only"
+    },
+    {
+      "name": "Aerith",
+      "role": "minor",
+      "voice_actor": "Andrea Bowen",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "female",
+      "notes": "Re Mind DLC only"
+    },
+    {
+      "name": "Yuffie",
+      "role": "minor",
+      "voice_actor": "Mae Whitman",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "female",
+      "notes": "Re Mind DLC only"
+    },
+    {
+      "name": "Cid",
+      "role": "minor",
+      "voice_actor": "Chris Edgerly",
+      "origin": "final_fantasy",
+      "origin_franchise": "Final Fantasy VII",
+      "species": "human",
+      "gender": "male",
+      "notes": "Re Mind DLC only"
+    }
+  ],
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Party member or major helper",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

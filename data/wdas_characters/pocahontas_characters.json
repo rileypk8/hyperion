@@ -1,0 +1,162 @@
+{
+  "franchise": "Pocahontas",
+  "films": [
+    "Pocahontas (1995)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "pocahontas_1995": {
+      "year": 1995,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Pocahontas",
+          "role": "protagonist",
+          "voice_actor": "Irene Bedard, Judy Kuhn (singing)",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "John Smith",
+          "role": "deuteragonist",
+          "voice_actor": "Mel Gibson",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Governor Ratcliffe",
+          "role": "villain",
+          "voice_actor": "David Ogden Stiers",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Meeko",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Raccoon, non-speaking",
+          "species": "raccoon",
+          "gender": "male"
+        },
+        {
+          "name": "Flit",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Hummingbird, non-speaking",
+          "species": "hummingbird",
+          "gender": "male"
+        },
+        {
+          "name": "Percy",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Ratcliffe's pug, non-speaking",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Grandmother Willow",
+          "role": "mentor",
+          "voice_actor": "Linda Hunt",
+          "species": "tree_spirit",
+          "gender": "female"
+        },
+        {
+          "name": "Chief Powhatan",
+          "role": "supporting",
+          "voice_actor": "Russell Means",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Nakoma",
+          "role": "ally",
+          "voice_actor": "Michelle St. John",
+          "notes": "Pocahontas's best friend",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Kocoum",
+          "role": "antagonist",
+          "voice_actor": "James Apaumut Fall",
+          "notes": "Warrior betrothed to Pocahontas",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Thomas",
+          "role": "supporting",
+          "voice_actor": "Christian Bale",
+          "notes": "Young English settler",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Wiggins",
+          "role": "henchman",
+          "voice_actor": "David Ogden Stiers",
+          "notes": "Ratcliffe's manservant",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Ben and Lon",
+          "role": "comic_relief",
+          "voice_actor": "Billy Connolly, Joe Baker",
+          "notes": "English settlers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Kekata",
+          "role": "supporting",
+          "voice_actor": "Gordon Tootoosis",
+          "notes": "Tribe shaman",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Settlers",
+          "role": "antagonist",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Powhatan Warriors",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Pocahontas's Mother",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Deceased, mentioned only",
+          "species": "human",
+          "gender": "female"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "historical_note": "Loosely based on historical figures but highly fictionalized"
+  }
+}

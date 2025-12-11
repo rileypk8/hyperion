@@ -1,0 +1,29 @@
+{
+  "film": "The Hunchback of Notre Dame II",
+  "studio": "DisneyToon Studios",
+  "year": 2002,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Quasimodo", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Tom Hulce"},
+    {"name": "Madellaine", "role": "love_interest", "species": "human", "gender": "female", "voice_actor": "Jennifer Love Hewitt"},
+    {"name": "Sarousch", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Michael McKean"},
+    {"name": "Phoebus", "role": "ally", "species": "human", "gender": "male", "voice_actor": "Kevin Kline"},
+    {"name": "Esmeralda", "role": "ally", "species": "human", "gender": "female", "voice_actor": "n/a", "notes": "Non-speaking cameo"},
+    {"name": "Zephyr", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Haley Joel Osment"},
+    {"name": "Hugo", "role": "comic_relief", "species": "gargoyle", "gender": "male", "voice_actor": "Jason Alexander"},
+    {"name": "Victor", "role": "comic_relief", "species": "gargoyle", "gender": "male", "voice_actor": "Charles Kimbrough"},
+    {"name": "Laverne", "role": "comic_relief", "species": "gargoyle", "gender": "female", "voice_actor": "Jane Withers"},
+    {"name": "Archdeacon", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "love_interest": "Romantic interest",
+    "villain": "Primary antagonist",
+    "ally": "Friend supporting protagonist",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  }
+}

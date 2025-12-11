@@ -1,0 +1,39 @@
+{
+  "franchise": "Elemental",
+  "films": ["Elemental (2023)"],
+  "total_estimated_characters": 18,
+  "categories": {
+    "elemental": {
+      "year": 2023,
+      "count": 18,
+      "characters": [
+        {"name": "Ember Lumen", "role": "protagonist", "species": "fire element", "gender": "female", "voice_actor": "Leah Lewis"},
+        {"name": "Wade Ripple", "role": "deuteragonist", "species": "water element", "gender": "male", "voice_actor": "Mamoudou Athie"},
+        {"name": "Bernie Lumen", "role": "supporting", "species": "fire element", "gender": "male", "voice_actor": "Ronnie del Carmen"},
+        {"name": "Cinder Lumen", "role": "supporting", "species": "fire element", "gender": "female", "voice_actor": "Shila Ommi"},
+        {"name": "Brook Ripple", "role": "supporting", "species": "water element", "gender": "female", "voice_actor": "Catherine O'Hara"},
+        {"name": "Gale Cumulus", "role": "antagonist", "species": "air element", "gender": "female", "voice_actor": "Wendi McLendon-Covey"},
+        {"name": "Clod", "role": "supporting", "species": "earth element", "gender": "male", "voice_actor": "Mason Wertheimer"},
+        {"name": "Lutz", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "Joe Pera"},
+        {"name": "Fern Grouchwood", "role": "minor", "species": "earth element", "gender": "male", "voice_actor": "Matt Yang King"},
+        {"name": "Harold", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Lake Ripple", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "unknown", "notes": "Wade's father"},
+        {"name": "Marco Ripple", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "unknown", "notes": "Wade's brother"},
+        {"name": "Polo Ripple", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "unknown", "notes": "Wade's brother"},
+        {"name": "Alan Ripple", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "unknown", "notes": "Wade's brother"},
+        {"name": "Eddy Ripple", "role": "minor", "species": "water element", "gender": "male", "voice_actor": "unknown", "notes": "Wade's brother"},
+        {"name": "Fire Town Residents", "role": "minor", "species": "fire element", "gender": "various", "voice_actor": "various"},
+        {"name": "Grandma", "role": "minor", "species": "water element", "gender": "female", "voice_actor": "unknown", "notes": "Wade's grandmother"},
+        {"name": "Flarry", "role": "minor", "species": "fire element", "gender": "male", "voice_actor": "Jonathan Adams"},
+        {"name": "Bernie's customer", "role": "minor", "species": "fire element", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "antagonist": "Opposes heroes but may not be evil",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

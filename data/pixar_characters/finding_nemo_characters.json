@@ -1,0 +1,77 @@
+{
+  "franchise": "Finding Nemo",
+  "films": ["Finding Nemo (2003)", "Finding Dory (2016)"],
+  "total_estimated_characters": 45,
+  "categories": {
+    "core_recurring_cast": {
+      "count": 6,
+      "characters": [
+        {"name": "Marlin", "role": "protagonist", "species": "clownfish", "gender": "male", "voice_actor": "Albert Brooks"},
+        {"name": "Nemo", "role": "deuteragonist", "species": "clownfish", "gender": "male", "voice_actor": "Alexander Gould (FN), Hayden Rolence (FD)"},
+        {"name": "Dory", "role": "deuteragonist", "species": "blue tang", "gender": "female", "voice_actor": "Ellen DeGeneres", "notes": "Protagonist in Finding Dory"},
+        {"name": "Crush", "role": "supporting", "species": "sea turtle", "gender": "male", "voice_actor": "Andrew Stanton"},
+        {"name": "Squirt", "role": "supporting", "species": "sea turtle", "gender": "male", "voice_actor": "Nicholas Bird (FN), Bennett Dammann (FD)"},
+        {"name": "Mr. Ray", "role": "supporting", "species": "eagle ray", "gender": "male", "voice_actor": "Bob Peterson"}
+      ]
+    },
+    "finding_nemo": {
+      "year": 2003,
+      "count": 20,
+      "characters": [
+        {"name": "Gill", "role": "mentor", "species": "moorish idol", "gender": "male", "voice_actor": "Willem Dafoe"},
+        {"name": "Bloat", "role": "supporting", "species": "porcupinefish", "gender": "male", "voice_actor": "Brad Garrett"},
+        {"name": "Peach", "role": "supporting", "species": "starfish", "gender": "female", "voice_actor": "Allison Janney"},
+        {"name": "Gurgle", "role": "supporting", "species": "royal gramma", "gender": "male", "voice_actor": "Austin Pendleton"},
+        {"name": "Bubbles", "role": "supporting", "species": "yellow tang", "gender": "male", "voice_actor": "Stephen Root"},
+        {"name": "Deb/Flo", "role": "comic relief", "species": "damselfish", "gender": "female", "voice_actor": "Vicki Lewis"},
+        {"name": "Jacques", "role": "supporting", "species": "cleaner shrimp", "gender": "male", "voice_actor": "Joe Ranft"},
+        {"name": "Nigel", "role": "ally", "species": "pelican", "gender": "male", "voice_actor": "Geoffrey Rush"},
+        {"name": "Bruce", "role": "comic relief", "species": "great white shark", "gender": "male", "voice_actor": "Barry Humphries"},
+        {"name": "Anchor", "role": "comic relief", "species": "hammerhead shark", "gender": "male", "voice_actor": "Eric Bana"},
+        {"name": "Chum", "role": "comic relief", "species": "mako shark", "gender": "male", "voice_actor": "Bruce Spence"},
+        {"name": "Philip Sherman (The Dentist)", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Bill Hunter"},
+        {"name": "Darla", "role": "antagonist", "species": "human", "gender": "female", "voice_actor": "LuLu Ebeling"},
+        {"name": "Coral", "role": "minor", "species": "clownfish", "gender": "female", "voice_actor": "Elizabeth Perkins", "notes": "Marlin's wife, dies in opening"},
+        {"name": "Barracuda", "role": "minor", "species": "barracuda", "gender": "unknown", "voice_actor": null, "notes": "Non-speaking predator"},
+        {"name": "Moonfish School", "role": "comic relief", "species": "moonfish", "gender": "various", "voice_actor": "John Ratzenberger"},
+        {"name": "Anglerfish", "role": "minor", "species": "anglerfish", "gender": "female", "voice_actor": null},
+        {"name": "Jellyfish", "role": "minor", "species": "jellyfish", "gender": "n/a", "voice_actor": null},
+        {"name": "Whale", "role": "minor", "species": "blue whale", "gender": "unknown", "voice_actor": null},
+        {"name": "Seagulls", "role": "comic relief", "species": "seagull", "gender": "various", "voice_actor": "Andrew Stanton"}
+      ]
+    },
+    "finding_dory": {
+      "year": 2016,
+      "count": 20,
+      "characters": [
+        {"name": "Hank", "role": "deuteragonist", "species": "octopus (septopus)", "gender": "male", "voice_actor": "Ed O'Neill"},
+        {"name": "Destiny", "role": "supporting", "species": "whale shark", "gender": "female", "voice_actor": "Kaitlin Olson"},
+        {"name": "Bailey", "role": "supporting", "species": "beluga whale", "gender": "male", "voice_actor": "Ty Burrell"},
+        {"name": "Jenny (Dory's mom)", "role": "supporting", "species": "blue tang", "gender": "female", "voice_actor": "Diane Keaton"},
+        {"name": "Charlie (Dory's dad)", "role": "supporting", "species": "blue tang", "gender": "male", "voice_actor": "Eugene Levy"},
+        {"name": "Young Dory", "role": "supporting", "species": "blue tang", "gender": "female", "voice_actor": "Sloane Murray"},
+        {"name": "Fluke", "role": "comic relief", "species": "sea lion", "gender": "male", "voice_actor": "Idris Elba"},
+        {"name": "Rudder", "role": "comic relief", "species": "sea lion", "gender": "male", "voice_actor": "Dominic West"},
+        {"name": "Gerald", "role": "comic relief", "species": "sea lion", "gender": "male", "voice_actor": null, "notes": "Minimal dialogue"},
+        {"name": "Becky", "role": "comic relief", "species": "loon", "gender": "female", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Sigourney Weaver", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Sigourney Weaver", "notes": "Plays herself as MLI announcer"},
+        {"name": "Baby Dory", "role": "minor", "species": "blue tang", "gender": "female", "voice_actor": "Sloane Murray"},
+        {"name": "Sea Lions", "role": "minor", "species": "sea lion", "gender": "various", "voice_actor": "various"},
+        {"name": "Otters", "role": "minor", "species": "sea otter", "gender": "various", "voice_actor": null, "notes": "Non-speaking but plot-relevant"},
+        {"name": "Giant Squid", "role": "minor", "species": "giant squid", "gender": "unknown", "voice_actor": null},
+        {"name": "Stan", "role": "minor", "species": "fish", "gender": "male", "voice_actor": "unknown", "notes": "Fish in pipe"},
+        {"name": "Bill", "role": "minor", "species": "fish", "gender": "male", "voice_actor": "unknown", "notes": "Fish in quarantine"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

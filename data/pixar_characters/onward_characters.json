@@ -1,0 +1,36 @@
+{
+  "franchise": "Onward",
+  "films": ["Onward (2020)"],
+  "total_estimated_characters": 15,
+  "categories": {
+    "onward": {
+      "year": 2020,
+      "count": 15,
+      "characters": [
+        {"name": "Ian Lightfoot", "role": "protagonist", "species": "elf", "gender": "male", "voice_actor": "Tom Holland"},
+        {"name": "Barley Lightfoot", "role": "deuteragonist", "species": "elf", "gender": "male", "voice_actor": "Chris Pratt"},
+        {"name": "Laurel Lightfoot", "role": "supporting", "species": "elf", "gender": "female", "voice_actor": "Julia Louis-Dreyfus"},
+        {"name": "Wilden Lightfoot", "role": "supporting", "species": "elf", "gender": "male", "voice_actor": "Kyle Bornheimer", "notes": "Deceased father, appears as legs only"},
+        {"name": "The Manticore (Corey)", "role": "ally", "species": "manticore", "gender": "female", "voice_actor": "Octavia Spencer"},
+        {"name": "Colt Bronco", "role": "supporting", "species": "centaur", "gender": "male", "voice_actor": "Mel Rodriguez"},
+        {"name": "Officer Gore", "role": "minor", "species": "cyclops", "gender": "female", "voice_actor": "Lena Waithe"},
+        {"name": "Officer Specter", "role": "minor", "species": "ghost", "gender": "female", "voice_actor": "Ali Wong"},
+        {"name": "Dewdrop", "role": "minor", "species": "sprite/pixie", "gender": "female", "voice_actor": "Grey Griffin"},
+        {"name": "Pixie Dusters", "role": "antagonist", "species": "sprite/pixie", "gender": "various", "voice_actor": "various"},
+        {"name": "Grecklin", "role": "minor", "species": "goblin", "gender": "female", "voice_actor": "Tracey Ullman"},
+        {"name": "Dragon", "role": "antagonist", "species": "dragon (curse manifestation)", "gender": "n/a", "voice_actor": null, "notes": "Curse manifestation"},
+        {"name": "Dad (lower half)", "role": "supporting", "species": "elf (partial)", "gender": "male", "voice_actor": null, "notes": "Non-speaking, just legs"},
+        {"name": "Gaxton", "role": "minor", "species": "satyr", "gender": "male", "voice_actor": "John Ratzenberger"},
+        {"name": "Blazey", "role": "minor", "species": "dragon (pet)", "gender": "female", "voice_actor": null, "notes": "Non-speaking"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

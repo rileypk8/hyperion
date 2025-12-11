@@ -1,0 +1,281 @@
+{
+  "franchise": "Moana",
+  "films": [
+    "Moana (2016)",
+    "Moana 2 (2024)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 30,
+  "categories": {
+    "moana_2016": {
+      "year": 2016,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Moana Waialiki",
+          "role": "protagonist",
+          "voice_actor": "Auli'i Cravalho",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Maui",
+          "role": "deuteragonist",
+          "voice_actor": "Dwayne Johnson",
+          "species": "demigod",
+          "gender": "male"
+        },
+        {
+          "name": "Heihei",
+          "role": "comic_relief",
+          "voice_actor": "Alan Tudyk",
+          "notes": "Dim-witted rooster",
+          "species": "chicken",
+          "gender": "male"
+        },
+        {
+          "name": "Pua",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Moana's pet pig",
+          "species": "pig",
+          "gender": "male"
+        },
+        {
+          "name": "Te Fiti / Te K\u0101",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Island goddess corrupted into lava demon",
+          "species": "goddess",
+          "gender": "female"
+        },
+        {
+          "name": "Tamatoa",
+          "role": "antagonist",
+          "voice_actor": "Jemaine Clement",
+          "notes": "Giant treasure-hoarding crab",
+          "species": "crab",
+          "gender": "male"
+        },
+        {
+          "name": "Chief Tui",
+          "role": "supporting",
+          "voice_actor": "Temuera Morrison",
+          "notes": "Moana's father",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sina",
+          "role": "supporting",
+          "voice_actor": "Nicole Scherzinger",
+          "notes": "Moana's mother",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Tala",
+          "role": "mentor",
+          "voice_actor": "Rachel House",
+          "notes": "Moana's grandmother",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Kakamora",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Coconut pirate creatures",
+          "species": "coconut_creature",
+          "gender": "n/a"
+        },
+        {
+          "name": "Mini Maui",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Maui's sentient tattoo",
+          "species": "demigod",
+          "gender": "male"
+        },
+        {
+          "name": "The Ocean",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Sentient entity that chooses Moana",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Young Moana",
+          "role": "minor",
+          "voice_actor": "Louise Bush",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Villagers",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Moana's Ancestors",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Appearing as spirits",
+          "species": "human",
+          "gender": "female"
+        }
+      ]
+    },
+    "moana_2_2024": {
+      "year": 2024,
+      "count": 17,
+      "characters": [
+        {
+          "name": "Moana Waialiki",
+          "role": "protagonist",
+          "voice_actor": "Auli'i Cravalho",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Maui",
+          "role": "ally",
+          "voice_actor": "Dwayne Johnson",
+          "species": "demigod",
+          "gender": "male"
+        },
+        {
+          "name": "Matangi",
+          "role": "antagonist",
+          "voice_actor": "Awhimai Fraser",
+          "notes": "Goddess of storms",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Nalo",
+          "role": "villain",
+          "voice_actor": "TBD",
+          "notes": "God of storms",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Loto",
+          "role": "ally",
+          "voice_actor": "Rose Matafeo",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Moni",
+          "role": "ally",
+          "voice_actor": "Hual\u0101lai Chung",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Heihei",
+          "role": "comic_relief",
+          "voice_actor": "Alan Tudyk",
+          "species": "chicken",
+          "gender": "male",
+          "notes": "Returns from first film"
+        },
+        {
+          "name": "Pua",
+          "role": "sidekick",
+          "voice_actor": null,
+          "species": "pig",
+          "gender": "male"
+        },
+        {
+          "name": "Kele",
+          "role": "ally",
+          "voice_actor": "David Fane",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Simea",
+          "role": "supporting",
+          "voice_actor": "Khaleesi Lambert-Tsuda",
+          "notes": "Moana's younger sister",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Chief Tui",
+          "role": "supporting",
+          "voice_actor": "Temuera Morrison",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sina",
+          "role": "supporting",
+          "voice_actor": "Nicole Scherzinger",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Tamatoa",
+          "role": "cameo",
+          "voice_actor": "Jemaine Clement",
+          "species": "crab",
+          "gender": "male"
+        },
+        {
+          "name": "Heihei",
+          "role": "comic_relief",
+          "voice_actor": "Alan Tudyk",
+          "species": "chicken",
+          "gender": "male"
+        },
+        {
+          "name": "Pua",
+          "role": "sidekick",
+          "voice_actor": null,
+          "species": "pig",
+          "gender": "male"
+        },
+        {
+          "name": "The Ocean",
+          "role": "ally",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mini Maui",
+          "role": "sidekick",
+          "voice_actor": null,
+          "species": "demigod",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction",
+    "cameo": "Brief appearance"
+  },
+  "notes": {
+    "setting": "Ancient Polynesia",
+    "music": "Lin-Manuel Miranda composed the songs"
+  }
+}

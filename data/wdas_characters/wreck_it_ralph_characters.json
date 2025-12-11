@@ -1,0 +1,331 @@
+{
+  "franchise": "Wreck-It Ralph",
+  "films": [
+    "Wreck-It Ralph (2012)",
+    "Ralph Breaks the Internet (2018)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 40,
+  "categories": {
+    "wreck_it_ralph_2012": {
+      "year": 2012,
+      "count": 22,
+      "characters": [
+        {
+          "name": "Wreck-It Ralph",
+          "role": "protagonist",
+          "voice_actor": "John C. Reilly",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Vanellope von Schweetz",
+          "role": "deuteragonist",
+          "voice_actor": "Sarah Silverman",
+          "species": "human_video_game",
+          "gender": "female"
+        },
+        {
+          "name": "Fix-It Felix Jr.",
+          "role": "ally",
+          "voice_actor": "Jack McBrayer",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Sergeant Calhoun",
+          "role": "ally",
+          "voice_actor": "Jane Lynch",
+          "species": "human_video_game",
+          "gender": "female"
+        },
+        {
+          "name": "King Candy / Turbo",
+          "role": "villain",
+          "voice_actor": "Alan Tudyk",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Sour Bill",
+          "role": "henchman",
+          "voice_actor": "Rich Moore",
+          "species": "candy",
+          "gender": "male"
+        },
+        {
+          "name": "Taffyta Muttonfudge",
+          "role": "antagonist",
+          "voice_actor": "Mindy Kaling",
+          "species": "human_video_game",
+          "gender": "female"
+        },
+        {
+          "name": "Candlehead",
+          "role": "minor",
+          "voice_actor": "Katie Lowes",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Rancis Fluggerbutter",
+          "role": "minor",
+          "voice_actor": "Jamie Elman",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Gene",
+          "role": "antagonist",
+          "voice_actor": "Raymond S. Persi",
+          "notes": "Nicelander mayor",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Q*bert",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Cameo, homeless game character",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "General Hologram",
+          "role": "minor",
+          "voice_actor": "Dennis Haysbert",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Wynnchel and Duncan",
+          "role": "henchman",
+          "voice_actor": "Adam Carolla, Horatio Sanz",
+          "notes": "Donut cops",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Dr. Brad Scott",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Calhoun's late fianc\u00e9",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Markowski",
+          "role": "minor",
+          "voice_actor": "Joe Lo Truglio",
+          "notes": "Hero's Duty soldier",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Cy-Bugs",
+          "role": "antagonist",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Surge Protector",
+          "role": "minor",
+          "voice_actor": "Phil Johnston",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Moppet Girl",
+          "role": "minor",
+          "voice_actor": "Stefanie Scott",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Mary",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Nicelander",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Zangief",
+          "role": "cameo",
+          "voice_actor": "Rich Moore",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Clyde (Pac-Man ghost)",
+          "role": "cameo",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Sonic the Hedgehog",
+          "role": "cameo",
+          "voice_actor": "Roger Craig Smith",
+          "species": "hyena",
+          "gender": "male"
+        }
+      ]
+    },
+    "ralph_breaks_the_internet_2018": {
+      "year": 2018,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Wreck-It Ralph",
+          "role": "protagonist",
+          "voice_actor": "John C. Reilly",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Vanellope von Schweetz",
+          "role": "protagonist",
+          "voice_actor": "Sarah Silverman",
+          "species": "human_video_game",
+          "gender": "female"
+        },
+        {
+          "name": "Shank",
+          "role": "mentor",
+          "voice_actor": "Gal Gadot",
+          "species": "human_video_game",
+          "gender": "female"
+        },
+        {
+          "name": "Yesss",
+          "role": "ally",
+          "voice_actor": "Taraji P. Henson",
+          "species": "ai_program",
+          "gender": "female"
+        },
+        {
+          "name": "Fix-It Felix Jr.",
+          "role": "supporting",
+          "voice_actor": "Jack McBrayer",
+          "species": "human_video_game",
+          "gender": "male"
+        },
+        {
+          "name": "Sergeant Calhoun",
+          "role": "supporting",
+          "voice_actor": "Jane Lynch",
+          "species": "human_video_game",
+          "gender": "female"
+        },
+        {
+          "name": "Spamley",
+          "role": "ally",
+          "voice_actor": "Bill Hader",
+          "species": "ai_program",
+          "gender": "male"
+        },
+        {
+          "name": "Gord",
+          "role": "minor",
+          "voice_actor": "unknown",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "KnowsMore",
+          "role": "comic_relief",
+          "voice_actor": "Alan Tudyk",
+          "species": "ai_program",
+          "gender": "male"
+        },
+        {
+          "name": "Double Dan",
+          "role": "minor",
+          "voice_actor": "Alfred Molina",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Pyro and Felony",
+          "role": "minor",
+          "voice_actor": "various",
+          "notes": "Slaughter Race racers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Butcher Boy and Little Debbie",
+          "role": "minor",
+          "voice_actor": "various",
+          "notes": "Slaughter Race characters",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Ralph Clones / Ralphzilla",
+          "role": "antagonist",
+          "voice_actor": "John C. Reilly",
+          "notes": "Virus manifestation",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "eBoy",
+          "role": "minor",
+          "voice_actor": "unknown",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "JP Spamley",
+          "role": "ally",
+          "voice_actor": "Bill Hader",
+          "species": "ai_program",
+          "gender": "male"
+        },
+        {
+          "name": "The Disney Princesses",
+          "role": "cameo",
+          "voice_actor": "various original voice actors",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Eeyore",
+          "role": "cameo",
+          "voice_actor": "unknown",
+          "species": "donkey",
+          "gender": "male"
+        },
+        {
+          "name": "Stan Lee",
+          "role": "cameo",
+          "voice_actor": "Stan Lee",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction",
+    "cameo": "Brief appearance, often licensed characters"
+  },
+  "notes": {
+    "cameos_2012": "Features characters from Pac-Man, Sonic, Street Fighter, Q*bert, and more",
+    "cameos_2018": "Features all Disney Princesses, Star Wars, Marvel, and internet brands"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "franchise": "The Princess and the Frog",
+  "films": [
+    "The Princess and the Frog (2009)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 22,
+  "categories": {
+    "princess_and_the_frog_2009": {
+      "year": 2009,
+      "count": 22,
+      "characters": [
+        {
+          "name": "Tiana",
+          "role": "protagonist",
+          "voice_actor": "Anika Noni Rose",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Prince Naveen",
+          "role": "deuteragonist",
+          "voice_actor": "Bruno Campos",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Dr. Facilier (The Shadow Man)",
+          "role": "villain",
+          "voice_actor": "Keith David",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Louis",
+          "role": "ally",
+          "voice_actor": "Michael-Leon Wooley",
+          "notes": "Jazz-playing alligator",
+          "species": "alligator",
+          "gender": "male"
+        },
+        {
+          "name": "Ray",
+          "role": "ally",
+          "voice_actor": "Jim Cummings",
+          "notes": "Cajun firefly",
+          "species": "firefly",
+          "gender": "male"
+        },
+        {
+          "name": "Charlotte La Bouff",
+          "role": "supporting",
+          "voice_actor": "Jennifer Cody",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Eli 'Big Daddy' La Bouff",
+          "role": "supporting",
+          "voice_actor": "John Goodman",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Lawrence",
+          "role": "henchman",
+          "voice_actor": "Peter Bartlett",
+          "notes": "Naveen's valet",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mama Odie",
+          "role": "mentor",
+          "voice_actor": "Jenifer Lewis",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Juju",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Mama Odie's snake",
+          "species": "snake",
+          "gender": "male"
+        },
+        {
+          "name": "Eudora",
+          "role": "supporting",
+          "voice_actor": "Oprah Winfrey",
+          "notes": "Tiana's mother",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "James",
+          "role": "supporting",
+          "voice_actor": "Terrence Howard",
+          "notes": "Tiana's late father",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Dr. Facilier's Shadow",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Sentient shadow",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Friends on the Other Side",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Voodoo spirits",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Frog Hunters",
+          "role": "antagonist",
+          "voice_actor": "Jim Cummings, Corey Burton, Ritchie Montgomery",
+          "species": "frog",
+          "gender": "unknown"
+        },
+        {
+          "name": "Stella",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Charlotte's dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Reggie",
+          "role": "minor",
+          "voice_actor": "Ritchie Montgomery",
+          "notes": "Firefly cousin",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Darnell and Two Fingers",
+          "role": "minor",
+          "voice_actor": "Don Hall, Paul Briggs",
+          "notes": "Firefly cousins",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Evangeline",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "The Evening Star, Ray's love",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Prince Ralphie",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Charlotte's suitor",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Young Tiana",
+          "role": "minor",
+          "voice_actor": "Elizabeth M. Dampier",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Young Charlotte",
+          "role": "minor",
+          "voice_actor": "Breanna Brooks",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "Return to traditional hand-drawn animation; first African-American Disney Princess",
+    "setting": "1920s New Orleans"
+  }
+}

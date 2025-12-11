@@ -1,0 +1,127 @@
+{
+  "franchise": "Disney Sports & Miscellaneous Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Disney Sports Soccer (2002)",
+    "Disney Sports Basketball (2002)",
+    "Disney Sports Football (2002)",
+    "Disney Sports Skateboarding (2002)",
+    "Disney Golf (2002)",
+    "Disney's Extreme Skate Adventure (2003)",
+    "Club Penguin: Game Day! (2010)",
+    "Club Penguin: Elite Penguin Force (2008)",
+    "Disney Magic Kingdoms (2016)",
+    "Disney Crossy Road (2016)"
+  ],
+  "total_estimated_characters": 60,
+  "categories": {
+    "disney_sports_series": {
+      "year": 2002,
+      "platform": "GameCube/Game Boy Advance",
+      "developer": "Konami",
+      "game_type": "sports",
+      "count": 15,
+      "notes": "Shared roster across Disney Sports games",
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "voice_actor": "Wayne Allwine", "species": "anthropomorphic mouse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Minnie Mouse", "role": "protagonist", "voice_actor": "Russi Taylor", "species": "anthropomorphic mouse", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Donald Duck", "role": "protagonist", "voice_actor": "Tony Anselmo", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Daisy Duck", "role": "protagonist", "voice_actor": "Tress MacNeille", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Goofy", "role": "protagonist", "voice_actor": "Bill Farmer", "species": "anthropomorphic dog", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pluto", "role": "protagonist", "voice_actor": "Bill Farmer", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pete", "role": "antagonist", "voice_actor": "Jim Cummings", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Chip", "role": "protagonist", "voice_actor": "Tress MacNeille", "species": "chipmunk", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Dale", "role": "protagonist", "voice_actor": "Tress MacNeille", "species": "chipmunk", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Huey", "role": "protagonist", "voice_actor": "Tony Anselmo", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Dewey", "role": "protagonist", "voice_actor": "Tony Anselmo", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Louie", "role": "protagonist", "voice_actor": "Tony Anselmo", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Clarabelle Cow", "role": "protagonist", "voice_actor": "April Winchell", "species": "anthropomorphic cow", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Horace Horsecollar", "role": "protagonist", "voice_actor": "Bill Farmer", "species": "anthropomorphic horse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Max Goof", "role": "protagonist", "voice_actor": "Jason Marsden", "species": "anthropomorphic dog", "gender": "male", "origin": "disney", "origin_franchise": "A Goofy Movie"}
+      ]
+    },
+    "extreme_skate_adventure": {
+      "year": 2003,
+      "platform": "Multi-platform",
+      "developer": "Toys for Bob",
+      "game_type": "sports_skateboarding",
+      "count": 12,
+      "notes": "Tony Hawk engine; Disney/Pixar characters",
+      "characters": [
+        {"name": "Woody", "role": "protagonist", "voice_actor": "Jim Hanks", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Buzz Lightyear", "role": "protagonist", "voice_actor": "Patrick Warburton", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Jessie", "role": "protagonist", "voice_actor": "Joan Cusack (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Simba", "role": "protagonist", "voice_actor": "Cam Clarke", "species": "lion", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Nala", "role": "protagonist", "voice_actor": "Vanessa Marshall", "species": "lion", "gender": "female", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Rafiki", "role": "protagonist", "voice_actor": "Robert Guillaume (archive)", "species": "mandrill", "gender": "male", "origin": "disney", "origin_franchise": "The Lion King"},
+        {"name": "Mowgli", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Baloo", "role": "protagonist", "voice_actor": "N/A", "species": "bear", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "King Louie", "role": "protagonist", "voice_actor": "N/A", "species": "orangutan", "gender": "male", "origin": "disney", "origin_franchise": "The Jungle Book"},
+        {"name": "Custom Characters", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "player choice", "origin": "original", "origin_franchise": "Extreme Skate Adventure"},
+        {"name": "Andy's Neighborhood NPCs", "role": "minor", "voice_actor": "N/A", "species": "toy", "gender": "various", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Pride Lands NPCs", "role": "minor", "voice_actor": "N/A", "species": "various animals", "gender": "various", "origin": "disney", "origin_franchise": "The Lion King"}
+      ]
+    },
+    "club_penguin_elite_penguin_force": {
+      "year": 2008,
+      "platform": "Nintendo DS",
+      "developer": "1st Playable Productions",
+      "game_type": "adventure",
+      "count": 15,
+      "characters": [
+        {"name": "Player Penguin", "role": "protagonist", "voice_actor": "N/A", "species": "penguin", "gender": "player choice", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Aunt Arctic", "role": "ally", "voice_actor": "N/A", "species": "penguin", "gender": "female", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Gary the Gadget Guy", "role": "ally", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Jet Pack Guy", "role": "ally", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Rookie", "role": "ally", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "The Director", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "female", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Herbert P. Bear", "role": "villain", "voice_actor": "N/A", "species": "polar bear", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Klutzy the Crab", "role": "antagonist", "voice_actor": "N/A", "species": "crab", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Sensei", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Rockhopper", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Cadence", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "female", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "PH (Puffle Handler)", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "female", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Puffles", "role": "ally", "voice_actor": "N/A", "species": "puffle", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "EPF Agents", "role": "ally", "voice_actor": "N/A", "species": "penguin", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Island Penguins", "role": "minor", "voice_actor": "N/A", "species": "penguin", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"}
+      ]
+    },
+    "club_penguin_game_day": {
+      "year": 2010,
+      "platform": "Wii",
+      "developer": "Behaviour Interactive",
+      "game_type": "party",
+      "count": 10,
+      "characters": [
+        {"name": "Player Penguins 1-4", "role": "protagonist", "voice_actor": "N/A", "species": "penguin", "gender": "player choice", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Gary the Gadget Guy", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Aunt Arctic", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "female", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Rockhopper", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Cadence", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "female", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Sensei", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "male", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Team Red Penguins", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Team Blue Penguins", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Team Yellow Penguins", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"},
+        {"name": "Team Green Penguins", "role": "supporting", "voice_actor": "N/A", "species": "penguin", "gender": "various", "origin": "disney", "origin_franchise": "Club Penguin"}
+      ]
+    },
+    "disney_magic_kingdoms": {
+      "year": 2016,
+      "platform": "Mobile/PC",
+      "developer": "Gameloft",
+      "game_type": "simulation",
+      "count": 8,
+      "notes": "Features hundreds of characters; sample of key cast",
+      "characters": [
+        {"name": "Merlin", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Sword in the Stone"},
+        {"name": "Mickey Mouse", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Maleficent", "role": "villain", "voice_actor": "N/A", "species": "fairy", "gender": "female", "origin": "disney", "origin_franchise": "Sleeping Beauty"},
+        {"name": "Various Disney Characters", "role": "supporting", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "disney", "origin_franchise": "Various"},
+        {"name": "Various Pixar Characters", "role": "supporting", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "pixar", "origin_franchise": "Various"},
+        {"name": "Various Star Wars Characters", "role": "supporting", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "lucasfilm", "origin_franchise": "Star Wars"},
+        {"name": "Park Visitors", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Disney Magic Kingdoms"},
+        {"name": "Villain Minions", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Disney Magic Kingdoms"}
+      ]
+    }
+  }
+}

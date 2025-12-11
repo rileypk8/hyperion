@@ -1,0 +1,171 @@
+{
+  "franchise": "Raya and the Last Dragon",
+  "films": [
+    "Raya and the Last Dragon (2021)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "raya_2021": {
+      "year": 2021,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Raya",
+          "role": "protagonist",
+          "voice_actor": "Kelly Marie Tran",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Sisu",
+          "role": "deuteragonist",
+          "voice_actor": "Awkwafina",
+          "species": "dragon",
+          "gender": "female"
+        },
+        {
+          "name": "Namaari",
+          "role": "antagonist",
+          "voice_actor": "Gemma Chan",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Benja",
+          "role": "mentor",
+          "voice_actor": "Daniel Dae Kim",
+          "notes": "Raya's father",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tuk Tuk",
+          "role": "sidekick",
+          "voice_actor": "Alan Tudyk",
+          "notes": "Pill bug/armadillo mount",
+          "species": "pill_bug",
+          "gender": "male"
+        },
+        {
+          "name": "Boun",
+          "role": "ally",
+          "voice_actor": "Izaac Wang",
+          "notes": "Young boat captain",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tong",
+          "role": "ally",
+          "voice_actor": "Benedict Wong",
+          "notes": "Giant warrior",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Noi",
+          "role": "ally",
+          "voice_actor": "Thalia Tran",
+          "notes": "Con baby",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Ongis",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Noi's monkey helpers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Virana",
+          "role": "supporting",
+          "voice_actor": "Sandra Oh",
+          "notes": "Namaari's mother, Fang chief",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Druun",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Plague that turns people to stone",
+          "species": "spirit",
+          "gender": "n/a"
+        },
+        {
+          "name": "Young Raya",
+          "role": "minor",
+          "voice_actor": "Kelly Marie Tran",
+          "species": "firefly",
+          "gender": "male"
+        },
+        {
+          "name": "Young Namaari",
+          "role": "minor",
+          "voice_actor": "Jona Xiao",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Pengu",
+          "role": "minor",
+          "voice_actor": "Ross Butler",
+          "notes": "Sisu's dragon brother",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Amba",
+          "role": "minor",
+          "voice_actor": "Patti Harrison",
+          "notes": "Sisu's dragon sister",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Pranee",
+          "role": "minor",
+          "voice_actor": "Lucille Soong",
+          "notes": "Sisu's dragon sister",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Jagan",
+          "role": "minor",
+          "voice_actor": "Sung Kang",
+          "notes": "Sisu's dragon brother",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Tail Chief",
+          "role": "minor",
+          "voice_actor": "Fran\u00e7ois Chau",
+          "species": "dog",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "setting": "Kumandra - fantasy realm inspired by Southeast Asian cultures"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "franchise": "Phineas and Ferb Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Phineas and Ferb (2009)",
+    "Phineas and Ferb Ride Again (2010)",
+    "Phineas and Ferb: Across the 2nd Dimension (2011)",
+    "Phineas and Ferb: Quest for Cool Stuff (2013)"
+  ],
+  "total_estimated_characters": 45,
+  "categories": {
+    "phineas_and_ferb_2009": {
+      "year": 2009,
+      "platform": "Nintendo DS",
+      "developer": "Altron",
+      "game_type": "platformer_puzzle",
+      "count": 12,
+      "characters": [
+        {"name": "Phineas Flynn", "role": "protagonist", "voice_actor": "Vincent Martella", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Ferb Fletcher", "role": "protagonist", "voice_actor": "Thomas Sangster (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Candace Flynn", "role": "supporting", "voice_actor": "Ashley Tisdale (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Perry the Platypus/Agent P", "role": "protagonist", "voice_actor": "Dee Bradley Baker", "species": "platypus", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Dr. Heinz Doofenshmirtz", "role": "villain", "voice_actor": "Dan Povenmire", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Isabella Garcia-Shapiro", "role": "ally", "voice_actor": "Alyson Stoner (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Buford Van Stomm", "role": "ally", "voice_actor": "Bobby Gaylor (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Baljeet Tjinder", "role": "ally", "voice_actor": "Maulik Pancholy (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Major Monogram", "role": "supporting", "voice_actor": "Jeff 'Swampy' Marsh", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Linda Flynn-Fletcher", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Lawrence Fletcher", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Norm", "role": "antagonist", "voice_actor": "John Viener (archive)", "species": "robot", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"}
+      ]
+    },
+    "across_2nd_dimension": {
+      "year": 2011,
+      "platform": "Multi-platform",
+      "developer": "High Impact Games",
+      "game_type": "action_platformer",
+      "count": 18,
+      "characters": [
+        {"name": "Phineas Flynn", "role": "protagonist", "voice_actor": "Vincent Martella", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Ferb Fletcher", "role": "protagonist", "voice_actor": "Thomas Sangster", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Perry the Platypus/Agent P", "role": "protagonist", "voice_actor": "Dee Bradley Baker", "species": "platypus", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Dr. Heinz Doofenshmirtz", "role": "ally", "voice_actor": "Dan Povenmire", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Doofenshmirtz-2", "role": "villain", "voice_actor": "Dan Povenmire", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb: Across the 2nd Dimension"},
+        {"name": "Perry-2", "role": "antagonist", "voice_actor": "Dee Bradley Baker", "species": "platypus/cyborg", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb: Across the 2nd Dimension"},
+        {"name": "Candace Flynn", "role": "supporting", "voice_actor": "Ashley Tisdale", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Candace-2 (Resistance Leader)", "role": "ally", "voice_actor": "Ashley Tisdale", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb: Across the 2nd Dimension"},
+        {"name": "Isabella Garcia-Shapiro", "role": "ally", "voice_actor": "Alyson Stoner", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Isabella-2", "role": "ally", "voice_actor": "Alyson Stoner", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb: Across the 2nd Dimension"},
+        {"name": "Buford Van Stomm", "role": "ally", "voice_actor": "Bobby Gaylor", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Baljeet Tjinder", "role": "ally", "voice_actor": "Maulik Pancholy", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Major Monogram", "role": "supporting", "voice_actor": "Jeff 'Swampy' Marsh", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Norm", "role": "antagonist", "voice_actor": "John Viener", "species": "robot", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Normbots", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "disney", "origin_franchise": "Phineas and Ferb: Across the 2nd Dimension"},
+        {"name": "Resistance Members", "role": "ally", "voice_actor": "Various", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Phineas and Ferb: Across the 2nd Dimension"},
+        {"name": "O.W.C.A. Agents", "role": "ally", "voice_actor": "N/A", "species": "various animals", "gender": "various", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Firestorm Girls", "role": "ally", "voice_actor": "Various", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"}
+      ]
+    },
+    "quest_for_cool_stuff": {
+      "year": 2013,
+      "platform": "Wii U/3DS/Wii",
+      "developer": "Behaviour Interactive",
+      "game_type": "platformer",
+      "count": 15,
+      "characters": [
+        {"name": "Phineas Flynn", "role": "protagonist", "voice_actor": "Vincent Martella", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Ferb Fletcher", "role": "protagonist", "voice_actor": "Thomas Sangster", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Perry the Platypus/Agent P", "role": "protagonist", "voice_actor": "Dee Bradley Baker", "species": "platypus", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Dr. Heinz Doofenshmirtz", "role": "villain", "voice_actor": "Dan Povenmire", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Candace Flynn", "role": "supporting", "voice_actor": "Ashley Tisdale", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Isabella Garcia-Shapiro", "role": "ally", "voice_actor": "Alyson Stoner", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Buford Van Stomm", "role": "ally", "voice_actor": "Bobby Gaylor", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Baljeet Tjinder", "role": "ally", "voice_actor": "Maulik Pancholy", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Major Monogram", "role": "supporting", "voice_actor": "Jeff 'Swampy' Marsh", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Carl Karl", "role": "supporting", "voice_actor": "Tyler Alexander Mann", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Norm", "role": "antagonist", "voice_actor": "John Viener", "species": "robot", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Irving", "role": "supporting", "voice_actor": "Jack McBrayer (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Linda Flynn-Fletcher", "role": "supporting", "voice_actor": "Caroline Rhea (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Lawrence Fletcher", "role": "supporting", "voice_actor": "Richard O'Brien (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Phineas and Ferb"},
+        {"name": "Robot Guards", "role": "antagonist", "voice_actor": "N/A", "species": "robot", "gender": "none", "origin": "original", "origin_franchise": "Quest for Cool Stuff"}
+      ]
+    }
+  }
+}

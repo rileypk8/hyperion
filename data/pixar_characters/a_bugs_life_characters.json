@@ -1,0 +1,42 @@
+{
+  "franchise": "A Bug's Life",
+  "films": ["A Bug's Life (1998)"],
+  "total_estimated_characters": 20,
+  "categories": {
+    "a_bugs_life": {
+      "year": 1998,
+      "count": 20,
+      "characters": [
+        {"name": "Flik", "role": "protagonist", "species": "ant", "gender": "male", "voice_actor": "Dave Foley"},
+        {"name": "Princess Atta", "role": "love interest", "species": "ant", "gender": "female", "voice_actor": "Julia Louis-Dreyfus"},
+        {"name": "Dot", "role": "supporting", "species": "ant", "gender": "female", "voice_actor": "Hayden Panettiere"},
+        {"name": "The Queen", "role": "supporting", "species": "ant", "gender": "female", "voice_actor": "Phyllis Diller"},
+        {"name": "Hopper", "role": "villain", "species": "grasshopper", "gender": "male", "voice_actor": "Kevin Spacey"},
+        {"name": "Molt", "role": "comic relief", "species": "grasshopper", "gender": "male", "voice_actor": "Richard Kind"},
+        {"name": "Thumper", "role": "henchman", "species": "grasshopper", "gender": "male", "voice_actor": null, "notes": "Mostly non-verbal"},
+        {"name": "P.T. Flea", "role": "supporting", "species": "flea", "gender": "male", "voice_actor": "John Ratzenberger"},
+        {"name": "Francis", "role": "supporting", "species": "ladybug", "gender": "male", "voice_actor": "Denis Leary"},
+        {"name": "Slim", "role": "supporting", "species": "stick insect", "gender": "male", "voice_actor": "David Hyde Pierce"},
+        {"name": "Heimlich", "role": "comic relief", "species": "caterpillar", "gender": "male", "voice_actor": "Joe Ranft"},
+        {"name": "Dim", "role": "supporting", "species": "rhinoceros beetle", "gender": "male", "voice_actor": "Brad Garrett"},
+        {"name": "Rosie", "role": "supporting", "species": "black widow spider", "gender": "female", "voice_actor": "Bonnie Hunt"},
+        {"name": "Gypsy", "role": "supporting", "species": "moth", "gender": "female", "voice_actor": "Madeline Kahn"},
+        {"name": "Manny", "role": "supporting", "species": "praying mantis", "gender": "male", "voice_actor": "Jonathan Harris"},
+        {"name": "Tuck and Roll", "role": "comic relief", "species": "pill bug", "gender": "male", "voice_actor": "Michael McShane"},
+        {"name": "Thorny", "role": "minor", "species": "ant", "gender": "male", "voice_actor": "Alex Rocco"},
+        {"name": "Cornelius", "role": "minor", "species": "ant", "gender": "male", "voice_actor": "David Ossman"},
+        {"name": "Mr. Soil", "role": "minor", "species": "ant", "gender": "male", "voice_actor": "Roddy McDowall"},
+        {"name": "Dr. Flora", "role": "minor", "species": "ant", "gender": "female", "voice_actor": "Edie McClurg"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Serves the villain",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

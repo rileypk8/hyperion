@@ -1,0 +1,300 @@
+{
+  "franchise": "The Simpsons",
+  "studio": "20th Century Animation",
+  "films": ["The Simpsons Movie (2007)"],
+  "total_estimated_characters": 98,
+  "categories": {
+    "simpsons_movie": {
+      "year": 2007,
+      "count": 45,
+      "animation_type": "2D traditional",
+      "characters": [
+        {
+          "name": "Homer Simpson",
+          "role": "protagonist",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Also voices Grampa, Barney, Krusty, Mayor Quimby, Groundskeeper Willie, Sideshow Mel"
+        },
+        {
+          "name": "Marge Simpson",
+          "role": "deuteragonist",
+          "voice_actor": "Julie Kavner",
+          "notes": "Also voices Patty and Selma"
+        },
+        {
+          "name": "Bart Simpson",
+          "role": "hero",
+          "voice_actor": "Nancy Cartwright",
+          "notes": "Also voices Maggie, Ralph Wiggum, Nelson, Todd Flanders"
+        },
+        {
+          "name": "Lisa Simpson",
+          "role": "hero",
+          "voice_actor": "Yeardley Smith",
+          "notes": "Environmental advocate in the film"
+        },
+        {
+          "name": "Russ Cargill",
+          "role": "villain",
+          "voice_actor": "Albert Brooks",
+          "notes": "EPA administrator, film-only character"
+        },
+        {
+          "name": "Moe Szyslak",
+          "role": "supporting",
+          "voice_actor": "Hank Azaria",
+          "notes": "Also voices Apu, Chief Wiggum, Comic Book Guy, Professor Frink, Carl, Cletus"
+        },
+        {
+          "name": "Ned Flanders",
+          "role": "supporting",
+          "voice_actor": "Harry Shearer",
+          "notes": "Also voices Mr. Burns, Smithers, Lenny, Principal Skinner, Rev. Lovejoy, Kent Brockman, Otto, Dr. Hibbert"
+        },
+        {
+          "name": "Colin",
+          "role": "love_interest",
+          "voice_actor": "Tress MacNeille",
+          "notes": "Lisa's Irish love interest, film-only character"
+        },
+        {
+          "name": "Milhouse Van Houten",
+          "role": "supporting",
+          "voice_actor": "Pamela Hayden",
+          "notes": "Also voices Rod Flanders, Jimbo Jones"
+        },
+        {
+          "name": "Green Day",
+          "role": "cameo",
+          "voice_actor": "Billie Joe Armstrong, Mike Dirnt, Tré Cool",
+          "notes": "Voices themselves, die in opening sequence"
+        },
+        {
+          "name": "Tom Hanks",
+          "role": "cameo",
+          "voice_actor": "Tom Hanks",
+          "notes": "Voices himself in Grand Canyon commercial"
+        },
+        {
+          "name": "President Arnold Schwarzenegger",
+          "role": "supporting",
+          "voice_actor": "Harry Shearer",
+          "notes": "U.S. President in the film"
+        },
+        {
+          "name": "Spider Pig (Harry Plopper)",
+          "role": "supporting",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Homer's pet pig"
+        },
+        {
+          "name": "Abraham Simpson",
+          "role": "supporting",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Has prophetic vision in church"
+        },
+        {
+          "name": "Krusty the Clown",
+          "role": "supporting",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Children's TV host"
+        },
+        {
+          "name": "Apu Nahasapeemapetilon",
+          "role": "supporting",
+          "voice_actor": "Hank Azaria",
+          "notes": "Kwik-E-Mart owner"
+        },
+        {
+          "name": "Chief Wiggum",
+          "role": "supporting",
+          "voice_actor": "Hank Azaria",
+          "notes": "Springfield police chief"
+        },
+        {
+          "name": "Mr. Burns",
+          "role": "supporting",
+          "voice_actor": "Harry Shearer",
+          "notes": "Power plant owner"
+        },
+        {
+          "name": "Barney Gumble",
+          "role": "supporting",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Homer's drinking buddy"
+        },
+        {
+          "name": "Dr. Nick Riviera",
+          "role": "minor",
+          "voice_actor": "Hank Azaria",
+          "notes": "Incompetent doctor"
+        },
+        {
+          "name": "Comic Book Guy",
+          "role": "minor",
+          "voice_actor": "Hank Azaria",
+          "notes": "Android's Dungeon owner"
+        },
+        {
+          "name": "Principal Skinner",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "Elementary school principal"
+        },
+        {
+          "name": "Fat Tony",
+          "role": "minor",
+          "voice_actor": "Joe Mantegna",
+          "notes": "Springfield mob boss"
+        },
+        {
+          "name": "Mrs. Krabappel",
+          "role": "minor",
+          "voice_actor": "Marcia Wallace",
+          "notes": "Scenes deleted from theatrical cut"
+        },
+        {
+          "name": "Agnes Skinner",
+          "role": "minor",
+          "voice_actor": "Tress MacNeille",
+          "notes": "Principal Skinner's mother"
+        },
+        {
+          "name": "Nelson Muntz",
+          "role": "minor",
+          "voice_actor": "Nancy Cartwright",
+          "notes": "School bully"
+        },
+        {
+          "name": "Ralph Wiggum",
+          "role": "minor",
+          "voice_actor": "Nancy Cartwright",
+          "notes": "Chief Wiggum's son"
+        },
+        {
+          "name": "Cletus Spuckler",
+          "role": "minor",
+          "voice_actor": "Hank Azaria",
+          "notes": "Springfield yokel"
+        },
+        {
+          "name": "Kent Brockman",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "News anchor"
+        },
+        {
+          "name": "Groundskeeper Willie",
+          "role": "minor",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Elementary school groundskeeper"
+        },
+        {
+          "name": "Maggie Simpson",
+          "role": "supporting",
+          "voice_actor": "Nancy Cartwright",
+          "notes": "Baby of the family, saves Homer"
+        },
+        {
+          "name": "Rev. Lovejoy",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "Springfield minister"
+        },
+        {
+          "name": "Sideshow Mel",
+          "role": "minor",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Krusty's sidekick"
+        },
+        {
+          "name": "Otto Mann",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "School bus driver"
+        },
+        {
+          "name": "Lenny Leonard",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "Homer's coworker"
+        },
+        {
+          "name": "Carl Carlson",
+          "role": "minor",
+          "voice_actor": "Hank Azaria",
+          "notes": "Homer's coworker"
+        },
+        {
+          "name": "Professor Frink",
+          "role": "minor",
+          "voice_actor": "Hank Azaria",
+          "notes": "Mad scientist"
+        },
+        {
+          "name": "Mayor Quimby",
+          "role": "minor",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Springfield's corrupt mayor"
+        },
+        {
+          "name": "Dr. Julius Hibbert",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "Family doctor"
+        },
+        {
+          "name": "Smithers",
+          "role": "minor",
+          "voice_actor": "Harry Shearer",
+          "notes": "Mr. Burns' assistant"
+        },
+        {
+          "name": "Booberella",
+          "role": "minor",
+          "voice_actor": "Tress MacNeille",
+          "notes": "Horror movie host"
+        },
+        {
+          "name": "Crazy Cat Lady",
+          "role": "minor",
+          "voice_actor": "Tress MacNeille",
+          "notes": "Throws cats at people"
+        },
+        {
+          "name": "Medicine Woman",
+          "role": "minor",
+          "voice_actor": "Tress MacNeille",
+          "notes": "Inuit healer in Alaska"
+        },
+        {
+          "name": "Martin Prince",
+          "role": "minor",
+          "voice_actor": "Russi Taylor",
+          "notes": "School nerd"
+        },
+        {
+          "name": "Hans Moleman",
+          "role": "minor",
+          "voice_actor": "Dan Castellaneta",
+          "notes": "Elderly Springfield resident"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary lead",
+    "hero": "Character who helps save the day",
+    "villain": "Primary antagonist",
+    "love_interest": "Romantic interest",
+    "supporting": "Important recurring character",
+    "minor": "Brief appearance",
+    "cameo": "Celebrity or real person voicing themselves"
+  },
+  "notes": {
+    "voice_actors": "Six main voice actors perform most characters",
+    "box_office": "Grossed $536.4 million worldwide, highest-grossing film based on animated TV series at the time",
+    "animation": "Animated at Film Roman, AKOM, and Rough Draft Studios"
+  }
+}

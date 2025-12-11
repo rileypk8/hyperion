@@ -1,0 +1,36 @@
+{
+  "franchise": "Split/Second",
+  "studio": "Disney Interactive Studios",
+  "games": ["Split/Second (2010)"],
+  "total_estimated_characters": 12,
+  "categories": {
+    "split_second": {
+      "year": 2010,
+      "platform": "PC/PS3/Xbox 360/PSP",
+      "developer": "Black Rock Studio",
+      "game_type": "racing",
+      "count": 12,
+      "notes": "Racing game set in fictional reality TV show; characters are primarily drivers with minimal characterization",
+      "characters": [
+        {"name": "Player Driver", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "player choice", "origin": "original", "origin_franchise": "Split/Second"},
+        {"name": "Show Host/Announcer", "role": "supporting", "voice_actor": "Steve Blum", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Reality show announcer"},
+        {"name": "Ryback", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Elite driver"},
+        {"name": "Elite Drivers", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Split/Second"},
+        {"name": "Season 1 Competitors", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Split/Second"},
+        {"name": "Production Crew", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Split/Second"},
+        {"name": "Hanzo", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Episode 3 boss"},
+        {"name": "Rodriguez", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Episode 5 boss"},
+        {"name": "Vickers", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Episode 7 boss"},
+        {"name": "Mueller", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Episode 9 boss"},
+        {"name": "Chen", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Episode 11 boss"},
+        {"name": "The Producer", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Split/Second", "notes": "Behind-the-scenes figure"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main playable character",
+    "antagonist": "Rival/enemy driver",
+    "supporting": "Notable NPC",
+    "minor": "Background character"
+  }
+}

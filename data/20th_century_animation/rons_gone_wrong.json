@@ -1,0 +1,137 @@
+{
+  "franchise": "Ron's Gone Wrong",
+  "studio": "20th Century Animation",
+  "co_production": "Locksmith Animation",
+  "films": ["Ron's Gone Wrong (2021)"],
+  "total_estimated_characters": 18,
+  "categories": {
+    "rons_gone_wrong": {
+      "year": 2021,
+      "count": 18,
+      "animation_type": "CGI (3D)",
+      "characters": [
+        {
+          "name": "Barney Pudowski",
+          "role": "protagonist",
+          "voice_actor": "Jack Dylan Grazer",
+          "notes": "Socially awkward middle-schooler"
+        },
+        {
+          "name": "Ron",
+          "role": "deuteragonist",
+          "voice_actor": "Zach Galifianakis",
+          "notes": "Defective B-bot, 'Best Friend out of the Box'"
+        },
+        {
+          "name": "Graham Pudowski",
+          "role": "supporting",
+          "voice_actor": "Ed Helms",
+          "notes": "Barney's father, novelty salesman"
+        },
+        {
+          "name": "Donka Pudowski",
+          "role": "supporting",
+          "voice_actor": "Olivia Colman",
+          "notes": "Barney's Bulgarian grandmother"
+        },
+        {
+          "name": "Andrew Morris",
+          "role": "antagonist",
+          "voice_actor": "Rob Delaney",
+          "notes": "COO of Bubble, wants to recall Ron"
+        },
+        {
+          "name": "Marc Wydell",
+          "role": "supporting",
+          "voice_actor": "Justice Smith",
+          "notes": "Creator of B-bot, CEO of Bubble"
+        },
+        {
+          "name": "Savannah Meades",
+          "role": "supporting",
+          "voice_actor": "Kylie Cantrall",
+          "notes": "Popular social media influencer at school"
+        },
+        {
+          "name": "Rich Belcher",
+          "role": "supporting",
+          "voice_actor": "Ricardo Hurtado",
+          "notes": "Barney's former friend, popular kid"
+        },
+        {
+          "name": "Noah",
+          "role": "supporting",
+          "voice_actor": "Cullen McCarthy",
+          "notes": "Barney's former friend"
+        },
+        {
+          "name": "Ava",
+          "role": "supporting",
+          "voice_actor": "Ava Morse",
+          "notes": "Shy girl at school with unique B-bot use"
+        },
+        {
+          "name": "Alex",
+          "role": "supporting",
+          "voice_actor": "Marcus Scribner",
+          "notes": "Another student"
+        },
+        {
+          "name": "Jayden",
+          "role": "supporting",
+          "voice_actor": "Thomas Barbusca",
+          "notes": "Another student"
+        },
+        {
+          "name": "Eric",
+          "role": "minor",
+          "voice_actor": "Bentley Kalu",
+          "notes": "Bubble employee"
+        },
+        {
+          "name": "Principal",
+          "role": "minor",
+          "voice_actor": "Flula Borg",
+          "notes": "School principal"
+        },
+        {
+          "name": "Mr. Cleaver",
+          "role": "minor",
+          "voice_actor": "David Menkin",
+          "notes": "Teacher"
+        },
+        {
+          "name": "Ms. Hartley",
+          "role": "minor",
+          "voice_actor": "Ruby Wax",
+          "notes": "Teacher"
+        },
+        {
+          "name": "Barney's Mother",
+          "role": "minor",
+          "voice_actor": "Not credited in film",
+          "notes": "Deceased, shown in photos"
+        },
+        {
+          "name": "Absol-Bot",
+          "role": "minor",
+          "voice_actor": "Various",
+          "notes": "Standard B-bots"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character",
+    "deuteragonist": "Secondary lead",
+    "antagonist": "Opposing force",
+    "supporting": "Important secondary characters",
+    "minor": "Brief appearances"
+  },
+  "notes": {
+    "locksmith_only_film": "Only film from Locksmith's deal with 20th Century Studios",
+    "recording": "Grazer recorded from age 13-18 over 4 years",
+    "premiere": "BFI London Film Festival 2021",
+    "box_office": "Grossed $60.7 million worldwide"
+  }
+}

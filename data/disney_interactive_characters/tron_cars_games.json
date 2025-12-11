@@ -1,0 +1,130 @@
+{
+  "franchise": "Tron & Cars Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Tron 2.0 (2003)",
+    "Tron: Evolution (2010)",
+    "Cars (2006)",
+    "Cars: Mater-National Championship (2007)",
+    "Cars 2: The Video Game (2011)"
+  ],
+  "total_estimated_characters": 70,
+  "categories": {
+    "tron_2_0": {
+      "year": 2003,
+      "platform": "PC/Xbox/GBA",
+      "developer": "Monolith Productions",
+      "game_type": "first_person_shooter",
+      "count": 15,
+      "characters": [
+        {"name": "Jet Bradley", "role": "protagonist", "voice_actor": "Jason Cottle", "species": "program/human", "gender": "male", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Alan Bradley", "role": "supporting", "voice_actor": "Bruce Boxleitner", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tron"},
+        {"name": "Ma3a", "role": "ally", "voice_actor": "Rebecca Romijn", "species": "AI", "gender": "female", "origin": "original", "origin_franchise": "Tron 2.0", "notes": "Digitized Lora Baines Bradley"},
+        {"name": "Mercury", "role": "ally", "voice_actor": "N/A", "species": "program", "gender": "female", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Thorne", "role": "villain", "voice_actor": "N/A", "species": "program", "gender": "male", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "fCon Executives", "role": "antagonist", "voice_actor": "Various", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "ICP Programs", "role": "antagonist", "voice_actor": "N/A", "species": "program", "gender": "none", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Z-Lots", "role": "antagonist", "voice_actor": "N/A", "species": "corrupted program", "gender": "none", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Kernel", "role": "antagonist", "voice_actor": "N/A", "species": "program", "gender": "male", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "DataWraiths", "role": "antagonist", "voice_actor": "N/A", "species": "corrupted human/program", "gender": "various", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Guest (I-No)", "role": "supporting", "voice_actor": "N/A", "species": "program", "gender": "male", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Byte", "role": "supporting", "voice_actor": "N/A", "species": "bit", "gender": "none", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Server Programs", "role": "supporting", "voice_actor": "N/A", "species": "program", "gender": "various", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Resource Hogs", "role": "antagonist", "voice_actor": "N/A", "species": "corrupted program", "gender": "none", "origin": "original", "origin_franchise": "Tron 2.0"},
+        {"name": "Master Control Program (reference)", "role": "supporting", "voice_actor": "N/A", "species": "program", "gender": "male", "origin": "disney", "origin_franchise": "Tron"}
+      ]
+    },
+    "tron_evolution": {
+      "year": 2010,
+      "platform": "Multi-platform",
+      "developer": "Propaganda Games",
+      "game_type": "action_adventure",
+      "count": 12,
+      "notes": "Prequel to Tron: Legacy",
+      "characters": [
+        {"name": "Anon", "role": "protagonist", "voice_actor": "N/A", "species": "program", "gender": "male", "origin": "original", "origin_franchise": "Tron: Evolution"},
+        {"name": "Quorra", "role": "ally", "voice_actor": "Olivia Wilde", "species": "ISO", "gender": "female", "origin": "disney", "origin_franchise": "Tron: Legacy"},
+        {"name": "Kevin Flynn", "role": "supporting", "voice_actor": "Fred Tatasciore", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tron"},
+        {"name": "CLU 2.0", "role": "villain", "voice_actor": "Fred Tatasciore", "species": "program", "gender": "male", "origin": "disney", "origin_franchise": "Tron: Legacy"},
+        {"name": "Abraxas", "role": "antagonist", "voice_actor": "John Glover", "species": "corrupted ISO", "gender": "male", "origin": "original", "origin_franchise": "Tron: Evolution"},
+        {"name": "Tron", "role": "ally", "voice_actor": "Bruce Boxleitner", "species": "program", "gender": "male", "origin": "disney", "origin_franchise": "Tron"},
+        {"name": "Gibson", "role": "ally", "voice_actor": "Jensen Ackles", "species": "ISO", "gender": "male", "origin": "original", "origin_franchise": "Tron: Evolution"},
+        {"name": "Radia", "role": "supporting", "voice_actor": "N/A", "species": "ISO", "gender": "female", "origin": "original", "origin_franchise": "Tron: Evolution"},
+        {"name": "Black Guards", "role": "antagonist", "voice_actor": "N/A", "species": "program", "gender": "none", "origin": "disney", "origin_franchise": "Tron: Legacy"},
+        {"name": "Sentries", "role": "antagonist", "voice_actor": "N/A", "species": "program", "gender": "none", "origin": "original", "origin_franchise": "Tron: Evolution"},
+        {"name": "Infected Programs", "role": "antagonist", "voice_actor": "N/A", "species": "corrupted program", "gender": "none", "origin": "original", "origin_franchise": "Tron: Evolution"},
+        {"name": "ISOs", "role": "supporting", "voice_actor": "Various", "species": "ISO", "gender": "various", "origin": "disney", "origin_franchise": "Tron: Legacy"}
+      ]
+    },
+    "cars_2006": {
+      "year": 2006,
+      "platform": "Multi-platform",
+      "developer": "Rainbow Studios",
+      "game_type": "racing",
+      "count": 15,
+      "characters": [
+        {"name": "Lightning McQueen", "role": "protagonist", "voice_actor": "Owen Wilson (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Mater", "role": "ally", "voice_actor": "Larry the Cable Guy", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Sally Carrera", "role": "supporting", "voice_actor": "Bonnie Hunt (archive)", "species": "car", "gender": "female", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Doc Hudson", "role": "supporting", "voice_actor": "Paul Newman (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Ramone", "role": "supporting", "voice_actor": "Cheech Marin (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Flo", "role": "supporting", "voice_actor": "Jenifer Lewis (archive)", "species": "car", "gender": "female", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Sheriff", "role": "supporting", "voice_actor": "Michael Wallis (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Luigi", "role": "supporting", "voice_actor": "Tony Shalhoub (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Guido", "role": "supporting", "voice_actor": "Guido Quaroni (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Sarge", "role": "supporting", "voice_actor": "Paul Dooley (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Fillmore", "role": "supporting", "voice_actor": "George Carlin (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Chick Hicks", "role": "antagonist", "voice_actor": "Michael Keaton (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "The King", "role": "supporting", "voice_actor": "Richard Petty (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Mack", "role": "supporting", "voice_actor": "John Ratzenberger (archive)", "species": "truck", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Lizzie", "role": "supporting", "voice_actor": "Katherine Helmond (archive)", "species": "car", "gender": "female", "origin": "pixar", "origin_franchise": "Cars"}
+      ]
+    },
+    "cars_mater_national": {
+      "year": 2007,
+      "platform": "Multi-platform",
+      "developer": "Rainbow Studios",
+      "game_type": "racing",
+      "count": 12,
+      "characters": [
+        {"name": "Lightning McQueen", "role": "protagonist", "voice_actor": "Keith Ferguson", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Mater", "role": "protagonist", "voice_actor": "Larry the Cable Guy", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Gudmund", "role": "antagonist", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Emma", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "female", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Koji", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Giovanni", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Otto", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Philip", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Radiator Springs Residents", "role": "supporting", "voice_actor": "Various", "species": "car", "gender": "various", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "International Racers", "role": "antagonist", "voice_actor": "Various", "species": "car", "gender": "various", "origin": "original", "origin_franchise": "Cars: Mater-National"},
+        {"name": "Tractor", "role": "minor", "voice_actor": "N/A", "species": "tractor", "gender": "unknown", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Frank", "role": "antagonist", "voice_actor": "N/A", "species": "combine harvester", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"}
+      ]
+    },
+    "cars_2_game": {
+      "year": 2011,
+      "platform": "Multi-platform",
+      "developer": "Avalanche Software",
+      "game_type": "racing_action",
+      "count": 16,
+      "characters": [
+        {"name": "Lightning McQueen", "role": "protagonist", "voice_actor": "Keith Ferguson", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Mater", "role": "protagonist", "voice_actor": "Larry the Cable Guy (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars"},
+        {"name": "Finn McMissile", "role": "ally", "voice_actor": "Michael Caine (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Holley Shiftwell", "role": "ally", "voice_actor": "Emily Mortimer (archive)", "species": "car", "gender": "female", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Francesco Bernoulli", "role": "antagonist", "voice_actor": "John Turturro (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Professor Z", "role": "villain", "voice_actor": "Thomas Kretschmann (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Grem", "role": "antagonist", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Acer", "role": "antagonist", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Miles Axlerod", "role": "villain", "voice_actor": "Eddie Izzard (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Siddeley", "role": "supporting", "voice_actor": "N/A", "species": "airplane", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Raoul ÇaRoule", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Carla Veloso", "role": "supporting", "voice_actor": "N/A", "species": "car", "gender": "female", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Jeff Gorvette", "role": "supporting", "voice_actor": "Jeff Gordon (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Lewis Hamilton", "role": "supporting", "voice_actor": "Lewis Hamilton (archive)", "species": "car", "gender": "male", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "Lemons", "role": "antagonist", "voice_actor": "Various", "species": "car", "gender": "various", "origin": "pixar", "origin_franchise": "Cars 2"},
+        {"name": "CHROME Agents", "role": "ally", "voice_actor": "N/A", "species": "car", "gender": "various", "origin": "original", "origin_franchise": "Cars 2 (Game)"}
+      ]
+    }
+  }
+}

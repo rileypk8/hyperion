@@ -1,0 +1,145 @@
+{
+  "franchise": "Strange World",
+  "films": [
+    "Strange World (2022)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "strange_world_2022": {
+      "year": 2022,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Searcher Clade",
+          "role": "protagonist",
+          "voice_actor": "Jake Gyllenhaal",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Ethan Clade",
+          "role": "deuteragonist",
+          "voice_actor": "Jaboukie Young-White",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Jaeger Clade",
+          "role": "supporting",
+          "voice_actor": "Dennis Quaid",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Meridian Clade",
+          "role": "supporting",
+          "voice_actor": "Gabrielle Union",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Splat",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Amorphous blue creature",
+          "species": "alien_creature",
+          "gender": "n/a"
+        },
+        {
+          "name": "Callisto Mal",
+          "role": "ally",
+          "voice_actor": "Lucy Liu",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Legend",
+          "role": "sidekick",
+          "voice_actor": "Alan Tudyk",
+          "notes": "Three-legged dog",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Diazo",
+          "role": "minor",
+          "voice_actor": "Karan Soni",
+          "notes": "Ethan's love interest",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Duffle",
+          "role": "minor",
+          "voice_actor": "Abraham Benrubi",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Caspian",
+          "role": "minor",
+          "voice_actor": "Jonathan Melo",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Azimuth",
+          "role": "minor",
+          "voice_actor": "Adelina Anthony",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Reapers",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Creatures in strange world",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Pando",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Living organism/world itself",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Expedition Crew",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "The Townspeople",
+          "role": "minor",
+          "voice_actor": "various",
+          "notes": "Avalonia residents",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "genre": "Pulp sci-fi adventure",
+    "milestone": "Features Disney's first openly gay teen protagonist"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "franchise": "Lady and the Tramp",
+  "films": [
+    "Lady and the Tramp (1955)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "lady_and_the_tramp_1955": {
+      "year": 1955,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Lady",
+          "role": "protagonist",
+          "voice_actor": "Barbara Luddy",
+          "species": "dog",
+          "gender": "female"
+        },
+        {
+          "name": "Tramp",
+          "role": "deuteragonist",
+          "voice_actor": "Larry Roberts",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Jock",
+          "role": "supporting",
+          "voice_actor": "Bill Thompson",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Trusty",
+          "role": "supporting",
+          "voice_actor": "Bill Baucom",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Si and Am",
+          "role": "antagonist",
+          "voice_actor": "Peggy Lee",
+          "notes": "Siamese cats",
+          "species": "cat",
+          "gender": "female"
+        },
+        {
+          "name": "Aunt Sarah",
+          "role": "antagonist",
+          "voice_actor": "Verna Felton",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Rat",
+          "role": "villain",
+          "voice_actor": null,
+          "notes": "Non-speaking, threatens baby",
+          "species": "rat",
+          "gender": "male"
+        },
+        {
+          "name": "Jim Dear",
+          "role": "supporting",
+          "voice_actor": "Lee Millar",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Darling",
+          "role": "supporting",
+          "voice_actor": "Peggy Lee",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Tony",
+          "role": "ally",
+          "voice_actor": "George Givot",
+          "notes": "Restaurant owner",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Joe",
+          "role": "ally",
+          "voice_actor": "George Givot",
+          "notes": "Tony's cook",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Peg",
+          "role": "supporting",
+          "voice_actor": "Peggy Lee",
+          "notes": "Pound dog",
+          "species": "dog",
+          "gender": "female"
+        },
+        {
+          "name": "Bull",
+          "role": "supporting",
+          "voice_actor": "Bill Thompson",
+          "notes": "Pound dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Dachsie",
+          "role": "minor",
+          "voice_actor": "Bill Thompson",
+          "notes": "Pound dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Pedro",
+          "role": "minor",
+          "voice_actor": "Dallas McKennon",
+          "notes": "Pound dog",
+          "species": "airplane",
+          "gender": "male"
+        },
+        {
+          "name": "Boris",
+          "role": "minor",
+          "voice_actor": "Alan Reed",
+          "notes": "Pound dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Toughy",
+          "role": "minor",
+          "voice_actor": "Dallas McKennon",
+          "notes": "Pound dog",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Beaver",
+          "role": "comic_relief",
+          "voice_actor": "Stan Freberg",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "controversy": "The Siamese cats Si and Am have been criticized for Asian stereotyping"
+  }
+}

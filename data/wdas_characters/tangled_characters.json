@@ -1,0 +1,148 @@
+{
+  "franchise": "Tangled",
+  "films": [
+    "Tangled (2010)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "tangled_2010": {
+      "year": 2010,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Rapunzel",
+          "role": "protagonist",
+          "voice_actor": "Mandy Moore",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Flynn Rider / Eugene Fitzherbert",
+          "role": "deuteragonist",
+          "voice_actor": "Zachary Levi",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mother Gothel",
+          "role": "villain",
+          "voice_actor": "Donna Murphy",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Pascal",
+          "role": "sidekick",
+          "voice_actor": "Frank Welker",
+          "notes": "Chameleon, non-speaking",
+          "species": "chameleon",
+          "gender": "male"
+        },
+        {
+          "name": "Maximus",
+          "role": "ally",
+          "voice_actor": "Frank Welker",
+          "notes": "Palace horse, non-speaking",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "The Stabbington Brothers",
+          "role": "henchman",
+          "voice_actor": "Ron Perlman",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Captain of the Guard",
+          "role": "antagonist",
+          "voice_actor": "M.C. Gainey",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Hook Hand",
+          "role": "ally",
+          "voice_actor": "Brad Garrett",
+          "notes": "Pub thug with piano dreams",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Big Nose",
+          "role": "ally",
+          "voice_actor": "Jeffrey Tambor",
+          "notes": "Romantic pub thug",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Vladimir",
+          "role": "ally",
+          "voice_actor": "Richard Kiel",
+          "notes": "Unicorn-collecting thug",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Attila",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Baker thug",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "King Frederic",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Queen Arianna",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Guards",
+          "role": "antagonist",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Shorty",
+          "role": "comic_relief",
+          "voice_actor": "Paul F. Tompkins",
+          "notes": "Drunk pub thug",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "source": "Based on Rapunzel fairy tale by Brothers Grimm",
+    "milestone": "50th Disney animated feature; most expensive animated film at time of release"
+  }
+}

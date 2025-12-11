@@ -1,0 +1,103 @@
+{
+  "franchise": "Spectrobes",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Spectrobes (2007)",
+    "Spectrobes: Beyond the Portals (2008)",
+    "Spectrobes: Origins (2009)"
+  ],
+  "total_estimated_characters": 55,
+  "categories": {
+    "spectrobes": {
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "developer": "Jupiter",
+      "game_type": "action_RPG",
+      "count": 18,
+      "characters": [
+        {"name": "Rallen", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes", "notes": "NPP Officer"},
+        {"name": "Jeena", "role": "deuteragonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes", "notes": "NPP Officer, partner"},
+        {"name": "Aldous", "role": "ally", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes", "notes": "Mysterious old man who introduces Spectrobes"},
+        {"name": "Commander Grant", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes", "notes": "NPP Commander"},
+        {"name": "Krux", "role": "villain", "voice_actor": "N/A", "species": "Krawl High Lord", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Komainu", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes", "notes": "Starter Spectrobe"},
+        {"name": "Zozane", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes", "notes": "Starter Spectrobe"},
+        {"name": "Professor Kate", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Gordon", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Maxx", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Haruki", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Salia", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Gelberus", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Spikan", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Krawl", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "none", "origin": "original", "origin_franchise": "Spectrobes", "notes": "Enemy species"},
+        {"name": "High Krawl Jado", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "High Krawl Maja", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "High Krawl Gronos", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"}
+      ]
+    },
+    "spectrobes_beyond_the_portals": {
+      "year": 2008,
+      "platform": "Nintendo DS",
+      "developer": "Jupiter",
+      "game_type": "action_RPG",
+      "count": 20,
+      "characters": [
+        {"name": "Rallen", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Jeena", "role": "deuteragonist", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Commander Grant", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Krux", "role": "villain", "voice_actor": "N/A", "species": "Krawl High Lord", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Maja", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Jado", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Gronos", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Gelberus", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Zoza", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Komainu", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Geo", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals"},
+        {"name": "Ryza", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals"},
+        {"name": "Professor Kate", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Ultimate Form Spectrobes", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals", "notes": "New evolution tier"},
+        {"name": "Darkmos", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals"},
+        {"name": "Dark Spectrobes", "role": "antagonist", "voice_actor": "N/A", "species": "corrupted spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals"},
+        {"name": "Menka", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals"},
+        {"name": "Portal Guardians", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Beyond the Portals"},
+        {"name": "NPP Officers", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Nanairo Residents", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Spectrobes"}
+      ]
+    },
+    "spectrobes_origins": {
+      "year": 2009,
+      "platform": "Wii",
+      "developer": "Genki",
+      "game_type": "action_RPG",
+      "count": 17,
+      "characters": [
+        {"name": "Rallen", "role": "protagonist", "voice_actor": "Quinton Flynn", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Jeena", "role": "deuteragonist", "voice_actor": "Kate Higgins", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Commander Grant", "role": "supporting", "voice_actor": "Fred Tatasciore", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Krux", "role": "villain", "voice_actor": "Richard Epcar", "species": "Krawl High Lord", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Jado", "role": "antagonist", "voice_actor": "Steve Blum", "species": "krawl", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Maja", "role": "antagonist", "voice_actor": "Wendee Lee", "species": "krawl", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Gronos", "role": "antagonist", "voice_actor": "Fred Tatasciore", "species": "krawl", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Kotetsu", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Origins", "notes": "New starter Spectrobe"},
+        {"name": "Zeni", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Origins", "notes": "New starter Spectrobe"},
+        {"name": "Aldous", "role": "supporting", "voice_actor": "Michael McConnohie", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Professor Kate", "role": "supporting", "voice_actor": "Kari Wahlgren", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes"},
+        {"name": "Kamtoga", "role": "supporting", "voice_actor": "Jamieson Price", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes: Origins"},
+        {"name": "Radese", "role": "supporting", "voice_actor": "Liam O'Brien", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Spectrobes: Origins"},
+        {"name": "Carmelita", "role": "supporting", "voice_actor": "Grey DeLisle", "species": "human", "gender": "female", "origin": "original", "origin_franchise": "Spectrobes: Origins"},
+        {"name": "Ultimate Spectrobes", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Origins"},
+        {"name": "Ancient Spectrobes", "role": "ally", "voice_actor": "N/A", "species": "spectrobe", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Origins"},
+        {"name": "The Ultimate Krawl", "role": "antagonist", "voice_actor": "N/A", "species": "krawl", "gender": "unknown", "origin": "original", "origin_franchise": "Spectrobes: Origins", "notes": "Final boss"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main playable character",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "antagonist": "Enemy or obstacle",
+    "ally": "Helpful NPC or creature",
+    "supporting": "Notable NPC",
+    "minor": "Background or brief appearance"
+  }
+}

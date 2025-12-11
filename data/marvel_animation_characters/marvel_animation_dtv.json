@@ -1,0 +1,253 @@
+{
+  "franchise": "Marvel Animation DTV Films",
+  "type": "film_collection",
+  "animation_style": "2D_traditional",
+  "status": "concluded",
+  "films": [
+    "Ultimate Avengers (2006)",
+    "Ultimate Avengers 2: Rise of the Panther (2006)",
+    "The Invincible Iron Man (2007)",
+    "Doctor Strange: The Sorcerer Supreme (2007)",
+    "Next Avengers: Heroes of Tomorrow (2008)",
+    "Hulk vs. Wolverine (2009)",
+    "Hulk vs. Thor (2009)",
+    "Planet Hulk (2010)",
+    "Thor: Tales of Asgard (2011)",
+    "Iron Man: Rise of Technovore (2013)",
+    "Avengers Confidential: Black Widow & Punisher (2014)"
+  ],
+  "total_estimated_characters": 145,
+  "species_definitions": {
+    "human": "Baseline human with no enhancements",
+    "human_mutate": "Human altered by external factors (serum, radiation, tech)",
+    "human_mutant": "Human born with X-gene mutations",
+    "asgardian": "Member of the Asgardian race",
+    "chitauri": "Shapeshifting alien species",
+    "kronan": "Rock-based alien species",
+    "sakaaran": "Native to planet Sakaar",
+    "insectoid": "Insect-based species",
+    "dark_elf": "Svartalfheim species",
+    "android": "Artificial being",
+    "ai": "Artificial intelligence",
+    "cyborg": "Human-machine hybrid"
+  },
+  "categories": {
+    "ultimate_avengers": {
+      "year": 2006,
+      "count": 14,
+      "characters": [
+        {"name": "Steve Rogers / Captain America", "role": "protagonist", "voice_actor": "Justin Gross", "species": "human_mutate", "gender": "male", "notes": "Recently thawed WWII hero"},
+        {"name": "Tony Stark / Iron Man", "role": "ally", "voice_actor": "Marc Worden", "species": "human", "gender": "male", "notes": "Recurring across multiple DTV films"},
+        {"name": "Bruce Banner", "role": "ally", "voice_actor": "Michael Massee", "species": "human_mutate", "gender": "male", "notes": "Hulk's human form"},
+        {"name": "Hulk", "role": "ally", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Recurring across multiple DTV films"},
+        {"name": "Nick Fury", "role": "supporting", "voice_actor": "Andre Ware", "species": "human", "gender": "male", "notes": "S.H.I.E.L.D. director"},
+        {"name": "Janet Pym / Wasp", "role": "ally", "voice_actor": "Grey DeLisle", "species": "human_mutate", "gender": "female", "notes": "Hank's wife"},
+        {"name": "Hank Pym / Giant-Man", "role": "ally", "voice_actor": "Nolan North", "species": "human_mutate", "gender": "male", "notes": "Janet's husband"},
+        {"name": "Natasha Romanoff / Black Widow", "role": "ally", "voice_actor": "Olivia d'Abo", "species": "human", "gender": "female", "notes": "S.H.I.E.L.D. agent"},
+        {"name": "Thor", "role": "ally", "voice_actor": "David Boat", "species": "asgardian", "gender": "male", "notes": "Asgardian god"},
+        {"name": "Betty Ross", "role": "supporting", "voice_actor": "Nan McNamara", "species": "human", "gender": "female", "notes": "Bruce's love interest"},
+        {"name": "Herr Kleiser", "role": "villain", "voice_actor": "Jim Ward", "species": "chitauri", "gender": "male", "notes": "Chitauri leader"},
+        {"name": "Bucky Barnes", "role": "supporting", "voice_actor": "James Arnold Taylor", "species": "human", "gender": "male", "notes": "Steve's WWII partner (flashback)"},
+        {"name": "Gail Richards", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "female", "notes": "Steve's fiancée (flashback)"},
+        {"name": "General Ross", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "Betty's father"}
+      ]
+    },
+    "ultimate_avengers_2": {
+      "year": 2006,
+      "count": 15,
+      "characters": [
+        {"name": "T'Challa / Black Panther", "role": "protagonist", "voice_actor": "Jeffrey D. Sams", "species": "human", "gender": "male", "notes": "Wakandan king"},
+        {"name": "Steve Rogers / Captain America", "role": "deuteragonist", "voice_actor": "Justin Gross", "species": "human_mutate", "gender": "male", "notes": "Returning"},
+        {"name": "Tony Stark / Iron Man", "role": "ally", "voice_actor": "Marc Worden", "species": "human", "gender": "male", "notes": "Returning"},
+        {"name": "Bruce Banner / Hulk", "role": "ally", "voice_actor": "Michael Massee / Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Returning"},
+        {"name": "Thor", "role": "ally", "voice_actor": "David Boat", "species": "asgardian", "gender": "male", "notes": "Returning"},
+        {"name": "Janet Pym / Wasp", "role": "ally", "voice_actor": "Grey DeLisle", "species": "human_mutate", "gender": "female", "notes": "Returning"},
+        {"name": "Hank Pym / Giant-Man", "role": "ally", "voice_actor": "Nolan North", "species": "human_mutate", "gender": "male", "notes": "Dies in this film"},
+        {"name": "Natasha Romanoff / Black Widow", "role": "ally", "voice_actor": "Olivia d'Abo", "species": "human", "gender": "female", "notes": "Returning"},
+        {"name": "Nick Fury", "role": "supporting", "voice_actor": "Andre Ware", "species": "human", "gender": "male", "notes": "Returning"},
+        {"name": "T'Chaka", "role": "supporting", "voice_actor": "Dave Fennoy", "species": "human", "gender": "male", "notes": "T'Challa's father"},
+        {"name": "Herr Kleiser", "role": "villain", "voice_actor": "Jim Ward", "species": "chitauri", "gender": "male", "notes": "Main antagonist"},
+        {"name": "Nakinda", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "notes": "Wakandan princess"},
+        {"name": "Betty Ross", "role": "supporting", "voice_actor": "Nan McNamara", "species": "human", "gender": "female", "notes": "Returning"},
+        {"name": "Dr. Oiler", "role": "minor", "voice_actor": "Mark Hamill", "species": "human", "gender": "male", "notes": "HYDRA scientist"},
+        {"name": "General Ross", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "Returning"}
+      ]
+    },
+    "invincible_iron_man": {
+      "year": 2007,
+      "count": 10,
+      "characters": [
+        {"name": "Tony Stark / Iron Man", "role": "protagonist", "voice_actor": "Marc Worden", "species": "human", "gender": "male", "notes": "Returning"},
+        {"name": "Li Mei", "role": "deuteragonist", "voice_actor": "Gwendoline Yeo", "species": "human", "gender": "female", "notes": "Chinese woman who helps Tony"},
+        {"name": "James Rhodes / War Machine", "role": "ally", "voice_actor": "Rodney Saulsberry", "species": "human", "gender": "male", "notes": "Tony's military friend"},
+        {"name": "Mandarin", "role": "villain", "voice_actor": "Fred Tatasciore", "species": "human", "gender": "male", "notes": "Ancient Chinese warlord"},
+        {"name": "Howard Stark", "role": "supporting", "voice_actor": "John McCook", "species": "human", "gender": "male", "notes": "Tony's father"},
+        {"name": "Pepper Potts", "role": "supporting", "voice_actor": "Elisa Gabrielli", "species": "human", "gender": "female", "notes": "Tony's assistant"},
+        {"name": "Wong-Chu", "role": "antagonist", "voice_actor": "James Sie", "species": "human", "gender": "male", "notes": "Warlord who captures Tony"},
+        {"name": "Iron Knight", "role": "minor", "voice_actor": "Marc Worden", "species": "human", "gender": "male", "notes": "Ancient Iron Man prototype"},
+        {"name": "Ho Yinsen", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "Scientist who helps Tony"},
+        {"name": "Jade Dragons", "role": "villain", "voice_actor": "Various", "species": "human_mutate", "gender": "various", "notes": "Elemental warriors"}
+      ]
+    },
+    "doctor_strange": {
+      "year": 2007,
+      "count": 12,
+      "characters": [
+        {"name": "Stephen Strange / Doctor Strange", "role": "protagonist", "voice_actor": "Bryce Johnson", "species": "human", "gender": "male", "notes": "Arrogant surgeon turned sorcerer"},
+        {"name": "Wong", "role": "ally", "voice_actor": "Paul Nakauchi", "species": "human", "gender": "male", "notes": "Strange's servant"},
+        {"name": "The Ancient One", "role": "supporting", "voice_actor": "Michael Yama", "species": "human", "gender": "male", "notes": "Sorcerer Supreme"},
+        {"name": "Dormammu", "role": "villain", "voice_actor": "Jonathan Adams", "species": "demon", "gender": "male", "notes": "Ruler of Dark Dimension"},
+        {"name": "Baron Mordo", "role": "antagonist", "voice_actor": "Kevin Michael Richardson", "species": "human", "gender": "male", "notes": "Rival sorcerer"},
+        {"name": "Clea", "role": "ally", "voice_actor": "Susan Spano", "species": "faltine_hybrid", "gender": "female", "notes": "Dormammu's niece"},
+        {"name": "Oliver", "role": "minor", "voice_actor": "Fred Tatasciore", "species": "human", "gender": "male", "notes": "Sorcerer apprentice"},
+        {"name": "Dr. Gina Atwater", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "notes": "Strange's colleague"},
+        {"name": "Mindless Ones", "role": "villain", "voice_actor": "N/A", "species": "demon", "gender": "none", "notes": "Dormammu's minions"},
+        {"name": "Miro", "role": "minor", "voice_actor": "Phil LaMarr", "species": "human", "gender": "male", "notes": "Sorcerer apprentice"},
+        {"name": "Agent Drake", "role": "minor", "voice_actor": "John DeMita", "species": "human", "gender": "male", "notes": "Government agent"},
+        {"name": "Doorman", "role": "minor", "voice_actor": "Fred Tatasciore", "species": "magical_entity", "gender": "male", "notes": "Guardian"}
+      ]
+    },
+    "next_avengers": {
+      "year": 2008,
+      "count": 13,
+      "characters": [
+        {"name": "James Rogers", "role": "protagonist", "voice_actor": "Noah Crawford", "species": "human_mutate", "gender": "male", "notes": "Son of Captain America and Black Widow"},
+        {"name": "Torunn", "role": "ally", "voice_actor": "Brenna O'Brien", "species": "asgardian_hybrid", "gender": "female", "notes": "Daughter of Thor and Sif"},
+        {"name": "Azari", "role": "ally", "voice_actor": "Dempsey Pappion", "species": "human_mutant", "gender": "male", "notes": "Son of Black Panther and Storm"},
+        {"name": "Henry Pym Jr.", "role": "ally", "voice_actor": "Aidan Drummond", "species": "human_mutate", "gender": "male", "notes": "Son of Giant-Man and Wasp"},
+        {"name": "Francis Barton / Hawkeye", "role": "ally", "voice_actor": "Adrian Petriw", "species": "human", "gender": "male", "notes": "Son of Hawkeye and Mockingbird"},
+        {"name": "Tony Stark / Iron Man", "role": "supporting", "voice_actor": "Tom Kane", "species": "human", "gender": "male", "notes": "Elder version"},
+        {"name": "Ultron", "role": "villain", "voice_actor": "Tom Kane", "species": "android", "gender": "male", "notes": "Killed the original Avengers"},
+        {"name": "Hulk", "role": "ally", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Surviving elder hero"},
+        {"name": "Bruce Banner", "role": "ally", "voice_actor": "Ken Kramer", "species": "human_mutate", "gender": "male", "notes": "Elder version"},
+        {"name": "Vision", "role": "ally", "voice_actor": "Shawn Macdonald", "species": "android", "gender": "male", "notes": "Reprogrammed to help children"},
+        {"name": "Thor", "role": "minor", "voice_actor": "Michael Adamthwaite", "species": "asgardian", "gender": "male", "notes": "Appears briefly"},
+        {"name": "Betty Ross", "role": "minor", "voice_actor": "Nicole Oliver", "species": "human", "gender": "female", "notes": "In flashback/hologram"},
+        {"name": "Iron Captain America", "role": "villain", "voice_actor": "N/A", "species": "android", "gender": "male", "notes": "Ultron's robot copy"}
+      ]
+    },
+    "hulk_vs_wolverine": {
+      "year": 2009,
+      "count": 10,
+      "characters": [
+        {"name": "Hulk", "role": "protagonist", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Main character"},
+        {"name": "Bruce Banner", "role": "protagonist", "voice_actor": "Bryce Johnson", "species": "human_mutate", "gender": "male", "notes": "Hulk's human form"},
+        {"name": "Logan / Wolverine", "role": "deuteragonist", "voice_actor": "Steve Blum", "species": "human_mutant", "gender": "male", "notes": "Department H agent"},
+        {"name": "Wade Wilson / Deadpool", "role": "antagonist", "voice_actor": "Nolan North", "species": "human_mutate", "gender": "male", "notes": "First major animated Deadpool"},
+        {"name": "Victor Creed / Sabretooth", "role": "antagonist", "voice_actor": "Mark Acheson", "species": "human_mutant", "gender": "male", "notes": "Weapon X operative"},
+        {"name": "Lady Deathstrike", "role": "antagonist", "voice_actor": "Janyse Jaud", "species": "cyborg", "gender": "female", "notes": "Weapon X operative"},
+        {"name": "Omega Red", "role": "antagonist", "voice_actor": "Colin Murdock", "species": "human_mutate", "gender": "male", "notes": "Weapon X operative"},
+        {"name": "Professor Thornton", "role": "villain", "voice_actor": "Tom Kane", "species": "human", "gender": "male", "notes": "Weapon X program head"},
+        {"name": "Bruce Jr.", "role": "minor", "voice_actor": "Qayam Devji", "species": "human", "gender": "male", "notes": "Child in destroyed town"},
+        {"name": "Department H Agent", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "Sends Wolverine on mission"}
+      ]
+    },
+    "hulk_vs_thor": {
+      "year": 2009,
+      "count": 12,
+      "characters": [
+        {"name": "Hulk", "role": "antagonist", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Controlled by Loki"},
+        {"name": "Bruce Banner", "role": "supporting", "voice_actor": "Bryce Johnson", "species": "human_mutate", "gender": "male", "notes": "Separated from Hulk by magic"},
+        {"name": "Thor", "role": "protagonist", "voice_actor": "Matthew Wolf", "species": "asgardian", "gender": "male", "notes": "Main hero"},
+        {"name": "Loki", "role": "villain", "voice_actor": "Graham McTavish", "species": "frost_giant", "gender": "male", "notes": "Brings Hulk to Asgard"},
+        {"name": "Enchantress / Amora", "role": "antagonist", "voice_actor": "Kari Wahlgren", "species": "asgardian", "gender": "female", "notes": "Loki's ally"},
+        {"name": "Hela", "role": "antagonist", "voice_actor": "Janyse Jaud", "species": "asgardian", "gender": "female", "notes": "Goddess of Death"},
+        {"name": "Odin", "role": "supporting", "voice_actor": "French Tickner", "species": "asgardian", "gender": "male", "notes": "King of Asgard"},
+        {"name": "Sif", "role": "ally", "voice_actor": "Grey DeLisle", "species": "asgardian", "gender": "female", "notes": "Asgardian warrior"},
+        {"name": "Fandral", "role": "ally", "voice_actor": "Jonathan Holmes", "species": "asgardian", "gender": "male", "notes": "Warriors Three"},
+        {"name": "Hogun", "role": "ally", "voice_actor": "Paul Dobson", "species": "asgardian", "gender": "male", "notes": "Warriors Three"},
+        {"name": "Volstagg", "role": "ally", "voice_actor": "Jay Brazeau", "species": "asgardian", "gender": "male", "notes": "Warriors Three"},
+        {"name": "Balder", "role": "minor", "voice_actor": "N/A", "species": "asgardian", "gender": "male", "notes": "Asgardian warrior"}
+      ]
+    },
+    "planet_hulk": {
+      "year": 2010,
+      "count": 14,
+      "characters": [
+        {"name": "Hulk", "role": "protagonist", "voice_actor": "Rick D. Wasserman", "species": "human_mutate", "gender": "male", "notes": "Exiled from Earth, becomes gladiator"},
+        {"name": "Caiera", "role": "love_interest", "voice_actor": "Lisa Ann Beley", "species": "sakaaran", "gender": "female", "notes": "Shadow warrior, becomes Hulk's wife"},
+        {"name": "Red King", "role": "villain", "voice_actor": "Mark Hildreth", "species": "sakaaran", "gender": "male", "notes": "Tyrant ruler of Sakaar"},
+        {"name": "Miek", "role": "sidekick", "voice_actor": "Sam Vincent", "species": "insectoid", "gender": "male", "notes": "Insectoid gladiator"},
+        {"name": "Korg", "role": "ally", "voice_actor": "Kevin Michael Richardson", "species": "kronan", "gender": "male", "notes": "Kronan gladiator"},
+        {"name": "Hiroim", "role": "ally", "voice_actor": "Liam O'Brien", "species": "sakaaran", "gender": "male", "notes": "Shadow warrior gladiator"},
+        {"name": "Elloe Kaifi", "role": "ally", "voice_actor": "Advah Soudack", "species": "sakaaran", "gender": "female", "notes": "Sakaaran noble turned rebel"},
+        {"name": "Beta Ray Bill", "role": "antagonist", "voice_actor": "Paul Dobson", "species": "korbinite", "gender": "male", "notes": "First opponent in arena"},
+        {"name": "Primus Vand", "role": "minor", "voice_actor": "Michael Kopsa", "species": "sakaaran", "gender": "male", "notes": "Arena master"},
+        {"name": "Tony Stark / Iron Man", "role": "minor", "voice_actor": "Marc Worden", "species": "human", "gender": "male", "notes": "Hologram, part of Illuminati"},
+        {"name": "Doctor Strange", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "Hologram, part of Illuminati"},
+        {"name": "Mister Fantastic", "role": "minor", "voice_actor": "N/A", "species": "human_mutate", "gender": "male", "notes": "Hologram, part of Illuminati"},
+        {"name": "Black Bolt", "role": "minor", "voice_actor": "N/A", "species": "inhuman", "gender": "male", "notes": "Hologram, part of Illuminati"},
+        {"name": "Death's Head Troopers", "role": "villain", "voice_actor": "N/A", "species": "android", "gender": "none", "notes": "Red King's guards"}
+      ]
+    },
+    "thor_tales_of_asgard": {
+      "year": 2011,
+      "count": 13,
+      "characters": [
+        {"name": "Thor (Young)", "role": "protagonist", "voice_actor": "Matthew Wolf", "species": "asgardian", "gender": "male", "notes": "Teenage Thor"},
+        {"name": "Loki (Young)", "role": "deuteragonist", "voice_actor": "Rick Gomez", "species": "frost_giant", "gender": "male", "notes": "Thor's brother, not yet villainous"},
+        {"name": "Sif (Young)", "role": "ally", "voice_actor": "Tara Strong", "species": "asgardian", "gender": "female", "notes": "Thor's friend"},
+        {"name": "Odin", "role": "supporting", "voice_actor": "Christopher Britton", "species": "asgardian", "gender": "male", "notes": "King of Asgard"},
+        {"name": "Fandral (Young)", "role": "ally", "voice_actor": "Alistair Abell", "species": "asgardian", "gender": "male", "notes": "Warriors Three"},
+        {"name": "Hogun (Young)", "role": "ally", "voice_actor": "Paul Dobson", "species": "asgardian", "gender": "male", "notes": "Warriors Three"},
+        {"name": "Volstagg (Young)", "role": "ally", "voice_actor": "Brent Chapman", "species": "asgardian", "gender": "male", "notes": "Warriors Three"},
+        {"name": "Algrim", "role": "villain", "voice_actor": "Ron Halder", "species": "dark_elf", "gender": "male", "notes": "Dark Elf warrior"},
+        {"name": "Brunhilde / Valkyrie", "role": "ally", "voice_actor": "Cathy Weseluck", "species": "asgardian", "gender": "female", "notes": "Valkyrie leader"},
+        {"name": "Fenris Wolf", "role": "antagonist", "voice_actor": "N/A", "species": "asgardian_beast", "gender": "male", "notes": "Giant wolf"},
+        {"name": "Elderstahl", "role": "supporting", "voice_actor": "N/A", "species": "asgardian", "gender": "male", "notes": "Asgardian blacksmith"},
+        {"name": "Frigga", "role": "minor", "voice_actor": "N/A", "species": "asgardian", "gender": "female", "notes": "Thor and Loki's mother"},
+        {"name": "Surtur", "role": "minor", "voice_actor": "N/A", "species": "fire_demon", "gender": "male", "notes": "Sword of Surtur is plot device"}
+      ]
+    },
+    "iron_man_rise_of_technovore": {
+      "year": 2013,
+      "count": 12,
+      "characters": [
+        {"name": "Tony Stark / Iron Man", "role": "protagonist", "voice_actor": "Norman Reedus", "species": "human", "gender": "male", "notes": "English dub, anime-style"},
+        {"name": "Ezekiel Stane / Technovore", "role": "villain", "voice_actor": "Eric Bauza", "species": "human_mutate", "gender": "male", "notes": "Obadiah Stane's son"},
+        {"name": "James Rhodes / War Machine", "role": "ally", "voice_actor": "James C. Mathis III", "species": "human", "gender": "male", "notes": "Tony's partner"},
+        {"name": "Nick Fury", "role": "supporting", "voice_actor": "John Eric Bentley", "species": "human", "gender": "male", "notes": "S.H.I.E.L.D. director"},
+        {"name": "Natasha Romanoff / Black Widow", "role": "ally", "voice_actor": "Clare Grant", "species": "human", "gender": "female", "notes": "S.H.I.E.L.D. agent"},
+        {"name": "Clint Barton / Hawkeye", "role": "ally", "voice_actor": "Troy Baker", "species": "human", "gender": "male", "notes": "S.H.I.E.L.D. agent"},
+        {"name": "Frank Castle / Punisher", "role": "ally", "voice_actor": "Norman Reedus", "species": "human", "gender": "male", "notes": "Also voiced by Reedus"},
+        {"name": "Pepper Potts", "role": "supporting", "voice_actor": "Kate Higgins", "species": "human", "gender": "female", "notes": "Tony's assistant"},
+        {"name": "Maria Hill", "role": "supporting", "voice_actor": "Kari Wahlgren", "species": "human", "gender": "female", "notes": "S.H.I.E.L.D. agent"},
+        {"name": "Howard Stark", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "In flashback"},
+        {"name": "J.A.R.V.I.S.", "role": "supporting", "voice_actor": "N/A", "species": "ai", "gender": "male_presenting", "notes": "AI assistant"},
+        {"name": "Obadiah Stane", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "male", "notes": "In flashback"}
+      ]
+    },
+    "avengers_confidential": {
+      "year": 2014,
+      "count": 10,
+      "characters": [
+        {"name": "Natasha Romanoff / Black Widow", "role": "protagonist", "voice_actor": "Jennifer Carpenter", "species": "human", "gender": "female", "notes": "English dub"},
+        {"name": "Frank Castle / Punisher", "role": "deuteragonist", "voice_actor": "Brian Bloom", "species": "human", "gender": "male", "notes": "Forced to work with Black Widow"},
+        {"name": "Elihas Starr / Egghead", "role": "villain", "voice_actor": "John Eric Bentley", "species": "human", "gender": "male", "notes": "Main antagonist"},
+        {"name": "Nick Fury", "role": "supporting", "voice_actor": "John Eric Bentley", "species": "human", "gender": "male", "notes": "S.H.I.E.L.D. director"},
+        {"name": "Amadeus Cho", "role": "ally", "voice_actor": "Eric Bauza", "species": "human", "gender": "male", "notes": "S.H.I.E.L.D. tech support"},
+        {"name": "Tony Stark / Iron Man", "role": "minor", "voice_actor": "Matthew Mercer", "species": "human", "gender": "male", "notes": "Avengers cameo"},
+        {"name": "Thor", "role": "minor", "voice_actor": "N/A", "species": "asgardian", "gender": "male", "notes": "Avengers cameo"},
+        {"name": "Hulk", "role": "minor", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Avengers cameo"},
+        {"name": "Captain America", "role": "minor", "voice_actor": "N/A", "species": "human_mutate", "gender": "male", "notes": "Avengers cameo"},
+        {"name": "Leviathan Agents", "role": "villain", "voice_actor": "Various", "species": "human", "gender": "various", "notes": "Terrorist organization"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Central character driving the main narrative",
+    "deuteragonist": "Second most important character",
+    "villain": "Primary antagonist with malevolent goals",
+    "antagonist": "Character opposing the protagonist",
+    "ally": "Character who assists the protagonist",
+    "sidekick": "Constant companion to a main character",
+    "love_interest": "Romantic focus for a main character",
+    "supporting": "Important recurring character in secondary role",
+    "minor": "Brief appearance with limited impact"
+  },
+  "notes": {
+    "production": "Lionsgate-distributed DTV releases, Marvel Animation / MLG Productions",
+    "anime_influence": "Rise of Technovore and Avengers Confidential co-produced with Madhouse",
+    "hulk_vs_split": "Hulk Vs. originally one DVD; listed separately per user request"
+  }
+}

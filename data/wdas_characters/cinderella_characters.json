@@ -1,0 +1,161 @@
+{
+  "franchise": "Cinderella",
+  "films": [
+    "Cinderella (1950)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "cinderella_1950": {
+      "year": 1950,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Cinderella",
+          "role": "protagonist",
+          "voice_actor": "Ilene Woods",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Prince Charming",
+          "role": "love_interest",
+          "voice_actor": "William Phipps",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Lady Tremaine",
+          "role": "villain",
+          "voice_actor": "Eleanor Audley",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Anastasia Tremaine",
+          "role": "henchman",
+          "voice_actor": "Lucille Bliss",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Drizella Tremaine",
+          "role": "henchman",
+          "voice_actor": "Rhoda Williams",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Fairy Godmother",
+          "role": "mentor",
+          "voice_actor": "Verna Felton",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "Jaq",
+          "role": "deuteragonist",
+          "voice_actor": "Jimmy MacDonald",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Gus",
+          "role": "sidekick",
+          "voice_actor": "Jimmy MacDonald",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Lucifer",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Lady Tremaine's cat",
+          "species": "cat",
+          "gender": "male"
+        },
+        {
+          "name": "Bruno",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Cinderella's dog",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Major",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Cinderella's horse",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The King",
+          "role": "supporting",
+          "voice_actor": "Luis Van Rooten",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Grand Duke",
+          "role": "supporting",
+          "voice_actor": "Luis Van Rooten",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Suzy",
+          "role": "supporting",
+          "voice_actor": "June Foray",
+          "notes": "Female mouse",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Perla",
+          "role": "supporting",
+          "voice_actor": "June Foray",
+          "notes": "Female mouse",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Bluebirds",
+          "role": "ally",
+          "voice_actor": null,
+          "species": "bird",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Herald",
+          "role": "minor",
+          "voice_actor": "Don Barclay",
+          "species": "god",
+          "gender": "female"
+        },
+        {
+          "name": "The Footman",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

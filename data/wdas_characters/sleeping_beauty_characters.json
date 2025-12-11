@@ -1,0 +1,140 @@
+{
+  "franchise": "Sleeping Beauty",
+  "films": [
+    "Sleeping Beauty (1959)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "sleeping_beauty_1959": {
+      "year": 1959,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Princess Aurora / Briar Rose",
+          "role": "protagonist",
+          "voice_actor": "Mary Costa",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Prince Phillip",
+          "role": "deuteragonist",
+          "voice_actor": "Bill Shirley",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Maleficent",
+          "role": "villain",
+          "voice_actor": "Eleanor Audley",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "Flora",
+          "role": "mentor",
+          "voice_actor": "Verna Felton",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "Fauna",
+          "role": "mentor",
+          "voice_actor": "Barbara Jo Allen",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "Merryweather",
+          "role": "mentor",
+          "voice_actor": "Barbara Luddy",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "King Stefan",
+          "role": "supporting",
+          "voice_actor": "Taylor Holmes",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "King Hubert",
+          "role": "comic_relief",
+          "voice_actor": "Bill Thompson",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Queen",
+          "role": "supporting",
+          "voice_actor": "Verna Felton",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Diablo",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Maleficent's raven",
+          "species": "raven",
+          "gender": "male"
+        },
+        {
+          "name": "The Goons",
+          "role": "henchman",
+          "voice_actor": "various",
+          "notes": "Maleficent's minions",
+          "species": "goblin",
+          "gender": "male"
+        },
+        {
+          "name": "Samson",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Phillip's horse",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "The Forest Animals",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Befriend Aurora",
+          "species": "various_animals",
+          "gender": "various"
+        },
+        {
+          "name": "The Lackey",
+          "role": "minor",
+          "voice_actor": "Candy Candido",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Narrator",
+          "role": "narrator",
+          "voice_actor": "Marvin Miller",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

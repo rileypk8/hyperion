@@ -1,0 +1,183 @@
+{
+  "franchise": "Melody Time",
+  "films": [
+    "Melody Time (1948)"
+  ],
+  "animation_type": "hybrid",
+  "total_estimated_characters": 20,
+  "categories": {
+    "melody_time_1948": {
+      "year": 1948,
+      "count": 20,
+      "characters": [
+        {
+          "name": "Donald Duck",
+          "role": "protagonist",
+          "voice_actor": "Clarence Nash",
+          "notes": "Blame It on the Samba segment",
+          "species": "duck",
+          "gender": "male"
+        },
+        {
+          "name": "Jos\u00e9 Carioca",
+          "role": "deuteragonist",
+          "voice_actor": "Jos\u00e9 Oliveira",
+          "notes": "Blame It on the Samba",
+          "species": "parrot",
+          "gender": "male"
+        },
+        {
+          "name": "The Aracuan Bird",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "notes": "Blame It on the Samba",
+          "species": "bird",
+          "gender": "male"
+        },
+        {
+          "name": "Ethel Smith",
+          "role": "supporting",
+          "voice_actor": "Ethel Smith",
+          "notes": "Live-action organist in Blame It on the Samba",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Johnny Appleseed",
+          "role": "protagonist",
+          "voice_actor": "Dennis Day",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Johnny's Angel",
+          "role": "mentor",
+          "voice_actor": "Dennis Day",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Little Toot",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Tugboat, non-speaking",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Big Toot",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Father tugboat",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Pecos Bill",
+          "role": "protagonist",
+          "voice_actor": "Roy Rogers (narrator/singer)",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Slue-Foot Sue",
+          "role": "love_interest",
+          "voice_actor": null,
+          "notes": "Pecos Bill segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Widowmaker",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Pecos Bill's horse",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Roy Rogers",
+          "role": "narrator",
+          "voice_actor": "Roy Rogers",
+          "notes": "Live-action host for Pecos Bill",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Sons of the Pioneers",
+          "role": "narrator",
+          "voice_actor": "The Sons of the Pioneers",
+          "notes": "Live-action singers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Bobby Driscoll",
+          "role": "supporting",
+          "voice_actor": "Bobby Driscoll",
+          "notes": "Live-action child",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Luana Patten",
+          "role": "supporting",
+          "voice_actor": "Luana Patten",
+          "notes": "Live-action child",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Once Upon a Wintertime Couple",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Ice skating romance",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Bumble Boogie Bee",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Abstract musical segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Trees (Joyce Kilmer segment)",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Nature imagery",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "format": "Package film with seven musical segments",
+    "segments": [
+      "Once Upon a Wintertime",
+      "Bumble Boogie",
+      "Johnny Appleseed",
+      "Little Toot",
+      "Trees",
+      "Blame It on the Samba",
+      "Pecos Bill"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "franchise": "Tinker Bell",
+  "studio": "DisneyToon Studios",
+  "films": [
+    "Tinker Bell (2008)",
+    "Tinker Bell and the Lost Treasure (2009)",
+    "Tinker Bell and the Great Fairy Rescue (2010)",
+    "Secret of the Wings (2012)",
+    "The Pirate Fairy (2014)",
+    "Tinker Bell and the Legend of the NeverBeast (2015)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 65,
+  "categories": {
+    "tinker_bell_2008": {
+      "year": 2008,
+      "release_type": "direct_to_video",
+      "count": 18,
+      "characters": [
+        {"name": "Tinker Bell", "role": "protagonist", "species": "fairy", "gender": "female", "voice_actor": "Mae Whitman"},
+        {"name": "Queen Clarion", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Anjelica Huston"},
+        {"name": "Vidia", "role": "antagonist", "species": "fairy", "gender": "female", "voice_actor": "Pamela Adlon"},
+        {"name": "Rosetta", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Kristin Chenoweth"},
+        {"name": "Silvermist", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Lucy Liu"},
+        {"name": "Fawn", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "America Ferrera"},
+        {"name": "Iridessa", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Raven-Symoné"},
+        {"name": "Terence", "role": "supporting", "species": "fairy", "gender": "male", "voice_actor": "Jesse McCartney"},
+        {"name": "Fairy Mary", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Jane Horrocks"},
+        {"name": "Clank", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Bobble", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Minister of Spring", "role": "minor", "species": "fairy", "gender": "male", "voice_actor": "Steve Valentine"},
+        {"name": "Minister of Summer", "role": "minor", "species": "fairy", "gender": "female", "voice_actor": "Kathy Najimy"},
+        {"name": "Minister of Autumn", "role": "minor", "species": "fairy", "gender": "male", "voice_actor": "Richard Portnow"},
+        {"name": "Minister of Winter", "role": "minor", "species": "fairy", "gender": "female", "voice_actor": "Gail Borges"},
+        {"name": "Cheese", "role": "minor", "species": "mouse", "gender": "male", "voice_actor": "Bob Bergen"},
+        {"name": "Wendy Darling", "role": "minor", "species": "human", "gender": "female", "voice_actor": "America Young"},
+        {"name": "Narrator", "role": "narrator", "species": "n/a", "gender": "female", "voice_actor": "Loreena McKennitt"}
+      ]
+    },
+    "lost_treasure_2009": {
+      "year": 2009,
+      "release_type": "direct_to_video",
+      "count": 12,
+      "characters": [
+        {"name": "Tinker Bell", "role": "protagonist", "species": "fairy", "gender": "female", "voice_actor": "Mae Whitman"},
+        {"name": "Terence", "role": "deuteragonist", "species": "fairy", "gender": "male", "voice_actor": "Jesse McCartney"},
+        {"name": "Blaze", "role": "sidekick", "species": "firefly", "gender": "male", "voice_actor": "n/a", "notes": "Non-speaking"},
+        {"name": "Fairy Mary", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Jane Horrocks"},
+        {"name": "Queen Clarion", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Anjelica Huston"},
+        {"name": "Silvermist", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Lucy Liu"},
+        {"name": "Rosetta", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Kristin Chenoweth"},
+        {"name": "Fawn", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Angela Bartys"},
+        {"name": "Iridessa", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Raven-Symoné"},
+        {"name": "Vidia", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Pamela Adlon"},
+        {"name": "Clank", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Bobble", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Rob Paulsen"}
+      ]
+    },
+    "great_fairy_rescue_2010": {
+      "year": 2010,
+      "release_type": "direct_to_video",
+      "count": 14,
+      "characters": [
+        {"name": "Tinker Bell", "role": "protagonist", "species": "fairy", "gender": "female", "voice_actor": "Mae Whitman"},
+        {"name": "Lizzy Griffiths", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Lauren Mote"},
+        {"name": "Vidia", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Pamela Adlon"},
+        {"name": "Dr. Martin Griffiths", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Michael Sheen"},
+        {"name": "Silvermist", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Lucy Liu"},
+        {"name": "Rosetta", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Kristin Chenoweth"},
+        {"name": "Fawn", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Angela Bartys"},
+        {"name": "Iridessa", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Raven-Symoné"},
+        {"name": "Clank", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Bobble", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Terence", "role": "supporting", "species": "fairy", "gender": "male", "voice_actor": "Jesse McCartney"},
+        {"name": "Fairy Mary", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Jane Horrocks"},
+        {"name": "Queen Clarion", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Anjelica Huston"},
+        {"name": "Mrs. Perkins", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Faith Prince"}
+      ]
+    },
+    "secret_of_wings_2012": {
+      "year": 2012,
+      "release_type": "theatrical",
+      "count": 15,
+      "characters": [
+        {"name": "Tinker Bell", "role": "protagonist", "species": "fairy", "gender": "female", "voice_actor": "Mae Whitman"},
+        {"name": "Periwinkle", "role": "deuteragonist", "species": "frost fairy", "gender": "female", "voice_actor": "Lucy Hale"},
+        {"name": "Lord Milori", "role": "supporting", "species": "frost fairy", "gender": "male", "voice_actor": "Timothy Dalton"},
+        {"name": "Queen Clarion", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Anjelica Huston"},
+        {"name": "Dewey", "role": "supporting", "species": "frost fairy", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Gliss", "role": "ally", "species": "frost fairy", "gender": "female", "voice_actor": "Grey DeLisle"},
+        {"name": "Spike", "role": "ally", "species": "frost fairy", "gender": "female", "voice_actor": "Debby Ryan"},
+        {"name": "Sled", "role": "supporting", "species": "frost fairy", "gender": "male", "voice_actor": "Matt Lanter"},
+        {"name": "Silvermist", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Lucy Liu"},
+        {"name": "Rosetta", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Megan Hilty"},
+        {"name": "Fawn", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Angela Bartys"},
+        {"name": "Iridessa", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Raven-Symoné"},
+        {"name": "Vidia", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Pamela Adlon"},
+        {"name": "Clank", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Bobble", "role": "comic_relief", "species": "fairy", "gender": "male", "voice_actor": "Rob Paulsen"}
+      ]
+    },
+    "pirate_fairy_2014": {
+      "year": 2014,
+      "release_type": "direct_to_video",
+      "count": 14,
+      "characters": [
+        {"name": "Tinker Bell", "role": "protagonist", "species": "fairy", "gender": "female", "voice_actor": "Mae Whitman"},
+        {"name": "Zarina", "role": "deuteragonist", "species": "fairy", "gender": "female", "voice_actor": "Christina Hendricks"},
+        {"name": "James Hook", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Tom Hiddleston", "notes": "Young Captain Hook"},
+        {"name": "Silvermist", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Lucy Liu"},
+        {"name": "Rosetta", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Megan Hilty"},
+        {"name": "Fawn", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Ginnifer Goodwin"},
+        {"name": "Iridessa", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Raven-Symoné"},
+        {"name": "Vidia", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Pamela Adlon"},
+        {"name": "Queen Clarion", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Anjelica Huston"},
+        {"name": "Fairy Gary", "role": "supporting", "species": "fairy", "gender": "male", "voice_actor": "Jeff Bennett"},
+        {"name": "Port", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Carlos Ponce"},
+        {"name": "Starboard", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Carlos Ponce"},
+        {"name": "Yang", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Mel Brooks"},
+        {"name": "Oppenheimer", "role": "henchman", "species": "human", "gender": "male", "voice_actor": "Jim Cummings"}
+      ]
+    },
+    "legend_of_neverbeast_2015": {
+      "year": 2015,
+      "release_type": "direct_to_video",
+      "count": 12,
+      "characters": [
+        {"name": "Fawn", "role": "protagonist", "species": "fairy", "gender": "female", "voice_actor": "Ginnifer Goodwin"},
+        {"name": "Gruff", "role": "deuteragonist", "species": "neverbeast", "gender": "male", "voice_actor": "n/a", "notes": "Non-speaking"},
+        {"name": "Nyx", "role": "antagonist", "species": "scout fairy", "gender": "female", "voice_actor": "Rosario Dawson"},
+        {"name": "Tinker Bell", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Mae Whitman"},
+        {"name": "Queen Clarion", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Anjelica Huston"},
+        {"name": "Silvermist", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Lucy Liu"},
+        {"name": "Rosetta", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Megan Hilty"},
+        {"name": "Iridessa", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Raven-Symoné"},
+        {"name": "Vidia", "role": "ally", "species": "fairy", "gender": "female", "voice_actor": "Pamela Adlon"},
+        {"name": "Chase", "role": "supporting", "species": "scout fairy", "gender": "male", "voice_actor": "Thomas Lennon"},
+        {"name": "Fury", "role": "supporting", "species": "scout fairy", "gender": "female", "voice_actor": "Olivia Holt"},
+        {"name": "Hannah", "role": "minor", "species": "animal fairy", "gender": "female", "voice_actor": "Kiernan Shipka"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Character opposing protagonist (not necessarily evil)",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "sidekick": "Constant companion to protagonist",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time",
+    "narrator": "Voice-over narrator"
+  },
+  "notes": {
+    "recurring_cast": "Mae Whitman voiced Tinker Bell in all 6 films. Anjelica Huston voiced Queen Clarion throughout. Lucy Liu, Raven-Symoné, and Pamela Adlon appeared in all films.",
+    "va_changes": "Fawn was voiced by America Ferrera (2008), Angela Bartys (2009-2012), then Ginnifer Goodwin (2014-2015). Rosetta was Kristin Chenoweth (2008-2010), then Megan Hilty (2012-2015)."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "franchise": "The Jungle Book",
+  "films": [
+    "The Jungle Book (1967)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "jungle_book_1967": {
+      "year": 1967,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Mowgli",
+          "role": "protagonist",
+          "voice_actor": "Bruce Reitherman",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Baloo",
+          "role": "deuteragonist",
+          "voice_actor": "Phil Harris",
+          "species": "bear",
+          "gender": "male"
+        },
+        {
+          "name": "Bagheera",
+          "role": "mentor",
+          "voice_actor": "Sebastian Cabot",
+          "species": "panther",
+          "gender": "male"
+        },
+        {
+          "name": "Shere Khan",
+          "role": "villain",
+          "voice_actor": "George Sanders",
+          "species": "tiger",
+          "gender": "male"
+        },
+        {
+          "name": "Kaa",
+          "role": "antagonist",
+          "voice_actor": "Sterling Holloway",
+          "species": "snake",
+          "gender": "male"
+        },
+        {
+          "name": "King Louie",
+          "role": "antagonist",
+          "voice_actor": "Louis Prima",
+          "species": "orangutan",
+          "gender": "male"
+        },
+        {
+          "name": "Colonel Hathi",
+          "role": "supporting",
+          "voice_actor": "J. Pat O'Malley",
+          "species": "elephant",
+          "gender": "male"
+        },
+        {
+          "name": "Winifred",
+          "role": "supporting",
+          "voice_actor": "Verna Felton",
+          "notes": "Hathi's wife",
+          "species": "elephant",
+          "gender": "female"
+        },
+        {
+          "name": "Hathi Junior",
+          "role": "supporting",
+          "voice_actor": "Clint Howard",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Akela",
+          "role": "supporting",
+          "voice_actor": "John Abbott",
+          "notes": "Wolf pack leader",
+          "species": "wolf",
+          "gender": "male"
+        },
+        {
+          "name": "Rama",
+          "role": "supporting",
+          "voice_actor": "Ben Wright",
+          "notes": "Mowgli's wolf father",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mother Wolf",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "wolf",
+          "gender": "female"
+        },
+        {
+          "name": "The Vultures",
+          "role": "ally",
+          "voice_actor": "J. Pat O'Malley, Digby Wolfe, Lord Tim Hudson, Chad Stuart",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Shanti / The Girl",
+          "role": "supporting",
+          "voice_actor": "Darleen Carr",
+          "notes": "Village girl",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Bandar-log (Monkeys)",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "King Louie's subjects",
+          "species": "monkey",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Elephants",
+          "role": "comic_relief",
+          "voice_actor": null,
+          "notes": "Hathi's patrol",
+          "species": "elephant",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Wolf Cubs",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Mowgli's wolf brothers",
+          "species": "wolf",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Sloth Bear",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Background character",
+          "species": "bear",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

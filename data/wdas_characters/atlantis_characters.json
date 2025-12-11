@@ -1,0 +1,159 @@
+{
+  "franchise": "Atlantis: The Lost Empire",
+  "films": [
+    "Atlantis: The Lost Empire (2001)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "atlantis_2001": {
+      "year": 2001,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Milo James Thatch",
+          "role": "protagonist",
+          "voice_actor": "Michael J. Fox",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Princess Kida",
+          "role": "deuteragonist",
+          "voice_actor": "Cree Summer",
+          "species": "atlantean",
+          "gender": "female"
+        },
+        {
+          "name": "Commander Lyle Tiberius Rourke",
+          "role": "villain",
+          "voice_actor": "James Garner",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Helga Katrina Sinclair",
+          "role": "henchman",
+          "voice_actor": "Claudia Christian",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Preston B. Whitmore",
+          "role": "supporting",
+          "voice_actor": "John Mahoney",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Gaetan 'Mole' Moli\u00e8re",
+          "role": "ally",
+          "voice_actor": "Corey Burton",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Vincenzo 'Vinny' Santorini",
+          "role": "ally",
+          "voice_actor": "Don Novello",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Joshua Strongbear Sweet",
+          "role": "ally",
+          "voice_actor": "Phil Morris",
+          "species": "bear",
+          "gender": "unknown"
+        },
+        {
+          "name": "Audrey Rocio Ramirez",
+          "role": "ally",
+          "voice_actor": "Jacqueline Obradors",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Wilhelmina Bertha Packard",
+          "role": "comic_relief",
+          "voice_actor": "Florence Stanley",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Jebidiah Allardyce 'Cookie' Farnsworth",
+          "role": "comic_relief",
+          "voice_actor": "Jim Varney",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "King Kashekim Nedakh",
+          "role": "supporting",
+          "voice_actor": "Leonard Nimoy",
+          "species": "atlantean",
+          "gender": "male"
+        },
+        {
+          "name": "Fenton Q. Harcourt",
+          "role": "minor",
+          "voice_actor": "David Ogden Stiers",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Thaddeus Thatch",
+          "role": "minor",
+          "voice_actor": "Jim Varney",
+          "notes": "Milo's grandfather",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Leviathan",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Mechanical guardian",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Heart of Atlantis",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Living crystal entity",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Atlantean Warriors",
+          "role": "supporting",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Mercenaries",
+          "role": "henchman",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

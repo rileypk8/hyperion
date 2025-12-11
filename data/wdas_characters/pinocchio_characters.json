@@ -1,0 +1,146 @@
+{
+  "franchise": "Pinocchio",
+  "films": [
+    "Pinocchio (1940)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "pinocchio_1940": {
+      "year": 1940,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Pinocchio",
+          "role": "protagonist",
+          "voice_actor": "Dickie Jones",
+          "species": "wooden_puppet",
+          "gender": "male"
+        },
+        {
+          "name": "Jiminy Cricket",
+          "role": "deuteragonist",
+          "voice_actor": "Cliff Edwards",
+          "species": "cricket",
+          "gender": "male"
+        },
+        {
+          "name": "Geppetto",
+          "role": "supporting",
+          "voice_actor": "Christian Rub",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Blue Fairy",
+          "role": "mentor",
+          "voice_actor": "Evelyn Venable",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "Figaro",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Geppetto's cat, non-speaking",
+          "species": "cat",
+          "gender": "male"
+        },
+        {
+          "name": "Cleo",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Geppetto's goldfish",
+          "species": "goldfish",
+          "gender": "female"
+        },
+        {
+          "name": "Honest John (J. Worthington Foulfellow)",
+          "role": "villain",
+          "voice_actor": "Walter Catlett",
+          "species": "fox",
+          "gender": "male"
+        },
+        {
+          "name": "Gideon",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Mute cat, hiccup sounds only",
+          "species": "cat",
+          "gender": "male"
+        },
+        {
+          "name": "Stromboli",
+          "role": "villain",
+          "voice_actor": "Charles Judels",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Coachman",
+          "role": "villain",
+          "voice_actor": "Charles Judels",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Lampwick",
+          "role": "supporting",
+          "voice_actor": "Frankie Darro",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Monstro",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Giant whale, non-speaking",
+          "species": "whale",
+          "gender": "male"
+        },
+        {
+          "name": "The Barker",
+          "role": "minor",
+          "voice_actor": "Don Brodie",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Dutch Puppet",
+          "role": "minor",
+          "voice_actor": "Dickie Jones",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Russian Puppet",
+          "role": "minor",
+          "voice_actor": "Patricia Page",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "French Puppet",
+          "role": "minor",
+          "voice_actor": "Marion Darlington",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

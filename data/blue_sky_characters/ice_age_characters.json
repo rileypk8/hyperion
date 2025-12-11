@@ -1,0 +1,359 @@
+{
+  "franchise": "Ice Age",
+  "studio": "Blue Sky Studios",
+  "films": [
+    "Ice Age (2002)",
+    "Ice Age: The Meltdown (2006)",
+    "Ice Age: Dawn of the Dinosaurs (2009)",
+    "Ice Age: Continental Drift (2012)",
+    "Ice Age: Collision Course (2016)"
+  ],
+  "characters": {
+    "main_trio": [
+      {
+        "name": "Manny",
+        "species": "Woolly mammoth",
+        "gender": "Male",
+        "role": "protagonist",
+        "voice_actor": "Ray Romano",
+        "notes": "Initially a loner, becomes the herd's leader"
+      },
+      {
+        "name": "Sid",
+        "species": "Ground sloth",
+        "gender": "Male",
+        "role": "deuteragonist",
+        "voice_actor": "John Leguizamo",
+        "notes": "Comic relief, clumsy but loyal"
+      },
+      {
+        "name": "Diego",
+        "species": "Saber-toothed tiger",
+        "gender": "Male",
+        "role": "deuteragonist",
+        "voice_actor": "Denis Leary",
+        "notes": "Initially an antagonist, becomes loyal friend"
+      }
+    ],
+    "recurring_main": [
+      {
+        "name": "Scrat",
+        "species": "Saber-toothed squirrel",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Chris Wedge",
+        "notes": "Obsessed with his acorn, appears in all films"
+      },
+      {
+        "name": "Ellie",
+        "species": "Woolly mammoth",
+        "gender": "Female",
+        "role": "love_interest",
+        "voice_actor": "Queen Latifah",
+        "notes": "Mammoth who thinks she's a possum; Manny's wife (from Meltdown)"
+      },
+      {
+        "name": "Crash",
+        "species": "Possum",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Seann William Scott",
+        "notes": "Ellie's adoptive brother"
+      },
+      {
+        "name": "Eddie",
+        "species": "Possum",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Josh Peck",
+        "notes": "Ellie's adoptive brother"
+      },
+      {
+        "name": "Peaches",
+        "species": "Woolly mammoth",
+        "gender": "Female",
+        "role": "supporting",
+        "voice_actor": "Keke Palmer",
+        "notes": "Manny and Ellie's daughter (from Dawn of the Dinosaurs)"
+      },
+      {
+        "name": "Buck",
+        "species": "Weasel",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Simon Pegg",
+        "notes": "One-eyed dinosaur hunter (from Dawn of the Dinosaurs)"
+      }
+    ],
+    "ice_age_1_characters": [
+      {
+        "name": "Soto",
+        "species": "Saber-toothed tiger",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Goran Višnjić",
+        "notes": "Pack leader seeking revenge on humans"
+      },
+      {
+        "name": "Roshan",
+        "species": "Human",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "N/A (baby sounds)",
+        "notes": "Human baby the herd returns to his tribe"
+      },
+      {
+        "name": "Zeke",
+        "species": "Saber-toothed tiger",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Jack Black",
+        "notes": "Member of Soto's pack"
+      },
+      {
+        "name": "Oscar",
+        "species": "Saber-toothed tiger",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Diedrich Bader",
+        "notes": "Member of Soto's pack"
+      },
+      {
+        "name": "Lenny",
+        "species": "Saber-toothed tiger",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Alan Tudyk",
+        "notes": "Member of Soto's pack"
+      },
+      {
+        "name": "Dodo Leader",
+        "species": "Dodo",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Alan Tudyk",
+        "notes": "Leader of the dodo birds guarding watermelons"
+      }
+    ],
+    "meltdown_characters": [
+      {
+        "name": "Cretaceous",
+        "species": "Metriorhynchus (sea reptile)",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "N/A",
+        "notes": "Sea reptile predator thawed from ice"
+      },
+      {
+        "name": "Maelstrom",
+        "species": "Globidens (sea reptile)",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "N/A",
+        "notes": "Sea reptile predator thawed from ice"
+      },
+      {
+        "name": "Fast Tony",
+        "species": "Armadillo",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Jay Leno",
+        "notes": "Con artist selling useless items"
+      },
+      {
+        "name": "Lone Gunslinger Vulture",
+        "species": "Vulture",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Will Arnett",
+        "notes": "Vulture who warns of the flood"
+      }
+    ],
+    "dawn_of_dinosaurs_characters": [
+      {
+        "name": "Momma Dino",
+        "species": "Tyrannosaurus Rex",
+        "gender": "Female",
+        "role": "antagonist",
+        "voice_actor": "N/A",
+        "notes": "T-Rex mother of the eggs Sid takes"
+      },
+      {
+        "name": "Rudy",
+        "species": "Baryonyx (albino)",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "N/A",
+        "notes": "Giant albino dinosaur; Buck's nemesis"
+      },
+      {
+        "name": "Scratte",
+        "species": "Saber-toothed flying squirrel",
+        "gender": "Female",
+        "role": "love_interest",
+        "voice_actor": "Karen Disher",
+        "notes": "Scrat's love interest"
+      }
+    ],
+    "continental_drift_characters": [
+      {
+        "name": "Captain Gutt",
+        "species": "Gigantopithecus (giant ape)",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Peter Dinklage",
+        "notes": "Pirate captain"
+      },
+      {
+        "name": "Shira",
+        "species": "Saber-toothed tiger",
+        "gender": "Female",
+        "role": "love_interest",
+        "voice_actor": "Jennifer Lopez",
+        "notes": "Pirate turned Diego's mate"
+      },
+      {
+        "name": "Squint",
+        "species": "Rabbit",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Aziz Ansari",
+        "notes": "Gutt's first mate"
+      },
+      {
+        "name": "Flynn",
+        "species": "Elephant seal",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Nick Frost",
+        "notes": "Dimwitted pirate"
+      },
+      {
+        "name": "Raz",
+        "species": "Procoptodon (kangaroo)",
+        "gender": "Female",
+        "role": "henchman",
+        "voice_actor": "Rebel Wilson",
+        "notes": "Kangaroo pirate"
+      },
+      {
+        "name": "Silas",
+        "species": "Blue-footed booby",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Alain Chabat",
+        "notes": "Bird pirate lookout"
+      },
+      {
+        "name": "Gupta",
+        "species": "Badger",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "Kunal Nayyar",
+        "notes": "Serves as ship's flag"
+      },
+      {
+        "name": "Dobson",
+        "species": "Whale",
+        "gender": "Male",
+        "role": "henchman",
+        "voice_actor": "N/A",
+        "notes": "Whale pirate"
+      },
+      {
+        "name": "Louis",
+        "species": "Molehog",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Josh Gad",
+        "notes": "Peaches' best friend"
+      },
+      {
+        "name": "Ethan",
+        "species": "Woolly mammoth",
+        "gender": "Male",
+        "role": "minor",
+        "voice_actor": "Drake",
+        "notes": "Peaches' love interest"
+      },
+      {
+        "name": "Granny",
+        "species": "Ground sloth",
+        "gender": "Female",
+        "role": "comic_relief",
+        "voice_actor": "Wanda Sykes",
+        "notes": "Sid's grandmother"
+      }
+    ],
+    "collision_course_characters": [
+      {
+        "name": "Brooke",
+        "species": "Ground sloth",
+        "gender": "Female",
+        "role": "love_interest",
+        "voice_actor": "Jessie J",
+        "notes": "Sid's love interest"
+      },
+      {
+        "name": "Gavin",
+        "species": "Dromaeosaurus",
+        "gender": "Male",
+        "role": "villain",
+        "voice_actor": "Nick Offerman",
+        "notes": "Antagonist father"
+      },
+      {
+        "name": "Gertie",
+        "species": "Dromaeosaurus",
+        "gender": "Female",
+        "role": "antagonist",
+        "voice_actor": "Stephanie Beatriz",
+        "notes": "Gavin's daughter"
+      },
+      {
+        "name": "Roger",
+        "species": "Dromaeosaurus",
+        "gender": "Male",
+        "role": "antagonist",
+        "voice_actor": "Max Greenfield",
+        "notes": "Gavin's son"
+      },
+      {
+        "name": "Julian",
+        "species": "Woolly mammoth",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Adam DeVine",
+        "notes": "Peaches' fiancé"
+      },
+      {
+        "name": "Shangri Llama",
+        "species": "Llama",
+        "gender": "Male",
+        "role": "supporting",
+        "voice_actor": "Jesse Tyler Ferguson",
+        "notes": "Runs Geotopia"
+      },
+      {
+        "name": "Neil deBuck Weasel",
+        "species": "Weasel (imaginary)",
+        "gender": "Male",
+        "role": "comic_relief",
+        "voice_actor": "Neil deGrasse Tyson",
+        "notes": "Buck's brain projection"
+      }
+    ]
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

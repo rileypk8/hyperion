@@ -1,0 +1,98 @@
+{
+  "franchise": "Toy Story Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Toy Story (1995)",
+    "Toy Story 2: Buzz Lightyear to the Rescue (1999)",
+    "Toy Story 3: The Video Game (2010)",
+    "Toy Story Racer (2001)",
+    "Toy Story Mania! (2009)"
+  ],
+  "total_estimated_characters": 60,
+  "categories": {
+    "toy_story_1995": {
+      "year": 1995,
+      "platform": "SNES/Genesis/PC/Game Boy",
+      "developer": "Traveller's Tales",
+      "game_type": "platformer",
+      "count": 12,
+      "characters": [
+        {"name": "Woody", "role": "protagonist", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Buzz Lightyear", "role": "deuteragonist", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Sid Phillips", "role": "villain", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Rex", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Slinky Dog", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Mr. Potato Head", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Hamm", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "RC", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Mutant Toys", "role": "supporting", "voice_actor": "N/A", "species": "toy", "gender": "various", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Green Army Men", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Scud", "role": "antagonist", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Andy Davis", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"}
+      ]
+    },
+    "toy_story_2": {
+      "year": 1999,
+      "platform": "PlayStation/N64/PC/Dreamcast",
+      "developer": "Traveller's Tales",
+      "game_type": "3D_platformer",
+      "count": 20,
+      "characters": [
+        {"name": "Buzz Lightyear", "role": "protagonist", "voice_actor": "Tim Allen (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Woody", "role": "supporting", "voice_actor": "Tom Hanks (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Jessie", "role": "supporting", "voice_actor": "Joan Cusack (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Bullseye", "role": "supporting", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Stinky Pete", "role": "villain", "voice_actor": "Kelsey Grammer (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Al McWhiggin", "role": "antagonist", "voice_actor": "Wayne Knight (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Rex", "role": "ally", "voice_actor": "Wallace Shawn (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Slinky Dog", "role": "ally", "voice_actor": "Jim Varney (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Mr. Potato Head", "role": "ally", "voice_actor": "Don Rickles (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Hamm", "role": "ally", "voice_actor": "John Ratzenberger (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Bo Peep", "role": "supporting", "voice_actor": "Annie Potts (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Green Army Men", "role": "ally", "voice_actor": "R. Lee Ermey (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Emperor Zurg", "role": "antagonist", "voice_actor": "Andrew Stanton (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Aliens/LGMs", "role": "ally", "voice_actor": "Jeff Pidgeon", "species": "toy", "gender": "unknown", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Tour Guide Barbie", "role": "supporting", "voice_actor": "Jodi Benson (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Utility Belt Buzz", "role": "supporting", "voice_actor": "Tim Allen (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Rock 'Em Sock 'Em Robots", "role": "antagonist", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Jackhammer Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "toy", "gender": "unknown", "origin": "original", "origin_franchise": "Toy Story 2 (Game)"},
+        {"name": "Construction Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "toy", "gender": "various", "origin": "original", "origin_franchise": "Toy Story 2 (Game)"},
+        {"name": "Airport Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Toy Story 2 (Game)"}
+      ]
+    },
+    "toy_story_3": {
+      "year": 2010,
+      "platform": "Multi-platform",
+      "developer": "Avalanche Software",
+      "game_type": "action_adventure",
+      "count": 25,
+      "characters": [
+        {"name": "Woody", "role": "protagonist", "voice_actor": "Jim Hanks", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Buzz Lightyear", "role": "protagonist", "voice_actor": "Tim Allen (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Jessie", "role": "protagonist", "voice_actor": "Joan Cusack (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Lots-o'-Huggin' Bear", "role": "villain", "voice_actor": "Ned Beatty (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Big Baby", "role": "antagonist", "voice_actor": "N/A", "species": "toy", "gender": "unknown", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Ken", "role": "supporting", "voice_actor": "Michael Keaton (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Barbie", "role": "supporting", "voice_actor": "Jodi Benson", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Rex", "role": "ally", "voice_actor": "Wallace Shawn (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Hamm", "role": "ally", "voice_actor": "John Ratzenberger (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Slinky Dog", "role": "ally", "voice_actor": "Blake Clark", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Mr. Potato Head", "role": "ally", "voice_actor": "Don Rickles (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Mrs. Potato Head", "role": "ally", "voice_actor": "Estelle Harris (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Bullseye", "role": "ally", "voice_actor": "N/A", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Aliens/LGMs", "role": "ally", "voice_actor": "Jeff Pidgeon", "species": "toy", "gender": "unknown", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Emperor Zurg", "role": "antagonist", "voice_actor": "Andrew Stanton", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Stinky Pete", "role": "antagonist", "voice_actor": "Kelsey Grammer (archive)", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 2"},
+        {"name": "Bonnie", "role": "supporting", "voice_actor": "Emily Hahn (archive)", "species": "human", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Andy Davis", "role": "supporting", "voice_actor": "John Morris (archive)", "species": "human", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story"},
+        {"name": "Sunnyside Toys", "role": "supporting", "voice_actor": "Various", "species": "toy", "gender": "various", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Chunk", "role": "antagonist", "voice_actor": "Jack Angel", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Twitch", "role": "antagonist", "voice_actor": "John Cygan", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Stretch", "role": "antagonist", "voice_actor": "Whoopi Goldberg (archive)", "species": "toy", "gender": "female", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Sparks", "role": "antagonist", "voice_actor": "Jan Rabson", "species": "toy", "gender": "male", "origin": "pixar", "origin_franchise": "Toy Story 3"},
+        {"name": "Toy Box Mode Townspeople", "role": "minor", "voice_actor": "Various", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Toy Story 3 (Game)"},
+        {"name": "Toy Box Mode Villains", "role": "antagonist", "voice_actor": "Various", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Toy Story 3 (Game)"}
+      ]
+    }
+  }
+}

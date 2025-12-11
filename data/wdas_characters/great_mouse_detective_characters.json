@@ -1,0 +1,148 @@
+{
+  "franchise": "The Great Mouse Detective",
+  "films": [
+    "The Great Mouse Detective (1986)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "great_mouse_detective_1986": {
+      "year": 1986,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Basil of Baker Street",
+          "role": "protagonist",
+          "voice_actor": "Barrie Ingham",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Dr. David Q. Dawson",
+          "role": "deuteragonist",
+          "voice_actor": "Val Bettin",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Olivia Flaversham",
+          "role": "supporting",
+          "voice_actor": "Susanne Pollatschek",
+          "species": "mouse",
+          "gender": "female"
+        },
+        {
+          "name": "Professor Ratigan",
+          "role": "villain",
+          "voice_actor": "Vincent Price",
+          "species": "rat",
+          "gender": "male"
+        },
+        {
+          "name": "Fidget",
+          "role": "henchman",
+          "voice_actor": "Candy Candido",
+          "notes": "Bat with crippled wing",
+          "species": "bat",
+          "gender": "male"
+        },
+        {
+          "name": "Hiram Flaversham",
+          "role": "supporting",
+          "voice_actor": "Alan Young",
+          "notes": "Olivia's father",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Toby",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Sherlock Holmes's basset hound",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Queen Mousetoria",
+          "role": "supporting",
+          "voice_actor": "Eve Brenner",
+          "species": "mouse",
+          "gender": "female"
+        },
+        {
+          "name": "Mrs. Judson",
+          "role": "minor",
+          "voice_actor": "Diana Chesney",
+          "notes": "Basil's housekeeper",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Felicia",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Ratigan's cat",
+          "species": "cat",
+          "gender": "female"
+        },
+        {
+          "name": "Bartholomew",
+          "role": "minor",
+          "voice_actor": "Barrie Ingham",
+          "notes": "Drunk mouse eaten by Felicia",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Bar Maid",
+          "role": "minor",
+          "voice_actor": "Melissa Manchester",
+          "notes": "Sings 'Let Me Be Good to You'",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Ratigan's Thugs",
+          "role": "henchman",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Robot Queen",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Ratigan's mechanical double",
+          "species": "robot",
+          "gender": "female"
+        },
+        {
+          "name": "Sherlock Holmes",
+          "role": "minor",
+          "voice_actor": "Basil Rathbone (archival)",
+          "notes": "Silhouette only",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "source": "Based on Basil of Baker Street by Eve Titus",
+    "milestone": "First Disney feature to use CGI (Big Ben sequence)"
+  }
+}

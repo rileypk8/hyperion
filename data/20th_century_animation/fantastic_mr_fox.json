@@ -1,0 +1,164 @@
+{
+  "franchise": "Fantastic Mr. Fox",
+  "studio": "20th Century Animation",
+  "films": ["Fantastic Mr. Fox (2009)"],
+  "total_estimated_characters": 22,
+  "categories": {
+    "fantastic_mr_fox": {
+      "year": 2009,
+      "count": 22,
+      "animation_type": "stop-motion",
+      "characters": [
+        {
+          "name": "Mr. Fox",
+          "role": "protagonist",
+          "voice_actor": "George Clooney",
+          "notes": "Newspaper columnist and former chicken thief"
+        },
+        {
+          "name": "Mrs. Felicity Fox",
+          "role": "deuteragonist",
+          "voice_actor": "Meryl Streep",
+          "notes": "Mr. Fox's wife, painter"
+        },
+        {
+          "name": "Ash Fox",
+          "role": "hero",
+          "voice_actor": "Jason Schwartzman",
+          "notes": "Son who feels overshadowed by cousin"
+        },
+        {
+          "name": "Kristofferson Silverfox",
+          "role": "supporting",
+          "voice_actor": "Eric Chase Anderson",
+          "notes": "Mr. Fox's athletic nephew"
+        },
+        {
+          "name": "Kylie Opossum",
+          "role": "sidekick",
+          "voice_actor": "Wally Wolodarsky",
+          "notes": "Mr. Fox's dim-witted opossum friend"
+        },
+        {
+          "name": "Badger",
+          "role": "ally",
+          "voice_actor": "Bill Murray",
+          "notes": "Mr. Fox's lawyer and neighbor"
+        },
+        {
+          "name": "Rat",
+          "role": "antagonist",
+          "voice_actor": "Willem Dafoe",
+          "notes": "Security guard at Bean's cider cellar"
+        },
+        {
+          "name": "Franklin Bean",
+          "role": "villain",
+          "voice_actor": "Michael Gambon",
+          "notes": "Cunning turkey and apple farmer"
+        },
+        {
+          "name": "Walter Boggis",
+          "role": "villain",
+          "voice_actor": "Robin Hurlstone",
+          "notes": "Fat chicken farmer"
+        },
+        {
+          "name": "Nathan Bunce",
+          "role": "villain",
+          "voice_actor": "Hugo Guinness",
+          "notes": "Short duck and goose farmer"
+        },
+        {
+          "name": "Coach Skip",
+          "role": "supporting",
+          "voice_actor": "Owen Wilson",
+          "notes": "School sports coach"
+        },
+        {
+          "name": "Petey",
+          "role": "minor",
+          "voice_actor": "Jarvis Cocker",
+          "notes": "Singing songwriter/narrator"
+        },
+        {
+          "name": "Agnes",
+          "role": "minor",
+          "voice_actor": "Juman Malouf",
+          "notes": "Female fox at school"
+        },
+        {
+          "name": "Mrs. Bean",
+          "role": "minor",
+          "voice_actor": "Helen McCrory",
+          "notes": "Franklin Bean's wife"
+        },
+        {
+          "name": "Dr. Badger",
+          "role": "minor",
+          "voice_actor": "Jennifer Furches",
+          "notes": "Female doctor badger"
+        },
+        {
+          "name": "Weasel",
+          "role": "minor",
+          "voice_actor": "Wes Anderson",
+          "notes": "Real estate agent"
+        },
+        {
+          "name": "Linda Otter",
+          "role": "minor",
+          "voice_actor": "Karen Duffy",
+          "notes": "Neighbor"
+        },
+        {
+          "name": "Mole",
+          "role": "minor",
+          "voice_actor": "Roman Coppola",
+          "notes": "Animal neighbor"
+        },
+        {
+          "name": "Beaver",
+          "role": "minor",
+          "voice_actor": "Brian Cox",
+          "notes": "Neighbor with demolition expertise"
+        },
+        {
+          "name": "Mr. Rabbit",
+          "role": "minor",
+          "voice_actor": "Mario Batali",
+          "notes": "Neighbor"
+        },
+        {
+          "name": "Mrs. Rabbit",
+          "role": "minor",
+          "voice_actor": "Allison Abbate",
+          "notes": "Neighbor"
+        },
+        {
+          "name": "Mr. Beaver's Son",
+          "role": "minor",
+          "voice_actor": "Jeremy Dawson",
+          "notes": "Young beaver"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary lead",
+    "hero": "Character who grows and helps save the day",
+    "villain": "Antagonist farmers",
+    "antagonist": "Character opposing protagonist",
+    "sidekick": "Loyal helper",
+    "ally": "Friends who assist",
+    "supporting": "Important secondary characters",
+    "minor": "Brief appearances"
+  },
+  "notes": {
+    "director": "Wes Anderson's animation debut",
+    "source": "Based on Roald Dahl's 1970 novel",
+    "animation_studio": "3 Mills Studios, London",
+    "awards": "Oscar nominated for Best Animated Feature and Best Original Score"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "franchise": "One Hundred and One Dalmatians",
+  "films": [
+    "One Hundred and One Dalmatians (1961)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 20,
+  "categories": {
+    "101_dalmatians_1961": {
+      "year": 1961,
+      "count": 20,
+      "characters": [
+        {
+          "name": "Pongo",
+          "role": "protagonist",
+          "voice_actor": "Rod Taylor",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Perdita",
+          "role": "deuteragonist",
+          "voice_actor": "Cate Bauer",
+          "species": "dog",
+          "gender": "female"
+        },
+        {
+          "name": "Cruella de Vil",
+          "role": "villain",
+          "voice_actor": "Betty Lou Gerson",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Roger Radcliffe",
+          "role": "supporting",
+          "voice_actor": "Ben Wright",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Anita Radcliffe",
+          "role": "supporting",
+          "voice_actor": "Lisa Davis",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Nanny",
+          "role": "supporting",
+          "voice_actor": "Martha Wentworth",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Jasper Badun",
+          "role": "henchman",
+          "voice_actor": "J. Pat O'Malley",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Horace Badun",
+          "role": "henchman",
+          "voice_actor": "Frederick Worlock",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Colonel",
+          "role": "ally",
+          "voice_actor": "J. Pat O'Malley",
+          "notes": "Old English Sheepdog",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Sergeant Tibbs",
+          "role": "ally",
+          "voice_actor": "David Frankham",
+          "notes": "Cat",
+          "species": "cat",
+          "gender": "male"
+        },
+        {
+          "name": "Captain",
+          "role": "ally",
+          "voice_actor": "Thurl Ravenscroft",
+          "notes": "Horse",
+          "species": "horse",
+          "gender": "male"
+        },
+        {
+          "name": "Lucky",
+          "role": "supporting",
+          "voice_actor": "Mimi Gibson",
+          "notes": "One of the original 15 puppies",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Patch",
+          "role": "supporting",
+          "voice_actor": "Mickey Maga",
+          "notes": "One of the original 15 puppies",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Rolly",
+          "role": "supporting",
+          "voice_actor": "Barbara Baird",
+          "notes": "One of the original 15 puppies",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Penny",
+          "role": "minor",
+          "voice_actor": "Sandra Abbott",
+          "notes": "One of the original 15 puppies",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Towser",
+          "role": "ally",
+          "voice_actor": "Queenie Leonard",
+          "notes": "Bloodhound in the Twilight Bark",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Lucy",
+          "role": "ally",
+          "voice_actor": "Martha Wentworth",
+          "notes": "Goose",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Danny",
+          "role": "ally",
+          "voice_actor": "George Pelling",
+          "notes": "Great Dane",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Scottie",
+          "role": "ally",
+          "voice_actor": "George Pelling",
+          "notes": "Scottish Terrier",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "TV Thunderbolt",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Dog hero on TV show",
+          "species": "dog",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

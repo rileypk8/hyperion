@@ -1,0 +1,158 @@
+{
+  "franchise": "Classic Disney Platformers",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Castle of Illusion Starring Mickey Mouse (1990)",
+    "World of Illusion Starring Mickey Mouse and Donald Duck (1992)",
+    "QuackShot Starring Donald Duck (1991)",
+    "Mickey Mania (1994)",
+    "Maui Mallard in Cold Shadow (1995)",
+    "Mickey's Wild Adventure (1996)",
+    "Donald Duck: Goin' Quackers (2000)",
+    "Disney's Magical Quest series (1992-1995)"
+  ],
+  "total_estimated_characters": 75,
+  "categories": {
+    "castle_of_illusion": {
+      "year": 1990,
+      "platform": "Sega Genesis/Master System/Game Gear",
+      "developer": "Sega",
+      "game_type": "platformer",
+      "count": 8,
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Minnie Mouse", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Mizrabel", "role": "villain", "voice_actor": "N/A", "species": "witch", "gender": "female", "origin": "original", "origin_franchise": "Castle of Illusion"},
+        {"name": "Enchanted Forest Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Castle of Illusion"},
+        {"name": "Toyland Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "toys", "gender": "various", "origin": "original", "origin_franchise": "Castle of Illusion"},
+        {"name": "Storm King", "role": "antagonist", "voice_actor": "N/A", "species": "storm entity", "gender": "male", "origin": "original", "origin_franchise": "Castle of Illusion"},
+        {"name": "Dragon Boss", "role": "antagonist", "voice_actor": "N/A", "species": "dragon", "gender": "unknown", "origin": "original", "origin_franchise": "Castle of Illusion"},
+        {"name": "Library Boss", "role": "antagonist", "voice_actor": "N/A", "species": "book creature", "gender": "unknown", "origin": "original", "origin_franchise": "Castle of Illusion"}
+      ]
+    },
+    "world_of_illusion": {
+      "year": 1992,
+      "platform": "Sega Genesis",
+      "developer": "Sega",
+      "game_type": "platformer",
+      "count": 10,
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Donald Duck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pete", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Magic Carpet", "role": "supporting", "voice_actor": "N/A", "species": "magic carpet", "gender": "none", "origin": "original", "origin_franchise": "World of Illusion"},
+        {"name": "Dragon", "role": "antagonist", "voice_actor": "N/A", "species": "dragon", "gender": "unknown", "origin": "original", "origin_franchise": "World of Illusion"},
+        {"name": "Spider Queen", "role": "antagonist", "voice_actor": "N/A", "species": "spider", "gender": "female", "origin": "original", "origin_franchise": "World of Illusion"},
+        {"name": "Shark Boss", "role": "antagonist", "voice_actor": "N/A", "species": "shark", "gender": "unknown", "origin": "original", "origin_franchise": "World of Illusion"},
+        {"name": "Forest Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "World of Illusion"},
+        {"name": "Underwater Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "sea creatures", "gender": "various", "origin": "original", "origin_franchise": "World of Illusion"},
+        {"name": "Castle Guards", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "World of Illusion"}
+      ]
+    },
+    "quackshot": {
+      "year": 1991,
+      "platform": "Sega Genesis",
+      "developer": "Sega",
+      "game_type": "platformer_adventure",
+      "count": 12,
+      "characters": [
+        {"name": "Donald Duck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Huey", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Dewey", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Louie", "role": "ally", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Daisy Duck", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pete", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Count Dracula", "role": "antagonist", "voice_actor": "N/A", "species": "vampire", "gender": "male", "origin": "original", "origin_franchise": "QuackShot"},
+        {"name": "Viking Ghost", "role": "antagonist", "voice_actor": "N/A", "species": "ghost", "gender": "male", "origin": "original", "origin_franchise": "QuackShot"},
+        {"name": "Egyptian Mummies", "role": "antagonist", "voice_actor": "N/A", "species": "undead", "gender": "various", "origin": "original", "origin_franchise": "QuackShot"},
+        {"name": "Temple Guardians", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "QuackShot"},
+        {"name": "Shere Khan", "role": "supporting", "voice_actor": "N/A", "species": "tiger", "gender": "male", "origin": "disney", "origin_franchise": "TaleSpin"},
+        {"name": "Goofy", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic dog", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"}
+      ]
+    },
+    "mickey_mania": {
+      "year": 1994,
+      "platform": "SNES/Genesis/Sega CD/PS1",
+      "developer": "Traveller's Tales",
+      "game_type": "platformer",
+      "count": 15,
+      "notes": "Celebrates Mickey's history through classic cartoons",
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pluto", "role": "supporting", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pete (Steamboat Willie)", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Steamboat Willie"},
+        {"name": "The Mad Doctor", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "The Mad Doctor"},
+        {"name": "Skeleton Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "skeleton", "gender": "various", "origin": "disney", "origin_franchise": "The Mad Doctor"},
+        {"name": "Moose Hunters Moose", "role": "antagonist", "voice_actor": "N/A", "species": "moose", "gender": "male", "origin": "disney", "origin_franchise": "Moose Hunters"},
+        {"name": "Lonesome Ghosts", "role": "antagonist", "voice_actor": "N/A", "species": "ghost", "gender": "male", "origin": "disney", "origin_franchise": "Lonesome Ghosts"},
+        {"name": "Giant (Brave Little Tailor)", "role": "antagonist", "voice_actor": "N/A", "species": "giant", "gender": "male", "origin": "disney", "origin_franchise": "Brave Little Tailor"},
+        {"name": "Prince and Pauper Pete", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "The Prince and the Pauper"},
+        {"name": "Weasel Guards", "role": "antagonist", "voice_actor": "N/A", "species": "weasel", "gender": "male", "origin": "disney", "origin_franchise": "The Prince and the Pauper"},
+        {"name": "Steamboat Willie Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "disney", "origin_franchise": "Steamboat Willie"},
+        {"name": "Band Concert Tornado", "role": "antagonist", "voice_actor": "N/A", "species": "natural disaster", "gender": "none", "origin": "disney", "origin_franchise": "The Band Concert"},
+        {"name": "Clock Cleaner Tower", "role": "antagonist", "voice_actor": "N/A", "species": "mechanical", "gender": "none", "origin": "disney", "origin_franchise": "Clock Cleaners"},
+        {"name": "Minnie Mouse", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Donald Duck", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"}
+      ]
+    },
+    "maui_mallard": {
+      "year": 1995,
+      "platform": "SNES/Genesis/PC",
+      "developer": "Eurocom",
+      "game_type": "platformer",
+      "count": 10,
+      "notes": "Donald Duck as detective Maui Mallard",
+      "characters": [
+        {"name": "Maui Mallard/Donald Duck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Cold Shadow (Ninja form)", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Shabuhm Shabuhm", "role": "villain", "voice_actor": "N/A", "species": "spirit", "gender": "male", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Muddrake", "role": "supporting", "voice_actor": "N/A", "species": "spirit", "gender": "male", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Witch Doctor", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Zombies", "role": "antagonist", "voice_actor": "N/A", "species": "undead", "gender": "various", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Native Warriors", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Volcano Spirits", "role": "antagonist", "voice_actor": "N/A", "species": "spirit", "gender": "various", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Ninja Enemies", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Maui Mallard"},
+        {"name": "Babaluau", "role": "supporting", "voice_actor": "N/A", "species": "idol", "gender": "unknown", "origin": "original", "origin_franchise": "Maui Mallard"}
+      ]
+    },
+    "donald_duck_goin_quackers": {
+      "year": 2000,
+      "platform": "Multi-platform",
+      "developer": "Ubi Soft",
+      "game_type": "platformer",
+      "count": 10,
+      "characters": [
+        {"name": "Donald Duck", "role": "protagonist", "voice_actor": "Tony Anselmo", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Daisy Duck", "role": "supporting", "voice_actor": "Diane Michelle", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Huey, Dewey, and Louie", "role": "supporting", "voice_actor": "Tony Anselmo", "species": "anthropomorphic ducks", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Gyro Gearloose", "role": "ally", "voice_actor": "Corey Burton", "species": "anthropomorphic chicken", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Merlock", "role": "villain", "voice_actor": "Unknown", "species": "sorcerer", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales the Movie"},
+        {"name": "Magica De Spell", "role": "antagonist", "voice_actor": "Tress MacNeille", "species": "anthropomorphic duck", "gender": "female", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Beagle Boys", "role": "antagonist", "voice_actor": "Various", "species": "anthropomorphic dogs", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "The Berserker Ducks", "role": "antagonist", "voice_actor": "N/A", "species": "anthropomorphic ducks", "gender": "male", "origin": "original", "origin_franchise": "Donald Duck: Goin' Quackers"},
+        {"name": "Gladstone Gander", "role": "minor", "voice_actor": "Rob Paulsen", "species": "anthropomorphic goose", "gender": "male", "origin": "disney", "origin_franchise": "DuckTales"},
+        {"name": "Level Bosses", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Donald Duck: Goin' Quackers"}
+      ]
+    },
+    "magical_quest_series": {
+      "year": 1992,
+      "platform": "SNES/GBA",
+      "developer": "Capcom",
+      "game_type": "platformer",
+      "count": 10,
+      "notes": "Includes Magical Quest 1-3",
+      "characters": [
+        {"name": "Mickey Mouse", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Minnie Mouse", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic mouse", "gender": "female", "origin": "disney", "origin_franchise": "Mickey Mouse", "notes": "Playable in MQ3"},
+        {"name": "Donald Duck", "role": "protagonist", "voice_actor": "N/A", "species": "anthropomorphic duck", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse", "notes": "Playable in MQ2-3"},
+        {"name": "Pluto", "role": "supporting", "voice_actor": "N/A", "species": "dog", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Goofy", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic dog", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Pete (Emperor)", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Baron Pete", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse", "notes": "MQ2 villain"},
+        {"name": "King Pete", "role": "villain", "voice_actor": "N/A", "species": "anthropomorphic cat", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse", "notes": "MQ3 villain"},
+        {"name": "Huey, Dewey, and Louie", "role": "supporting", "voice_actor": "N/A", "species": "anthropomorphic ducks", "gender": "male", "origin": "disney", "origin_franchise": "Mickey Mouse"},
+        {"name": "Various World Bosses", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Magical Quest"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,2646 @@
+[
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Snow White and the Seven Dwarfs",
+    "film_year": 1937,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Frank Churchill",
+          "Leigh Harline",
+          "Paul J. Smith"
+        ],
+        "tracks": [
+          {
+            "title": "Heigh-Ho",
+            "type": "song"
+          },
+          {
+            "title": "Whistle While You Work",
+            "type": "song"
+          },
+          {
+            "title": "Some Day My Prince Will Come",
+            "type": "song"
+          }
+        ],
+        "notes": "First animated feature film soundtrack"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Pinocchio",
+    "film_year": 1940,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Pinocchio (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Leigh Harline",
+          "Paul J. Smith"
+        ],
+        "tracks": [
+          {
+            "title": "When You Wish Upon a Star",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Cliff Edwards",
+                "type": "character_voice",
+                "character": "Jiminy Cricket"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1941
+              }
+            ]
+          },
+          {
+            "title": "Give a Little Whistle",
+            "type": "song"
+          },
+          {
+            "title": "I've Got No Strings",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1941
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Fantasia",
+    "film_year": 1940,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Fantasia (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Various Classical"
+        ],
+        "conductor": "Leopold Stokowski",
+        "orchestra": "Philadelphia Orchestra",
+        "tracks": [
+          {
+            "title": "Toccata and Fugue in D Minor",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "The Nutcracker Suite",
+            "composer": "Tchaikovsky"
+          },
+          {
+            "title": "The Sorcerer's Apprentice",
+            "composer": "Paul Dukas"
+          },
+          {
+            "title": "Rite of Spring",
+            "composer": "Stravinsky"
+          },
+          {
+            "title": "Night on Bald Mountain",
+            "composer": "Mussorgsky"
+          },
+          {
+            "title": "Ave Maria",
+            "composer": "Schubert"
+          }
+        ],
+        "notes": "Classical music anthology film"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Dumbo",
+    "film_year": 1941,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Dumbo (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Frank Churchill",
+          "Oliver Wallace"
+        ],
+        "tracks": [
+          {
+            "title": "Baby Mine",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1942
+              }
+            ]
+          },
+          {
+            "title": "Pink Elephants on Parade",
+            "type": "song"
+          },
+          {
+            "title": "When I See an Elephant Fly",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Scoring of a Musical Picture",
+            "result": "won",
+            "year": 1942
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Bambi",
+    "film_year": 1942,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Bambi (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Frank Churchill",
+          "Edward H. Plumb"
+        ],
+        "tracks": [
+          {
+            "title": "Love Is a Song",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1943
+              }
+            ]
+          },
+          {
+            "title": "Little April Shower",
+            "type": "song"
+          },
+          {
+            "title": "Let's Sing a Gay Little Spring Song",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Scoring of a Dramatic Picture",
+            "result": "nominated",
+            "year": 1943
+          },
+          {
+            "award": "Oscar",
+            "category": "Best Sound Recording",
+            "result": "nominated",
+            "year": 1943
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Saludos Amigos",
+    "film_year": 1942,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "Saludos Amigos (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Paul J. Smith",
+          "Edward H. Plumb"
+        ],
+        "tracks": [
+          {
+            "title": "Saludos Amigos",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1944
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Three Caballeros",
+    "film_year": 1944,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "The Three Caballeros (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Paul J. Smith",
+          "Edward H. Plumb"
+        ],
+        "tracks": [
+          {
+            "title": "The Three Caballeros",
+            "type": "song"
+          },
+          {
+            "title": "Ba\u00eda",
+            "type": "song"
+          },
+          {
+            "title": "You Belong to My Heart",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Make Mine Music",
+    "film_year": 1946,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "Make Mine Music (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Various"
+        ],
+        "notes": "Musical anthology film"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Fun and Fancy Free",
+    "film_year": 1947,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "Fun and Fancy Free (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Oliver Wallace",
+          "Eliot Daniel"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Melody Time",
+    "film_year": 1948,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "Melody Time (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Various"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Adventures of Ichabod and Mr. Toad",
+    "film_year": 1949,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "The Adventures of Ichabod and Mr. Toad (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Oliver Wallace"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Cinderella",
+    "film_year": 1950,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Cinderella (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Oliver Wallace",
+          "Paul J. Smith"
+        ],
+        "lyricists": [
+          "Mack David",
+          "Jerry Livingston",
+          "Al Hoffman"
+        ],
+        "tracks": [
+          {
+            "title": "A Dream Is a Wish Your Heart Makes",
+            "type": "song"
+          },
+          {
+            "title": "Bibbidi-Bobbidi-Boo",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1951
+              }
+            ]
+          },
+          {
+            "title": "So This Is Love",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Scoring of a Musical Picture",
+            "result": "nominated",
+            "year": 1951
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Alice in Wonderland",
+    "film_year": 1951,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Alice in Wonderland (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Oliver Wallace"
+        ],
+        "tracks": [
+          {
+            "title": "The Unbirthday Song",
+            "type": "song"
+          },
+          {
+            "title": "I'm Late",
+            "type": "song"
+          },
+          {
+            "title": "All in the Golden Afternoon",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Peter Pan",
+    "film_year": 1953,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Peter Pan (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Oliver Wallace"
+        ],
+        "tracks": [
+          {
+            "title": "You Can Fly! You Can Fly! You Can Fly!",
+            "type": "song"
+          },
+          {
+            "title": "The Second Star to the Right",
+            "type": "song"
+          },
+          {
+            "title": "Following the Leader",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Lady and the Tramp",
+    "film_year": 1955,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Lady and the Tramp (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Oliver Wallace"
+        ],
+        "lyricists": [
+          "Peggy Lee",
+          "Sonny Burke"
+        ],
+        "tracks": [
+          {
+            "title": "Bella Notte",
+            "type": "song"
+          },
+          {
+            "title": "He's a Tramp",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Peggy Lee",
+                "type": "artist"
+              }
+            ]
+          },
+          {
+            "title": "The Siamese Cat Song",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Sleeping Beauty",
+    "film_year": 1959,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Sleeping Beauty (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "George Bruns"
+        ],
+        "tracks": [
+          {
+            "title": "Once Upon a Dream",
+            "type": "song"
+          },
+          {
+            "title": "Hail to the Princess Aurora",
+            "type": "song"
+          }
+        ],
+        "notes": "Adapted from Tchaikovsky's ballet"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "One Hundred and One Dalmatians",
+    "film_year": 1961,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "101 Dalmatians (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "George Bruns"
+        ],
+        "tracks": [
+          {
+            "title": "Cruella de Vil",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Sword in the Stone",
+    "film_year": 1963,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "The Sword in the Stone (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "George Bruns"
+        ],
+        "lyricists": [
+          "Richard M. Sherman",
+          "Robert B. Sherman"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Jungle Book",
+    "film_year": 1967,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "The Jungle Book (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "George Bruns"
+        ],
+        "lyricists": [
+          "Richard M. Sherman",
+          "Robert B. Sherman",
+          "Terry Gilkyson"
+        ],
+        "tracks": [
+          {
+            "title": "The Bare Necessities",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Phil Harris",
+                "type": "character_voice",
+                "character": "Baloo"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1968
+              }
+            ]
+          },
+          {
+            "title": "I Wan'na Be Like You",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Louis Prima",
+                "type": "character_voice",
+                "character": "King Louie"
+              }
+            ]
+          },
+          {
+            "title": "Trust in Me",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Aristocats",
+    "film_year": 1970,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "The Aristocats (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "George Bruns"
+        ],
+        "lyricists": [
+          "Richard M. Sherman",
+          "Robert B. Sherman"
+        ],
+        "tracks": [
+          {
+            "title": "Ev'rybody Wants to Be a Cat",
+            "type": "song"
+          },
+          {
+            "title": "Thomas O'Malley Cat",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Robin Hood",
+    "film_year": 1973,
+    "releases": [
+      {
+        "title": "Robin Hood (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "George Bruns"
+        ],
+        "tracks": [
+          {
+            "title": "Oo-De-Lally",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Roger Miller",
+                "type": "artist"
+              }
+            ]
+          },
+          {
+            "title": "Love",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Many Adventures of Winnie the Pooh",
+    "film_year": 1977,
+    "releases": [
+      {
+        "title": "The Many Adventures of Winnie the Pooh (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Robert B. Sherman",
+          "Richard M. Sherman"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Rescuers",
+    "film_year": 1977,
+    "releases": [
+      {
+        "title": "The Rescuers (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Artie Butler"
+        ],
+        "tracks": [
+          {
+            "title": "Someone's Waiting for You",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1978
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Fox and the Hound",
+    "film_year": 1981,
+    "releases": [
+      {
+        "title": "The Fox and the Hound (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Buddy Baker"
+        ],
+        "tracks": [
+          {
+            "title": "Best of Friends",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Black Cauldron",
+    "film_year": 1985,
+    "releases": [
+      {
+        "title": "The Black Cauldron (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Elmer Bernstein"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Great Mouse Detective",
+    "film_year": 1986,
+    "releases": [
+      {
+        "title": "The Great Mouse Detective (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Henry Mancini"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Oliver & Company",
+    "film_year": 1988,
+    "releases": [
+      {
+        "title": "Oliver & Company (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "J.A.C. Redford"
+        ],
+        "tracks": [
+          {
+            "title": "Why Should I Worry",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Billy Joel",
+                "type": "character_voice",
+                "character": "Dodger"
+              }
+            ]
+          },
+          {
+            "title": "Once Upon a Time in New York City",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Huey Lewis",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Little Mermaid",
+    "film_year": 1989,
+    "releases": [
+      {
+        "title": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "Howard Ashman"
+        ],
+        "tracks": [
+          {
+            "title": "Under the Sea",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Samuel E. Wright",
+                "type": "character_voice",
+                "character": "Sebastian"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1990
+              }
+            ]
+          },
+          {
+            "title": "Part of Your World",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Jodi Benson",
+                "type": "character_voice",
+                "character": "Ariel"
+              }
+            ]
+          },
+          {
+            "title": "Kiss the Girl",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1990
+              }
+            ]
+          },
+          {
+            "title": "Poor Unfortunate Souls",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Pat Carroll",
+                "type": "character_voice",
+                "character": "Ursula"
+              }
+            ]
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1990
+          }
+        ],
+        "notes": "Launched Disney Renaissance"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Rescuers Down Under",
+    "film_year": 1990,
+    "releases": [
+      {
+        "title": "The Rescuers Down Under (Original Motion Picture Soundtrack)",
+        "type": "score",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Bruce Broughton"
+        ],
+        "notes": "Score-only release, no songs"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Beauty and the Beast",
+    "film_year": 1991,
+    "releases": [
+      {
+        "title": "Beauty and the Beast (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "Howard Ashman"
+        ],
+        "tracks": [
+          {
+            "title": "Beauty and the Beast",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Angela Lansbury",
+                "type": "character_voice",
+                "character": "Mrs. Potts"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1992
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1992
+              }
+            ]
+          },
+          {
+            "title": "Belle",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1992
+              }
+            ]
+          },
+          {
+            "title": "Be Our Guest",
+            "type": "song",
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1992
+              }
+            ]
+          },
+          {
+            "title": "Gaston",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1992
+          },
+          {
+            "award": "Golden Globe",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1992
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Aladdin",
+    "film_year": 1992,
+    "releases": [
+      {
+        "title": "Aladdin (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "Howard Ashman",
+          "Tim Rice"
+        ],
+        "tracks": [
+          {
+            "title": "A Whole New World",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Brad Kane",
+                "type": "character_voice",
+                "character": "Aladdin (singing)"
+              },
+              {
+                "name": "Lea Salonga",
+                "type": "character_voice",
+                "character": "Jasmine (singing)"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1993
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1993
+              },
+              {
+                "award": "Grammy",
+                "category": "Song of the Year",
+                "result": "won",
+                "year": 1994
+              }
+            ]
+          },
+          {
+            "title": "Friend Like Me",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Robin Williams",
+                "type": "character_voice",
+                "character": "Genie"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1993
+              }
+            ]
+          },
+          {
+            "title": "Prince Ali",
+            "type": "song"
+          },
+          {
+            "title": "Arabian Nights",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1993
+          }
+        ],
+        "chart_performance": {
+          "billboard_200_peak": 6
+        }
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Lion King",
+    "film_year": 1994,
+    "releases": [
+      {
+        "title": "The Lion King (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Hans Zimmer"
+        ],
+        "lyricists": [
+          "Tim Rice"
+        ],
+        "songwriters": [
+          "Elton John",
+          "Tim Rice"
+        ],
+        "tracks": [
+          {
+            "title": "Circle of Life",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Carmen Twillie",
+                "type": "featured_artist"
+              }
+            ]
+          },
+          {
+            "title": "Can You Feel the Love Tonight",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Elton John",
+                "type": "featured_artist"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1995
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1995
+              }
+            ]
+          },
+          {
+            "title": "Hakuna Matata",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Nathan Lane",
+                "type": "character_voice",
+                "character": "Timon"
+              },
+              {
+                "name": "Ernie Sabella",
+                "type": "character_voice",
+                "character": "Pumbaa"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1995
+              }
+            ]
+          },
+          {
+            "title": "I Just Can't Wait to Be King",
+            "type": "song"
+          },
+          {
+            "title": "Be Prepared",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Jeremy Irons",
+                "type": "character_voice",
+                "character": "Scar"
+              }
+            ]
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1995
+          },
+          {
+            "award": "Golden Globe",
+            "category": "Best Original Score",
+            "result": "won",
+            "year": 1995
+          }
+        ],
+        "chart_performance": {
+          "billboard_200_peak": 1
+        },
+        "notes": "Best-selling animated film soundtrack of all time"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Pocahontas",
+    "film_year": 1995,
+    "releases": [
+      {
+        "title": "Pocahontas (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "Stephen Schwartz"
+        ],
+        "tracks": [
+          {
+            "title": "Colors of the Wind",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Judy Kuhn",
+                "type": "character_voice",
+                "character": "Pocahontas (singing)"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1996
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 1996
+              }
+            ]
+          },
+          {
+            "title": "Just Around the Riverbend",
+            "type": "song"
+          },
+          {
+            "title": "Savages",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Musical or Comedy Score",
+            "result": "won",
+            "year": 1996
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Hunchback of Notre Dame",
+    "film_year": 1996,
+    "releases": [
+      {
+        "title": "The Hunchback of Notre Dame (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "Stephen Schwartz"
+        ],
+        "tracks": [
+          {
+            "title": "God Help the Outcasts",
+            "type": "song"
+          },
+          {
+            "title": "Out There",
+            "type": "song"
+          },
+          {
+            "title": "Hellfire",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Tony Jay",
+                "type": "character_voice",
+                "character": "Judge Claude Frollo"
+              }
+            ]
+          },
+          {
+            "title": "The Bells of Notre Dame",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Hercules",
+    "film_year": 1997,
+    "releases": [
+      {
+        "title": "Hercules (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "David Zippel"
+        ],
+        "tracks": [
+          {
+            "title": "Go the Distance",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Roger Bart",
+                "type": "character_voice",
+                "character": "Hercules (singing)"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1998
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 1998
+              }
+            ]
+          },
+          {
+            "title": "Zero to Hero",
+            "type": "song"
+          },
+          {
+            "title": "I Won't Say (I'm in Love)",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Mulan",
+    "film_year": 1998,
+    "releases": [
+      {
+        "title": "Mulan (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Jerry Goldsmith"
+        ],
+        "songwriters": [
+          "Matthew Wilder",
+          "David Zippel"
+        ],
+        "tracks": [
+          {
+            "title": "Reflection",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Lea Salonga",
+                "type": "character_voice",
+                "character": "Mulan (singing)"
+              }
+            ]
+          },
+          {
+            "title": "I'll Make a Man Out of You",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Donny Osmond",
+                "type": "character_voice",
+                "character": "Shang (singing)"
+              }
+            ]
+          },
+          {
+            "title": "A Girl Worth Fighting For",
+            "type": "song"
+          },
+          {
+            "title": "Honor to Us All",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Tarzan",
+    "film_year": 1999,
+    "releases": [
+      {
+        "title": "Tarzan (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Mark Mancina"
+        ],
+        "songwriters": [
+          "Phil Collins"
+        ],
+        "tracks": [
+          {
+            "title": "You'll Be in My Heart",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Phil Collins",
+                "type": "featured_artist"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 2000
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 2000
+              }
+            ]
+          },
+          {
+            "title": "Two Worlds",
+            "type": "song"
+          },
+          {
+            "title": "Son of Man",
+            "type": "song"
+          },
+          {
+            "title": "Strangers Like Me",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Fantasia 2000",
+    "film_year": 1999,
+    "releases": [
+      {
+        "title": "Fantasia 2000 (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Various Classical"
+        ],
+        "conductor": "James Levine",
+        "tracks": [
+          {
+            "title": "Rhapsody in Blue",
+            "composer": "George Gershwin"
+          },
+          {
+            "title": "Piano Concerto No. 2",
+            "composer": "Shostakovich"
+          },
+          {
+            "title": "The Firebird Suite",
+            "composer": "Stravinsky"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Dinosaur",
+    "film_year": 2000,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "Dinosaur (Original Soundtrack)",
+        "type": "score",
+        "label": "Walt Disney Records",
+        "composers": [
+          "James Newton Howard"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Emperor's New Groove",
+    "film_year": 2000,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "The Emperor's New Groove (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "John Debney"
+        ],
+        "songwriters": [
+          "Sting",
+          "David Hartley"
+        ],
+        "tracks": [
+          {
+            "title": "My Funny Friend and Me",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Sting",
+                "type": "featured_artist"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2001
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2001
+              }
+            ]
+          },
+          {
+            "title": "Perfect World",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Atlantis: The Lost Empire",
+    "film_year": 2001,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Atlantis: The Lost Empire (Original Score)",
+        "type": "score",
+        "label": "Walt Disney Records",
+        "composers": [
+          "James Newton Howard"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Lilo & Stitch",
+    "film_year": 2002,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Lilo & Stitch (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Silvestri"
+        ],
+        "tracks": [
+          {
+            "title": "Hawaiian Roller Coaster Ride",
+            "type": "song"
+          },
+          {
+            "title": "He Mele No Lilo",
+            "type": "song"
+          }
+        ],
+        "notes": "Features Elvis Presley songs throughout film"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Treasure Planet",
+    "film_year": 2002,
+    "animation_type": "hybrid",
+    "releases": [
+      {
+        "title": "Treasure Planet (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "James Newton Howard"
+        ],
+        "tracks": [
+          {
+            "title": "I'm Still Here",
+            "type": "song",
+            "performers": [
+              {
+                "name": "John Rzeznik",
+                "type": "featured_artist"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2003
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Brother Bear",
+    "film_year": 2003,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Brother Bear (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Phil Collins",
+          "Mark Mancina"
+        ],
+        "tracks": [
+          {
+            "title": "Look Through My Eyes",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Phil Collins",
+                "type": "featured_artist"
+              }
+            ]
+          },
+          {
+            "title": "On My Way",
+            "type": "song"
+          },
+          {
+            "title": "Welcome",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Home on the Range",
+    "film_year": 2004,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Home on the Range (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "tracks": [
+          {
+            "title": "Little Patch of Heaven",
+            "type": "song",
+            "performers": [
+              {
+                "name": "k.d. lang",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Chicken Little",
+    "film_year": 2005,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Chicken Little (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "John Debney"
+        ],
+        "tracks": [
+          {
+            "title": "One Little Slip",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Barenaked Ladies",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Meet the Robinsons",
+    "film_year": 2007,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Meet the Robinsons (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Danny Elfman"
+        ],
+        "tracks": [
+          {
+            "title": "Little Wonders",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Rob Thomas",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Bolt",
+    "film_year": 2008,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Bolt (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "John Powell"
+        ],
+        "tracks": [
+          {
+            "title": "I Thought I Lost You",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Miley Cyrus",
+                "type": "featured_artist"
+              },
+              {
+                "name": "John Travolta",
+                "type": "character_voice",
+                "character": "Bolt"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2009
+              }
+            ]
+          },
+          {
+            "title": "Barking at the Moon",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Jenny Lewis",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "The Princess and the Frog",
+    "film_year": 2009,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "The Princess and the Frog (Original Songs and Score)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Randy Newman"
+        ],
+        "tracks": [
+          {
+            "title": "Almost There",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Anika Noni Rose",
+                "type": "character_voice",
+                "character": "Tiana"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2010
+              }
+            ]
+          },
+          {
+            "title": "Down in New Orleans",
+            "type": "song"
+          },
+          {
+            "title": "Friends on the Other Side",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Keith David",
+                "type": "character_voice",
+                "character": "Dr. Facilier"
+              }
+            ]
+          },
+          {
+            "title": "Dig a Little Deeper",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "nominated",
+            "year": 2010
+          }
+        ],
+        "notes": "Randy Newman's non-Pixar Disney work; return to hand-drawn animation"
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Tangled",
+    "film_year": 2010,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Tangled (Original Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Alan Menken"
+        ],
+        "lyricists": [
+          "Glenn Slater"
+        ],
+        "tracks": [
+          {
+            "title": "I See the Light",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Mandy Moore",
+                "type": "character_voice",
+                "character": "Rapunzel"
+              },
+              {
+                "name": "Zachary Levi",
+                "type": "character_voice",
+                "character": "Flynn Rider"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2011
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2011
+              }
+            ]
+          },
+          {
+            "title": "When Will My Life Begin",
+            "type": "song"
+          },
+          {
+            "title": "Mother Knows Best",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Donna Murphy",
+                "type": "character_voice",
+                "character": "Mother Gothel"
+              }
+            ]
+          },
+          {
+            "title": "I've Got a Dream",
+            "type": "song"
+          }
+        ],
+        "album_awards": [
+          {
+            "award": "Oscar",
+            "category": "Best Original Score",
+            "result": "nominated",
+            "year": 2011
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Winnie the Pooh",
+    "film_year": 2011,
+    "animation_type": "traditional",
+    "releases": [
+      {
+        "title": "Winnie the Pooh (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Henry Jackman"
+        ],
+        "songwriters": [
+          "Robert Lopez",
+          "Kristen Anderson-Lopez"
+        ],
+        "tracks": [
+          {
+            "title": "A Very Important Thing to Do",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Wreck-It Ralph",
+    "film_year": 2012,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Wreck-It Ralph (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Henry Jackman"
+        ],
+        "tracks": [
+          {
+            "title": "When Can I See You Again?",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Owl City",
+                "type": "featured_artist"
+              }
+            ]
+          },
+          {
+            "title": "Sugar Rush",
+            "type": "song",
+            "performers": [
+              {
+                "name": "AKB48",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Frozen",
+    "film_year": 2013,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Frozen (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Christophe Beck"
+        ],
+        "songwriters": [
+          "Robert Lopez",
+          "Kristen Anderson-Lopez"
+        ],
+        "tracks": [
+          {
+            "title": "Let It Go",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Idina Menzel",
+                "type": "character_voice",
+                "character": "Elsa"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 2014
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "won",
+                "year": 2014
+              },
+              {
+                "award": "Grammy",
+                "category": "Best Song Written for Visual Media",
+                "result": "won",
+                "year": 2015
+              }
+            ]
+          },
+          {
+            "title": "Do You Want to Build a Snowman?",
+            "type": "song"
+          },
+          {
+            "title": "For the First Time in Forever",
+            "type": "song"
+          },
+          {
+            "title": "Love Is an Open Door",
+            "type": "song"
+          },
+          {
+            "title": "In Summer",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Josh Gad",
+                "type": "character_voice",
+                "character": "Olaf"
+              }
+            ]
+          },
+          {
+            "title": "Let It Go",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Demi Lovato",
+                "type": "featured_artist"
+              }
+            ],
+            "notes": "Pop single version, end credits"
+          }
+        ],
+        "chart_performance": {
+          "billboard_200_peak": 1,
+          "weeks_at_1": 13
+        },
+        "notes": "Best-selling album of 2014 worldwide"
+      }
+    ],
+    "deluxe_edition": {
+      "track_count": 32,
+      "includes": "Score, demos, karaoke versions"
+    }
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Big Hero 6",
+    "film_year": 2014,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Big Hero 6 (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Henry Jackman"
+        ],
+        "tracks": [
+          {
+            "title": "Immortals",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Fall Out Boy",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Zootopia",
+    "film_year": 2016,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Zootopia (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Michael Giacchino"
+        ],
+        "tracks": [
+          {
+            "title": "Try Everything",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Shakira",
+                "type": "character_voice",
+                "character": "Gazelle"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2017
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Moana",
+    "film_year": 2016,
+    "animation_type": "CG",
+    "releases": [],
+    "notes": "See detailed moana_soundtrack.json file"
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Ralph Breaks the Internet",
+    "film_year": 2018,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Ralph Breaks the Internet (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Henry Jackman"
+        ],
+        "tracks": [
+          {
+            "title": "Zero",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Imagine Dragons",
+                "type": "featured_artist"
+              }
+            ]
+          },
+          {
+            "title": "A Place Called Slaughter Race",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Sarah Silverman",
+                "type": "character_voice",
+                "character": "Vanellope"
+              },
+              {
+                "name": "Gal Gadot",
+                "type": "character_voice",
+                "character": "Shank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Frozen II",
+    "film_year": 2019,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Frozen 2 (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Christophe Beck"
+        ],
+        "songwriters": [
+          "Robert Lopez",
+          "Kristen Anderson-Lopez"
+        ],
+        "tracks": [
+          {
+            "title": "Into the Unknown",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Idina Menzel",
+                "type": "character_voice",
+                "character": "Elsa"
+              },
+              {
+                "name": "AURORA",
+                "type": "featured_artist"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2020
+              },
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2020
+              }
+            ]
+          },
+          {
+            "title": "Show Yourself",
+            "type": "song"
+          },
+          {
+            "title": "Some Things Never Change",
+            "type": "song"
+          },
+          {
+            "title": "All Is Found",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Evan Rachel Wood",
+                "type": "character_voice",
+                "character": "Iduna"
+              }
+            ]
+          },
+          {
+            "title": "Lost in the Woods",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Jonathan Groff",
+                "type": "character_voice",
+                "character": "Kristoff"
+              }
+            ]
+          },
+          {
+            "title": "Into the Unknown",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Panic! at the Disco",
+                "type": "featured_artist"
+              }
+            ],
+            "notes": "End credits version"
+          }
+        ],
+        "chart_performance": {
+          "billboard_200_peak": 1
+        }
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Raya and the Last Dragon",
+    "film_year": 2021,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "James Newton Howard"
+        ],
+        "tracks": [
+          {
+            "title": "Lead the Way",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Jhen\u00e9 Aiko",
+                "type": "featured_artist"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Encanto",
+    "film_year": 2021,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Encanto (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Germaine Franco"
+        ],
+        "songwriters": [
+          "Lin-Manuel Miranda"
+        ],
+        "tracks": [
+          {
+            "title": "We Don't Talk About Bruno",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Carolina Gait\u00e1n",
+                "type": "character_voice",
+                "character": "Pepa"
+              },
+              {
+                "name": "Mauro Castillo",
+                "type": "character_voice",
+                "character": "F\u00e9lix"
+              },
+              {
+                "name": "Adassa",
+                "type": "character_voice",
+                "character": "Dolores"
+              },
+              {
+                "name": "Rhenzy Feliz",
+                "type": "character_voice",
+                "character": "Camilo"
+              },
+              {
+                "name": "Diane Guerrero",
+                "type": "character_voice",
+                "character": "Isabela"
+              },
+              {
+                "name": "Stephanie Beatriz",
+                "type": "character_voice",
+                "character": "Mirabel"
+              }
+            ],
+            "chart_performance": {
+              "billboard_hot_100_peak": 1
+            },
+            "notes": "First Disney song to reach #1 since 1995"
+          },
+          {
+            "title": "Surface Pressure",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Jessica Darrow",
+                "type": "character_voice",
+                "character": "Luisa"
+              }
+            ]
+          },
+          {
+            "title": "What Else Can I Do?",
+            "type": "song"
+          },
+          {
+            "title": "The Family Madrigal",
+            "type": "song"
+          },
+          {
+            "title": "Waiting on a Miracle",
+            "type": "song"
+          },
+          {
+            "title": "Dos Oruguitas",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Sebasti\u00e1n Yatra",
+                "type": "featured_artist"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Oscar",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2022
+              }
+            ]
+          }
+        ],
+        "chart_performance": {
+          "billboard_200_peak": 1,
+          "weeks_at_1": 9
+        }
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Strange World",
+    "film_year": 2022,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Strange World (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Henry Jackman"
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Wish",
+    "film_year": 2023,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Wish (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Dave Metzger"
+        ],
+        "songwriters": [
+          "Julia Michaels",
+          "Benjamin Rice"
+        ],
+        "tracks": [
+          {
+            "title": "This Wish",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Ariana DeBose",
+                "type": "character_voice",
+                "character": "Asha"
+              }
+            ],
+            "awards": [
+              {
+                "award": "Golden Globe",
+                "category": "Best Original Song",
+                "result": "nominated",
+                "year": 2024
+              }
+            ]
+          },
+          {
+            "title": "This Is the Thanks I Get?!",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Chris Pine",
+                "type": "character_voice",
+                "character": "King Magnifico"
+              }
+            ]
+          },
+          {
+            "title": "At All Costs",
+            "type": "song"
+          },
+          {
+            "title": "Knowing What I Know Now",
+            "type": "song"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "studio": "Walt Disney Animation Studios",
+    "film": "Moana 2",
+    "film_year": 2024,
+    "animation_type": "CG",
+    "releases": [
+      {
+        "title": "Moana 2 (Original Motion Picture Soundtrack)",
+        "type": "soundtrack",
+        "label": "Walt Disney Records",
+        "composers": [
+          "Mark Mancina"
+        ],
+        "songwriters": [
+          "Abigail Barlow",
+          "Emily Bear",
+          "Opetaia Foa'i"
+        ],
+        "tracks": [
+          {
+            "title": "We're Back",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Auli'i Cravalho",
+                "type": "character_voice",
+                "character": "Moana"
+              }
+            ]
+          },
+          {
+            "title": "Beyond",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Auli'i Cravalho",
+                "type": "character_voice",
+                "character": "Moana"
+              }
+            ]
+          },
+          {
+            "title": "Can I Get a Chee Hoo?",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Dwayne Johnson",
+                "type": "character_voice",
+                "character": "Maui"
+              }
+            ]
+          },
+          {
+            "title": "Get Lost",
+            "type": "song",
+            "performers": [
+              {
+                "name": "Awhimai Fraser",
+                "type": "character_voice",
+                "character": "Matangi"
+              }
+            ]
+          },
+          {
+            "title": "What Could Be Better Than This?",
+            "type": "song"
+          }
+        ],
+        "notes": "Sequel to 2016's Moana"
+      },
+      {
+        "title": "Moana 2 (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "type": "soundtrack",
+        "edition": "deluxe",
+        "label": "Walt Disney Records",
+        "track_count": 51,
+        "notes": "Includes full score"
+      }
+    ]
+  }
+]

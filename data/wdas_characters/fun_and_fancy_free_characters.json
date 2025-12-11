@@ -1,0 +1,160 @@
+{
+  "franchise": "Fun and Fancy Free",
+  "films": [
+    "Fun and Fancy Free (1947)"
+  ],
+  "animation_type": "hybrid",
+  "total_estimated_characters": 18,
+  "categories": {
+    "fun_and_fancy_free_1947": {
+      "year": 1947,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Jiminy Cricket",
+          "role": "narrator",
+          "voice_actor": "Cliff Edwards",
+          "notes": "Framing device host",
+          "species": "cricket",
+          "gender": "male"
+        },
+        {
+          "name": "Bongo",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Circus bear, Bongo segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Lulubelle",
+          "role": "love_interest",
+          "voice_actor": null,
+          "notes": "Bongo segment",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Lumpjaw",
+          "role": "villain",
+          "voice_actor": null,
+          "notes": "Rival bear, Bongo segment",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mickey Mouse",
+          "role": "protagonist",
+          "voice_actor": "Walt Disney",
+          "notes": "Mickey and the Beanstalk",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Donald Duck",
+          "role": "deuteragonist",
+          "voice_actor": "Clarence Nash",
+          "notes": "Mickey and the Beanstalk",
+          "species": "duck",
+          "gender": "male"
+        },
+        {
+          "name": "Goofy",
+          "role": "deuteragonist",
+          "voice_actor": "Pinto Colvig",
+          "notes": "Mickey and the Beanstalk",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "Willie the Giant",
+          "role": "villain",
+          "voice_actor": "Billy Gilbert",
+          "species": "giant",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Singing Harp",
+          "role": "supporting",
+          "voice_actor": "Anita Gordon",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Happy Valley Narrator",
+          "role": "narrator",
+          "voice_actor": "Edgar Bergen",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "Charlie McCarthy",
+          "role": "comic_relief",
+          "voice_actor": "Edgar Bergen",
+          "notes": "Ventriloquist dummy, live-action",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mortimer Snerd",
+          "role": "comic_relief",
+          "voice_actor": "Edgar Bergen",
+          "notes": "Ventriloquist dummy, live-action",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Edgar Bergen",
+          "role": "narrator",
+          "voice_actor": "Edgar Bergen",
+          "notes": "Live-action host",
+          "species": "hyena",
+          "gender": "male"
+        },
+        {
+          "name": "Luana Patten",
+          "role": "supporting",
+          "voice_actor": "Luana Patten",
+          "notes": "Live-action child actress",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Dinah Shore",
+          "role": "narrator",
+          "voice_actor": "Dinah Shore",
+          "notes": "Narrates Bongo segment (voice only)",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Beanstalk Cow",
+          "role": "minor",
+          "voice_actor": null,
+          "species": "cow",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "format": "Two animated segments with live-action framing",
+    "segments": [
+      "Bongo",
+      "Mickey and the Beanstalk"
+    ]
+  }
+}

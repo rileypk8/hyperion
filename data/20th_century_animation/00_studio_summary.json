@@ -1,0 +1,44 @@
+{
+  "studio": "20th Century Animation",
+  "overview": "Animation division of 20th Century Studios (formerly 20th Century Fox)",
+  "note": "Blue Sky Studios films (13 total) covered in separate project files",
+  "films_in_this_collection": 7,
+  "files": [
+    {
+      "filename": "fox_animation_studios.json",
+      "films": ["Anastasia (1997)", "Titan A.E. (2000)"],
+      "character_count": 35
+    },
+    {
+      "filename": "simpsons_movie.json",
+      "films": ["The Simpsons Movie (2007)"],
+      "character_count": 45
+    },
+    {
+      "filename": "fantastic_mr_fox.json",
+      "films": ["Fantastic Mr. Fox (2009)"],
+      "character_count": 22
+    },
+    {
+      "filename": "book_of_life.json",
+      "films": ["The Book of Life (2014)"],
+      "character_count": 28
+    },
+    {
+      "filename": "rons_gone_wrong.json",
+      "films": ["Ron's Gone Wrong (2021)"],
+      "character_count": 18
+    },
+    {
+      "filename": "bobs_burgers_movie.json",
+      "films": ["The Bob's Burgers Movie (2022)"],
+      "character_count": 35
+    }
+  ],
+  "total_characters": 183,
+  "excluded_from_scope": {
+    "blue_sky_studios": "13 films covered separately (Ice Age franchise, Rio franchise, Robots, etc.)",
+    "diary_of_wimpy_kid": "4 animated films (2021-2025) produced by Walt Disney Pictures, not 20th Century Animation",
+    "distributed_only": "Films 20th Century only distributed (not produced) are excluded"
+  }
+}

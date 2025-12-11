@@ -1,0 +1,141 @@
+{
+  "franchise": "Dumbo",
+  "films": [
+    "Dumbo (1941)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "dumbo_1941": {
+      "year": 1941,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Dumbo",
+          "role": "protagonist",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "elephant",
+          "gender": "male"
+        },
+        {
+          "name": "Timothy Q. Mouse",
+          "role": "deuteragonist",
+          "voice_actor": "Edward Brophy",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Mrs. Jumbo",
+          "role": "supporting",
+          "voice_actor": "Verna Felton",
+          "notes": "Only says 'Jumbo Junior'",
+          "species": "elephant",
+          "gender": "female"
+        },
+        {
+          "name": "The Ringmaster",
+          "role": "antagonist",
+          "voice_actor": "Herman Bing",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Elephant Matriarch",
+          "role": "antagonist",
+          "voice_actor": "Verna Felton",
+          "species": "elephant",
+          "gender": "female"
+        },
+        {
+          "name": "Catty",
+          "role": "antagonist",
+          "voice_actor": "Dorothy Scott",
+          "species": "cat",
+          "gender": "unknown"
+        },
+        {
+          "name": "Giddy",
+          "role": "antagonist",
+          "voice_actor": "Noreen Gammill",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Prissy",
+          "role": "antagonist",
+          "voice_actor": "Sarah Selby",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Mr. Stork",
+          "role": "supporting",
+          "voice_actor": "Sterling Holloway",
+          "species": "stork",
+          "gender": "male"
+        },
+        {
+          "name": "Casey Junior",
+          "role": "supporting",
+          "voice_actor": "Margaret Wright",
+          "notes": "The circus train",
+          "species": "train",
+          "gender": "male"
+        },
+        {
+          "name": "Jim Crow",
+          "role": "ally",
+          "voice_actor": "Cliff Edwards",
+          "species": "crow",
+          "gender": "male"
+        },
+        {
+          "name": "Fat Crow",
+          "role": "ally",
+          "voice_actor": "Jim Carmichael",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Preacher Crow",
+          "role": "ally",
+          "voice_actor": "Hall Johnson",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Straw Hat Crow",
+          "role": "ally",
+          "voice_actor": "James Baskett",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Glasses Crow",
+          "role": "ally",
+          "voice_actor": "Nick Stewart",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "controversy": "The crow characters have been criticized for racial stereotyping"
+  }
+}

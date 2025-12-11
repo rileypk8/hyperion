@@ -1,0 +1,33 @@
+{
+  "film": "Tarzan II",
+  "studio": "DisneyToon Studios",
+  "year": 2005,
+  "release_type": "direct_to_video",
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 10,
+  "characters": [
+    {"name": "Young Tarzan", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Harrison Chad"},
+    {"name": "Kala", "role": "supporting", "species": "gorilla", "gender": "female", "voice_actor": "Glenn Close"},
+    {"name": "Kerchak", "role": "antagonist", "species": "gorilla", "gender": "male", "voice_actor": "Lance Henriksen"},
+    {"name": "Terk", "role": "ally", "species": "gorilla", "gender": "female", "voice_actor": "Brenda Grate"},
+    {"name": "Tantor", "role": "ally", "species": "elephant", "gender": "male", "voice_actor": "Harrison Fahn"},
+    {"name": "Zugor", "role": "deuteragonist", "species": "gorilla (hermit)", "gender": "male", "voice_actor": "George Carlin"},
+    {"name": "Mama Gunda", "role": "villain", "species": "gorilla", "gender": "female", "voice_actor": "Estelle Harris"},
+    {"name": "Kago", "role": "henchman", "species": "gorilla", "gender": "male", "voice_actor": "Ron Perlman"},
+    {"name": "Uto", "role": "henchman", "species": "gorilla", "gender": "male", "voice_actor": "Brad Garrett"},
+    {"name": "Sabor", "role": "minor", "species": "leopard", "gender": "female", "voice_actor": "n/a"}
+  ],
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist",
+    "antagonist": "Character opposing protagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "supporting": "Important but secondary role",
+    "minor": "Small role"
+  },
+  "notes": {
+    "midquel": "Set during Tarzan's childhood, between the opening and main story of the original film"
+  }
+}

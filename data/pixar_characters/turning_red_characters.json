@@ -1,0 +1,39 @@
+{
+  "franchise": "Turning Red",
+  "films": ["Turning Red (2022)"],
+  "total_estimated_characters": 18,
+  "categories": {
+    "turning_red": {
+      "year": 2022,
+      "count": 18,
+      "characters": [
+        {"name": "Meilin 'Mei' Lee", "role": "protagonist", "species": "human (red panda curse)", "gender": "female", "voice_actor": "Rosalie Chiang"},
+        {"name": "Ming Lee", "role": "antagonist", "species": "human (red panda curse)", "gender": "female", "voice_actor": "Sandra Oh", "notes": "Overprotective mother"},
+        {"name": "Miriam Wexler", "role": "sidekick", "species": "human", "gender": "female", "voice_actor": "Ava Morse"},
+        {"name": "Priya Mangal", "role": "sidekick", "species": "human", "gender": "female", "voice_actor": "Maitreyi Ramakrishnan"},
+        {"name": "Abby Park", "role": "sidekick", "species": "human", "gender": "female", "voice_actor": "Hyein Park"},
+        {"name": "Jin Lee", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Orion Lee"},
+        {"name": "Grandma Wu", "role": "supporting", "species": "human (red panda curse)", "gender": "female", "voice_actor": "Wai Ching Ho"},
+        {"name": "Tyler Nguyen-Baker", "role": "antagonist", "species": "human", "gender": "male", "voice_actor": "Tristan Allerick Chen", "notes": "Redeemed"},
+        {"name": "Devon", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Addie Chandler"},
+        {"name": "Robaire", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Jordan Fisher", "notes": "4*Town member"},
+        {"name": "Jesse", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Finneas O'Connell", "notes": "4*Town member"},
+        {"name": "Aaron T.", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Topher Ngo", "notes": "4*Town member"},
+        {"name": "Aaron Z.", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Grayson Villanueva", "notes": "4*Town member"},
+        {"name": "Tae Young", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Josh Levi", "notes": "4*Town member"},
+        {"name": "Mr. Gao", "role": "minor", "species": "human", "gender": "male", "voice_actor": "James Hong"},
+        {"name": "Stacy Frick", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Lily Sanfelippo"},
+        {"name": "Aunties (Helen, Lily, Ping, Chen)", "role": "supporting", "species": "human (red panda curse)", "gender": "female", "voice_actor": "various"},
+        {"name": "Sun Yee", "role": "minor", "species": "human (ancestral spirit)", "gender": "female", "voice_actor": null, "notes": "Ancestor, mystical figure"},
+        {"name": "Security Guard", "role": "minor", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "antagonist": "Opposes heroes but may not be evil",
+    "sidekick": "Loyal companion to main characters",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

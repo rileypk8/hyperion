@@ -1,0 +1,270 @@
+{
+  "franchise": "The Rescuers",
+  "films": [
+    "The Rescuers (1977)",
+    "The Rescuers Down Under (1990)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 30,
+  "categories": {
+    "rescuers_1977": {
+      "year": 1977,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Miss Bianca",
+          "role": "protagonist",
+          "voice_actor": "Eva Gabor",
+          "species": "mouse",
+          "gender": "female"
+        },
+        {
+          "name": "Bernard",
+          "role": "deuteragonist",
+          "voice_actor": "Bob Newhart",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Penny",
+          "role": "supporting",
+          "voice_actor": "Michelle Stacy",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Madame Medusa",
+          "role": "villain",
+          "voice_actor": "Geraldine Page",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Mr. Snoops",
+          "role": "henchman",
+          "voice_actor": "Joe Flynn",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Brutus and Nero",
+          "role": "henchman",
+          "voice_actor": null,
+          "notes": "Medusa's crocodiles",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Rufus",
+          "role": "supporting",
+          "voice_actor": "John McIntire",
+          "notes": "Elderly cat at orphanage",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Orville",
+          "role": "ally",
+          "voice_actor": "Jim Jordan",
+          "notes": "Albatross airlines",
+          "species": "albatross",
+          "gender": "male"
+        },
+        {
+          "name": "Evinrude",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "Dragonfly, non-speaking",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Ellie Mae",
+          "role": "ally",
+          "voice_actor": "Jeanette Nolan",
+          "notes": "Swamp folk muskrat",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Luke",
+          "role": "ally",
+          "voice_actor": "Pat Buttram",
+          "notes": "Swamp folk muskrat",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Deadeye",
+          "role": "ally",
+          "voice_actor": "John Fiedler",
+          "notes": "Swamp rabbit",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Gramps",
+          "role": "ally",
+          "voice_actor": "Larry Clemmons",
+          "notes": "Swamp turtle",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Chairman",
+          "role": "supporting",
+          "voice_actor": "Bernard Fox",
+          "notes": "Rescue Aid Society",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Cat",
+          "role": "minor",
+          "voice_actor": "Dub Taylor",
+          "notes": "Penny's orphanage",
+          "species": "caterpillar",
+          "gender": "male"
+        }
+      ]
+    },
+    "rescuers_down_under_1990": {
+      "year": 1990,
+      "count": 15,
+      "characters": [
+        {
+          "name": "Miss Bianca",
+          "role": "protagonist",
+          "voice_actor": "Eva Gabor",
+          "species": "mouse",
+          "gender": "female"
+        },
+        {
+          "name": "Bernard",
+          "role": "deuteragonist",
+          "voice_actor": "Bob Newhart",
+          "species": "mouse",
+          "gender": "male"
+        },
+        {
+          "name": "Cody",
+          "role": "supporting",
+          "voice_actor": "Adam Ryen",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Percival C. McLeach",
+          "role": "villain",
+          "voice_actor": "George C. Scott",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Joanna",
+          "role": "henchman",
+          "voice_actor": "Frank Welker",
+          "notes": "McLeach's goanna lizard",
+          "species": "goanna",
+          "gender": "female"
+        },
+        {
+          "name": "Marahute",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Golden eagle, non-speaking",
+          "species": "eagle",
+          "gender": "female"
+        },
+        {
+          "name": "Wilbur",
+          "role": "comic_relief",
+          "voice_actor": "John Candy",
+          "notes": "Orville's brother",
+          "species": "albatross",
+          "gender": "male"
+        },
+        {
+          "name": "Jake",
+          "role": "ally",
+          "voice_actor": "Tristan Rogers",
+          "notes": "Kangaroo rat, rival for Bianca",
+          "species": "kangaroo_rat",
+          "gender": "male"
+        },
+        {
+          "name": "Frank",
+          "role": "ally",
+          "voice_actor": "Wayne Robson",
+          "notes": "Frill-necked lizard",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Krebbs",
+          "role": "minor",
+          "voice_actor": "Douglas Seale",
+          "notes": "Koala in McLeach's cage",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Red",
+          "role": "minor",
+          "voice_actor": "Peter Firth",
+          "notes": "Kangaroo in McLeach's cage",
+          "species": "elephant",
+          "gender": "female"
+        },
+        {
+          "name": "Faloo",
+          "role": "ally",
+          "voice_actor": "Carla Meyer",
+          "notes": "Kangaroo, sends message",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Cody's Mother",
+          "role": "supporting",
+          "voice_actor": "Russi Taylor",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Doctor",
+          "role": "comic_relief",
+          "voice_actor": "Bernard Fox",
+          "notes": "Mouse doctor for Wilbur",
+          "species": "dwarf",
+          "gender": "male"
+        },
+        {
+          "name": "The Chairman",
+          "role": "supporting",
+          "voice_actor": "Bernard Fox",
+          "notes": "Rescue Aid Society",
+          "species": "human",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "milestone": "The Rescuers Down Under was the first fully digital ink and paint feature film"
+  }
+}

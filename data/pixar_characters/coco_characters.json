@@ -1,0 +1,43 @@
+{
+  "franchise": "Coco",
+  "films": ["Coco (2017)"],
+  "total_estimated_characters": 20,
+  "categories": {
+    "coco": {
+      "year": 2017,
+      "count": 20,
+      "characters": [
+        {"name": "Miguel Rivera", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Anthony Gonzalez"},
+        {"name": "Héctor", "role": "deuteragonist", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Gael García Bernal"},
+        {"name": "Ernesto de la Cruz", "role": "villain", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Benjamin Bratt"},
+        {"name": "Mamá Coco", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Ana Ofelia Murguía"},
+        {"name": "Abuelita Elena", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Renée Victor"},
+        {"name": "Mamá Imelda", "role": "supporting", "species": "human (skeleton/spirit)", "gender": "female", "voice_actor": "Alanna Ubach"},
+        {"name": "Dante", "role": "sidekick", "species": "dog (Xoloitzcuintli)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Pepita", "role": "supporting", "species": "alebrije (spirit guide)", "gender": "female", "voice_actor": null, "notes": "Non-speaking"},
+        {"name": "Papá Julio", "role": "supporting", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Alfonso Arau"},
+        {"name": "Tía Rosita", "role": "supporting", "species": "human (skeleton/spirit)", "gender": "female", "voice_actor": "Selene Luna"},
+        {"name": "Tíos Oscar and Felipe", "role": "supporting", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Herbert Siguenza"},
+        {"name": "Tía Victoria", "role": "minor", "species": "human (skeleton/spirit)", "gender": "female", "voice_actor": "Dyana Ortelli"},
+        {"name": "Papá Franco", "role": "minor", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "unknown"},
+        {"name": "Papá (Enrique)", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Jaime Camil"},
+        {"name": "Mamá (Luisa)", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Sofía Espinosa"},
+        {"name": "Frida Kahlo", "role": "comic relief", "species": "human (skeleton/spirit)", "gender": "female", "voice_actor": "Natalia Cordova-Buckley"},
+        {"name": "Chicharrón", "role": "minor", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Edward James Olmos"},
+        {"name": "Clerk", "role": "minor", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Gabriel Iglesias"},
+        {"name": "Security Guard", "role": "minor", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Cheech Marin"},
+        {"name": "Corrections Officer", "role": "minor", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "Octavio Solis"},
+        {"name": "Juan Ortodoncia", "role": "minor", "species": "human (skeleton/spirit)", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "sidekick": "Loyal companion to main characters",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

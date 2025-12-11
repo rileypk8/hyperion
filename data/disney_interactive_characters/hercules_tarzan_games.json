@@ -1,0 +1,91 @@
+{
+  "franchise": "Hercules & Tarzan Games",
+  "studio": "Disney Interactive Studios",
+  "games": [
+    "Disney's Hercules (1997)",
+    "Disney's Hercules Action Game (1997)",
+    "Disney's Tarzan (1999)",
+    "Disney's Tarzan: Untamed (2001)",
+    "Tarzan: Freeride (2001)"
+  ],
+  "total_estimated_characters": 50,
+  "categories": {
+    "hercules_action_game": {
+      "year": 1997,
+      "platform": "PlayStation/PC",
+      "developer": "Eurocom",
+      "game_type": "action_platformer",
+      "count": 20,
+      "characters": [
+        {"name": "Hercules", "role": "protagonist", "voice_actor": "Tate Donovan", "species": "demigod", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Philoctetes", "role": "ally", "voice_actor": "Robert Costanzo", "species": "satyr", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Hades", "role": "villain", "voice_actor": "James Woods", "species": "god", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Megara", "role": "supporting", "voice_actor": "Susan Egan", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Pegasus", "role": "ally", "voice_actor": "N/A", "species": "pegasus", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Zeus", "role": "supporting", "voice_actor": "Rip Torn (archive)", "species": "god", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Hera", "role": "supporting", "voice_actor": "Samantha Eggar (archive)", "species": "goddess", "gender": "female", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Pain", "role": "antagonist", "voice_actor": "Bobcat Goldthwait (archive)", "species": "demon", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Panic", "role": "antagonist", "voice_actor": "Matt Frewer (archive)", "species": "demon", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "The Muses", "role": "supporting", "voice_actor": "Various", "species": "muse", "gender": "female", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Hydra", "role": "antagonist", "voice_actor": "N/A", "species": "monster", "gender": "unknown", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Centaur Nessus", "role": "antagonist", "voice_actor": "Jim Cummings", "species": "centaur", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Titans", "role": "antagonist", "voice_actor": "N/A", "species": "titan", "gender": "various", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Cerberus", "role": "antagonist", "voice_actor": "N/A", "species": "monster", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Medusa", "role": "antagonist", "voice_actor": "N/A", "species": "gorgon", "gender": "female", "origin": "original", "origin_franchise": "Hercules (Game)"},
+        {"name": "Minotaur", "role": "antagonist", "voice_actor": "N/A", "species": "monster", "gender": "male", "origin": "original", "origin_franchise": "Hercules (Game)"},
+        {"name": "Cyclops", "role": "antagonist", "voice_actor": "N/A", "species": "cyclops", "gender": "male", "origin": "disney", "origin_franchise": "Hercules"},
+        {"name": "Harpies", "role": "antagonist", "voice_actor": "N/A", "species": "harpy", "gender": "female", "origin": "original", "origin_franchise": "Hercules (Game)"},
+        {"name": "Skeleton Warriors", "role": "antagonist", "voice_actor": "N/A", "species": "undead", "gender": "various", "origin": "original", "origin_franchise": "Hercules (Game)"},
+        {"name": "Theban Citizens", "role": "minor", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "disney", "origin_franchise": "Hercules"}
+      ]
+    },
+    "tarzan_1999": {
+      "year": 1999,
+      "platform": "PlayStation/N64/PC",
+      "developer": "Eurocom",
+      "game_type": "action_platformer",
+      "count": 15,
+      "characters": [
+        {"name": "Tarzan (Adult)", "role": "protagonist", "voice_actor": "Tony Goldwyn (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Tarzan (Young)", "role": "protagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Jane Porter", "role": "supporting", "voice_actor": "Minnie Driver (archive)", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Terk", "role": "ally", "voice_actor": "Rosie O'Donnell (archive)", "species": "gorilla", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Tantor", "role": "ally", "voice_actor": "Wayne Knight (archive)", "species": "elephant", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Kala", "role": "supporting", "voice_actor": "Glenn Close (archive)", "species": "gorilla", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Kerchak", "role": "supporting", "voice_actor": "Lance Henriksen (archive)", "species": "gorilla", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Clayton", "role": "villain", "voice_actor": "Brian Blessed (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Professor Porter", "role": "supporting", "voice_actor": "Nigel Hawthorne (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Sabor", "role": "antagonist", "voice_actor": "N/A", "species": "leopard", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Clayton's Men", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Baboons", "role": "antagonist", "voice_actor": "N/A", "species": "baboon", "gender": "various", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Snakes", "role": "antagonist", "voice_actor": "N/A", "species": "snake", "gender": "unknown", "origin": "original", "origin_franchise": "Tarzan (Game)"},
+        {"name": "Jungle Predators", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Tarzan (Game)"},
+        {"name": "Gorilla Family", "role": "supporting", "voice_actor": "N/A", "species": "gorilla", "gender": "various", "origin": "disney", "origin_franchise": "Tarzan"}
+      ]
+    },
+    "tarzan_untamed": {
+      "year": 2001,
+      "platform": "PlayStation 2/GameCube",
+      "developer": "Ubi Soft",
+      "game_type": "action_adventure",
+      "count": 15,
+      "characters": [
+        {"name": "Tarzan", "role": "protagonist", "voice_actor": "Tony Goldwyn (archive)", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Jane Porter", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Terk", "role": "ally", "voice_actor": "N/A", "species": "gorilla", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Tantor", "role": "ally", "voice_actor": "N/A", "species": "elephant", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Oswald Gardner", "role": "villain", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Kala", "role": "supporting", "voice_actor": "N/A", "species": "gorilla", "gender": "female", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Professor Porter", "role": "supporting", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Poachers", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "male", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Wild Animals", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Leopards", "role": "antagonist", "voice_actor": "N/A", "species": "leopard", "gender": "various", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Crocodiles", "role": "antagonist", "voice_actor": "N/A", "species": "crocodile", "gender": "unknown", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Hostile Natives", "role": "antagonist", "voice_actor": "N/A", "species": "human", "gender": "various", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Gorilla Tribe", "role": "supporting", "voice_actor": "N/A", "species": "gorilla", "gender": "various", "origin": "disney", "origin_franchise": "Tarzan"},
+        {"name": "Jungle Birds", "role": "minor", "voice_actor": "N/A", "species": "bird", "gender": "various", "origin": "original", "origin_franchise": "Tarzan: Untamed"},
+        {"name": "Boss Creatures", "role": "antagonist", "voice_actor": "N/A", "species": "various", "gender": "various", "origin": "original", "origin_franchise": "Tarzan: Untamed"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "franchise": "Planes",
+  "studio": "DisneyToon Studios",
+  "films": ["Planes (2013)", "Planes: Fire & Rescue (2014)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 45,
+  "categories": {
+    "planes_2013": {
+      "year": 2013,
+      "release_type": "theatrical",
+      "count": 22,
+      "characters": [
+        {"name": "Dusty Crophopper", "role": "protagonist", "species": "plane (crop duster)", "gender": "male", "voice_actor": "Dane Cook"},
+        {"name": "Skipper Riley", "role": "mentor", "species": "plane (Corsair)", "gender": "male", "voice_actor": "Stacy Keach"},
+        {"name": "Chug", "role": "sidekick", "species": "fuel truck", "gender": "male", "voice_actor": "Brad Garrett"},
+        {"name": "Dottie", "role": "ally", "species": "forklift", "gender": "female", "voice_actor": "Teri Hatcher"},
+        {"name": "Ripslinger", "role": "villain", "species": "plane (racing)", "gender": "male", "voice_actor": "Roger Craig Smith"},
+        {"name": "Ishani", "role": "love_interest", "species": "plane (racing)", "gender": "female", "voice_actor": "Priyanka Chopra"},
+        {"name": "El Chupacabra", "role": "ally", "species": "plane (racing)", "gender": "male", "voice_actor": "Carlos Alazraqui"},
+        {"name": "Rochelle", "role": "supporting", "species": "plane (racing)", "gender": "female", "voice_actor": "Julia Louis-Dreyfus"},
+        {"name": "Bulldog", "role": "supporting", "species": "plane (racing)", "gender": "male", "voice_actor": "John Cleese"},
+        {"name": "Ned", "role": "henchman", "species": "plane (racing)", "gender": "male", "voice_actor": "Gabriel Iglesias"},
+        {"name": "Zed", "role": "henchman", "species": "plane (racing)", "gender": "male", "voice_actor": "Gabriel Iglesias"},
+        {"name": "Leadbottom", "role": "supporting", "species": "plane (biplane)", "gender": "male", "voice_actor": "Cedric the Entertainer"},
+        {"name": "Sparky", "role": "supporting", "species": "tug", "gender": "male", "voice_actor": "Danny Mann"},
+        {"name": "Franz", "role": "comic_relief", "species": "car", "gender": "male", "voice_actor": "Oliver Kalkofe"},
+        {"name": "Brent Mustangburger", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Brent Musburger"},
+        {"name": "Colin Cowling", "role": "minor", "species": "car", "gender": "male", "voice_actor": "Colin Cowherd"},
+        {"name": "Roper", "role": "minor", "species": "plane", "gender": "male", "voice_actor": "Sinbad"},
+        {"name": "Arturo", "role": "minor", "species": "plane (racing)", "gender": "male", "voice_actor": "Carlos Alazraqui"},
+        {"name": "Tsubasa", "role": "minor", "species": "plane (racing)", "gender": "male", "voice_actor": "n/a"},
+        {"name": "Little King", "role": "minor", "species": "plane (racing)", "gender": "male", "voice_actor": "n/a"},
+        {"name": "Joey Dundee", "role": "minor", "species": "plane (racing)", "gender": "male", "voice_actor": "n/a"},
+        {"name": "Judge Davis", "role": "minor", "species": "car", "gender": "male", "voice_actor": "n/a"}
+      ]
+    },
+    "fire_and_rescue_2014": {
+      "year": 2014,
+      "release_type": "theatrical",
+      "count": 23,
+      "characters": [
+        {"name": "Dusty Crophopper", "role": "protagonist", "species": "plane (crop duster/firefighter)", "gender": "male", "voice_actor": "Dane Cook"},
+        {"name": "Lil' Dipper", "role": "ally", "species": "plane (firefighter)", "gender": "female", "voice_actor": "Julie Bowen"},
+        {"name": "Blade Ranger", "role": "mentor", "species": "helicopter (firefighter)", "gender": "male", "voice_actor": "Ed Harris"},
+        {"name": "Windlifter", "role": "ally", "species": "helicopter (firefighter)", "gender": "male", "voice_actor": "Wes Studi"},
+        {"name": "Maru", "role": "ally", "species": "forklift", "gender": "male", "voice_actor": "Curtis Armstrong"},
+        {"name": "Cabbie", "role": "ally", "species": "cargo plane", "gender": "male", "voice_actor": "Dale Dye"},
+        {"name": "The Smokejumpers", "role": "ally", "species": "various vehicles", "gender": "various", "voice_actor": "Various", "notes": "Dynamite, Blackout, Drip, Pinecone, Avalanche"},
+        {"name": "Cad Spinner", "role": "antagonist", "species": "car", "gender": "male", "voice_actor": "John Michael Higgins"},
+        {"name": "Secretary of the Interior", "role": "supporting", "species": "car", "gender": "male", "voice_actor": "Fred Willard"},
+        {"name": "Harvey", "role": "supporting", "species": "fire engine", "gender": "male", "voice_actor": "Jerry Stiller"},
+        {"name": "Winnie", "role": "supporting", "species": "RV", "gender": "female", "voice_actor": "Anne Meara"},
+        {"name": "Pulaski", "role": "supporting", "species": "fire engine", "gender": "male", "voice_actor": "Patrick Warburton"},
+        {"name": "Rake", "role": "supporting", "species": "fire engine", "gender": "male", "voice_actor": "Danny Pardo"},
+        {"name": "Ol' Jammer", "role": "supporting", "species": "fire engine", "gender": "male", "voice_actor": "Hal Holbrook"},
+        {"name": "Mayday", "role": "supporting", "species": "fire engine", "gender": "male", "voice_actor": "Hal Holbrook"},
+        {"name": "Chug", "role": "ally", "species": "fuel truck", "gender": "male", "voice_actor": "Brad Garrett"},
+        {"name": "Dottie", "role": "ally", "species": "forklift", "gender": "female", "voice_actor": "Teri Hatcher"},
+        {"name": "Skipper Riley", "role": "supporting", "species": "plane (Corsair)", "gender": "male", "voice_actor": "Stacy Keach"},
+        {"name": "Sparky", "role": "supporting", "species": "tug", "gender": "male", "voice_actor": "Danny Mann"},
+        {"name": "Nick Loopin' Lopez", "role": "cameo", "species": "helicopter", "gender": "male", "voice_actor": "Erik Estrada"},
+        {"name": "Bravo", "role": "minor", "species": "jet", "gender": "male", "voice_actor": "Val Kilmer"},
+        {"name": "Echo", "role": "minor", "species": "jet", "gender": "male", "voice_actor": "Anthony Edwards"},
+        {"name": "Leadbottom", "role": "minor", "species": "plane (biplane)", "gender": "male", "voice_actor": "Cedric the Entertainer"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Character opposing protagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "sidekick": "Constant companion to protagonist",
+    "mentor": "Guides protagonist's development",
+    "love_interest": "Romantic interest of protagonist",
+    "comic_relief": "Character providing humor",
+    "supporting": "Important but secondary role",
+    "minor": "Small role with limited screen time",
+    "cameo": "Brief appearance"
+  },
+  "notes": {
+    "spinoff": "Set in the same universe as Pixar's Cars franchise",
+    "cancelled_sequel": "Planes 3 was cancelled when DisneyToon Studios closed in 2018"
+  }
+}

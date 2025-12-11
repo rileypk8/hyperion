@@ -1,0 +1,251 @@
+{
+  "studio": "Fox Animation Studios",
+  "parent_company": "20th Century Animation",
+  "films": ["Anastasia (1997)", "Titan A.E. (2000)"],
+  "total_estimated_characters": 35,
+  "categories": {
+    "anastasia": {
+      "year": 1997,
+      "count": 16,
+      "animation_type": "2D traditional",
+      "characters": [
+        {
+          "name": "Anastasia (Anya)",
+          "role": "protagonist",
+          "voice_actor": "Meg Ryan",
+          "singing_voice": "Liz Callaway",
+          "notes": "Amnesiac Russian princess"
+        },
+        {
+          "name": "Dimitri",
+          "role": "deuteragonist",
+          "voice_actor": "John Cusack",
+          "singing_voice": "Jonathan Dokuchitz",
+          "notes": "Con man who helps Anya"
+        },
+        {
+          "name": "Vladimir",
+          "role": "ally",
+          "voice_actor": "Kelsey Grammer",
+          "notes": "Dimitri's partner in the con"
+        },
+        {
+          "name": "Grigori Rasputin",
+          "role": "villain",
+          "voice_actor": "Christopher Lloyd",
+          "singing_voice": "Jim Cummings",
+          "notes": "Undead sorcerer seeking revenge on Romanovs"
+        },
+        {
+          "name": "Bartok",
+          "role": "comic_relief",
+          "voice_actor": "Hank Azaria",
+          "notes": "Rasputin's albino bat sidekick"
+        },
+        {
+          "name": "Dowager Empress Marie",
+          "role": "supporting",
+          "voice_actor": "Angela Lansbury",
+          "notes": "Anastasia's grandmother"
+        },
+        {
+          "name": "Sophie",
+          "role": "supporting",
+          "voice_actor": "Bernadette Peters",
+          "notes": "Marie's lady-in-waiting and cousin"
+        },
+        {
+          "name": "Young Anastasia",
+          "role": "supporting",
+          "voice_actor": "Kirsten Dunst",
+          "singing_voice": "Lacey Chabert",
+          "notes": "8-year-old Anastasia"
+        },
+        {
+          "name": "Czar Nicholas II",
+          "role": "minor",
+          "voice_actor": "Rick Jones",
+          "notes": "Anastasia's father"
+        },
+        {
+          "name": "Phlegmenkoff",
+          "role": "minor",
+          "voice_actor": "Andrea Martin",
+          "notes": "Orphanage headmistress"
+        },
+        {
+          "name": "Young Dimitri",
+          "role": "minor",
+          "voice_actor": "Glenn Walker Harris Jr.",
+          "notes": "Kitchen boy who saves Anastasia"
+        },
+        {
+          "name": "Czarina Alexandra",
+          "role": "minor",
+          "voice_actor": "Debra Mooney",
+          "notes": "Anastasia's mother"
+        },
+        {
+          "name": "Count Ipolitov",
+          "role": "minor",
+          "voice_actor": "Arthur Malet",
+          "notes": "Russian aristocrat"
+        },
+        {
+          "name": "Servant",
+          "role": "minor",
+          "voice_actor": "Rick Jones",
+          "notes": "Palace servant"
+        },
+        {
+          "name": "Revolutionary Soldier",
+          "role": "minor",
+          "voice_actor": "Rick Jones",
+          "notes": "Bolshevik soldier"
+        },
+        {
+          "name": "Ticket Agent",
+          "role": "minor",
+          "voice_actor": "Rick Jones",
+          "notes": "Train station worker"
+        }
+      ]
+    },
+    "titan_ae": {
+      "year": 2000,
+      "count": 19,
+      "animation_type": "2D/CGI hybrid",
+      "characters": [
+        {
+          "name": "Cale Tucker",
+          "role": "protagonist",
+          "voice_actor": "Matt Damon",
+          "notes": "Human survivor with map to Titan"
+        },
+        {
+          "name": "Korso",
+          "role": "deuteragonist",
+          "voice_actor": "Bill Pullman",
+          "notes": "Ship captain with hidden agenda"
+        },
+        {
+          "name": "Akima Kunimoto",
+          "role": "love_interest",
+          "voice_actor": "Drew Barrymore",
+          "notes": "Pilot and weapons expert"
+        },
+        {
+          "name": "Preed",
+          "role": "antagonist",
+          "voice_actor": "Nathan Lane",
+          "notes": "First mate who betrays the crew"
+        },
+        {
+          "name": "Gune",
+          "role": "ally",
+          "voice_actor": "John Leguizamo",
+          "notes": "Eccentric alien scientist"
+        },
+        {
+          "name": "Stith",
+          "role": "ally",
+          "voice_actor": "Janeane Garofalo",
+          "notes": "Weapons specialist, kangaroo-like alien"
+        },
+        {
+          "name": "Professor Sam Tucker",
+          "role": "supporting",
+          "voice_actor": "Ron Perlman",
+          "notes": "Cale's father, creator of Titan"
+        },
+        {
+          "name": "Young Cale",
+          "role": "supporting",
+          "voice_actor": "Alex D. Linz",
+          "notes": "Cale as a child"
+        },
+        {
+          "name": "Tek",
+          "role": "supporting",
+          "voice_actor": "Tone Loc",
+          "notes": "Cale's guardian"
+        },
+        {
+          "name": "The Cook",
+          "role": "comic_relief",
+          "voice_actor": "Jim Breuer",
+          "notes": "Ship's cook"
+        },
+        {
+          "name": "Queen Drej",
+          "role": "villain",
+          "voice_actor": "Christopher Scarabosio",
+          "notes": "Leader of the energy-based Drej aliens"
+        },
+        {
+          "name": "Chowquin",
+          "role": "minor",
+          "voice_actor": "Jim Cummings",
+          "notes": "Alien character"
+        },
+        {
+          "name": "Firrikash",
+          "role": "minor",
+          "voice_actor": "Charles Rocket",
+          "notes": "Alien smuggler"
+        },
+        {
+          "name": "Po",
+          "role": "minor",
+          "voice_actor": "Ken Hudson Campbell",
+          "notes": "Worker at salvage yard"
+        },
+        {
+          "name": "Old Woman",
+          "role": "minor",
+          "voice_actor": "Tsai Chin",
+          "notes": "Elderly refugee"
+        },
+        {
+          "name": "Drifter Girl",
+          "role": "minor",
+          "voice_actor": "Crystal Scales",
+          "notes": "Young drifter colony resident"
+        },
+        {
+          "name": "Mayor of New Bangkok",
+          "role": "minor",
+          "voice_actor": "David L. Lander",
+          "notes": "Leader of drifter colony"
+        },
+        {
+          "name": "First Alien",
+          "role": "minor",
+          "voice_actor": "Roger L. Jackson",
+          "notes": "Salvage yard alien"
+        },
+        {
+          "name": "Slave Trader Guard",
+          "role": "minor",
+          "voice_actor": "Jim Cummings",
+          "notes": "Guards at slave market"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary lead, often a partner or love interest",
+    "villain": "Primary antagonist",
+    "antagonist": "Character opposing the protagonist",
+    "ally": "Character who aids the protagonist",
+    "love_interest": "Romantic partner for main character",
+    "comic_relief": "Primarily comedic character",
+    "supporting": "Important but secondary character",
+    "minor": "Brief appearances, limited dialogue"
+  },
+  "notes": {
+    "studio_history": "Fox Animation Studios operated from 1994-2000 in Phoenix, Arizona under Don Bluth and Gary Goldman",
+    "closure": "Studio closed 10 days after Titan A.E. released due to commercial failure"
+  }
+}

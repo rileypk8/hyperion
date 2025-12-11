@@ -1,0 +1,213 @@
+{
+  "franchise": "Winnie the Pooh",
+  "films": [
+    "The Many Adventures of Winnie the Pooh (1977)",
+    "Winnie the Pooh (2011)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 15,
+  "categories": {
+    "many_adventures_1977": {
+      "year": 1977,
+      "count": 12,
+      "characters": [
+        {
+          "name": "Winnie the Pooh",
+          "role": "protagonist",
+          "voice_actor": "Sterling Holloway",
+          "species": "bear",
+          "gender": "male"
+        },
+        {
+          "name": "Piglet",
+          "role": "sidekick",
+          "voice_actor": "John Fiedler",
+          "species": "pig",
+          "gender": "male"
+        },
+        {
+          "name": "Tigger",
+          "role": "deuteragonist",
+          "voice_actor": "Paul Winchell",
+          "species": "tiger",
+          "gender": "male"
+        },
+        {
+          "name": "Eeyore",
+          "role": "supporting",
+          "voice_actor": "Ralph Wright",
+          "species": "donkey",
+          "gender": "male"
+        },
+        {
+          "name": "Rabbit",
+          "role": "supporting",
+          "voice_actor": "Junius Matthews",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Owl",
+          "role": "supporting",
+          "voice_actor": "Hal Smith",
+          "species": "owl",
+          "gender": "male"
+        },
+        {
+          "name": "Kanga",
+          "role": "supporting",
+          "voice_actor": "Barbara Luddy",
+          "species": "kangaroo",
+          "gender": "female"
+        },
+        {
+          "name": "Roo",
+          "role": "supporting",
+          "voice_actor": "Clint Howard, Dori Whitaker, Dick Billingsley",
+          "species": "kangaroo",
+          "gender": "male"
+        },
+        {
+          "name": "Christopher Robin",
+          "role": "mentor",
+          "voice_actor": "Bruce Reitherman, Jon Walmsley, Timothy Turner",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Gopher",
+          "role": "comic_relief",
+          "voice_actor": "Howard Morris",
+          "notes": "Not in the book",
+          "species": "gopher",
+          "gender": "male"
+        },
+        {
+          "name": "The Bees",
+          "role": "antagonist",
+          "voice_actor": null,
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Narrator",
+          "role": "narrator",
+          "voice_actor": "Sebastian Cabot",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    },
+    "winnie_the_pooh_2011": {
+      "year": 2011,
+      "count": 12,
+      "characters": [
+        {
+          "name": "Winnie the Pooh",
+          "role": "protagonist",
+          "voice_actor": "Jim Cummings",
+          "species": "bear",
+          "gender": "male"
+        },
+        {
+          "name": "Piglet",
+          "role": "sidekick",
+          "voice_actor": "Travis Oates",
+          "species": "pig",
+          "gender": "male"
+        },
+        {
+          "name": "Tigger",
+          "role": "deuteragonist",
+          "voice_actor": "Jim Cummings",
+          "species": "tiger",
+          "gender": "male"
+        },
+        {
+          "name": "Eeyore",
+          "role": "supporting",
+          "voice_actor": "Bud Luckey",
+          "species": "donkey",
+          "gender": "male"
+        },
+        {
+          "name": "Rabbit",
+          "role": "supporting",
+          "voice_actor": "Tom Kenny",
+          "species": "rabbit",
+          "gender": "male"
+        },
+        {
+          "name": "Owl",
+          "role": "supporting",
+          "voice_actor": "Craig Ferguson",
+          "species": "owl",
+          "gender": "male"
+        },
+        {
+          "name": "Kanga",
+          "role": "supporting",
+          "voice_actor": "Kristen Anderson-Lopez",
+          "species": "kangaroo",
+          "gender": "female"
+        },
+        {
+          "name": "Roo",
+          "role": "supporting",
+          "voice_actor": "Wyatt Dean Hall",
+          "species": "kangaroo",
+          "gender": "male"
+        },
+        {
+          "name": "Christopher Robin",
+          "role": "mentor",
+          "voice_actor": "Jack Boulter",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "The Backson",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Imaginary creature, misunderstanding",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "The Narrator",
+          "role": "narrator",
+          "voice_actor": "John Cleese",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Balloon",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Personified object in Pooh's imagination",
+          "species": "human",
+          "gender": "unknown"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "narrator": "Introduces or guides the audience",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "source": "Based on A.A. Milne's books",
+    "format_1977": "Compiled from three theatrical shorts (1966, 1968, 1974)"
+  }
+}

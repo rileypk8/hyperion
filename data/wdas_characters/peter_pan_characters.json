@@ -1,0 +1,166 @@
+{
+  "franchise": "Peter Pan",
+  "films": [
+    "Peter Pan (1953)"
+  ],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 18,
+  "categories": {
+    "peter_pan_1953": {
+      "year": 1953,
+      "count": 18,
+      "characters": [
+        {
+          "name": "Peter Pan",
+          "role": "protagonist",
+          "voice_actor": "Bobby Driscoll",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Wendy Darling",
+          "role": "deuteragonist",
+          "voice_actor": "Kathryn Beaumont",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "Captain Hook",
+          "role": "villain",
+          "voice_actor": "Hans Conried",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mr. Smee",
+          "role": "henchman",
+          "voice_actor": "Bill Thompson",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tinker Bell",
+          "role": "sidekick",
+          "voice_actor": null,
+          "notes": "Non-speaking, bell sounds only",
+          "species": "fairy",
+          "gender": "female"
+        },
+        {
+          "name": "John Darling",
+          "role": "supporting",
+          "voice_actor": "Paul Collins",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Michael Darling",
+          "role": "supporting",
+          "voice_actor": "Tommy Luske",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tiger Lily",
+          "role": "supporting",
+          "voice_actor": null,
+          "notes": "Non-speaking",
+          "species": "human",
+          "gender": "female"
+        },
+        {
+          "name": "The Indian Chief",
+          "role": "supporting",
+          "voice_actor": "Candy Candido",
+          "species": "dog",
+          "gender": "male"
+        },
+        {
+          "name": "The Lost Boys",
+          "role": "ally",
+          "voice_actor": "various",
+          "notes": "Slightly, Nibs, Cubby, The Twins, Tootles",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Tick-Tock the Crocodile",
+          "role": "antagonist",
+          "voice_actor": null,
+          "notes": "Pursues Hook",
+          "species": "crocodile",
+          "gender": "male"
+        },
+        {
+          "name": "The Pirates",
+          "role": "henchman",
+          "voice_actor": "various",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "George Darling",
+          "role": "supporting",
+          "voice_actor": "Hans Conried",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Mary Darling",
+          "role": "supporting",
+          "voice_actor": "Heather Angel",
+          "species": "human",
+          "gender": "male"
+        },
+        {
+          "name": "Nana",
+          "role": "ally",
+          "voice_actor": null,
+          "notes": "The Darling family dog",
+          "species": "dog",
+          "gender": "female"
+        },
+        {
+          "name": "The Mermaids",
+          "role": "antagonist",
+          "voice_actor": "various",
+          "notes": "Hostile to Wendy",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Slightly",
+          "role": "supporting",
+          "voice_actor": "Stuffy Singer",
+          "species": "human",
+          "gender": "unknown"
+        },
+        {
+          "name": "Red-Handed Jill",
+          "role": "minor",
+          "voice_actor": null,
+          "notes": "Referenced pirate name for Wendy",
+          "species": "hyena",
+          "gender": "male"
+        }
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "mentor": "Guides and teaches the hero",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Opposes heroes but may not be evil",
+    "henchman": "Serves the villain",
+    "ally": "Helps heroes in key moments",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  },
+  "notes": {
+    "controversy": "The portrayal of Native Americans has been criticized for stereotyping"
+  }
+}

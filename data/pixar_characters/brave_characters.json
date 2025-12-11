@@ -1,0 +1,36 @@
+{
+  "franchise": "Brave",
+  "films": ["Brave (2012)"],
+  "total_estimated_characters": 15,
+  "categories": {
+    "brave": {
+      "year": 2012,
+      "count": 15,
+      "characters": [
+        {"name": "Merida", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Kelly Macdonald"},
+        {"name": "Queen Elinor", "role": "deuteragonist", "species": "human (transformed to bear)", "gender": "female", "voice_actor": "Emma Thompson"},
+        {"name": "King Fergus", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Billy Connolly"},
+        {"name": "The Witch", "role": "supporting", "species": "human (witch)", "gender": "female", "voice_actor": "Julie Walters"},
+        {"name": "Mor'du", "role": "villain", "species": "bear (cursed human)", "gender": "male", "voice_actor": null, "notes": "Mostly non-speaking"},
+        {"name": "Harris, Hubert, and Hamish", "role": "comic relief", "species": "human (transformed to bears)", "gender": "male", "voice_actor": null, "notes": "Triplets, non-speaking"},
+        {"name": "Lord Dingwall", "role": "comic relief", "species": "human", "gender": "male", "voice_actor": "Robbie Coltrane"},
+        {"name": "Lord MacGuffin", "role": "comic relief", "species": "human", "gender": "male", "voice_actor": "Kevin McKidd"},
+        {"name": "Lord Macintosh", "role": "comic relief", "species": "human", "gender": "male", "voice_actor": "Craig Ferguson"},
+        {"name": "Young Macintosh", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Kevin McKidd"},
+        {"name": "Young MacGuffin", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Kevin McKidd"},
+        {"name": "Wee Dingwall", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Robbie Coltrane"},
+        {"name": "Maudie", "role": "minor", "species": "human", "gender": "female", "voice_actor": "Sally Kinghorn"},
+        {"name": "The Crow", "role": "minor", "species": "crow", "gender": "male", "voice_actor": "Steve Purcell"},
+        {"name": "Gordon", "role": "minor", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "deuteragonist": "Secondary lead/co-protagonist",
+    "villain": "Primary antagonist with evil intent",
+    "comic_relief": "Primarily provides humor",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}

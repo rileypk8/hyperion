@@ -1,0 +1,60 @@
+{
+  "franchise": "Cinderella",
+  "studio": "DisneyToon Studios",
+  "films": ["Cinderella II: Dreams Come True (2002)", "Cinderella III: A Twist in Time (2007)"],
+  "animation_type": "fully_animated",
+  "total_estimated_characters": 22,
+  "categories": {
+    "dreams_come_true_2002": {
+      "year": 2002,
+      "release_type": "direct_to_video",
+      "count": 11,
+      "characters": [
+        {"name": "Cinderella", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Jennifer Hale"},
+        {"name": "Prince Charming", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Christopher Daniel Barnes"},
+        {"name": "Jaq", "role": "protagonist", "species": "mouse", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Gus", "role": "sidekick", "species": "mouse", "gender": "male", "voice_actor": "Corey Burton"},
+        {"name": "Anastasia Tremaine", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Tress MacNeille"},
+        {"name": "Drizella Tremaine", "role": "antagonist", "species": "human", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "Lady Tremaine", "role": "villain", "species": "human", "gender": "female", "voice_actor": "Susanne Blakeslee"},
+        {"name": "The Baker", "role": "love_interest", "species": "human", "gender": "male", "voice_actor": "Rob Paulsen", "notes": "Anastasia's love interest"},
+        {"name": "Fairy Godmother", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "Prudence", "role": "antagonist", "species": "human", "gender": "female", "voice_actor": "Holland Taylor"},
+        {"name": "The King", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Andre Stojka"}
+      ]
+    },
+    "twist_in_time_2007": {
+      "year": 2007,
+      "release_type": "direct_to_video",
+      "count": 11,
+      "characters": [
+        {"name": "Cinderella", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Jennifer Hale"},
+        {"name": "Prince Charming", "role": "deuteragonist", "species": "human", "gender": "male", "voice_actor": "Christopher Daniel Barnes"},
+        {"name": "Lady Tremaine", "role": "villain", "species": "human", "gender": "female", "voice_actor": "Susanne Blakeslee"},
+        {"name": "Anastasia Tremaine", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Tress MacNeille"},
+        {"name": "Drizella Tremaine", "role": "henchman", "species": "human", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "Jaq", "role": "ally", "species": "mouse", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Gus", "role": "ally", "species": "mouse", "gender": "male", "voice_actor": "Corey Burton"},
+        {"name": "Fairy Godmother", "role": "supporting", "species": "fairy", "gender": "female", "voice_actor": "Russi Taylor"},
+        {"name": "The King", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Andre Stojka"},
+        {"name": "The Grand Duke", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "Rob Paulsen"},
+        {"name": "Lucifer", "role": "henchman", "species": "cat", "gender": "male", "voice_actor": "Frank Welker"}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main character driving the story",
+    "deuteragonist": "Secondary main character",
+    "villain": "Primary antagonist with evil intent",
+    "antagonist": "Character opposing protagonist",
+    "henchman": "Villain's subordinate",
+    "ally": "Friend supporting protagonist",
+    "sidekick": "Constant companion",
+    "love_interest": "Romantic interest",
+    "supporting": "Important but secondary role"
+  },
+  "notes": {
+    "anthology": "Dreams Come True is an anthology of three stories",
+    "critical_reception": "A Twist in Time is often cited as one of the better Disney DTV sequels"
+  }
+}

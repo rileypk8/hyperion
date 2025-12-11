@@ -1,0 +1,38 @@
+{
+  "franchise": "WALL-E",
+  "films": ["WALL-E (2008)"],
+  "total_estimated_characters": 15,
+  "categories": {
+    "wall_e": {
+      "year": 2008,
+      "count": 15,
+      "characters": [
+        {"name": "WALL-E", "role": "protagonist", "species": "robot", "gender": "male", "voice_actor": "Ben Burtt"},
+        {"name": "EVE", "role": "love interest", "species": "robot", "gender": "female", "voice_actor": "Elissa Knight"},
+        {"name": "Captain B. McCrea", "role": "hero", "species": "human", "gender": "male", "voice_actor": "Jeff Garlin"},
+        {"name": "AUTO", "role": "villain", "species": "robot (AI)", "gender": "male", "voice_actor": "MacInTalk"},
+        {"name": "M-O", "role": "sidekick", "species": "robot", "gender": "male", "voice_actor": "Ben Burtt"},
+        {"name": "GO-4", "role": "henchman", "species": "robot", "gender": "n/a", "voice_actor": null},
+        {"name": "John", "role": "supporting", "species": "human", "gender": "male", "voice_actor": "John Ratzenberger"},
+        {"name": "Mary", "role": "supporting", "species": "human", "gender": "female", "voice_actor": "Kathy Najimy"},
+        {"name": "Shelby Forthright", "role": "minor", "species": "human", "gender": "male", "voice_actor": "Fred Willard", "notes": "Live-action, video recordings"},
+        {"name": "BURN-E", "role": "minor", "species": "robot", "gender": "male", "voice_actor": null, "notes": "Short film protagonist"},
+        {"name": "PR-T", "role": "minor", "species": "robot", "gender": "female", "voice_actor": "Teddy Newton"},
+        {"name": "VN-GO", "role": "minor", "species": "robot", "gender": "n/a", "voice_actor": null},
+        {"name": "HAN-S", "role": "minor", "species": "robot", "gender": "n/a", "voice_actor": null},
+        {"name": "L-T", "role": "minor", "species": "robot", "gender": "n/a", "voice_actor": null},
+        {"name": "D-FIB", "role": "minor", "species": "robot", "gender": "n/a", "voice_actor": null}
+      ]
+    }
+  },
+  "role_definitions": {
+    "protagonist": "Main hero driving the story",
+    "hero": "Major heroic character",
+    "villain": "Primary antagonist with evil intent",
+    "henchman": "Serves the villain",
+    "sidekick": "Loyal companion to main characters",
+    "love_interest": "Romantic connection to main character",
+    "supporting": "Significant but secondary role",
+    "minor": "Limited screen time or interaction"
+  }
+}
