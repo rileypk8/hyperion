@@ -33,23 +33,54 @@
 | Character files (Pixar, WDAS, Blue Sky, DisneyToon, KH, Marvel) | ✅ Complete |
 | Box office faker (disaggregation provider) | ✅ Complete |
 | Box office time-series data | Not generated yet |
+| Game catalog (Kingdom Hearts series) | ✅ Complete (in KH character file) |
+| Game sales faker | Not started |
+| Soundtrack/song data | Not started |
+| Awards data | Not started |
 
 ---
 
 ## Data Model (Entities)
 
-Fully normalized. Target tables:
+Fully normalized with media parent table pattern. Target tables:
 
-| Table | Source | Notes |
-|-------|--------|-------|
-| `studios` | complete_movie_list.json | Parent company subsidiaries |
-| `franchises` | Derived from film groupings | Toy Story, Frozen, etc. |
-| `films` | complete_movie_list.json + character files | FK to studio, franchise |
-| `characters` | Character JSON files | FK to film (via join table) |
-| `talent` | Extracted from character files | Normalized voice actors |
-| `character_talent` | Derived | Join table: who voiced whom |
-| `character_films` | Derived | Join table: appearances |
-| `box_office_daily` | Generated via faker | FK to film, date, state |
+**Lookup tables (7):**
+| Table | Notes |
+|-------|-------|
+| `roles` | protagonist, villain, etc. |
+| `genders` | male, female, non-binary, etc. |
+| `species` | human, toy, monster, heartless, etc. |
+| `platforms` | PS2, Switch, PC, etc. |
+| `credit_types` | composer, lyricist, performer, etc. |
+| `award_bodies` | Academy Awards, Annie Awards, The Game Awards, etc. |
+| `award_categories` | FK to body, is_media_level flag |
+
+**Core tables (11):**
+| Table | Notes |
+|-------|-------|
+| `studios` | Pixar, WDAS, Blue Sky, etc. |
+| `franchises` | Toy Story, Frozen, Kingdom Hearts, etc. |
+| `media` | Parent table: title, year, franchise, media_type |
+| `films` | Child of media: studio, animation_type |
+| `games` | Child of media: developer, publisher |
+| `game_platforms` | M:N junction for games ↔ platforms |
+| `soundtracks` | Child of media: label, source_media_id |
+| `songs` | Tracks on soundtracks |
+| `song_credits` | M:N junction for songs ↔ talent ↔ credit_type |
+| `characters` | origin_franchise, species, gender |
+| `talent` | Voice actors, composers, etc. |
+
+**Relationship tables (2):**
+| Table | Notes |
+|-------|-------|
+| `character_appearances` | character + media + talent + role + variant |
+| `nominations` | media + category + talent + song |
+
+**Financial data (2):**
+| Table | Notes |
+|-------|-------|
+| `box_office_daily` | Film revenue by date/state |
+| `game_sales` | Game sales by date/platform/region |
 
 ---
 
