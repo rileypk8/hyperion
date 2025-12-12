@@ -5,6 +5,7 @@ from .characters_producer import CharactersProducer
 from .boxoffice_producer import BoxOfficeProducer
 from .games_producer import GamesProducer
 from .soundtracks_producer import SoundtracksProducer
+from .awards_producer import AwardsProducer
 
 __all__ = [
     "FilmsProducer",
@@ -12,4 +13,5 @@ __all__ = [
     "BoxOfficeProducer",
     "GamesProducer",
     "SoundtracksProducer",
+    "AwardsProducer",
 ]
