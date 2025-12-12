@@ -4,5 +4,12 @@ from .films_consumer import FilmsConsumer
 from .characters_consumer import CharactersConsumer
 from .boxoffice_consumer import BoxOfficeConsumer
 from .games_consumer import GamesConsumer
+from .soundtracks_consumer import SoundtracksConsumer
 
-__all__ = ["FilmsConsumer", "CharactersConsumer", "BoxOfficeConsumer", "GamesConsumer"]
+__all__ = [
+    "FilmsConsumer",
+    "CharactersConsumer",
+    "BoxOfficeConsumer",
+    "GamesConsumer",
+    "SoundtracksConsumer",
+]

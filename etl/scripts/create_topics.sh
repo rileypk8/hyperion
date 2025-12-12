@@ -46,6 +46,13 @@ docker exec $KAFKA_CONTAINER kafka-topics --create \
   --replication-factor 1 \
   --if-not-exists
 
+docker exec $KAFKA_CONTAINER kafka-topics --create \
+  --bootstrap-server $BOOTSTRAP_SERVER \
+  --topic raw-soundtracks \
+  --partitions 3 \
+  --replication-factor 1 \
+  --if-not-exists
+
 # Create dead letter queue topics for failed messages
 docker exec $KAFKA_CONTAINER kafka-topics --create \
   --bootstrap-server $BOOTSTRAP_SERVER \
@@ -71,6 +78,13 @@ docker exec $KAFKA_CONTAINER kafka-topics --create \
 docker exec $KAFKA_CONTAINER kafka-topics --create \
   --bootstrap-server $BOOTSTRAP_SERVER \
   --topic dlq-games \
+  --partitions 1 \
+  --replication-factor 1 \
+  --if-not-exists
+
+docker exec $KAFKA_CONTAINER kafka-topics --create \
+  --bootstrap-server $BOOTSTRAP_SERVER \
+  --topic dlq-soundtracks \
   --partitions 1 \
   --replication-factor 1 \
   --if-not-exists
