@@ -220,20 +220,26 @@ class CharactersConsumer:
             self.character_cache[cache_key] = result[0]
             return result[0]
 
-    def get_media_id(self, conn, title: str, year: int) -> int | None:
-        """Get media ID by title and year."""
+    def get_media_id(self, conn, title: str, year: int, media_type: str = None) -> int | None:
+        """Get media ID by title and year, optionally filtered by type."""
         if not title or not year:
             return None
 
-        cache_key = (title.lower(), year)
+        cache_key = (title.lower(), year, media_type)
         if cache_key in self.media_cache:
             return self.media_cache[cache_key]
 
         with get_cursor(conn) as cursor:
-            cursor.execute(
-                "SELECT id FROM media WHERE title = %s AND year = %s",
-                (title, year)
-            )
+            if media_type:
+                cursor.execute(
+                    "SELECT id FROM media WHERE title = %s AND year = %s AND media_type = %s",
+                    (title, year, media_type)
+                )
+            else:
+                cursor.execute(
+                    "SELECT id FROM media WHERE title = %s AND year = %s",
+                    (title, year)
+                )
             result = cursor.fetchone()
 
             if result:
@@ -274,7 +280,8 @@ class CharactersConsumer:
 
                 try:
                     name = char.get("name")
-                    franchise = char.get("franchise", "Unknown")
+                    # Use origin_franchise for character storage (handles crossovers)
+                    origin_franchise = char.get("origin_franchise") or char.get("franchise", "Unknown")
 
                     if not name:
                         continue
@@ -284,21 +291,21 @@ class CharactersConsumer:
                     gender_id = self.get_gender_id(conn, char.get("gender"))
                     species_id = self.get_or_create_species_id(conn, char.get("species"))
 
-                    # Get/create character
+                    # Get/create character (using origin_franchise)
                     character_id = self.get_or_create_character_id(
-                        conn, name, franchise, species_id, gender_id
+                        conn, name, origin_franchise, species_id, gender_id
                     )
 
                     # Get talent ID if voice actor provided
                     voice_actor_name = self.parse_voice_actor(char.get("voice_actor"))
                     talent_id = self.get_or_create_talent_id(conn, voice_actor_name)
 
-                    # Get media ID if film info provided
-                    media_id = self.get_media_id(
-                        conn,
-                        char.get("film_title"),
-                        char.get("film_year")
-                    )
+                    # Get media ID - support both old (film_title) and new (media_title) field names
+                    media_title = char.get("media_title") or char.get("film_title")
+                    media_year = char.get("media_year") or char.get("film_year")
+                    media_type = char.get("media_type")  # film, game, etc.
+
+                    media_id = self.get_media_id(conn, media_title, media_year, media_type)
 
                     # Create character appearance if we have a media link
                     if media_id:
@@ -314,7 +321,7 @@ class CharactersConsumer:
                             )
                             conn.commit()
 
-                    logger.debug(f"Loaded character: {name} ({franchise})")
+                    logger.debug(f"Loaded character: {name} ({origin_franchise})")
 
                 except Exception as e:
                     logger.error(f"Error processing character {char.get('name')}: {e}")

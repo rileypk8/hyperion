@@ -20,9 +20,15 @@ class CharactersProducer:
     """
     Extracts character data from JSON files and publishes to Kafka.
 
-    Handles various JSON structures including nested character categories
-    and film-specific character groups.
+    Handles various JSON structures including nested character categories,
+    film-specific character groups, and game character data.
     """
+
+    # Directories containing game data (use 'game' media type)
+    GAME_DIRS = {
+        "disney_interactive_characters",
+        "kingdom_hearts_characters",
+    }
 
     # Pattern to extract year from category names like "toy_story_1" or "ice_age_1_characters"
     YEAR_FROM_CATEGORY = {
@@ -147,7 +153,8 @@ class CharactersProducer:
         characters: list[dict],
         franchise: str,
         source_file: str,
-        default_film: tuple[str, int] | None = None,
+        default_media: tuple[str, int] | None = None,
+        media_type: str = "film",
     ) -> Iterator[dict]:
         """Extract character records from a list of character dicts."""
         for char in characters:
@@ -167,21 +174,26 @@ class CharactersProducer:
             voice_actor = char.get("voice_actor")
             notes = char.get("notes")
 
-            # Determine film association
-            film_title = None
-            film_year = None
-            if default_film:
-                film_title, film_year = default_film
+            # Use origin_franchise if specified (for crossover characters)
+            origin_franchise = char.get("origin_franchise", franchise)
+
+            # Determine media association
+            media_title = None
+            media_year = None
+            if default_media:
+                media_title, media_year = default_media
 
             yield {
                 "name": name,
                 "franchise": franchise,
+                "origin_franchise": origin_franchise,
                 "role": role,
                 "species": species,
                 "gender": gender,
                 "voice_actor": voice_actor,
-                "film_title": film_title,
-                "film_year": film_year,
+                "media_title": media_title,
+                "media_year": media_year,
+                "media_type": media_type,
                 "notes": notes,
                 "source_file": source_file,
             }
@@ -203,7 +215,13 @@ class CharactersProducer:
             return
 
         franchise = data.get("franchise", "Unknown")
-        films_list = data.get("films", [])
+
+        # Determine if this is game or film data
+        is_game_data = source_dir in self.GAME_DIRS or "games" in data
+        media_type = "game" if is_game_data else "film"
+
+        # Get media list (films or games)
+        media_list = data.get("games", []) if is_game_data else data.get("films", [])
 
         # Handle different JSON structures
 
@@ -213,25 +231,25 @@ class CharactersProducer:
                 if not isinstance(char_list, list):
                     continue
 
-                # Try to determine film for this category
-                film_info = self.extract_film_info_from_category(category, films_list)
+                # Try to determine media for this category
+                media_info = self.extract_film_info_from_category(category, media_list)
 
                 yield from self.extract_characters_from_list(
-                    char_list, franchise, source_file, film_info
+                    char_list, franchise, source_file, media_info, media_type
                 )
 
         # Structure 2: "characters" as flat list
         elif "characters" in data and isinstance(data["characters"], list):
-            # Use first film as default if only one
-            default_film = None
-            if len(films_list) == 1:
-                default_film = self.parse_film_string(films_list[0])
+            # Use first media as default if only one
+            default_media = None
+            if len(media_list) == 1:
+                default_media = self.parse_film_string(media_list[0])
 
             yield from self.extract_characters_from_list(
-                data["characters"], franchise, source_file, default_film
+                data["characters"], franchise, source_file, default_media, media_type
             )
 
-        # Structure 3: "categories" with nested character groups (Toy Story format)
+        # Structure 3: "categories" with nested character groups (Toy Story/Games format)
         elif "categories" in data:
             for category, cat_data in data["categories"].items():
                 if not isinstance(cat_data, dict):
@@ -243,17 +261,17 @@ class CharactersProducer:
 
                 # Check for year in category data
                 year = cat_data.get("year")
-                film_info = None
+                media_info = None
                 if year:
-                    # Find matching film title
-                    for film_str in films_list:
-                        parsed = self.parse_film_string(film_str)
+                    # Find matching media title
+                    for media_str in media_list:
+                        parsed = self.parse_film_string(media_str)
                         if parsed and parsed[1] == year:
-                            film_info = parsed
+                            media_info = parsed
                             break
 
                 yield from self.extract_characters_from_list(
-                    char_list, franchise, source_file, film_info
+                    char_list, franchise, source_file, media_info, media_type
                 )
 
     def scan_all_files(self) -> Iterator[dict]:
@@ -294,13 +312,22 @@ def main():
     if args.dry_run:
         print("=== DRY RUN - Characters to be produced ===\n")
         count = 0
+        film_count = 0
+        game_count = 0
         for char in producer.scan_all_files():
-            film_info = f" in {char['film_title']} ({char['film_year']})" if char['film_title'] else ""
-            print(f"{char['name']} ({char['franchise']}){film_info} - {char['role']} - {char['voice_actor']}")
+            media_info = ""
+            if char.get("media_title"):
+                media_info = f" in {char['media_title']} ({char['media_year']})"
+            type_tag = f"[{char['media_type']}]" if char.get("media_type") else ""
+            print(f"{type_tag} {char['name']} ({char['franchise']}){media_info} - {char['role']}")
             count += 1
+            if char.get("media_type") == "game":
+                game_count += 1
+            else:
+                film_count += 1
             if args.limit and count >= args.limit:
                 break
-        print(f"\nTotal: {count} characters")
+        print(f"\nTotal: {count} characters ({film_count} from films, {game_count} from games)")
     else:
         producer.produce()
 
