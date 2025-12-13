@@ -157,6 +157,70 @@ export const prolificActors = [
   { name: 'Dee Bradley Baker', characters: 8, films: 10, primaryStudio: 'Various' },
 ];
 
+// Studio loyalty - actors by primary studio
+export const studioLoyalty = [
+  { studio: 'Pixar', loyalActors: 8, exclusiveActors: 3, totalFilms: 28 },
+  { studio: 'WDAS', loyalActors: 12, exclusiveActors: 4, totalFilms: 62 },
+  { studio: 'DreamWorks', loyalActors: 6, exclusiveActors: 2, totalFilms: 45 },
+  { studio: 'Blue Sky', loyalActors: 4, exclusiveActors: 1, totalFilms: 13 },
+  { studio: 'Illumination', loyalActors: 5, exclusiveActors: 2, totalFilms: 14 },
+  { studio: 'Sony Animation', loyalActors: 3, exclusiveActors: 1, totalFilms: 12 },
+];
+
+// Female protagonists over time
+export const femaleProtagonists = [
+  { decade: '1930s', total: 3, female: 1, percentage: 33 },
+  { decade: '1940s', total: 5, female: 2, percentage: 40 },
+  { decade: '1950s', total: 4, female: 2, percentage: 50 },
+  { decade: '1960s', total: 3, female: 0, percentage: 0 },
+  { decade: '1970s', total: 4, female: 0, percentage: 0 },
+  { decade: '1980s', total: 5, female: 1, percentage: 20 },
+  { decade: '1990s', total: 12, female: 5, percentage: 42 },
+  { decade: '2000s', total: 18, female: 6, percentage: 33 },
+  { decade: '2010s', total: 25, female: 14, percentage: 56 },
+  { decade: '2020s', total: 12, female: 8, percentage: 67 },
+];
+
+// Villain gender breakdown
+export const villainGender = [
+  { category: 'Male Villains', count: 85, percentage: 75 },
+  { category: 'Female Villains', count: 22, percentage: 19 },
+  { category: 'Non-binary/Other', count: 7, percentage: 6 },
+];
+
+// Franchise longevity (years spanned)
+export const franchiseLongevity = [
+  { franchise: 'Mickey Mouse', startYear: 1928, endYear: 2023, span: 95 },
+  { franchise: 'Winnie the Pooh', startYear: 1966, endYear: 2023, span: 57 },
+  { franchise: 'Toy Story', startYear: 1995, endYear: 2019, span: 24 },
+  { franchise: 'Ice Age', startYear: 2002, endYear: 2016, span: 14 },
+  { franchise: 'Shrek', startYear: 2001, endYear: 2010, span: 9 },
+  { franchise: 'Cars', startYear: 2006, endYear: 2017, span: 11 },
+  { franchise: 'Frozen', startYear: 2013, endYear: 2019, span: 6 },
+  { franchise: 'Despicable Me', startYear: 2010, endYear: 2024, span: 14 },
+  { franchise: 'How to Train Dragon', startYear: 2010, endYear: 2019, span: 9 },
+  { franchise: 'Kung Fu Panda', startYear: 2008, endYear: 2024, span: 16 },
+];
+
+// Character density by studio (avg per film)
+export const characterDensity = [
+  { studio: 'Pixar', avgCharacters: 23, totalFilms: 28 },
+  { studio: 'WDAS', avgCharacters: 19, totalFilms: 62 },
+  { studio: 'DreamWorks', avgCharacters: 18, totalFilms: 45 },
+  { studio: 'Blue Sky', avgCharacters: 22, totalFilms: 13 },
+  { studio: 'Illumination', avgCharacters: 15, totalFilms: 14 },
+  { studio: 'Sony Animation', avgCharacters: 20, totalFilms: 12 },
+];
+
+// Role balance by studio
+export const roleBalance = [
+  { studio: 'Pixar', protagonists: 32, antagonists: 28, sidekicks: 45 },
+  { studio: 'WDAS', protagonists: 65, antagonists: 58, sidekicks: 72 },
+  { studio: 'DreamWorks', protagonists: 48, antagonists: 42, sidekicks: 55 },
+  { studio: 'Blue Sky', protagonists: 15, antagonists: 13, sidekicks: 18 },
+  { studio: 'Illumination', protagonists: 16, antagonists: 14, sidekicks: 20 },
+];
+
 // Top voice talents (mocked earnings until box office lands)
 export const topTalents: TalentStats[] = [
   { name: 'Tom Hanks', filmCount: 4, characterCount: 1, studios: ['Pixar'], estimatedEarnings: 3200000000 },
