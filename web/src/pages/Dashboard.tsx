@@ -16,7 +16,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown, sequelRetention } from '../data/mockData';
+import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown, sequelRetention, prolificActors } from '../data/mockData';
 
 import { Link } from 'react-router-dom';
 
@@ -206,6 +206,22 @@ export function Dashboard() {
                 ]}
               />
               <Bar dataKey="retention" fill="#82ca9d" name="Retention %" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Prolific voice actors */}
+        <div className="chart-card">
+          <h3>Most Prolific Voice Actors</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={prolificActors.slice(0, 8)} layout="vertical">
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis type="number" />
+              <YAxis dataKey="name" type="category" width={130} />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="characters" fill="#8884d8" name="Characters" />
+              <Bar dataKey="films" fill="#ffc658" name="Films" />
             </BarChart>
           </ResponsiveContainer>
         </div>
