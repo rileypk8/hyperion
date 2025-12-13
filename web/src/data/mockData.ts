@@ -98,6 +98,19 @@ export const mostAppearances = [
   { name: 'Elsa', appearances: 8, films: 2, games: 6, studio: 'WDAS' },
 ];
 
+// Species breakdown across all characters
+export const speciesBreakdown = [
+  { species: 'Human', count: 485, percentage: 32 },
+  { species: 'Animal', count: 380, percentage: 25 },
+  { species: 'Toy', count: 165, percentage: 11 },
+  { species: 'Monster', count: 120, percentage: 8 },
+  { species: 'Fish/Sea', count: 95, percentage: 6 },
+  { species: 'Fairy/Magical', count: 85, percentage: 6 },
+  { species: 'Robot/Machine', count: 75, percentage: 5 },
+  { species: 'Insect', count: 55, percentage: 4 },
+  { species: 'Other', count: 50, percentage: 3 },
+];
+
 // Cross-media stars (characters appearing in both films AND games)
 export const crossMediaStars = [
   { name: 'Mickey Mouse', films: 12, games: 16, origin: 'WDAS', khAppearances: 8 },
