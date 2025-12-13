@@ -55,6 +55,7 @@ a:hover {
   align-items: center;
   width: 75%;
   margin: 0 auto;
+  border: 2px solid red; /* DEBUG */
 }
 
 .header-left {
