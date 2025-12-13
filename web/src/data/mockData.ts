@@ -143,6 +143,20 @@ export const crossMediaStars = [
   { name: 'Cloud Strife', films: 0, games: 3, origin: 'Square Enix', khAppearances: 3 },
 ];
 
+// Prolific voice actors (most characters voiced)
+export const prolificActors = [
+  { name: 'John Ratzenberger', characters: 24, films: 24, primaryStudio: 'Pixar' },
+  { name: 'Frank Welker', characters: 18, films: 15, primaryStudio: 'Various' },
+  { name: 'Jim Cummings', characters: 16, films: 22, primaryStudio: 'WDAS' },
+  { name: 'Tress MacNeille', characters: 14, films: 12, primaryStudio: 'Various' },
+  { name: 'Rob Paulsen', characters: 12, films: 10, primaryStudio: 'Various' },
+  { name: 'Grey DeLisle', characters: 11, films: 9, primaryStudio: 'Various' },
+  { name: 'Tom Kenny', characters: 10, films: 8, primaryStudio: 'Various' },
+  { name: 'Maurice LaMarche', characters: 9, films: 11, primaryStudio: 'Various' },
+  { name: 'Carlos Alazraqui', characters: 8, films: 7, primaryStudio: 'Various' },
+  { name: 'Dee Bradley Baker', characters: 8, films: 10, primaryStudio: 'Various' },
+];
+
 // Top voice talents (mocked earnings until box office lands)
 export const topTalents: TalentStats[] = [
   { name: 'Tom Hanks', filmCount: 4, characterCount: 1, studios: ['Pixar'], estimatedEarnings: 3200000000 },
