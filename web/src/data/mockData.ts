@@ -98,6 +98,24 @@ export const mostAppearances = [
   { name: 'Elsa', appearances: 8, films: 2, games: 6, studio: 'WDAS' },
 ];
 
+// Cross-media stars (characters appearing in both films AND games)
+export const crossMediaStars = [
+  { name: 'Mickey Mouse', films: 12, games: 16, origin: 'WDAS', khAppearances: 8 },
+  { name: 'Donald Duck', films: 10, games: 12, origin: 'WDAS', khAppearances: 8 },
+  { name: 'Goofy', films: 9, games: 11, origin: 'WDAS', khAppearances: 8 },
+  { name: 'Jack Sparrow', films: 5, games: 5, origin: 'Live Action', khAppearances: 2 },
+  { name: 'Simba', films: 3, games: 6, origin: 'WDAS', khAppearances: 3 },
+  { name: 'Aladdin', films: 3, games: 8, origin: 'WDAS', khAppearances: 4 },
+  { name: 'Ariel', films: 2, games: 5, origin: 'WDAS', khAppearances: 2 },
+  { name: 'Hercules', films: 1, games: 4, origin: 'WDAS', khAppearances: 3 },
+  { name: 'Buzz Lightyear', films: 5, games: 7, origin: 'Pixar', khAppearances: 1 },
+  { name: 'Woody', films: 5, games: 7, origin: 'Pixar', khAppearances: 1 },
+  { name: 'Stitch', films: 4, games: 5, origin: 'WDAS', khAppearances: 2 },
+  { name: 'Peter Pan', films: 2, games: 4, origin: 'WDAS', khAppearances: 3 },
+  { name: 'Maleficent', films: 2, games: 5, origin: 'WDAS', khAppearances: 5 },
+  { name: 'Cloud Strife', films: 0, games: 3, origin: 'Square Enix', khAppearances: 3 },
+];
+
 // Top voice talents (mocked earnings until box office lands)
 export const topTalents: TalentStats[] = [
   { name: 'Tom Hanks', filmCount: 4, characterCount: 1, studios: ['Pixar'], estimatedEarnings: 3200000000 },
