@@ -99,7 +99,6 @@ export function LandingPage() {
           </div>
           <div className="hub-center-text">
             <h2>Walt Disney Studios</h2>
-            <p>Company-wide analytics</p>
           </div>
         </Link>
 
