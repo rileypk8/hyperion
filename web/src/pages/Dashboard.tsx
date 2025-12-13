@@ -10,7 +10,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { studios, genderByYear, genderByRole, topTalents } from '../data/mockData';
+import { studios, genderByYear, genderByRole, topTalents, mostAppearances } from '../data/mockData';
 import { Link } from 'react-router-dom';
 
 export function Dashboard() {
@@ -108,6 +108,22 @@ export function Dashboard() {
               <YAxis dataKey="name" type="category" width={120} />
               <Tooltip formatter={(v: number) => `$${(v / 1e9).toFixed(2)}B`} />
               <Bar dataKey="estimatedEarnings" fill="#82ca9d" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Most appearances across media */}
+        <div className="chart-card">
+          <h3>Most Appearances Across Media</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={mostAppearances.slice(0, 8)} layout="vertical">
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis type="number" />
+              <YAxis dataKey="name" type="category" width={100} />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="films" stackId="a" fill="#8884d8" name="Films" />
+              <Bar dataKey="games" stackId="a" fill="#82ca9d" name="Games" />
             </BarChart>
           </ResponsiveContainer>
         </div>

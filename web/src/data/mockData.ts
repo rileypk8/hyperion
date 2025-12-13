@@ -84,6 +84,20 @@ export const genderByRole: GenderByRole[] = [
   { role: 'minor', male: 200, female: 150, other: 30 },
 ];
 
+// Most appearances across media (films + games)
+export const mostAppearances = [
+  { name: 'Mickey Mouse', appearances: 28, films: 12, games: 16, studio: 'WDAS' },
+  { name: 'Donald Duck', appearances: 22, films: 10, games: 12, studio: 'WDAS' },
+  { name: 'Goofy', appearances: 20, films: 9, games: 11, studio: 'WDAS' },
+  { name: 'Sora', appearances: 14, films: 0, games: 14, studio: 'Interactive' },
+  { name: 'Woody', appearances: 12, films: 5, games: 7, studio: 'Pixar' },
+  { name: 'Buzz Lightyear', appearances: 12, films: 5, games: 7, studio: 'Pixar' },
+  { name: 'Jack Sparrow', appearances: 10, films: 5, games: 5, studio: 'WDAS' },
+  { name: 'Simba', appearances: 9, films: 3, games: 6, studio: 'WDAS' },
+  { name: 'Stitch', appearances: 9, films: 4, games: 5, studio: 'WDAS' },
+  { name: 'Elsa', appearances: 8, films: 2, games: 6, studio: 'WDAS' },
+];
+
 // Top voice talents (mocked earnings until box office lands)
 export const topTalents: TalentStats[] = [
   { name: 'Tom Hanks', filmCount: 4, characterCount: 1, studios: ['Pixar'], estimatedEarnings: 3200000000 },
