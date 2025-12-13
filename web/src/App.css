@@ -562,3 +562,20 @@ a:hover {
     text-align: center;
   }
 }
+
+/* Custom tooltip for charts */
+.custom-tooltip {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+}
+
+.custom-tooltip p {
+  margin: 0.25rem 0;
+}
+
+.custom-tooltip strong {
+  color: var(--accent);
+}
