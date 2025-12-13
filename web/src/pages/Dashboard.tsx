@@ -16,7 +16,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown, sequelRetention, prolificActors } from '../data/mockData';
+import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown, sequelRetention, prolificActors, studioLoyalty, femaleProtagonists, villainGender, franchiseLongevity, characterDensity, roleBalance } from '../data/mockData';
 
 import { Link } from 'react-router-dom';
 
@@ -222,6 +222,104 @@ export function Dashboard() {
               <Legend />
               <Bar dataKey="characters" fill="#8884d8" name="Characters" />
               <Bar dataKey="films" fill="#ffc658" name="Films" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Studio loyalty */}
+        <div className="chart-card">
+          <h3>Voice Actor Studio Loyalty</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={studioLoyalty}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis dataKey="studio" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="loyalActors" fill="#8884d8" name="Loyal Actors" />
+              <Bar dataKey="exclusiveActors" fill="#ff7c43" name="Exclusive Actors" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Female protagonists over time */}
+        <div className="chart-card">
+          <h3>Female Protagonists Over Time</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <LineChart data={femaleProtagonists}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis dataKey="decade" />
+              <YAxis domain={[0, 100]} unit="%" />
+              <Tooltip formatter={(value: number) => `${value}%`} />
+              <Line type="monotone" dataKey="percentage" stroke="#FF6B9D" strokeWidth={2} name="Female %" />
+            </LineChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Villain gender gap */}
+        <div className="chart-card">
+          <h3>Villain Gender Distribution</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <PieChart>
+              <Pie
+                data={villainGender}
+                dataKey="count"
+                nameKey="category"
+                cx="50%"
+                cy="50%"
+                outerRadius={100}
+                label={({ name, percent }) => `${name} ${((percent ?? 0) * 100).toFixed(0)}%`}
+              >
+                <Cell fill="#0088FE" />
+                <Cell fill="#FF6B9D" />
+                <Cell fill="#00C49F" />
+              </Pie>
+              <Tooltip />
+            </PieChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Franchise longevity */}
+        <div className="chart-card">
+          <h3>Franchise Longevity (Years Active)</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={franchiseLongevity.slice(0, 8)} layout="vertical">
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis type="number" unit=" yrs" />
+              <YAxis dataKey="franchise" type="category" width={120} />
+              <Tooltip formatter={(value: number) => `${value} years`} />
+              <Bar dataKey="span" fill="#82ca9d" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Character density by studio */}
+        <div className="chart-card">
+          <h3>Avg Characters Per Film by Studio</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={characterDensity}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis dataKey="studio" />
+              <YAxis />
+              <Tooltip />
+              <Bar dataKey="avgCharacters" fill="#8884d8" name="Avg Characters" />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Role balance by studio */}
+        <div className="chart-card">
+          <h3>Role Balance by Studio</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={roleBalance}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis dataKey="studio" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Bar dataKey="protagonists" fill="#82ca9d" name="Protagonists" />
+              <Bar dataKey="antagonists" fill="#ff7c43" name="Antagonists" />
+              <Bar dataKey="sidekicks" fill="#8884d8" name="Sidekicks" />
             </BarChart>
           </ResponsiveContainer>
         </div>
