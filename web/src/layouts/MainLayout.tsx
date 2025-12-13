@@ -10,38 +10,40 @@ export function MainLayout() {
   return (
     <div className="app-layout">
       <header className="app-header">
-        <div className="header-left">
-          <Link to="/" className="logo">
-            <span className="logo-icon">H</span>
-            <span className="logo-text">Hyperion</span>
-          </Link>
-          <nav className="main-nav">
-            <Link to="/" className={isActive('/') ? 'active' : ''}>
-              Hub
+        <div className="header-inner">
+          <div className="header-left">
+            <Link to="/" className="logo">
+              <span className="logo-icon">H</span>
+              <span className="logo-text">Hyperion</span>
             </Link>
-            <Link to="/dashboard" className={isActive('/dashboard') || location.pathname.startsWith('/hub') ? 'active' : ''}>
-              Analytics
-            </Link>
-            <Link to="/studios" className={location.pathname.startsWith('/studio') ? 'active' : ''}>
-              Studios
-            </Link>
-            <Link to="/films" className={location.pathname.startsWith('/film') ? 'active' : ''}>
-              Films
-            </Link>
-            <Link to="/characters" className={location.pathname.startsWith('/character') ? 'active' : ''}>
-              Characters
-            </Link>
-          </nav>
-        </div>
-        <div className="header-right">
-          {user && (
-            <div className="user-menu">
-              <span className="user-name">{user.name}</span>
-              <button onClick={logout} className="logout-btn">
-                Logout
-              </button>
-            </div>
-          )}
+            <nav className="main-nav">
+              <Link to="/" className={isActive('/') ? 'active' : ''}>
+                Hub
+              </Link>
+              <Link to="/dashboard" className={isActive('/dashboard') || location.pathname.startsWith('/hub') ? 'active' : ''}>
+                Analytics
+              </Link>
+              <Link to="/studios" className={location.pathname.startsWith('/studio') ? 'active' : ''}>
+                Studios
+              </Link>
+              <Link to="/films" className={location.pathname.startsWith('/film') ? 'active' : ''}>
+                Films
+              </Link>
+              <Link to="/characters" className={location.pathname.startsWith('/character') ? 'active' : ''}>
+                Characters
+              </Link>
+            </nav>
+          </div>
+          <div className="header-right">
+            {user && (
+              <div className="user-menu">
+                <span className="user-name">{user.name}</span>
+                <button onClick={logout} className="logout-btn">
+                  Logout
+                </button>
+              </div>
+            )}
+          </div>
         </div>
       </header>
       <main className="app-main">
