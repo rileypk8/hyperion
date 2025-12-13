@@ -5,6 +5,9 @@ import {
   Line,
   ScatterChart,
   Scatter,
+  PieChart,
+  Pie,
+  Cell,
   XAxis,
   YAxis,
   ZAxis,
@@ -13,8 +16,11 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars } from '../data/mockData';
+import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown } from '../data/mockData';
+
 import { Link } from 'react-router-dom';
+
+const SPECIES_COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7c43', '#00C49F', '#FFBB28', '#FF8042', '#0088FE', '#aaa'];
 
 export function Dashboard() {
   // Calculate totals
@@ -159,6 +165,29 @@ export function Dashboard() {
               />
               <Scatter name="Characters" data={crossMediaStars} fill="#8884d8" />
             </ScatterChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Species breakdown pie chart */}
+        <div className="chart-card">
+          <h3>Character Species Breakdown</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <PieChart>
+              <Pie
+                data={speciesBreakdown}
+                dataKey="count"
+                nameKey="species"
+                cx="50%"
+                cy="50%"
+                outerRadius={100}
+                label={({ name, percent }) => `${name} ${((percent ?? 0) * 100).toFixed(0)}%`}
+              >
+                {speciesBreakdown.map((_, index) => (
+                  <Cell key={`cell-${index}`} fill={SPECIES_COLORS[index % SPECIES_COLORS.length]} />
+                ))}
+              </Pie>
+              <Tooltip formatter={(value: number) => `${value} characters`} />
+            </PieChart>
           </ResponsiveContainer>
         </div>
       </div>
