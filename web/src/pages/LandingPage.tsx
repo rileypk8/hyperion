@@ -5,8 +5,6 @@ interface StudioNode {
   name: string;
   shortName: string;
   color: string;
-  position: { top: string; left: string };
-  description: string;
 }
 
 const studioNodes: StudioNode[] = [
@@ -15,66 +13,62 @@ const studioNodes: StudioNode[] = [
     name: 'Walt Disney Animation Studios',
     shortName: 'WDAS',
     color: '#1e90ff',
-    position: { top: '10%', left: '50%' },
-    description: 'Classic & modern animated features',
   },
   {
     id: 'pixar',
     name: 'Pixar Animation Studios',
     shortName: 'Pixar',
     color: '#ff6b35',
-    position: { top: '25%', left: '85%' },
-    description: 'Computer animation pioneers',
   },
   {
     id: 'kingdom-hearts',
     name: 'Kingdom Hearts',
     shortName: 'KH',
     color: '#9b59b6',
-    position: { top: '60%', left: '90%' },
-    description: 'Disney × Final Fantasy crossover',
   },
   {
     id: 'marvel',
     name: 'Marvel Animation',
     shortName: 'Marvel',
     color: '#e63946',
-    position: { top: '85%', left: '70%' },
-    description: 'Animated superhero series',
   },
   {
     id: 'records',
     name: 'Walt Disney Records',
     shortName: 'Records',
     color: '#f4a261',
-    position: { top: '85%', left: '30%' },
-    description: 'Soundtracks & music',
   },
   {
     id: 'blue-sky',
     name: 'Blue Sky Studios',
     shortName: 'Blue Sky',
     color: '#00b4d8',
-    position: { top: '60%', left: '10%' },
-    description: 'Ice Age & more (2017-2021)',
   },
   {
     id: 'disneytoon',
     name: 'DisneyToon Studios',
     shortName: 'DisneyToon',
     color: '#2a9d8f',
-    position: { top: '25%', left: '15%' },
-    description: 'Direct-to-video sequels',
   },
   {
     id: 'interactive',
     name: 'Disney Interactive',
     shortName: 'Interactive',
     color: '#e76f51',
-    position: { top: '10%', left: '25%' },
-    description: 'Video games & digital',
   },
 ];
+
+// Calculate evenly spaced positions around a circle
+function getNodePosition(index: number, total: number, radius: number = 38) {
+  const angleStep = (2 * Math.PI) / total;
+  const startAngle = -Math.PI / 2; // Start from top
+  const angle = startAngle + index * angleStep;
+
+  const x = 50 + radius * Math.cos(angle);
+  const y = 50 + radius * Math.sin(angle);
+
+  return { top: `${y}%`, left: `${x}%` };
+}
 
 export function LandingPage() {
   return (
@@ -111,41 +105,44 @@ export function LandingPage() {
 
         {/* Connecting lines */}
         <svg className="hub-lines" viewBox="0 0 100 100" preserveAspectRatio="none">
-          {studioNodes.map((node) => (
-            <line
-              key={node.id}
-              x1="50%"
-              y1="50%"
-              x2={node.position.left}
-              y2={node.position.top}
-              stroke="var(--border)"
-              strokeWidth="0.5"
-              strokeDasharray="2,2"
-            />
-          ))}
+          {studioNodes.map((node, index) => {
+            const pos = getNodePosition(index, studioNodes.length);
+            return (
+              <line
+                key={node.id}
+                x1="50%"
+                y1="50%"
+                x2={pos.left}
+                y2={pos.top}
+                stroke="var(--border)"
+                strokeWidth="0.5"
+                strokeDasharray="2,2"
+              />
+            );
+          })}
         </svg>
 
         {/* Studio nodes */}
-        {studioNodes.map((node) => (
-          <Link
-            key={node.id}
-            to={`/hub/${node.id}`}
-            className="studio-node"
-            style={{
-              top: node.position.top,
-              left: node.position.left,
-              '--node-color': node.color,
-            } as React.CSSProperties}
-          >
-            <div className="node-icon" style={{ background: node.color }}>
-              {node.shortName.slice(0, 2)}
-            </div>
-            <div className="node-label">
+        {studioNodes.map((node, index) => {
+          const pos = getNodePosition(index, studioNodes.length);
+          return (
+            <Link
+              key={node.id}
+              to={`/hub/${node.id}`}
+              className="studio-node"
+              style={{
+                top: pos.top,
+                left: pos.left,
+                '--node-color': node.color,
+              } as React.CSSProperties}
+            >
+              <div className="node-icon" style={{ background: node.color }}>
+                {node.shortName.slice(0, 2)}
+              </div>
               <span className="node-name">{node.shortName}</span>
-              <span className="node-desc">{node.description}</span>
-            </div>
-          </Link>
-        ))}
+            </Link>
+          );
+        })}
       </div>
 
       <div className="landing-footer">
