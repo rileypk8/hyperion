@@ -12,15 +12,15 @@
 
 ## Required Stack
 
-| Layer | Technology | Status |
-|-------|------------|--------|
-| Database | PostgreSQL (normalized) | Not started |
-| ETL | Kafka | Not started |
-| Storage | AWS S3 | Not started |
-| Compute | Spark | Not started |
-| Query | Hive | Not started |
-| Cloud | AWS (IAM, access controls) | Not started |
-| Web | React + Node (auth stubbed) | Not started |
+| Layer | Technology | Status | Branch |
+|-------|------------|--------|--------|
+| Database | PostgreSQL (normalized) | ✅ Schema complete | `main` |
+| ETL | Kafka | ✅ Pipeline complete | `claude/etl-work-planning-*` |
+| Storage | AWS S3 | ✅ Terraform ready | `claude/hyperion-infra-planning-*` |
+| Compute | Spark | Not started | — |
+| Query | Hive | Not started | — |
+| Cloud | AWS (IAM, access controls) | ✅ Terraform ready | `claude/hyperion-infra-planning-*` |
+| Web | React + Node (auth stubbed) | ✅ UI complete | `claude/review-ui-chat-docs-*` |
 
 ---
 
@@ -30,13 +30,13 @@
 |-------|--------|
 | Film catalog (188 films, 8 studios) | ✅ Complete |
 | Character schema | ✅ Complete |
-| Character files (Pixar, WDAS, Blue Sky, DisneyToon, KH, Marvel) | ✅ Complete |
+| Character files (Pixar, WDAS, Blue Sky, DisneyToon, KH, Marvel, Disney Interactive) | ✅ Complete (158 JSON files) |
 | Box office faker (disaggregation provider) | ✅ Complete |
 | Box office time-series data | Not generated yet |
-| Game catalog (Kingdom Hearts series) | ✅ Complete (in KH character file) |
+| Game catalog (Kingdom Hearts + Disney Interactive) | ✅ Complete |
 | Game sales faker | Not started |
-| Soundtrack/song data | Not started |
-| Awards data | Not started |
+| Soundtrack/song data | ✅ Complete (`wdas_soundtracks_complete.json`) |
+| Awards data | ✅ Complete (in soundtrack data + ETL branch) |
 
 ---
 
@@ -115,31 +115,37 @@ Fully normalized with media parent table pattern. Target tables:
 
 ---
 
-## Phase 1: Data Model (BLOCKING)
+## Phase 1: Data Model ✅ COMPLETE
 
 - [ ] ER diagram
-- [ ] PostgreSQL DDL
+- [x] PostgreSQL DDL (`docs/hyperion_schema.sql`)
 - [ ] Seed data generation scripts
   - [ ] JSON → studios, films, franchises
   - [ ] Character files → characters, talent, joins
   - [ ] Box office faker → box_office_daily
 
-## Phase 2: AWS Infrastructure (after schema)
+> **Note:** DDL complete with 22 tables, views, and indexes. Enhanced species normalization available in `claude/summarize-species-distribution-*` branch.
 
-- [ ] S3 buckets: `hyperion-raw`, `hyperion-staging`, `hyperion-processed`
-- [ ] RDS PostgreSQL instance (or EC2 + self-hosted)
-- [ ] IAM roles: ETL runner, Spark runner, web app
-- [ ] Terraform templates (optional but recommended)
+## Phase 2: AWS Infrastructure ✅ COMPLETE (unmerged)
 
-## Phase 3: ETL Pipeline (after schema)
+- [x] S3 buckets: `hyperion-raw`, `hyperion-staging`, `hyperion-processed`
+- [x] RDS PostgreSQL instance
+- [x] IAM roles: ETL runner, Spark runner, web app
+- [x] Terraform templates
 
-- [ ] Kafka setup (local Docker or MSK)
-- [ ] Topics: `raw-films`, `raw-characters`, `raw-boxoffice`
-- [ ] Producers: read source files → Kafka
-- [ ] Consumers: Kafka → staging → normalized tables
-- [ ] Validation / deduplication logic
+> **Branch:** `claude/hyperion-infra-planning-*` — 9 files, 1,121 lines (VPC, S3, RDS, IAM modules)
 
-## Phase 4: Analytics (after infra + ETL)
+## Phase 3: ETL Pipeline ✅ COMPLETE (unmerged)
+
+- [x] Kafka setup (Docker Compose)
+- [x] Topics: films, characters, games, soundtracks, awards, boxoffice
+- [x] Producers: read source files → Kafka
+- [x] Consumers: Kafka → staging → normalized tables
+- [x] Validation / deduplication logic
+
+> **Branch:** `claude/etl-work-planning-*` — 26 files, 4,384 lines (full pipeline with orchestration)
+
+## Phase 4: Analytics ❌ NOT STARTED
 
 - [ ] Hive external tables over S3
 - [ ] Spark jobs:
@@ -148,24 +154,35 @@ Fully normalized with media parent table pattern. Target tables:
   - [ ] Voice actor filmography stats
 - [ ] Materialized views or summary tables
 
-## Phase 5: Web UI (after schema, can stub data)
+> **Blocked on:** Merging infra + ETL branches, deploying to AWS
 
-- [ ] React scaffold (Vite or CRA)
-- [ ] Stubbed auth (hardcoded user, no OAuth)
-- [ ] Routes:
-  - [ ] `/` — aggregate dashboard
-  - [ ] `/studio/:id` — per-subsidiary view
-  - [ ] `/film/:id` — film detail
-  - [ ] `/character/:id` — character detail
-- [ ] Charts: revenue over time, character counts, etc.
+## Phase 5: Web UI ✅ COMPLETE (unmerged)
+
+- [x] React scaffold (Vite + TypeScript)
+- [x] Stubbed auth (AuthContext)
+- [x] Routes:
+  - [x] `/` — aggregate dashboard with 6+ visualizations
+  - [x] `/studio/:id` — per-subsidiary view (hub pages for WDAS, KH, generic)
+  - [x] `/film/:id` — film detail
+  - [x] `/character/:id` — character detail
+- [x] Charts: voice actors, species breakdown, cross-media appearances, etc.
+
+> **Branch:** `claude/review-ui-chat-docs-*` — 33 files, 7,538 lines
 
 ---
 
 ## Immediate Next Steps
 
-1. **This chat:** Nail down ER diagram + DDL (Phase 1)
-2. **Spin up Chat 2:** AWS infra (once schema exists)
-3. **Spin up Chat 3:** Kafka + seed scripts (once schema exists)
-4. **Spin up Chat 4:** React scaffold + routing (can start now with mock data)
+1. **Merge completed branches to main:**
+   - `claude/hyperion-infra-planning-*` (Terraform)
+   - `claude/etl-work-planning-*` (Kafka ETL)
+   - `claude/review-ui-chat-docs-*` (React UI)
+   - `claude/summarize-species-distribution-*` (Schema enhancements)
 
-Ready to start on the ER diagram?
+2. **Deploy infrastructure:** Run Terraform to provision AWS resources
+
+3. **Generate seed data:** Run ETL pipeline to populate PostgreSQL
+
+4. **Phase 4 implementation:** Spark + Hive analytics layer
+
+5. **Integration testing:** Connect UI to live database
