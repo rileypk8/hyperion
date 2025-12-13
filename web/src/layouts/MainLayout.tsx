@@ -17,7 +17,10 @@ export function MainLayout() {
           </Link>
           <nav className="main-nav">
             <Link to="/" className={isActive('/') ? 'active' : ''}>
-              Dashboard
+              Hub
+            </Link>
+            <Link to="/dashboard" className={isActive('/dashboard') || location.pathname.startsWith('/hub') ? 'active' : ''}>
+              Analytics
             </Link>
             <Link to="/studios" className={location.pathname.startsWith('/studio') ? 'active' : ''}>
               Studios
