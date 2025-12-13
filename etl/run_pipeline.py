@@ -2,44 +2,32 @@
 """
 Hyperion ETL Pipeline Orchestrator
 
-Runs the complete ETL pipeline:
-1. Produce film records to Kafka
-2. Produce character records to Kafka
-3. Produce box office data to Kafka
-4. Consume films -> PostgreSQL
-5. Consume characters -> PostgreSQL
-6. Consume box office -> PostgreSQL
+Hybrid approach:
+- Batch loaders for reference data (direct Python -> PostgreSQL)
+- Kafka streaming for revenue data (real-time updates)
 
 Usage:
-    # Run everything
-    python run_pipeline.py
+    # Load all reference data (batch mode)
+    python run_pipeline.py --batch
 
-    # Run only producers
-    python run_pipeline.py --producers-only
+    # Start revenue streaming (requires Kafka)
+    python run_pipeline.py --stream
 
-    # Run only consumers
-    python run_pipeline.py --consumers-only
+    # Full pipeline: batch first, then stream
+    python run_pipeline.py --full
 
-    # Dry run (show what would be produced)
+    # Dry run to see what would be loaded
     python run_pipeline.py --dry-run
 """
 
 import argparse
 import logging
+import subprocess
 import sys
 import time
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Add parent to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
-
-from producers.films_producer import FilmsProducer
-from producers.characters_producer import CharactersProducer
-from producers.boxoffice_producer import BoxOfficeProducer
-from consumers.films_consumer import FilmsConsumer
-from consumers.characters_consumer import CharactersConsumer
-from consumers.boxoffice_consumer import BoxOfficeConsumer
 
 logging.basicConfig(
     level=logging.INFO,
@@ -48,124 +36,163 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def run_producers(data_dir: str = None, skip_boxoffice: bool = False, limit_films: int = None):
-    """Run all producers to publish data to Kafka."""
+def run_batch_loaders(data_dir: str = None, dry_run: bool = False, skip: list[str] = None):
+    """
+    Run batch loaders for all reference data.
+
+    Order: films -> games -> characters -> soundtracks -> awards
+    """
     logger.info("=" * 60)
-    logger.info("PHASE 1: Running Producers")
+    logger.info("BATCH LOADING REFERENCE DATA")
     logger.info("=" * 60)
 
+    from batch.load_films import FilmsLoader
+    from batch.load_games import GamesLoader
+    from batch.load_characters import CharactersLoader
+    from batch.load_soundtracks import SoundtracksLoader
+    from batch.load_awards import AwardsLoader
+
+    skip = skip or []
     results = {}
 
-    # Films producer
-    logger.info("\n--- Films Producer ---")
-    films_producer = FilmsProducer(data_dir=data_dir)
-    results["films"] = films_producer.produce()
-    logger.info(f"Films produced: {results['films']}")
+    loaders = [
+        ("films", FilmsLoader),
+        ("games", GamesLoader),
+        ("characters", CharactersLoader),
+        ("soundtracks", SoundtracksLoader),
+        ("awards", AwardsLoader),
+    ]
 
-    # Characters producer
-    logger.info("\n--- Characters Producer ---")
-    chars_producer = CharactersProducer(data_dir=data_dir)
-    results["characters"] = chars_producer.produce()
-    logger.info(f"Characters produced: {results['characters']}")
+    for name, LoaderClass in loaders:
+        if name in skip:
+            logger.info(f"Skipping {name}...")
+            continue
 
-    # Box office producer (optional, generates lots of data)
-    if not skip_boxoffice:
-        logger.info("\n--- Box Office Producer ---")
-        bo_producer = BoxOfficeProducer()
-        bo_producer.load_films_from_producer(data_dir=data_dir)
-        results["boxoffice"] = bo_producer.produce(limit_films=limit_films)
-        logger.info(f"Box office records produced: {results['boxoffice']}")
-    else:
-        logger.info("\n--- Skipping Box Office Producer ---")
-        results["boxoffice"] = 0
+        logger.info(f"\n--- Loading {name} ---")
+        try:
+            loader = LoaderClass(data_dir=data_dir)
+            count = loader.load(dry_run=dry_run)
+            results[name] = count
+        except Exception as e:
+            logger.error(f"Failed to load {name}: {e}")
+            results[name] = f"ERROR: {e}"
 
     return results
 
 
-def run_consumers(skip_boxoffice: bool = False):
-    """Run all consumers to load data from Kafka to PostgreSQL."""
+def check_kafka_available() -> bool:
+    """Check if Kafka is reachable."""
+    try:
+        from confluent_kafka import Producer
+        from shared.config import settings
+
+        p = Producer({"bootstrap.servers": settings.kafka_bootstrap_servers})
+        # Try to get metadata - this will fail if Kafka isn't running
+        p.list_topics(timeout=5)
+        return True
+    except Exception as e:
+        logger.warning(f"Kafka not available: {e}")
+        return False
+
+
+def start_streaming(continuous: bool = False):
+    """
+    Start revenue streaming (producer and consumer).
+
+    Requires Kafka to be running.
+    """
     logger.info("=" * 60)
-    logger.info("PHASE 2: Running Consumers")
+    logger.info("STARTING REVENUE STREAMING")
     logger.info("=" * 60)
 
-    results = {}
+    if not check_kafka_available():
+        logger.error("Kafka is not available. Start it with:")
+        logger.error("  cd etl/streaming && docker-compose up -d")
+        return False
 
-    # Films consumer (must run first - other consumers depend on films existing)
-    logger.info("\n--- Films Consumer ---")
-    films_consumer = FilmsConsumer()
-    results["films"] = films_consumer.consume()
-    logger.info(f"Films consumed: {results['films']}")
+    from streaming.revenue_producer import RevenueProducer
+    from streaming.revenue_consumer import RevenueConsumer
 
-    # Wait a bit for commits to propagate
-    time.sleep(1)
+    # Load films for producer
+    producer = RevenueProducer()
+    producer.load_active_films()
 
-    # Characters consumer
-    logger.info("\n--- Characters Consumer ---")
-    chars_consumer = CharactersConsumer()
-    results["characters"] = chars_consumer.consume()
-    logger.info(f"Characters consumed: {results['characters']}")
+    if not producer.films:
+        logger.error("No films found in database. Run batch loaders first.")
+        return False
 
-    # Box office consumer
-    if not skip_boxoffice:
-        logger.info("\n--- Box Office Consumer ---")
-        bo_consumer = BoxOfficeConsumer()
-        results["boxoffice"] = bo_consumer.consume()
-        logger.info(f"Box office records consumed: {results['boxoffice']}")
+    if continuous:
+        # In continuous mode, run producer and consumer in separate threads
+        import threading
+
+        consumer = RevenueConsumer()
+
+        consumer_thread = threading.Thread(
+            target=consumer.consume,
+            daemon=True
+        )
+        consumer_thread.start()
+
+        # Give consumer time to start
+        time.sleep(2)
+
+        try:
+            producer.run_continuous(interval_seconds=30)
+        except KeyboardInterrupt:
+            logger.info("Stopping streaming...")
+            consumer.stop()
     else:
-        logger.info("\n--- Skipping Box Office Consumer ---")
-        results["boxoffice"] = 0
+        # Single batch mode
+        producer.produce_batch()
 
-    return results
+        # Consume what was produced
+        consumer = RevenueConsumer()
+        consumer.consume(max_messages=len(producer.films) * len(producer.STATE_WEIGHTS))
+
+    return True
 
 
-def dry_run(data_dir: str = None, limit_films: int = 5):
-    """Show what would be produced without actually producing."""
-    logger.info("=" * 60)
-    logger.info("DRY RUN - Showing sample data")
-    logger.info("=" * 60)
+def print_usage():
+    """Print quick usage guide."""
+    print("""
+Hyperion ETL Pipeline
+=====================
 
-    # Films
-    print("\n--- Sample Films ---")
-    films_producer = FilmsProducer(data_dir=data_dir)
-    count = 0
-    for film in films_producer.scan_all_files():
-        if film["studio"]:
-            print(f"  {film['title']} ({film['year']}) - {film['studio']} - {film['franchise']}")
-            count += 1
-            if count >= 10:
-                break
-    print(f"  ... and more (total: {sum(1 for f in films_producer.scan_all_files() if f['studio'])})")
+Quick Start:
+  1. Start PostgreSQL and run schema:
+     psql -f docs/hyperion_schema.sql
 
-    # Characters
-    print("\n--- Sample Characters ---")
-    chars_producer = CharactersProducer(data_dir=data_dir)
-    count = 0
-    for char in chars_producer.scan_all_files():
-        print(f"  {char['name']} ({char['franchise']}) - {char['role']}")
-        count += 1
-        if count >= 10:
-            break
-    print(f"  ... and more")
+  2. Load reference data (no Kafka needed):
+     python run_pipeline.py --batch
 
-    # Box office estimate
-    print("\n--- Box Office Estimate ---")
-    bo_producer = BoxOfficeProducer()
-    bo_producer.load_films_from_producer(data_dir=data_dir)
-    films = bo_producer.films_data[:limit_films]
-    total = 0
-    for film in films:
-        count = sum(1 for _ in bo_producer.generate_for_film(film))
-        total += count
-        print(f"  {film['title']} ({film['year']}): ~{count:,} records")
-    print(f"\n  Estimated total for {limit_films} films: ~{total:,} records")
-    print(f"  Full estimate for all films: ~{total * len(bo_producer.films_data) // limit_films:,} records")
+  3. (Optional) Start Kafka for streaming:
+     cd streaming && docker-compose up -d
+
+  4. (Optional) Start revenue streaming:
+     python run_pipeline.py --stream
+
+Directory Structure:
+  batch/          Direct Python loaders (no Kafka)
+  streaming/      Kafka-based revenue streaming
+  shared/         Common utilities
+
+Environment Variables:
+  POSTGRES_HOST, POSTGRES_PORT, POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB
+  KAFKA_BOOTSTRAP_SERVERS (only for streaming)
+""")
 
 
 def main():
     parser = argparse.ArgumentParser(
         description="Hyperion ETL Pipeline Orchestrator",
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog=__doc__
+        epilog="""
+Examples:
+  python run_pipeline.py --batch              # Load all reference data
+  python run_pipeline.py --batch --dry-run    # Preview what would be loaded
+  python run_pipeline.py --stream             # Start revenue streaming
+  python run_pipeline.py --full               # Batch + streaming
+        """
     )
     parser.add_argument(
         "--data-dir",
@@ -173,56 +200,73 @@ def main():
         help="Path to data directory (default: ../data)"
     )
     parser.add_argument(
-        "--producers-only",
+        "--batch",
         action="store_true",
-        help="Only run producers (publish to Kafka)"
+        help="Run batch loaders for reference data"
     )
     parser.add_argument(
-        "--consumers-only",
+        "--stream",
         action="store_true",
-        help="Only run consumers (load from Kafka to PostgreSQL)"
+        help="Start revenue streaming (requires Kafka)"
     )
     parser.add_argument(
-        "--skip-boxoffice",
+        "--full",
         action="store_true",
-        help="Skip box office data (reduces data volume significantly)"
+        help="Run batch loaders then start streaming"
     )
     parser.add_argument(
-        "--limit-films",
-        type=int,
-        help="Limit number of films for box office generation"
+        "--continuous",
+        action="store_true",
+        help="Run streaming continuously"
     )
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Show what would be produced without producing"
+        help="Show what would be loaded without loading"
+    )
+    parser.add_argument(
+        "--skip",
+        action="append",
+        default=[],
+        choices=["films", "games", "characters", "soundtracks", "awards"],
+        help="Skip specific batch loaders"
+    )
+    parser.add_argument(
+        "--help-usage",
+        action="store_true",
+        help="Show detailed usage guide"
     )
 
     args = parser.parse_args()
 
-    if args.dry_run:
-        dry_run(data_dir=args.data_dir, limit_films=args.limit_films or 5)
+    if args.help_usage:
+        print_usage()
+        return
+
+    if not any([args.batch, args.stream, args.full]):
+        parser.print_help()
+        print("\nRun with --batch, --stream, or --full to start the pipeline.")
         return
 
     start_time = time.time()
+    batch_results = {}
 
-    producer_results = {}
-    consumer_results = {}
-
-    if not args.consumers_only:
-        producer_results = run_producers(
+    # Run batch loaders
+    if args.batch or args.full:
+        batch_results = run_batch_loaders(
             data_dir=args.data_dir,
-            skip_boxoffice=args.skip_boxoffice,
-            limit_films=args.limit_films
+            dry_run=args.dry_run,
+            skip=args.skip
         )
 
-    if not args.producers_only:
-        # Give Kafka a moment to stabilize
-        if not args.consumers_only:
-            logger.info("\nWaiting for Kafka to stabilize...")
-            time.sleep(3)
-
-        consumer_results = run_consumers(skip_boxoffice=args.skip_boxoffice)
+    # Run streaming
+    if args.stream or args.full:
+        if not args.dry_run:
+            time.sleep(2)  # Brief pause between batch and stream
+            start_streaming(continuous=args.continuous)
+        else:
+            logger.info("\n--- Streaming (dry-run) ---")
+            logger.info("Would start revenue producer and consumer")
 
     elapsed = time.time() - start_time
 
@@ -231,17 +275,14 @@ def main():
     logger.info("PIPELINE COMPLETE")
     logger.info("=" * 60)
 
-    if producer_results:
-        logger.info("\nProducer Results:")
-        for key, val in producer_results.items():
-            logger.info(f"  {key}: {val:,} records")
+    if batch_results:
+        logger.info("\nBatch Results:")
+        for key, val in batch_results.items():
+            status = f"{val} records" if isinstance(val, int) else val
+            logger.info(f"  {key}: {status}")
 
-    if consumer_results:
-        logger.info("\nConsumer Results:")
-        for key, val in consumer_results.items():
-            logger.info(f"  {key}: {val:,} records")
-
-    logger.info(f"\nTotal time: {elapsed:.2f} seconds")
+    logger.info(f"\nTotal time: {elapsed:.1f}s")
+    logger.info(f"Mode: {'DRY RUN' if args.dry_run else 'LIVE'}")
 
 
 if __name__ == "__main__":
