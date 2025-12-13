@@ -16,7 +16,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown } from '../data/mockData';
+import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown, sequelRetention } from '../data/mockData';
 
 import { Link } from 'react-router-dom';
 
@@ -188,6 +188,25 @@ export function Dashboard() {
               </Pie>
               <Tooltip formatter={(value: number) => `${value} characters`} />
             </PieChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Sequel character retention */}
+        <div className="chart-card">
+          <h3>Sequel Character Retention by Franchise</h3>
+          <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={sequelRetention} layout="vertical">
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis type="number" domain={[0, 100]} unit="%" />
+              <YAxis dataKey="franchise" type="category" width={100} />
+              <Tooltip
+                formatter={(value: number, name: string) => [
+                  name === 'retention' ? `${value}%` : value,
+                  name === 'retention' ? 'Retention Rate' : name,
+                ]}
+              />
+              <Bar dataKey="retention" fill="#82ca9d" name="Retention %" />
+            </BarChart>
           </ResponsiveContainer>
         </div>
       </div>

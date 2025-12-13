@@ -111,6 +111,20 @@ export const speciesBreakdown = [
   { species: 'Other', count: 50, percentage: 3 },
 ];
 
+// Sequel character retention rates by franchise
+export const sequelRetention = [
+  { franchise: 'Toy Story', original: 30, retained: 12, retention: 40, sequels: 3 },
+  { franchise: 'Frozen', original: 15, retained: 8, retention: 53, sequels: 1 },
+  { franchise: 'Ice Age', original: 12, retained: 4, retention: 33, sequels: 4 },
+  { franchise: 'Cars', original: 18, retained: 6, retention: 33, sequels: 2 },
+  { franchise: 'Finding Nemo', original: 18, retained: 5, retention: 28, sequels: 1 },
+  { franchise: 'Incredibles', original: 15, retained: 10, retention: 67, sequels: 1 },
+  { franchise: 'Monsters Inc', original: 14, retained: 4, retention: 29, sequels: 1 },
+  { franchise: 'Shrek', original: 12, retained: 8, retention: 67, sequels: 3 },
+  { franchise: 'Kung Fu Panda', original: 14, retained: 6, retention: 43, sequels: 3 },
+  { franchise: 'Despicable Me', original: 15, retained: 9, retention: 60, sequels: 3 },
+];
+
 // Cross-media stars (characters appearing in both films AND games)
 export const crossMediaStars = [
   { name: 'Mickey Mouse', films: 12, games: 16, origin: 'WDAS', khAppearances: 8 },
