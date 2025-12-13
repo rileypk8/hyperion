@@ -67,6 +67,7 @@ a:hover {
 .header-right {
   display: flex;
   align-items: center;
+  background: green; /* DEBUG */
 }
 
 .logo {
