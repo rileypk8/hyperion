@@ -4,6 +4,9 @@
   "films": [
     "Horton Hears a Who! (2008)"
   ],
+  "directors": {
+    "horton_hears_a_who_2008": ["Jimmy Hayward", "Steve Martino"]
+  },
   "characters": {
     "jungle_of_nool": [
       {

@@ -4,6 +4,9 @@
   "films": [
     "The Peanuts Movie (2015)"
   ],
+  "directors": {
+    "the_peanuts_movie_2015": ["Steve Martino"]
+  },
   "characters": {
     "main_characters": [
       {
