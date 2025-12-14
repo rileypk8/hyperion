@@ -7,6 +7,7 @@
   "categories": {
     "hugo_the_hippo_1975": {
       "year": 1975,
+      "directors": ["William Feigenbaum", "József Gémes"],
       "animation_type": "fully_animated",
       "count": 10,
       "characters": [
@@ -24,6 +25,7 @@
     },
     "wizards_1977": {
       "year": 1977,
+      "directors": ["Ralph Bakshi"],
       "animation_type": "fully_animated",
       "count": 12,
       "characters": [
@@ -43,6 +45,7 @@
     },
     "fire_and_ice_1983": {
       "year": 1983,
+      "directors": ["Ralph Bakshi"],
       "animation_type": "fully_animated",
       "count": 14,
       "characters": [
@@ -64,6 +67,7 @@
     },
     "ferngully_1992": {
       "year": 1992,
+      "directors": ["Bill Kroyer"],
       "animation_type": "fully_animated",
       "count": 14,
       "characters": [
@@ -85,6 +89,7 @@
     },
     "once_upon_a_forest_1993": {
       "year": 1993,
+      "directors": ["Charles Grosvenor"],
       "animation_type": "fully_animated",
       "count": 12,
       "characters": [
@@ -104,6 +109,7 @@
     },
     "the_pagemaster_1994": {
       "year": 1994,
+      "directors": ["Pixote Hunt", "Joe Johnston"],
       "animation_type": "hybrid",
       "animation_percentage": 70,
       "count": 18,
@@ -130,6 +136,7 @@
     },
     "ferngully_2_1998": {
       "year": 1998,
+      "directors": ["Dave Marshall"],
       "animation_type": "fully_animated",
       "count": 15,
       "characters": [

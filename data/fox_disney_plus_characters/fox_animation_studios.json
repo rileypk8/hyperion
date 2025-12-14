@@ -7,6 +7,7 @@
   "categories": {
     "anastasia_1997": {
       "year": 1997,
+      "directors": ["Don Bluth", "Gary Goldman"],
       "count": 15,
       "characters": [
         {"name": "Anastasia/Anya", "role": "protagonist", "voice_actor": "Meg Ryan (speaking), Liz Callaway (singing)", "species": "human", "gender": "female", "notes": "Amnesiac Russian princess"},
@@ -28,6 +29,7 @@
     },
     "bartok_the_magnificent_1999": {
       "year": 1999,
+      "directors": ["Don Bluth", "Gary Goldman"],
       "count": 12,
       "characters": [
         {"name": "Bartok", "role": "protagonist", "voice_actor": "Hank Azaria", "species": "albino bat", "gender": "male", "notes": "Magician and con artist"},
@@ -46,6 +48,7 @@
     },
     "titan_ae_2000": {
       "year": 2000,
+      "directors": ["Don Bluth", "Gary Goldman"],
       "count": 18,
       "characters": [
         {"name": "Cale Tucker", "role": "protagonist", "voice_actor": "Matt Damon", "species": "human", "gender": "male", "notes": "Young survivor of Earth's destruction"},
