@@ -17,15 +17,15 @@ import type {
   TalentStats,
 } from '../types';
 
-// CDN URLs for DuckDB WASM bundles (using latest 1.x version)
+// Local DuckDB WASM bundles (avoids CORS issues with cross-origin workers)
 const DUCKDB_BUNDLES: duckdb.DuckDBBundles = {
   mvp: {
-    mainModule: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-mvp.wasm',
-    mainWorker: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-browser-mvp.worker.js',
+    mainModule: '/duckdb-mvp.wasm',
+    mainWorker: '/duckdb-browser-mvp.worker.js',
   },
   eh: {
-    mainModule: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-eh.wasm',
-    mainWorker: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-browser-eh.worker.js',
+    mainModule: '/duckdb-eh.wasm',
+    mainWorker: '/duckdb-browser-eh.worker.js',
   },
 };
 
