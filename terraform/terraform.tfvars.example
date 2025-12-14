@@ -1,0 +1,24 @@
+# Example Terraform variables for Hyperion
+# Copy this file to terraform.tfvars and customize
+
+# AWS Region - choose closest to your users
+aws_region = "us-west-2"
+
+# Environment (affects naming and some settings like deletion protection)
+environment = "dev"
+
+# RDS Settings
+db_instance_class        = "db.t3.micro"  # Smallest, ~$15/month
+db_name                  = "hyperion"
+db_username              = "hyperion_admin"
+db_allocated_storage     = 20   # GB, minimum for gp3
+db_max_allocated_storage = 100  # GB, autoscaling limit
+
+# Network
+vpc_cidr = "10.0.0.0/16"
+
+# Add your IP for direct RDS access during development
+# Get your IP: curl -s ifconfig.me
+allowed_cidr_blocks = [
+  # "1.2.3.4/32"  # Your IP here
+]
