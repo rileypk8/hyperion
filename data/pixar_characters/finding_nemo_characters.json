@@ -16,6 +16,7 @@
     },
     "finding_nemo": {
       "year": 2003,
+      "directors": ["Andrew Stanton", "Lee Unkrich"],
       "count": 20,
       "characters": [
         {"name": "Gill", "role": "mentor", "species": "moorish idol", "gender": "male", "voice_actor": "Willem Dafoe"},
@@ -42,6 +43,7 @@
     },
     "finding_dory": {
       "year": 2016,
+      "directors": ["Andrew Stanton", "Angus MacLane"],
       "count": 20,
       "characters": [
         {"name": "Hank", "role": "deuteragonist", "species": "octopus (septopus)", "gender": "male", "voice_actor": "Ed O'Neill"},

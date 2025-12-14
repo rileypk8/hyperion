@@ -8,6 +8,7 @@
   "categories": {
     "alice_in_wonderland_1951": {
       "year": 1951,
+      "directors": ["Clyde Geronimi", "Hamilton Luske", "Wilfred Jackson"],
       "count": 25,
       "characters": [
         {

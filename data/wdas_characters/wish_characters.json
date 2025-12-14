@@ -8,6 +8,7 @@
   "categories": {
     "wish_2023": {
       "year": 2023,
+      "directors": ["Chris Buck", "Fawn Veerasunthorn"],
       "count": 18,
       "characters": [
         {

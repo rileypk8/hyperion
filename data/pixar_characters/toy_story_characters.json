@@ -25,6 +25,7 @@
     },
     "toy_story_1": {
       "year": 1995,
+      "directors": ["John Lasseter"],
       "count": 15,
       "characters": [
         {"name": "RC", "role": "minor", "species": "toy (remote control car)", "gender": "male", "voice_actor": null, "notes": "Non-speaking"},
@@ -46,6 +47,7 @@
     },
     "toy_story_2": {
       "year": 1999,
+      "directors": ["John Lasseter", "Ash Brannon", "Lee Unkrich"],
       "count": 8,
       "characters": [
         {"name": "Stinky Pete", "role": "villain", "species": "toy (prospector doll)", "gender": "male", "voice_actor": "Kelsey Grammer"},
@@ -60,6 +62,7 @@
     },
     "toy_story_3": {
       "year": 2010,
+      "directors": ["Lee Unkrich"],
       "count": 18,
       "characters": [
         {"name": "Lotso", "role": "villain", "species": "toy (teddy bear)", "gender": "male", "voice_actor": "Ned Beatty"},
@@ -84,6 +87,7 @@
     },
     "toy_story_4": {
       "year": 2019,
+      "directors": ["Josh Cooley"],
       "count": 12,
       "characters": [
         {"name": "Forky", "role": "deuteragonist", "species": "toy (spork craft)", "gender": "male", "voice_actor": "Tony Hale"},

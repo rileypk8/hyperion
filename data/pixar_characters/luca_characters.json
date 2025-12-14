@@ -5,6 +5,7 @@
   "categories": {
     "luca": {
       "year": 2021,
+      "directors": ["Enrico Casarosa"],
       "count": 18,
       "characters": [
         {"name": "Luca Paguro", "role": "protagonist", "species": "sea monster", "gender": "male", "voice_actor": "Jacob Tremblay"},

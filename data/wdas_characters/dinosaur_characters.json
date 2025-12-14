@@ -8,6 +8,7 @@
   "categories": {
     "dinosaur_2000": {
       "year": 2000,
+      "directors": ["Ralph Zondag", "Eric Leighton"],
       "count": 15,
       "characters": [
         {

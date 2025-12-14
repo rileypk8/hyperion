@@ -8,6 +8,7 @@
   "categories": {
     "atlantis_2001": {
       "year": 2001,
+      "directors": ["Gary Trousdale", "Kirk Wise"],
       "count": 18,
       "characters": [
         {

@@ -15,6 +15,7 @@
     },
     "monsters_inc": {
       "year": 2001,
+      "directors": ["Pete Docter", "David Silverman", "Lee Unkrich"],
       "count": 15,
       "characters": [
         {"name": "Boo", "role": "deuteragonist", "species": "human", "gender": "female", "voice_actor": "Mary Gibbs"},
@@ -36,6 +37,7 @@
     },
     "monsters_university": {
       "year": 2013,
+      "directors": ["Dan Scanlon"],
       "count": 20,
       "characters": [
         {"name": "Dean Hardscrabble", "role": "antagonist", "species": "monster (centipede-dragon)", "gender": "female", "voice_actor": "Helen Mirren"},

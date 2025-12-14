@@ -5,6 +5,7 @@
   "categories": {
     "ratatouille": {
       "year": 2007,
+      "directors": ["Brad Bird", "Jan Pinkava"],
       "count": 18,
       "characters": [
         {"name": "Remy", "role": "protagonist", "species": "rat", "gender": "male", "voice_actor": "Patton Oswalt"},
