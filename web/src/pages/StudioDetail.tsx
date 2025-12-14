@@ -8,21 +8,40 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from 'recharts';
-import { getStudioById, getFilmsByStudio, getCharactersByStudio } from '../data/mockData';
+import { useStudioById, useFilmsByStudio, useCharactersByStudio } from '../hooks/useDuckDB';
+import {
+  getStudioById as getMockStudio,
+  getFilmsByStudio as getMockFilms,
+  getCharactersByStudio as getMockCharacters,
+} from '../data/mockData';
 
 export function StudioDetail() {
   const { id } = useParams<{ id: string }>();
-  const studio = getStudioById(id || '');
-  const films = getFilmsByStudio(id || '');
-  const characters = getCharactersByStudio(id || '');
+  const studioId = id || '';
 
-  if (!studio) {
+  // DuckDB data
+  const { studio: duckStudio, loading: studioLoading } = useStudioById(studioId);
+  const { data: duckFilms, loading: filmsLoading } = useFilmsByStudio(studioId);
+  const { data: duckCharacters, loading: charsLoading } = useCharactersByStudio(studioId);
+
+  // Fallback to mockData
+  const studio = duckStudio || getMockStudio(studioId);
+  const films = duckFilms.length > 0 ? duckFilms : getMockFilms(studioId);
+  const characters = duckCharacters.length > 0 ? duckCharacters : getMockCharacters(studioId);
+
+  const loading = studioLoading || filmsLoading || charsLoading;
+
+  if (!studio && !loading) {
     return (
       <div className="page not-found">
         <h1>Studio Not Found</h1>
         <Link to="/studios">Back to Studios</Link>
       </div>
     );
+  }
+
+  if (!studio) {
+    return <div className="page">Loading...</div>;
   }
 
   // Group characters by role
@@ -38,6 +57,11 @@ export function StudioDetail() {
     role,
     count,
   }));
+
+  // Parse franchiseIds if it's a JSON string
+  const franchiseIds = typeof studio.franchiseIds === 'string'
+    ? JSON.parse(studio.franchiseIds)
+    : studio.franchiseIds || [];
 
   return (
     <div className="page studio-detail">
@@ -58,7 +82,7 @@ export function StudioDetail() {
           <div className="stat-label">Characters</div>
         </div>
         <div className="stat-card">
-          <div className="stat-value">{studio.franchiseIds.length}</div>
+          <div className="stat-value">{franchiseIds.length}</div>
           <div className="stat-label">Franchises</div>
         </div>
       </div>
@@ -91,7 +115,7 @@ export function StudioDetail() {
             ))}
           </div>
         ) : (
-          <p className="empty-state">No films in mock data for this studio yet.</p>
+          <p className="empty-state">No films available for this studio yet.</p>
         )}
       </div>
 
@@ -109,7 +133,7 @@ export function StudioDetail() {
             ))}
           </div>
         ) : (
-          <p className="empty-state">No characters in mock data for this studio yet.</p>
+          <p className="empty-state">No characters available for this studio yet.</p>
         )}
       </div>
     </div>

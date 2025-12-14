@@ -16,13 +16,43 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { studios, genderByYear, genderByRole, topTalents, mostAppearances, crossMediaStars, speciesBreakdown, sequelRetention, prolificActors, studioLoyalty, femaleProtagonists, villainGender, franchiseLongevity, characterDensity, roleBalance } from '../data/mockData';
+import { useStudios, useGenderByYear, useGenderByRole, useTopTalents } from '../hooks/useDuckDB';
+import {
+  studios as mockStudios,
+  genderByYear as mockGenderByYear,
+  genderByRole as mockGenderByRole,
+  topTalents as mockTopTalents,
+  mostAppearances,
+  crossMediaStars,
+  speciesBreakdown,
+  sequelRetention,
+  prolificActors,
+  studioLoyalty,
+  femaleProtagonists,
+  villainGender,
+  franchiseLongevity,
+  characterDensity,
+  roleBalance,
+} from '../data/mockData';
 
 import { Link } from 'react-router-dom';
 
 const SPECIES_COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7c43', '#00C49F', '#FFBB28', '#FF8042', '#0088FE', '#aaa'];
 
 export function Dashboard() {
+  // DuckDB data with fallback to mockData
+  const { data: duckStudios, loading: studiosLoading } = useStudios();
+  const { data: duckGenderByYear, loading: gbyLoading } = useGenderByYear();
+  const { data: duckGenderByRole, loading: gbrLoading } = useGenderByRole();
+  const { data: duckTopTalents, loading: ttLoading } = useTopTalents(15);
+
+  const studios = duckStudios.length > 0 ? duckStudios : mockStudios;
+  const genderByYear = duckGenderByYear.length > 0 ? duckGenderByYear : mockGenderByYear;
+  const genderByRole = duckGenderByRole.length > 0 ? duckGenderByRole : mockGenderByRole;
+  const topTalents = duckTopTalents.length > 0 ? duckTopTalents : mockTopTalents;
+
+  const loading = studiosLoading || gbyLoading || gbrLoading || ttLoading;
+
   // Calculate totals
   const totalFilms = studios.reduce((sum, s) => sum + s.filmCount, 0);
   const totalCharacters = studios.reduce((sum, s) => sum + s.characterCount, 0);
@@ -37,6 +67,7 @@ export function Dashboard() {
   return (
     <div className="dashboard">
       <h1>Dashboard</h1>
+      {loading && <p className="loading-indicator">Loading data...</p>}
 
       {/* Stats cards */}
       <div className="stats-grid">

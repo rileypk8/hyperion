@@ -1,22 +1,43 @@
 import { useParams, Link } from 'react-router-dom';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, Legend } from 'recharts';
-import { getFilmById, getCharactersByFilm, getStudioById } from '../data/mockData';
+import { useFilmById, useCharactersByFilm, useStudioById } from '../hooks/useDuckDB';
+import {
+  getFilmById as getMockFilm,
+  getCharactersByFilm as getMockCharacters,
+  getStudioById as getMockStudio,
+} from '../data/mockData';
 
 const GENDER_COLORS = ['#0088FE', '#FF6B9D', '#00C49F'];
 
 export function FilmDetail() {
   const { id } = useParams<{ id: string }>();
-  const film = getFilmById(id || '');
-  const characters = getCharactersByFilm(id || '');
-  const studio = film ? getStudioById(film.studioId) : undefined;
+  const filmId = id || '';
 
-  if (!film) {
+  // DuckDB data
+  const { film: duckFilm, loading: filmLoading } = useFilmById(filmId);
+  const { data: duckCharacters, loading: charsLoading } = useCharactersByFilm(filmId);
+
+  // Fallback to mockData
+  const film = duckFilm || getMockFilm(filmId);
+  const characters = duckCharacters.length > 0 ? duckCharacters : getMockCharacters(filmId);
+
+  // Get studio (need to handle async)
+  const { studio: duckStudio } = useStudioById(film?.studioId || '');
+  const studio = duckStudio || (film ? getMockStudio(film.studioId) : undefined);
+
+  const loading = filmLoading || charsLoading;
+
+  if (!film && !loading) {
     return (
       <div className="page not-found">
         <h1>Film Not Found</h1>
         <Link to="/films">Back to Films</Link>
       </div>
     );
+  }
+
+  if (!film) {
+    return <div className="page">Loading...</div>;
   }
 
   // Gender breakdown

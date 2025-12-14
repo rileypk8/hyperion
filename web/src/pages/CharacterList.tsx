@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { characters, studios } from '../data/mockData';
+import { useCharacters, useStudios } from '../hooks/useDuckDB';
+import { characters as mockCharacters, studios as mockStudios } from '../data/mockData';
 import type { Role } from '../types';
 
 const ROLES: Role[] = [
@@ -21,18 +22,31 @@ export function CharacterList() {
   const [filterStudio, setFilterStudio] = useState<string>('all');
   const [filterGender, setFilterGender] = useState<string>('all');
 
-  const filtered = characters.filter((c) => {
-    if (search && !c.name.toLowerCase().includes(search.toLowerCase())) return false;
-    if (filterRole !== 'all' && c.role !== filterRole) return false;
-    if (filterStudio !== 'all' && c.studioId !== filterStudio) return false;
-    if (filterGender !== 'all' && c.gender !== filterGender) return false;
-    return true;
-  });
+  // DuckDB data with fallback
+  const { data: duckCharacters, loading: charsLoading } = useCharacters();
+  const { data: duckStudios, loading: studiosLoading } = useStudios();
+
+  const characters = duckCharacters.length > 0 ? duckCharacters : mockCharacters;
+  const studios = duckStudios.length > 0 ? duckStudios : mockStudios;
+
+  const filtered = useMemo(() => {
+    return characters.filter((c) => {
+      if (search && !c.name.toLowerCase().includes(search.toLowerCase())) return false;
+      if (filterRole !== 'all' && c.role !== filterRole) return false;
+      if (filterStudio !== 'all' && c.studioId !== filterStudio) return false;
+      if (filterGender !== 'all' && c.gender !== filterGender) return false;
+      return true;
+    });
+  }, [characters, search, filterRole, filterStudio, filterGender]);
+
+  const loading = charsLoading || studiosLoading;
 
   return (
     <div className="page character-list">
       <h1>Characters</h1>
       <p className="page-desc">Browse characters across Disney animation</p>
+
+      {loading && <p className="loading-indicator">Loading...</p>}
 
       <div className="search-bar">
         <input
@@ -71,7 +85,7 @@ export function CharacterList() {
       <p className="results-count">{filtered.length} characters</p>
 
       <div className="characters-grid">
-        {filtered.map((char) => {
+        {filtered.slice(0, 100).map((char) => {
           const studio = studios.find((s) => s.id === char.studioId);
           return (
             <Link key={char.id} to={`/character/${char.id}`} className="character-card">
@@ -93,6 +107,9 @@ export function CharacterList() {
       </div>
 
       {filtered.length === 0 && <p className="empty-state">No characters match your filters.</p>}
+      {filtered.length > 100 && (
+        <p className="results-note">Showing first 100 of {filtered.length} results. Use filters to narrow down.</p>
+      )}
     </div>
   );
 }

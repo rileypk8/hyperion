@@ -1,15 +1,41 @@
+import { useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { getCharacterById, getStudioById, films } from '../data/mockData';
+import { useCharacterById, useStudioById, useFilms } from '../hooks/useDuckDB';
+import {
+  getCharacterById as getMockCharacter,
+  getStudioById as getMockStudio,
+  films as mockFilms,
+} from '../data/mockData';
 
 export function CharacterDetail() {
   const { id } = useParams<{ id: string }>();
-  const character = getCharacterById(id || '');
-  const studio = character ? getStudioById(character.studioId) : undefined;
-  const characterFilms = character
-    ? films.filter((f) => character.filmIds.includes(f.id))
-    : [];
+  const charId = id || '';
 
-  if (!character) {
+  // DuckDB data
+  const { character: duckCharacter, loading: charLoading } = useCharacterById(charId);
+  const { data: duckFilms, loading: filmsLoading } = useFilms();
+
+  // Fallback to mockData
+  const character = duckCharacter || getMockCharacter(charId);
+  const films = duckFilms.length > 0 ? duckFilms : mockFilms;
+
+  // Get studio
+  const { studio: duckStudio } = useStudioById(character?.studioId || '');
+  const studio = duckStudio || (character ? getMockStudio(character.studioId) : undefined);
+
+  // Get character's films
+  const characterFilms = useMemo(() => {
+    if (!character) return [];
+    // filmIds may be a JSON string from DuckDB or an array from mockData
+    const filmIds = typeof character.filmIds === 'string'
+      ? JSON.parse(character.filmIds)
+      : character.filmIds || [];
+    return films.filter((f) => filmIds.includes(f.id));
+  }, [character, films]);
+
+  const loading = charLoading || filmsLoading;
+
+  if (!character && !loading) {
     return (
       <div className="page not-found">
         <h1>Character Not Found</h1>
@@ -17,6 +43,15 @@ export function CharacterDetail() {
       </div>
     );
   }
+
+  if (!character) {
+    return <div className="page">Loading...</div>;
+  }
+
+  // Parse filmIds for display
+  const filmIds = typeof character.filmIds === 'string'
+    ? JSON.parse(character.filmIds)
+    : character.filmIds || [];
 
   return (
     <div className="page character-detail">
@@ -53,7 +88,7 @@ export function CharacterDetail() {
         </div>
         <div className="detail-card">
           <h3>Appearances</h3>
-          <p>{character.filmIds.length} film(s)</p>
+          <p>{filmIds.length} film(s)</p>
         </div>
       </div>
 
@@ -76,7 +111,7 @@ export function CharacterDetail() {
             ))}
           </div>
         ) : (
-          <p className="empty-state">Film data not yet available in mock data.</p>
+          <p className="empty-state">Film data not yet available.</p>
         )}
       </div>
     </div>
