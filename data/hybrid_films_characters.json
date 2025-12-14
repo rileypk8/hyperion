@@ -25,6 +25,7 @@
   "categories": {
     "the_reluctant_dragon_1941": {
       "year": 1941,
+      "directors": ["Hamilton Luske", "Alfred Werker"],
       "count": 4,
       "characters": [
         {"name": "Robert Benchley", "role": "protagonist", "actor": "Robert Benchley", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Humorist touring Disney Studios"},
@@ -35,6 +36,7 @@
     },
     "victory_through_air_power_1943": {
       "year": 1943,
+      "directors": ["James Algar", "Clyde Geronimi", "Jack Kinney", "H.C. Potter"],
       "count": 2,
       "characters": [
         {"name": "Major Alexander de Seversky", "role": "protagonist", "actor": "Alexander P. de Seversky", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Aviation advocate presenting his theories"},
@@ -43,6 +45,7 @@
     },
     "song_of_the_south_1946": {
       "year": 1946,
+      "directors": ["Harve Foster", "Wilfred Jackson"],
       "count": 8,
       "characters": [
         {"name": "Uncle Remus", "role": "protagonist", "actor": "James Baskett", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Storyteller who shares Br'er Rabbit tales"},
@@ -57,6 +60,7 @@
     },
     "so_dear_to_my_heart_1948": {
       "year": 1948,
+      "directors": ["Harold D. Schuster", "Hamilton Luske"],
       "count": 5,
       "characters": [
         {"name": "Jeremiah Kincaid", "role": "protagonist", "actor": "Bobby Driscoll", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Young boy who raises a black lamb"},
@@ -68,6 +72,7 @@
     },
     "mary_poppins_1964": {
       "year": 1964,
+      "directors": ["Robert Stevenson"],
       "count": 9,
       "characters": [
         {"name": "Mary Poppins", "role": "protagonist", "actor": "Julie Andrews", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Magical nanny"},
@@ -83,6 +88,7 @@
     },
     "bedknobs_and_broomsticks_1971": {
       "year": 1971,
+      "directors": ["Robert Stevenson"],
       "count": 9,
       "characters": [
         {"name": "Miss Eglantine Price", "role": "protagonist", "actor": "Angela Lansbury", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Apprentice witch"},
@@ -98,6 +104,7 @@
     },
     "petes_dragon_1977": {
       "year": 1977,
+      "directors": ["Don Chaffey"],
       "count": 8,
       "characters": [
         {"name": "Pete", "role": "protagonist", "actor": "Sean Marshall", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Orphan boy who befriends Elliott"},
@@ -112,6 +119,7 @@
     },
     "who_framed_roger_rabbit_1988": {
       "year": 1988,
+      "directors": ["Robert Zemeckis"],
       "count": 10,
       "characters": [
         {"name": "Eddie Valiant", "role": "protagonist", "actor": "Bob Hoskins", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "male", "notes": "Private investigator with grudge against toons"},
@@ -128,6 +136,7 @@
     },
     "james_and_the_giant_peach_1996": {
       "year": 1996,
+      "directors": ["Henry Selick"],
       "count": 10,
       "characters": [
         {"name": "James Henry Trotter", "role": "protagonist", "actor": "Paul Terry", "voice_actor": "Paul Terry", "character_type": "hybrid", "species": "human", "gender": "male", "notes": "Orphan boy; live-action outside peach, stop-motion inside"},
@@ -144,6 +153,7 @@
     },
     "enchanted_2007": {
       "year": 2007,
+      "directors": ["Kevin Lima"],
       "count": 9,
       "characters": [
         {"name": "Giselle", "role": "protagonist", "actor": "Amy Adams", "voice_actor": "Amy Adams", "character_type": "hybrid", "species": "human", "gender": "female", "notes": "Princess-to-be; animated in Andalasia, live-action in NYC"},
@@ -159,6 +169,7 @@
     },
     "mary_poppins_returns_2018": {
       "year": 2018,
+      "directors": ["Rob Marshall"],
       "count": 14,
       "characters": [
         {"name": "Mary Poppins", "role": "protagonist", "actor": "Emily Blunt", "voice_actor": null, "character_type": "live_action", "species": "human", "gender": "female", "notes": "Magical nanny returns to Banks family"},
@@ -179,6 +190,7 @@
     },
     "chip_n_dale_rescue_rangers_2022": {
       "year": 2022,
+      "directors": ["Akiva Schaffer"],
       "count": 10,
       "characters": [
         {"name": "Dale", "role": "protagonist", "actor": null, "voice_actor": "Andy Samberg", "character_type": "animated", "species": "chipmunk (CGI)", "gender": "male", "notes": "CGI chipmunk, nostalgia convention regular"},
@@ -195,6 +207,7 @@
     },
     "disenchanted_2022": {
       "year": 2022,
+      "directors": ["Adam Shankman"],
       "count": 10,
       "characters": [
         {"name": "Giselle", "role": "protagonist", "actor": "Amy Adams", "voice_actor": "Amy Adams", "character_type": "hybrid", "species": "human", "gender": "female", "notes": "Now living in suburbs, accidentally casts a spell"},
