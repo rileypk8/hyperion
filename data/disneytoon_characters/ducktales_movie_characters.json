@@ -2,6 +2,7 @@
   "film": "DuckTales the Movie: Treasure of the Lost Lamp",
   "studio": "DisneyToon Studios",
   "year": 1990,
+  "directors": ["Bob Hathcock"],
   "release_type": "theatrical",
   "animation_type": "fully_animated",
   "total_estimated_characters": 12,

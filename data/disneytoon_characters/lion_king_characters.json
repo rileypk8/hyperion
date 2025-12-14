@@ -7,6 +7,7 @@
   "categories": {
     "simbas_pride_1998": {
       "year": 1998,
+      "directors": ["Darrell Rooney", "Rob LaDuca"],
       "release_type": "direct_to_video",
       "count": 16,
       "characters": [
@@ -30,6 +31,7 @@
     },
     "lion_king_1_half_2004": {
       "year": 2004,
+      "directors": ["Bradley Raymond"],
       "release_type": "direct_to_video",
       "count": 12,
       "characters": [

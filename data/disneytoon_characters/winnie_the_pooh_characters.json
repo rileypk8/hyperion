@@ -15,6 +15,7 @@
   "categories": {
     "poohs_grand_adventure_1997": {
       "year": 1997,
+      "directors": ["Karl Geurs"],
       "release_type": "direct_to_video",
       "count": 7,
       "characters": [
@@ -29,6 +30,7 @@
     },
     "seasons_of_giving_1999": {
       "year": 1999,
+      "directors": ["Jun Falkenstein", "David Hartman"],
       "release_type": "direct_to_video",
       "count": 8,
       "characters": [
@@ -44,6 +46,7 @@
     },
     "tigger_movie_2000": {
       "year": 2000,
+      "directors": ["Jun Falkenstein"],
       "release_type": "theatrical",
       "count": 9,
       "characters": [
@@ -60,6 +63,7 @@
     },
     "very_merry_pooh_year_2002": {
       "year": 2002,
+      "directors": ["Gary Katona", "Ed Wexler"],
       "release_type": "direct_to_video",
       "count": 8,
       "characters": [
@@ -75,6 +79,7 @@
     },
     "piglets_big_movie_2003": {
       "year": 2003,
+      "directors": ["Francis Glebas"],
       "release_type": "theatrical",
       "count": 8,
       "characters": [
@@ -90,6 +95,7 @@
     },
     "springtime_with_roo_2004": {
       "year": 2004,
+      "directors": ["Saul Andrew Blinkoff", "Elliot M. Bour"],
       "release_type": "direct_to_video",
       "count": 8,
       "characters": [
@@ -105,6 +111,7 @@
     },
     "heffalump_movie_2005": {
       "year": 2005,
+      "directors": ["Frank Nissen"],
       "release_type": "theatrical",
       "count": 9,
       "characters": [

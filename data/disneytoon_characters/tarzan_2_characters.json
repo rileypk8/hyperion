@@ -2,6 +2,7 @@
   "film": "Tarzan II",
   "studio": "DisneyToon Studios",
   "year": 2005,
+  "directors": ["Brian Smith"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 10,

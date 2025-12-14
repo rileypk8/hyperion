@@ -7,6 +7,7 @@
   "categories": {
     "return_of_jafar_1994": {
       "year": 1994,
+      "directors": ["Toby Shelton", "Tad Stones", "Alan Zaslove"],
       "release_type": "direct_to_video",
       "count": 12,
       "characters": [
@@ -26,6 +27,7 @@
     },
     "king_of_thieves_1996": {
       "year": 1996,
+      "directors": ["Tad Stones"],
       "release_type": "direct_to_video",
       "count": 16,
       "characters": [

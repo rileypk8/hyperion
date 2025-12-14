@@ -2,6 +2,7 @@
   "film": "Atlantis: Milo's Return",
   "studio": "DisneyToon Studios",
   "year": 2003,
+  "directors": ["Tad Stones", "Victor Cook", "Toby Shelton"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 10,
