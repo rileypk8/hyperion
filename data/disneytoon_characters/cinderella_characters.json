@@ -7,6 +7,7 @@
   "categories": {
     "dreams_come_true_2002": {
       "year": 2002,
+      "directors": ["John Kafka"],
       "release_type": "direct_to_video",
       "count": 11,
       "characters": [
@@ -25,6 +26,7 @@
     },
     "twist_in_time_2007": {
       "year": 2007,
+      "directors": ["Frank Nissen"],
       "release_type": "direct_to_video",
       "count": 11,
       "characters": [

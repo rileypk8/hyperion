@@ -2,6 +2,7 @@
   "film": "Tarzan & Jane",
   "studio": "DisneyToon Studios",
   "year": 2002,
+  "directors": ["Steve Loter", "Victor Cook"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 10,

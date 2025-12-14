@@ -14,6 +14,7 @@
   "categories": {
     "tinker_bell_2008": {
       "year": 2008,
+      "directors": ["Bradley Raymond"],
       "release_type": "direct_to_video",
       "count": 18,
       "characters": [
@@ -39,6 +40,7 @@
     },
     "lost_treasure_2009": {
       "year": 2009,
+      "directors": ["Klay Hall"],
       "release_type": "direct_to_video",
       "count": 12,
       "characters": [
@@ -58,6 +60,7 @@
     },
     "great_fairy_rescue_2010": {
       "year": 2010,
+      "directors": ["Bradley Raymond"],
       "release_type": "direct_to_video",
       "count": 14,
       "characters": [
@@ -79,6 +82,7 @@
     },
     "secret_of_wings_2012": {
       "year": 2012,
+      "directors": ["Peggy Holmes", "Bobs Gannaway"],
       "release_type": "theatrical",
       "count": 15,
       "characters": [
@@ -101,6 +105,7 @@
     },
     "pirate_fairy_2014": {
       "year": 2014,
+      "directors": ["Peggy Holmes"],
       "release_type": "direct_to_video",
       "count": 14,
       "characters": [
@@ -122,6 +127,7 @@
     },
     "legend_of_neverbeast_2015": {
       "year": 2015,
+      "directors": ["Steve Loter"],
       "release_type": "direct_to_video",
       "count": 12,
       "characters": [

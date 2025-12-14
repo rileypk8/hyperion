@@ -7,6 +7,7 @@
   "categories": {
     "stitch_the_movie_2003": {
       "year": 2003,
+      "directors": ["Tony Craig", "Roberts Gannaway"],
       "release_type": "direct_to_video",
       "count": 10,
       "characters": [
@@ -24,6 +25,7 @@
     },
     "stitch_has_a_glitch_2005": {
       "year": 2005,
+      "directors": ["Michael LaBash", "Anthony Leondis"],
       "release_type": "direct_to_video",
       "count": 10,
       "characters": [
@@ -41,6 +43,7 @@
     },
     "leroy_and_stitch_2006": {
       "year": 2006,
+      "directors": ["Tony Craig", "Roberts Gannaway"],
       "release_type": "direct_to_video",
       "count": 10,
       "characters": [

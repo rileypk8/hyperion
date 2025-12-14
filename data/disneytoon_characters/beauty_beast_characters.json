@@ -7,6 +7,7 @@
   "categories": {
     "enchanted_christmas_1997": {
       "year": 1997,
+      "directors": ["Andy Knight"],
       "release_type": "direct_to_video",
       "count": 12,
       "characters": [
@@ -26,6 +27,7 @@
     },
     "belles_magical_world_1998": {
       "year": 1998,
+      "directors": ["Cullen Blaine", "Daniel de la Vega", "Barbara Dourmashkin", "Dale Case", "Bob Kline"],
       "release_type": "direct_to_video",
       "count": 8,
       "characters": [

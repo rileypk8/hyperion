@@ -2,6 +2,7 @@
   "film": "Pocahontas II: Journey to a New World",
   "studio": "DisneyToon Studios",
   "year": 1998,
+  "directors": ["Tom Ellery", "Bradley Raymond"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 12,

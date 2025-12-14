@@ -7,6 +7,7 @@
   "categories": {
     "return_to_sea_2000": {
       "year": 2000,
+      "directors": ["Jim Kammerud", "Brian Smith"],
       "release_type": "direct_to_video",
       "count": 14,
       "characters": [
@@ -28,6 +29,7 @@
     },
     "ariels_beginning_2008": {
       "year": 2008,
+      "directors": ["Peggy Holmes"],
       "release_type": "direct_to_video",
       "count": 10,
       "characters": [
