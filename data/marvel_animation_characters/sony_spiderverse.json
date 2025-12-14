@@ -12,6 +12,7 @@
   "categories": {
     "into_the_spider_verse": {
       "year": 2018,
+      "directors": ["Bob Persichetti", "Peter Ramsey", "Rodney Rothman"],
       "count": 22,
       "characters": [
         {
@@ -194,6 +195,7 @@
     },
     "across_the_spider_verse": {
       "year": 2023,
+      "directors": ["Joaquim Dos Santos", "Kemp Powers", "Justin K. Thompson"],
       "count": 45,
       "characters": [
         {
@@ -560,6 +562,7 @@
     },
     "beyond_the_spider_verse": {
       "year": 2027,
+      "directors": ["TBA"],
       "count": 18,
       "characters": [
         {
