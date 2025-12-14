@@ -1,0 +1,15 @@
+{
+  "name": "hyperion-etl",
+  "version": "1.0.0",
+  "description": "ETL scripts for Hyperion data pipeline",
+  "type": "commonjs",
+  "scripts": {
+    "consolidate": "node consolidate-data.js",
+    "to-sqlite": "node consolidate-to-sqlite.js",
+    "to-typescript": "node consolidate-data.js",
+    "etl": "node consolidate-to-sqlite.js && node consolidate-data.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0"
+  }
+}
