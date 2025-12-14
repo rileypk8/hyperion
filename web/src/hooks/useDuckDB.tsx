@@ -49,11 +49,17 @@ function snakeToCamel(str: string): string {
 
 /**
  * Transform object keys from snake_case to camelCase
+ * Also converts BigInt values to Number (DuckDB returns BigInt for integers)
  */
 function transformKeys<T>(obj: Record<string, unknown>): T {
   const result: Record<string, unknown> = {};
   for (const [key, value] of Object.entries(obj)) {
-    result[snakeToCamel(key)] = value;
+    let transformedValue = value;
+    // Convert BigInt to Number (DuckDB returns BigInt for integer columns)
+    if (typeof value === 'bigint') {
+      transformedValue = Number(value);
+    }
+    result[snakeToCamel(key)] = transformedValue;
   }
   return result as T;
 }
