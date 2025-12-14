@@ -4,6 +4,9 @@
   "films": [
     "Epic (2013)"
   ],
+  "directors": {
+    "epic_2013": ["Chris Wedge"]
+  },
   "characters": {
     "main_characters": [
       {

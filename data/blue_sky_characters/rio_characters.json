@@ -5,6 +5,10 @@
     "Rio (2011)",
     "Rio 2 (2014)"
   ],
+  "directors": {
+    "rio_2011": ["Carlos Saldanha"],
+    "rio_2_2014": ["Carlos Saldanha"]
+  },
   "characters": {
     "main_characters": [
       {

@@ -4,6 +4,9 @@
   "films": [
     "Ferdinand (2017)"
   ],
+  "directors": {
+    "ferdinand_2017": ["Carlos Saldanha"]
+  },
   "characters": {
     "main_characters": [
       {

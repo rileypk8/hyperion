@@ -4,6 +4,9 @@
   "films": [
     "Robots (2005)"
   ],
+  "directors": {
+    "robots_2005": ["Chris Wedge", "Carlos Saldanha"]
+  },
   "characters": {
     "main_characters": [
       {
