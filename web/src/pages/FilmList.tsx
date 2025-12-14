@@ -1,22 +1,36 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { films, studios } from '../data/mockData';
+import { useFilms, useStudios } from '../hooks/useDuckDB';
+import { films as mockFilms, studios as mockStudios } from '../data/mockData';
 
 export function FilmList() {
   const [sortBy, setSortBy] = useState<'year' | 'title'>('year');
   const [filterStudio, setFilterStudio] = useState<string>('all');
 
-  const filteredFilms = films
-    .filter((f) => filterStudio === 'all' || f.studioId === filterStudio)
-    .sort((a, b) => {
-      if (sortBy === 'year') return b.year - a.year;
-      return a.title.localeCompare(b.title);
-    });
+  // DuckDB data with fallback
+  const { data: duckFilms, loading: filmsLoading } = useFilms();
+  const { data: duckStudios, loading: studiosLoading } = useStudios();
+
+  const films = duckFilms.length > 0 ? duckFilms : mockFilms;
+  const studios = duckStudios.length > 0 ? duckStudios : mockStudios;
+
+  const filteredFilms = useMemo(() => {
+    return films
+      .filter((f) => filterStudio === 'all' || f.studioId === filterStudio)
+      .sort((a, b) => {
+        if (sortBy === 'year') return b.year - a.year;
+        return a.title.localeCompare(b.title);
+      });
+  }, [films, filterStudio, sortBy]);
+
+  const loading = filmsLoading || studiosLoading;
 
   return (
     <div className="page film-list">
       <h1>Films</h1>
       <p className="page-desc">Animated films across all Disney studios</p>
+
+      {loading && <p className="loading-indicator">Loading...</p>}
 
       <div className="filters">
         <select value={filterStudio} onChange={(e) => setFilterStudio(e.target.value)}>
