@@ -8,6 +8,7 @@
   "categories": {
     "mulan_1998": {
       "year": 1998,
+      "directors": ["Tony Bancroft", "Barry Cook"],
       "count": 20,
       "characters": [
         {

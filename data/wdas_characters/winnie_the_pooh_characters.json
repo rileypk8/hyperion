@@ -9,6 +9,7 @@
   "categories": {
     "many_adventures_1977": {
       "year": 1977,
+      "directors": ["John Lounsbery", "Wolfgang Reitherman"],
       "count": 12,
       "characters": [
         {
@@ -100,6 +101,7 @@
     },
     "winnie_the_pooh_2011": {
       "year": 2011,
+      "directors": ["Stephen J. Anderson", "Don Hall"],
       "count": 12,
       "characters": [
         {

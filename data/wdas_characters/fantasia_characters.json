@@ -9,6 +9,7 @@
   "categories": {
     "fantasia_1940": {
       "year": 1940,
+      "directors": ["James Algar", "Samuel Armstrong", "Ford Beebe", "Norman Ferguson", "Jim Handley", "T. Hee", "Wilfred Jackson", "Hamilton Luske", "Bill Roberts", "Paul Satterfield", "Ben Sharpsteen"],
       "count": 12,
       "characters": [
         {
@@ -111,6 +112,7 @@
     },
     "fantasia_2000": {
       "year": 1999,
+      "directors": ["James Algar", "Gaëtan Brizzi", "Paul Brizzi", "Hendel Butoy", "Francis Glebas", "Eric Goldberg", "Don Hahn", "Pixote Hunt"],
       "count": 13,
       "characters": [
         {

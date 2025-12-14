@@ -5,6 +5,7 @@
   "categories": {
     "the_good_dinosaur": {
       "year": 2015,
+      "directors": ["Peter Sohn"],
       "count": 15,
       "characters": [
         {"name": "Arlo", "role": "protagonist", "species": "dinosaur (Apatosaurus)", "gender": "male", "voice_actor": "Raymond Ochoa"},

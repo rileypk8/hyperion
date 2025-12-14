@@ -8,6 +8,7 @@
   "categories": {
     "oliver_and_company_1988": {
       "year": 1988,
+      "directors": ["George Scribner"],
       "count": 18,
       "characters": [
         {

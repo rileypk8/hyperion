@@ -8,6 +8,7 @@
   "categories": {
     "cinderella_1950": {
       "year": 1950,
+      "directors": ["Clyde Geronimi", "Hamilton Luske", "Wilfred Jackson"],
       "count": 18,
       "characters": [
         {

@@ -5,6 +5,7 @@
   "categories": {
     "onward": {
       "year": 2020,
+      "directors": ["Dan Scanlon"],
       "count": 15,
       "characters": [
         {"name": "Ian Lightfoot", "role": "protagonist", "species": "elf", "gender": "male", "voice_actor": "Tom Holland"},

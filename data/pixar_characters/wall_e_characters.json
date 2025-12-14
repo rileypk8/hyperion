@@ -5,6 +5,7 @@
   "categories": {
     "wall_e": {
       "year": 2008,
+      "directors": ["Andrew Stanton"],
       "count": 15,
       "characters": [
         {"name": "WALL-E", "role": "protagonist", "species": "robot", "gender": "male", "voice_actor": "Ben Burtt"},

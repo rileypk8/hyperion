@@ -8,6 +8,7 @@
   "categories": {
     "fox_and_the_hound_1981": {
       "year": 1981,
+      "directors": ["Ted Berman", "Richard Rich", "Art Stevens"],
       "count": 15,
       "characters": [
         {

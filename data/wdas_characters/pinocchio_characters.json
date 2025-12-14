@@ -8,6 +8,7 @@
   "categories": {
     "pinocchio_1940": {
       "year": 1940,
+      "directors": ["Ben Sharpsteen", "Hamilton Luske"],
       "count": 18,
       "characters": [
         {

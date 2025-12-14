@@ -9,6 +9,7 @@
   "categories": {
     "frozen_2013": {
       "year": 2013,
+      "directors": ["Chris Buck", "Jennifer Lee"],
       "count": 15,
       "characters": [
         {
@@ -122,6 +123,7 @@
     },
     "frozen_2_2019": {
       "year": 2019,
+      "directors": ["Chris Buck", "Jennifer Lee"],
       "count": 15,
       "characters": [
         {

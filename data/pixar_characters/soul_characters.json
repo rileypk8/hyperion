@@ -5,6 +5,7 @@
   "categories": {
     "soul": {
       "year": 2020,
+      "directors": ["Pete Docter", "Kemp Powers"],
       "count": 18,
       "characters": [
         {"name": "Joe Gardner", "role": "protagonist", "species": "human / soul", "gender": "male", "voice_actor": "Jamie Foxx"},

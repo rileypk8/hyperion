@@ -5,6 +5,7 @@
   "categories": {
     "up": {
       "year": 2009,
+      "directors": ["Pete Docter", "Bob Peterson"],
       "count": 12,
       "characters": [
         {"name": "Carl Fredricksen", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Ed Asner"},
