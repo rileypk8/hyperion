@@ -115,6 +115,9 @@ class FilmsLoader:
                 logger.error(f"Failed to parse {json_file}: {e}")
                 continue
 
+            if not isinstance(data, dict):
+                continue
+
             studio = self.determine_studio(data, source_dir)
             franchise = data.get("franchise", "Unknown")
 

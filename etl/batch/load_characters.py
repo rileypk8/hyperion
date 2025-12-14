@@ -79,6 +79,9 @@ class CharactersLoader:
             except json.JSONDecodeError:
                 continue
 
+            if not isinstance(data, dict):
+                continue
+
             franchise = data.get("franchise", "Unknown")
             is_game_data = source_dir in self.GAME_DIRS or "games" in data
             media_type = "game" if is_game_data else "film"
