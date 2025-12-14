@@ -1,0 +1,266 @@
+version: "3.8"
+
+# Hyperion Big Data Stack
+# Local development environment for Kafka, Hadoop/HDFS, Spark, and Trino
+#
+# Usage:
+#   docker-compose up -d                    # Start all services
+#   docker-compose up -d kafka spark-master # Start subset
+#   docker-compose logs -f spark-master     # View logs
+#   docker-compose down -v                  # Stop and remove volumes
+
+services:
+  # ============================================================================
+  # KAFKA CLUSTER
+  # ============================================================================
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    hostname: zookeeper
+    container_name: hyperion-zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    volumes:
+      - zookeeper-data:/var/lib/zookeeper/data
+      - zookeeper-log:/var/lib/zookeeper/log
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "2181"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hyperion
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    hostname: kafka
+    container_name: hyperion-kafka
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    volumes:
+      - kafka-data:/var/lib/kafka/data
+    healthcheck:
+      test: ["CMD", "kafka-broker-api-versions", "--bootstrap-server", "localhost:9092"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+    networks:
+      - hyperion
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: hyperion-kafka-ui
+    depends_on:
+      kafka:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: hyperion
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:29092
+      KAFKA_CLUSTERS_0_ZOOKEEPER: zookeeper:2181
+    networks:
+      - hyperion
+
+  # ============================================================================
+  # HADOOP HDFS
+  # ============================================================================
+
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    hostname: namenode
+    container_name: hyperion-namenode
+    ports:
+      - "9870:9870"   # Web UI
+      - "9000:9000"   # HDFS RPC
+    environment:
+      - CLUSTER_NAME=hyperion
+    env_file:
+      - ./hadoop.env
+    volumes:
+      - namenode-data:/hadoop/dfs/name
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9870"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - hyperion
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    hostname: datanode
+    container_name: hyperion-datanode
+    depends_on:
+      namenode:
+        condition: service_healthy
+    ports:
+      - "9864:9864"   # Web UI
+    environment:
+      SERVICE_PRECONDITION: "namenode:9870"
+    env_file:
+      - ./hadoop.env
+    volumes:
+      - datanode-data:/hadoop/dfs/data
+    networks:
+      - hyperion
+
+  # ============================================================================
+  # SPARK CLUSTER
+  # ============================================================================
+
+  spark-master:
+    image: bde2020/spark-master:3.3.0-hadoop3.3
+    hostname: spark-master
+    container_name: hyperion-spark-master
+    ports:
+      - "8081:8080"   # Spark Master Web UI
+      - "7077:7077"   # Spark Master port
+    environment:
+      - INIT_DAEMON_STEP=setup_spark
+    volumes:
+      - ./spark_jobs:/opt/spark-jobs
+      - ./data:/opt/data
+    networks:
+      - hyperion
+
+  spark-worker:
+    image: bde2020/spark-worker:3.3.0-hadoop3.3
+    hostname: spark-worker
+    container_name: hyperion-spark-worker
+    depends_on:
+      - spark-master
+    ports:
+      - "8082:8081"   # Spark Worker Web UI
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+    volumes:
+      - ./spark_jobs:/opt/spark-jobs
+      - ./data:/opt/data
+    networks:
+      - hyperion
+
+  # ============================================================================
+  # HIVE METASTORE
+  # ============================================================================
+
+  hive-metastore-db:
+    image: postgres:15-alpine
+    hostname: hive-metastore-db
+    container_name: hyperion-hive-metastore-db
+    environment:
+      POSTGRES_USER: hive
+      POSTGRES_PASSWORD: hive
+      POSTGRES_DB: metastore
+    volumes:
+      - hive-metastore-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hive -d metastore"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hyperion
+
+  hive-metastore:
+    image: apache/hive:4.0.0
+    hostname: hive-metastore
+    container_name: hyperion-hive-metastore
+    depends_on:
+      hive-metastore-db:
+        condition: service_healthy
+      namenode:
+        condition: service_healthy
+    ports:
+      - "9083:9083"   # Thrift port
+    environment:
+      SERVICE_NAME: metastore
+      DB_DRIVER: postgres
+      SERVICE_OPTS: >-
+        -Djavax.jdo.option.ConnectionDriverName=org.postgresql.Driver
+        -Djavax.jdo.option.ConnectionURL=jdbc:postgresql://hive-metastore-db:5432/metastore
+        -Djavax.jdo.option.ConnectionUserName=hive
+        -Djavax.jdo.option.ConnectionPassword=hive
+    volumes:
+      - hive-warehouse:/opt/hive/data/warehouse
+    networks:
+      - hyperion
+
+  # ============================================================================
+  # TRINO (Presto alternative - easier to containerize)
+  # ============================================================================
+
+  trino:
+    image: trinodb/trino:435
+    hostname: trino
+    container_name: hyperion-trino
+    depends_on:
+      - hive-metastore
+    ports:
+      - "8083:8080"   # Trino Web UI and API
+    volumes:
+      - ./trino/catalog:/etc/trino/catalog
+      - ./trino/config.properties:/etc/trino/config.properties
+      - ./data:/opt/data
+    networks:
+      - hyperion
+
+  # ============================================================================
+  # UTILITY SERVICES
+  # ============================================================================
+
+  # HDFS initialization container - runs once to set up directories
+  hdfs-init:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: hyperion-hdfs-init
+    depends_on:
+      namenode:
+        condition: service_healthy
+    env_file:
+      - ./hadoop.env
+    entrypoint: /bin/bash
+    command: >
+      -c "
+        sleep 10 &&
+        hdfs dfs -mkdir -p /raw/films &&
+        hdfs dfs -mkdir -p /raw/characters &&
+        hdfs dfs -mkdir -p /raw/boxoffice &&
+        hdfs dfs -mkdir -p /processed/parquet &&
+        hdfs dfs -mkdir -p /analytics/exports &&
+        hdfs dfs -chmod -R 777 /raw &&
+        hdfs dfs -chmod -R 777 /processed &&
+        hdfs dfs -chmod -R 777 /analytics &&
+        echo 'HDFS directories initialized successfully'
+      "
+    networks:
+      - hyperion
+
+networks:
+  hyperion:
+    name: hyperion-bigdata
+
+volumes:
+  zookeeper-data:
+  zookeeper-log:
+  kafka-data:
+  namenode-data:
+  datanode-data:
+  hive-metastore-db:
+  hive-warehouse:
