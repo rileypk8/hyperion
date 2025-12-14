@@ -6,6 +6,7 @@
   "categories": {
     "bobs_burgers_movie": {
       "year": 2022,
+      "directors": ["Loren Bouchard", "Bernard Derriman"],
       "count": 35,
       "animation_type": "2D traditional",
       "characters": [
