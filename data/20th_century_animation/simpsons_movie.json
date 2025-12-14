@@ -6,6 +6,7 @@
   "categories": {
     "simpsons_movie": {
       "year": 2007,
+      "directors": ["David Silverman"],
       "count": 45,
       "animation_type": "2D traditional",
       "characters": [
