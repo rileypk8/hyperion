@@ -7,6 +7,7 @@
   "categories": {
     "planes_2013": {
       "year": 2013,
+      "directors": ["Klay Hall"],
       "release_type": "theatrical",
       "count": 22,
       "characters": [
@@ -36,6 +37,7 @@
     },
     "fire_and_rescue_2014": {
       "year": 2014,
+      "directors": ["Bobs Gannaway"],
       "release_type": "theatrical",
       "count": 23,
       "characters": [

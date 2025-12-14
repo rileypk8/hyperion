@@ -7,6 +7,7 @@
   "categories": {
     "once_upon_christmas_1999": {
       "year": 1999,
+      "directors": ["Jun Falkenstein", "Bill Speers", "Bradley Raymond"],
       "release_type": "direct_to_video",
       "count": 10,
       "characters": [
@@ -24,6 +25,7 @@
     },
     "twice_upon_christmas_2004": {
       "year": 2004,
+      "directors": ["Matthew O'Callaghan"],
       "release_type": "direct_to_video",
       "count": 10,
       "characters": [
@@ -41,6 +43,7 @@
     },
     "three_musketeers_2004": {
       "year": 2004,
+      "directors": ["Donovan Cook"],
       "release_type": "direct_to_video",
       "count": 8,
       "characters": [

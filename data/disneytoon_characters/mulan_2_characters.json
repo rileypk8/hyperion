@@ -2,6 +2,7 @@
   "film": "Mulan II",
   "studio": "DisneyToon Studios",
   "year": 2004,
+  "directors": ["Darrell Rooney", "Lynne Southerland"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 12,

@@ -2,6 +2,7 @@
   "film": "The Hunchback of Notre Dame II",
   "studio": "DisneyToon Studios",
   "year": 2002,
+  "directors": ["Bradley Raymond"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 10,

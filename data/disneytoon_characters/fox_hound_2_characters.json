@@ -2,6 +2,7 @@
   "film": "The Fox and the Hound 2",
   "studio": "DisneyToon Studios",
   "year": 2006,
+  "directors": ["Jim Kammerud"],
   "release_type": "direct_to_video",
   "animation_type": "fully_animated",
   "total_estimated_characters": 10,
