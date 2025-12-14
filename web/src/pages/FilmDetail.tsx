@@ -1,6 +1,6 @@
 import { useParams, Link } from 'react-router-dom';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, Legend } from 'recharts';
-import { useFilmById, useCharactersByFilm, useStudioById } from '../hooks/useDuckDB';
+import { useFilmById, useCharactersByFilm, useStudioById, useDuckDB } from '../hooks/useDuckDB';
 import {
   getFilmById as getMockFilm,
   getCharactersByFilm as getMockCharacters,
@@ -13,13 +13,26 @@ export function FilmDetail() {
   const { id } = useParams<{ id: string }>();
   const filmId = id || '';
 
+  // Check DuckDB status
+  const { isReady: duckDBReady, error: duckDBError } = useDuckDB();
+
   // DuckDB data
   const { film: duckFilm, loading: filmLoading } = useFilmById(filmId);
   const { data: duckCharacters, loading: charsLoading } = useCharactersByFilm(filmId);
 
-  // Fallback to mockData
-  const film = duckFilm || getMockFilm(filmId);
-  const characters = duckCharacters.length > 0 ? duckCharacters : getMockCharacters(filmId);
+  // Fallback to mockData if:
+  // 1. DuckDB has an error, OR
+  // 2. DuckDB is ready but we have no data and loading is complete
+  const duckDBFailed = duckDBError !== null;
+  const duckDBLoadedButEmpty = duckDBReady && !filmLoading && !duckFilm;
+  const useMockData = duckDBFailed || duckDBLoadedButEmpty;
+
+  const film = duckFilm || (useMockData ? getMockFilm(filmId) : null);
+
+  // For characters, also fallback if DuckDB returned empty after loading
+  const charsLoadedButEmpty = duckDBReady && !charsLoading && duckCharacters.length === 0;
+  const useCharactersMock = duckDBFailed || charsLoadedButEmpty;
+  const characters = duckCharacters.length > 0 ? duckCharacters : (useCharactersMock ? getMockCharacters(filmId) : []);
 
   // Get studio (need to handle async)
   const { studio: duckStudio } = useStudioById(film?.studioId || '');
@@ -27,17 +40,42 @@ export function FilmDetail() {
 
   const loading = filmLoading || charsLoading;
 
+  // Debug logging
+  console.log('FilmDetail debug:', {
+    filmId,
+    duckDBReady,
+    duckDBError: duckDBError?.message || null,
+    filmLoading,
+    charsLoading,
+    duckFilm: duckFilm?.title || null,
+    duckCharactersCount: duckCharacters.length,
+    useMockData,
+    useCharactersMock,
+    finalFilm: film?.title || null,
+    finalCharactersCount: characters.length,
+  });
+
   if (!film && !loading) {
     return (
       <div className="page not-found">
         <h1>Film Not Found</h1>
+        <p style={{ fontSize: '12px', color: '#666' }}>
+          DuckDB: {duckDBReady ? 'Ready' : 'Loading...'} | Error: {duckDBError ? duckDBError.message : 'none'}
+        </p>
         <Link to="/films">Back to Films</Link>
       </div>
     );
   }
 
   if (!film) {
-    return <div className="page">Loading...</div>;
+    return (
+      <div className="page">
+        Loading...
+        <p style={{ fontSize: '12px', color: '#666' }}>
+          DuckDB: {duckDBReady ? 'Ready' : 'Loading...'} | Film loading: {filmLoading ? 'yes' : 'no'}
+        </p>
+      </div>
+    );
   }
 
   // Gender breakdown

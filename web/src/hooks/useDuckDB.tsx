@@ -17,15 +17,15 @@ import type {
   TalentStats,
 } from '../types';
 
-// CDN URLs for DuckDB WASM bundles
+// CDN URLs for DuckDB WASM bundles (using latest 1.x version)
 const DUCKDB_BUNDLES: duckdb.DuckDBBundles = {
   mvp: {
-    mainModule: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-mvp.wasm',
-    mainWorker: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-browser-mvp.worker.js',
+    mainModule: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-mvp.wasm',
+    mainWorker: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-browser-mvp.worker.js',
   },
   eh: {
-    mainModule: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-eh.wasm',
-    mainWorker: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-browser-eh.worker.js',
+    mainModule: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-eh.wasm',
+    mainWorker: 'https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1/dist/duckdb-browser-eh.worker.js',
   },
 };
 
@@ -83,31 +83,39 @@ async function initializeDuckDB(): Promise<{
   conn: duckdb.AsyncDuckDBConnection;
 }> {
   if (dbInstance && connInstance) {
+    console.log('DuckDB: returning existing instance');
     return { db: dbInstance, conn: connInstance };
   }
 
+  console.log('DuckDB: starting initialization...');
+
   // Select best bundle for browser
   const bundle = await duckdb.selectBundle(DUCKDB_BUNDLES);
+  console.log('DuckDB: bundle selected:', bundle.mainWorker);
   const worker = new Worker(bundle.mainWorker!);
   const logger = new duckdb.ConsoleLogger();
 
   // Instantiate DuckDB
   const db = new duckdb.AsyncDuckDB(logger, worker);
   await db.instantiate(bundle.mainModule, bundle.pthreadWorker);
+  console.log('DuckDB: instantiated successfully');
 
   // Create connection
   const conn = await db.connect();
+  console.log('DuckDB: connection established');
 
   // Register Parquet files as tables
   for (const [tableName, filePath] of Object.entries(PARQUET_FILES)) {
     try {
       // Fetch the parquet file
+      console.log(`DuckDB: fetching ${filePath}...`);
       const response = await fetch(filePath);
       if (!response.ok) {
-        console.warn(`Parquet file not found: ${filePath}, skipping...`);
+        console.warn(`Parquet file not found: ${filePath}, status: ${response.status}`);
         continue;
       }
       const buffer = await response.arrayBuffer();
+      console.log(`DuckDB: loaded ${filePath}, size: ${buffer.byteLength} bytes`);
 
       // Register file in DuckDB's virtual filesystem
       await db.registerFileBuffer(filePath, new Uint8Array(buffer));
@@ -119,15 +127,19 @@ async function initializeDuckDB(): Promise<{
         SELECT * FROM read_parquet('${filePath}')
       `);
 
-      console.log(`Loaded table: ${snakeCaseName}`);
+      // Verify table
+      const countResult = await conn.query(`SELECT COUNT(*) as cnt FROM ${snakeCaseName}`);
+      const count = countResult.toArray()[0]?.toJSON()?.cnt;
+      console.log(`DuckDB: table ${snakeCaseName} created with ${count} rows`);
     } catch (err) {
-      console.warn(`Failed to load ${tableName}:`, err);
+      console.error(`DuckDB: failed to load ${tableName}:`, err);
     }
   }
 
   dbInstance = db;
   connInstance = conn;
 
+  console.log('DuckDB: initialization complete');
   return { db, conn };
 }
 
@@ -207,15 +219,21 @@ export function useQuery<T>(sql: string, deps: unknown[] = []) {
   const [error, setError] = useState<Error | null>(null);
 
   useEffect(() => {
-    if (!isReady) return;
+    if (!isReady) {
+      console.log('useQuery: not ready yet, skipping sql:', sql.slice(0, 50));
+      return;
+    }
 
     setLoading(true);
+    console.log('useQuery: executing:', sql.slice(0, 80));
     query<T>(sql)
       .then((result) => {
+        console.log('useQuery: got results:', result.length, 'rows');
         setData(result);
         setLoading(false);
       })
       .catch((err) => {
+        console.error('useQuery: error:', err);
         setError(err);
         setLoading(false);
       });
