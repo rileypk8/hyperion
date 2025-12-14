@@ -1,11 +1,20 @@
 import { Link } from 'react-router-dom';
-import { studios } from '../data/mockData';
+import { useStudios } from '../hooks/useDuckDB';
+import { studios as mockStudios } from '../data/mockData';
 
 export function StudioList() {
+  const { data: duckDBStudios, loading, error } = useStudios();
+
+  // Use DuckDB data when available, fallback to mockData
+  const studios = duckDBStudios.length > 0 ? duckDBStudios : mockStudios;
+
   return (
     <div className="page studio-list">
       <h1>Studios</h1>
       <p className="page-desc">Animation studios in the Disney media portfolio</p>
+
+      {loading && <p className="loading-indicator">Loading from DuckDB...</p>}
+      {error && <p className="error-indicator">DuckDB error, using cached data</p>}
 
       <div className="studio-grid">
         {studios.map((studio) => (
