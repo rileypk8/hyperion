@@ -39,7 +39,7 @@ This starts:
 ### 2. Create Topics
 
 ```bash
-./scripts/create_topics.sh
+./create_topics.sh
 ```
 
 ### 3. Install Python Dependencies
