@@ -6,6 +6,7 @@
   "categories": {
     "anastasia": {
       "year": 1997,
+      "directors": ["Don Bluth", "Gary Goldman"],
       "count": 16,
       "animation_type": "2D traditional",
       "characters": [
@@ -113,6 +114,7 @@
     },
     "titan_ae": {
       "year": 2000,
+      "directors": ["Don Bluth", "Gary Goldman"],
       "count": 19,
       "animation_type": "2D/CGI hybrid",
       "characters": [

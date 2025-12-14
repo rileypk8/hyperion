@@ -6,6 +6,7 @@
   "categories": {
     "fantastic_mr_fox": {
       "year": 2009,
+      "directors": ["Wes Anderson"],
       "count": 22,
       "animation_type": "stop-motion",
       "characters": [
