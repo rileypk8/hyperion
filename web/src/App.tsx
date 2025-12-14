@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
+import { DuckDBProvider } from './hooks/useDuckDB';
 import { MainLayout } from './layouts/MainLayout';
 import {
   LandingPage,
@@ -19,8 +20,9 @@ import './App.css';
 function App() {
   return (
     <AuthProvider>
-      <BrowserRouter>
-        <Routes>
+      <DuckDBProvider>
+        <BrowserRouter>
+          <Routes>
           <Route path="/" element={<MainLayout />}>
             <Route index element={<LandingPage />} />
             <Route path="dashboard" element={<Dashboard />} />
@@ -36,8 +38,9 @@ function App() {
             <Route path="characters" element={<CharacterList />} />
             <Route path="character/:id" element={<CharacterDetail />} />
           </Route>
-        </Routes>
-      </BrowserRouter>
+          </Routes>
+        </BrowserRouter>
+      </DuckDBProvider>
     </AuthProvider>
   );
 }

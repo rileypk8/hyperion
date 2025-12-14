@@ -2537,6 +2537,7 @@ export const films: Film[] = [
 ];
 
 // Characters extracted from data (4266 of 4266 total)
+// @ts-expect-error - Large array causes TS2590 "Expression produces a union type that is too complex"
 export const characters: Character[] = [
   {
     "id": "pongo-0",
