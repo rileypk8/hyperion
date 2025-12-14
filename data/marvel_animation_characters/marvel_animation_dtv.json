@@ -34,6 +34,7 @@
   "categories": {
     "ultimate_avengers": {
       "year": 2006,
+      "directors": ["Curt Geda", "Steven E. Gordon", "Bob Richardson"],
       "count": 14,
       "characters": [
         {"name": "Steve Rogers / Captain America", "role": "protagonist", "voice_actor": "Justin Gross", "species": "human_mutate", "gender": "male", "notes": "Recently thawed WWII hero"},
@@ -54,6 +55,7 @@
     },
     "ultimate_avengers_2": {
       "year": 2006,
+      "directors": ["Will Meugniot", "Dick Sebast"],
       "count": 15,
       "characters": [
         {"name": "T'Challa / Black Panther", "role": "protagonist", "voice_actor": "Jeffrey D. Sams", "species": "human", "gender": "male", "notes": "Wakandan king"},
@@ -75,6 +77,7 @@
     },
     "invincible_iron_man": {
       "year": 2007,
+      "directors": ["Patrick Archibald", "Jay Oliva", "Frank Paur"],
       "count": 10,
       "characters": [
         {"name": "Tony Stark / Iron Man", "role": "protagonist", "voice_actor": "Marc Worden", "species": "human", "gender": "male", "notes": "Returning"},
@@ -91,6 +94,7 @@
     },
     "doctor_strange": {
       "year": 2007,
+      "directors": ["Patrick Archibald", "Jay Oliva", "Frank Paur", "Dick Sebast"],
       "count": 12,
       "characters": [
         {"name": "Stephen Strange / Doctor Strange", "role": "protagonist", "voice_actor": "Bryce Johnson", "species": "human", "gender": "male", "notes": "Arrogant surgeon turned sorcerer"},
@@ -109,6 +113,7 @@
     },
     "next_avengers": {
       "year": 2008,
+      "directors": ["Jay Oliva"],
       "count": 13,
       "characters": [
         {"name": "James Rogers", "role": "protagonist", "voice_actor": "Noah Crawford", "species": "human_mutate", "gender": "male", "notes": "Son of Captain America and Black Widow"},
@@ -128,6 +133,7 @@
     },
     "hulk_vs_wolverine": {
       "year": 2009,
+      "directors": ["Frank Paur"],
       "count": 10,
       "characters": [
         {"name": "Hulk", "role": "protagonist", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Main character"},
@@ -144,6 +150,7 @@
     },
     "hulk_vs_thor": {
       "year": 2009,
+      "directors": ["Sam Liu"],
       "count": 12,
       "characters": [
         {"name": "Hulk", "role": "antagonist", "voice_actor": "Fred Tatasciore", "species": "human_mutate", "gender": "male", "notes": "Controlled by Loki"},
@@ -162,6 +169,7 @@
     },
     "planet_hulk": {
       "year": 2010,
+      "directors": ["Sam Liu"],
       "count": 14,
       "characters": [
         {"name": "Hulk", "role": "protagonist", "voice_actor": "Rick D. Wasserman", "species": "human_mutate", "gender": "male", "notes": "Exiled from Earth, becomes gladiator"},
@@ -182,6 +190,7 @@
     },
     "thor_tales_of_asgard": {
       "year": 2011,
+      "directors": ["Sam Liu"],
       "count": 13,
       "characters": [
         {"name": "Thor (Young)", "role": "protagonist", "voice_actor": "Matthew Wolf", "species": "asgardian", "gender": "male", "notes": "Teenage Thor"},
@@ -201,6 +210,7 @@
     },
     "iron_man_rise_of_technovore": {
       "year": 2013,
+      "directors": ["Hiroshi Hamazaki"],
       "count": 12,
       "characters": [
         {"name": "Tony Stark / Iron Man", "role": "protagonist", "voice_actor": "Norman Reedus", "species": "human", "gender": "male", "notes": "English dub, anime-style"},
@@ -219,6 +229,7 @@
     },
     "avengers_confidential": {
       "year": 2014,
+      "directors": ["Kenichi Shimizu"],
       "count": 10,
       "characters": [
         {"name": "Natasha Romanoff / Black Widow", "role": "protagonist", "voice_actor": "Jennifer Carpenter", "species": "human", "gender": "female", "notes": "English dub"},
