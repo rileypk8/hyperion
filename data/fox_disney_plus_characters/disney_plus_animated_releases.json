@@ -31,6 +31,7 @@
     "diary_of_a_wimpy_kid_2021": {
       "title": "Diary of a Wimpy Kid",
       "year": 2021,
+      "directors": ["Swinton O. Scott III"],
       "animation_studio": "Bardel Entertainment",
       "distributor": "Walt Disney Pictures",
       "runtime": "56 minutes",
@@ -113,6 +114,7 @@
     "diary_of_a_wimpy_kid_rodrick_rules_2022": {
       "title": "Diary of a Wimpy Kid: Rodrick Rules",
       "year": 2022,
+      "directors": ["Luke Cormican"],
       "animation_studio": "Bardel Entertainment",
       "distributor": "Walt Disney Pictures",
       "runtime": "74 minutes",
@@ -211,6 +213,7 @@
     "ice_age_adventures_of_buck_wild_2022": {
       "title": "The Ice Age Adventures of Buck Wild",
       "year": 2022,
+      "directors": ["John C. Donkin"],
       "animation_studio": "Bardel Entertainment",
       "distributor": "Walt Disney Pictures",
       "runtime": "82 minutes",
@@ -310,6 +313,7 @@
     "night_at_the_museum_kahmunrah_rises_again_2022": {
       "title": "Night at the Museum: Kahmunrah Rises Again",
       "year": 2022,
+      "directors": ["Matt Danner"],
       "animation_studio": "Disney Television Animation",
       "distributor": "Walt Disney Pictures",
       "runtime": "77 minutes",
@@ -497,6 +501,7 @@
     "diary_of_a_wimpy_kid_christmas_cabin_fever_2023": {
       "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
       "year": 2023,
+      "directors": ["Luke Cormican"],
       "animation_studio": "Bardel Entertainment",
       "distributor": "Walt Disney Pictures",
       "runtime": "64 minutes",
@@ -611,6 +616,7 @@
     "diary_of_a_wimpy_kid_the_last_straw_2025": {
       "title": "Diary of a Wimpy Kid: The Last Straw",
       "year": 2025,
+      "directors": ["Matt Danner"],
       "animation_studio": "Bardel Entertainment",
       "distributor": "Walt Disney Pictures",
       "runtime": "TBD",
