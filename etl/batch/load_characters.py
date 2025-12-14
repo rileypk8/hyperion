@@ -103,7 +103,7 @@ class CharactersLoader:
                 yield from self._process_char_list(data["characters"], franchise, default_media, media_type, source_file)
 
             # Handle categories format
-            elif "categories" in data:
+            elif "categories" in data and isinstance(data["categories"], dict):
                 for category, cat_data in data["categories"].items():
                     if not isinstance(cat_data, dict):
                         continue
