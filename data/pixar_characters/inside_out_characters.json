@@ -18,6 +18,7 @@
     },
     "inside_out": {
       "year": 2015,
+      "directors": ["Pete Docter", "Ronnie del Carmen"],
       "count": 12,
       "characters": [
         {"name": "Bing Bong", "role": "ally", "species": "imaginary friend", "gender": "male", "voice_actor": "Richard Kind"},
@@ -37,6 +38,7 @@
     },
     "inside_out_2": {
       "year": 2024,
+      "directors": ["Kelsey Mann"],
       "count": 15,
       "characters": [
         {"name": "Anxiety", "role": "antagonist", "species": "emotion", "gender": "female", "voice_actor": "Maya Hawke"},

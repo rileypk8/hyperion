@@ -5,6 +5,7 @@
   "categories": {
     "a_bugs_life": {
       "year": 1998,
+      "directors": ["John Lasseter", "Andrew Stanton"],
       "count": 20,
       "characters": [
         {"name": "Flik", "role": "protagonist", "species": "ant", "gender": "male", "voice_actor": "Dave Foley"},

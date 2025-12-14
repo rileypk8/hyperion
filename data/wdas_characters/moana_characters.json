@@ -9,6 +9,7 @@
   "categories": {
     "moana_2016": {
       "year": 2016,
+      "directors": ["Ron Clements", "John Musker"],
       "count": 15,
       "characters": [
         {
@@ -131,6 +132,7 @@
     },
     "moana_2_2024": {
       "year": 2024,
+      "directors": ["David G. Derrick Jr.", "Jason Hand", "Dana Ledoux Miller"],
       "count": 17,
       "characters": [
         {

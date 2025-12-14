@@ -8,6 +8,7 @@
   "categories": {
     "peter_pan_1953": {
       "year": 1953,
+      "directors": ["Clyde Geronimi", "Wilfred Jackson", "Hamilton Luske"],
       "count": 18,
       "characters": [
         {

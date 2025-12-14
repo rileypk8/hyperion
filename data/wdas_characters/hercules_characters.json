@@ -8,6 +8,7 @@
   "categories": {
     "hercules_1997": {
       "year": 1997,
+      "directors": ["Ron Clements", "John Musker"],
       "count": 22,
       "characters": [
         {

@@ -5,6 +5,7 @@
   "categories": {
     "brave": {
       "year": 2012,
+      "directors": ["Mark Andrews", "Brenda Chapman"],
       "count": 15,
       "characters": [
         {"name": "Merida", "role": "protagonist", "species": "human", "gender": "female", "voice_actor": "Kelly Macdonald"},

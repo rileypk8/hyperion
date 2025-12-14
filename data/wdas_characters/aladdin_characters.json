@@ -8,6 +8,7 @@
   "categories": {
     "aladdin_1992": {
       "year": 1992,
+      "directors": ["Ron Clements", "John Musker"],
       "count": 18,
       "characters": [
         {

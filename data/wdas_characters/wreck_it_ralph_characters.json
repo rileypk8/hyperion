@@ -9,6 +9,7 @@
   "categories": {
     "wreck_it_ralph_2012": {
       "year": 2012,
+      "directors": ["Rich Moore"],
       "count": 22,
       "characters": [
         {
@@ -175,6 +176,7 @@
     },
     "ralph_breaks_the_internet_2018": {
       "year": 2018,
+      "directors": ["Rich Moore", "Phil Johnston"],
       "count": 18,
       "characters": [
         {

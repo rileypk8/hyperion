@@ -18,6 +18,7 @@
     },
     "the_incredibles": {
       "year": 2004,
+      "directors": ["Brad Bird"],
       "count": 15,
       "characters": [
         {"name": "Buddy Pine / Syndrome", "role": "villain", "species": "human", "gender": "male", "voice_actor": "Jason Lee"},
@@ -39,6 +40,7 @@
     },
     "incredibles_2": {
       "year": 2018,
+      "directors": ["Brad Bird"],
       "count": 15,
       "characters": [
         {"name": "Evelyn Deavor / Screenslaver", "role": "villain", "species": "human", "gender": "female", "voice_actor": "Catherine Keener"},

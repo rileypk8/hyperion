@@ -8,6 +8,7 @@
   "categories": {
     "bolt_2008": {
       "year": 2008,
+      "directors": ["Chris Williams", "Byron Howard"],
       "count": 15,
       "characters": [
         {

@@ -8,6 +8,7 @@
   "categories": {
     "lion_king_1994": {
       "year": 1994,
+      "directors": ["Roger Allers", "Rob Minkoff"],
       "count": 18,
       "characters": [
         {

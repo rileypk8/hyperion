@@ -8,6 +8,7 @@
   "categories": {
     "101_dalmatians_1961": {
       "year": 1961,
+      "directors": ["Clyde Geronimi", "Hamilton Luske", "Wolfgang Reitherman"],
       "count": 20,
       "characters": [
         {
