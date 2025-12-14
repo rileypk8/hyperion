@@ -152,7 +152,17 @@ def process_all_data():
                 categories = {**categories, **film_data}
 
             # Also check for direct characters array (KH style)
-            direct_characters = data.get("characters", [])
+            # Some files have characters as a list, others as a dict of groups
+            raw_characters = data.get("characters", [])
+            direct_characters = []
+            if isinstance(raw_characters, list):
+                direct_characters = raw_characters
+            elif isinstance(raw_characters, dict):
+                # Blue Sky style: characters is a dict with group names as keys
+                # e.g., {"main_trio": [...], "recurring_main": [...]}
+                for group_name, group_chars in raw_characters.items():
+                    if isinstance(group_chars, list):
+                        direct_characters.extend(group_chars)
 
             # Map category keys to film info
             category_film_map = {}  # category_key -> (film_id, year)
