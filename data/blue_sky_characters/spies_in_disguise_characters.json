@@ -4,6 +4,9 @@
   "films": [
     "Spies in Disguise (2019)"
   ],
+  "directors": {
+    "spies_in_disguise_2019": ["Nick Bruno", "Troy Quane"]
+  },
   "characters": {
     "main_characters": [
       {
