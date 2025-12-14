@@ -24,6 +24,7 @@
   "categories": {
     "what_if_recurring": {
       "type": "anthology_series",
+      "directors": ["Bryan Andrews"],
       "animation_style": "3D_CGI",
       "seasons": 3,
       "episode_count": 26,
@@ -60,6 +61,7 @@
     },
     "x_men_97": {
       "type": "series",
+      "directors": ["Jake Castorena"],
       "animation_style": "2D_traditional",
       "seasons": 1,
       "episode_count": 10,
@@ -95,6 +97,7 @@
     },
     "your_friendly_neighborhood_spider_man": {
       "type": "series",
+      "directors": ["Kemp Powers"],
       "animation_style": "2D_traditional",
       "seasons": 1,
       "episode_count": 10,
@@ -121,6 +124,7 @@
     },
     "eyes_of_wakanda": {
       "type": "series",
+      "directors": ["Todd Harris"],
       "animation_style": "2D_traditional",
       "seasons": 1,
       "episode_count": 4,
@@ -143,6 +147,7 @@
     },
     "marvel_zombies": {
       "type": "series",
+      "directors": ["Bryan Andrews"],
       "animation_style": "3D_CGI",
       "seasons": 1,
       "episode_count": 4,
