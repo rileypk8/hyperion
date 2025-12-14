@@ -25,7 +25,7 @@ Kafka-based ETL pipeline for loading Disney media data into PostgreSQL.
 ### 1. Start Infrastructure
 
 ```bash
-cd etl
+cd etl/streaming
 docker-compose up -d
 ```
 
@@ -180,6 +180,8 @@ pytest tests/
 ## Cleanup
 
 ```bash
+cd etl/streaming
+
 # Stop and remove containers
 docker-compose down
 
