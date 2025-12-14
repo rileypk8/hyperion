@@ -5,6 +5,7 @@
   "categories": {
     "coco": {
       "year": 2017,
+      "directors": ["Lee Unkrich", "Adrian Molina"],
       "count": 20,
       "characters": [
         {"name": "Miguel Rivera", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Anthony Gonzalez"},

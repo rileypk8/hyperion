@@ -8,6 +8,7 @@
   "categories": {
     "saludos_amigos_1942": {
       "year": 1942,
+      "directors": ["Norman Ferguson", "Wilfred Jackson", "Jack Kinney", "Hamilton Luske", "Bill Roberts"],
       "count": 8,
       "characters": [
         {

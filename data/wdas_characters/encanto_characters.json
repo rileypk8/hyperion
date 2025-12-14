@@ -8,6 +8,7 @@
   "categories": {
     "encanto_2021": {
       "year": 2021,
+      "directors": ["Jared Bush", "Byron Howard"],
       "count": 20,
       "characters": [
         {

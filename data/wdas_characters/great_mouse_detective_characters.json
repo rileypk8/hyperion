@@ -8,6 +8,7 @@
   "categories": {
     "great_mouse_detective_1986": {
       "year": 1986,
+      "directors": ["Ron Clements", "Burny Mattinson", "David Michener", "John Musker"],
       "count": 15,
       "characters": [
         {

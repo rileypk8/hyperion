@@ -5,6 +5,7 @@
   "categories": {
     "turning_red": {
       "year": 2022,
+      "directors": ["Domee Shi"],
       "count": 18,
       "characters": [
         {"name": "Meilin 'Mei' Lee", "role": "protagonist", "species": "human (red panda curse)", "gender": "female", "voice_actor": "Rosalie Chiang"},

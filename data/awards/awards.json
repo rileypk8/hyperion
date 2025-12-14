@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2025-12-14",
+  "awards": [
+    {"year": 1938, "medium": "film", "media": "Snow White and the Seven Dwarfs", "award": "Oscar", "category": "Honorary Award", "nominees": ["Walt Disney"], "result": "won", "notes": "One full-size and seven miniature Oscar statuettes"},
+
+    {"year": 1940, "medium": "film", "media": "Pinocchio", "award": "Oscar", "category": "Best Original Score", "nominees": ["Leigh Harline", "Paul J. Smith", "Ned Washington"], "result": "won"},
+    {"year": 1940, "medium": "film", "media": "Pinocchio", "award": "Oscar", "category": "Best Original Song", "nominees": ["Leigh Harline", "Ned Washington"], "result": "won", "notes": "When You Wish Upon a Star"},
+
+    {"year": 1941, "medium": "film", "media": "Fantasia", "award": "Oscar", "category": "Honorary Award", "nominees": ["Walt Disney", "William E. Garity", "John N.A. Hawkins"], "result": "won", "notes": "For advancement of sound in motion pictures"},
+    {"year": 1941, "medium": "film", "media": "Fantasia", "award": "Oscar", "category": "Honorary Award", "nominees": ["Leopold Stokowski"], "result": "won", "notes": "For unique achievement in visualizing music"},
+
+    {"year": 1942, "medium": "film", "media": "Dumbo", "award": "Oscar", "category": "Best Original Score", "nominees": ["Frank Churchill", "Oliver Wallace"], "result": "won"},
+    {"year": 1942, "medium": "film", "media": "Dumbo", "award": "Oscar", "category": "Best Original Song", "nominees": ["Frank Churchill", "Ned Washington"], "result": "nominated", "notes": "Baby Mine"},
+
+    {"year": 1943, "medium": "film", "media": "Bambi", "award": "Oscar", "category": "Best Original Song", "nominees": ["Frank Churchill", "Larry Morey"], "result": "nominated", "notes": "Love Is a Song"},
+    {"year": 1943, "medium": "film", "media": "Bambi", "award": "Oscar", "category": "Best Sound", "nominees": ["Sam Slyfield"], "result": "nominated"},
+    {"year": 1943, "medium": "film", "media": "Bambi", "award": "Oscar", "category": "Best Original Score", "nominees": ["Frank Churchill", "Edward H. Plumb"], "result": "nominated"},
+
+    {"year": 1944, "medium": "film", "media": "Saludos Amigos", "award": "Oscar", "category": "Best Original Song", "nominees": ["Charles Wolcott", "Ned Washington"], "result": "nominated", "notes": "Saludos Amigos"},
+    {"year": 1944, "medium": "film", "media": "Saludos Amigos", "award": "Oscar", "category": "Best Sound", "nominees": ["C.O. Slyfield"], "result": "nominated"},
+    {"year": 1944, "medium": "film", "media": "Saludos Amigos", "award": "Oscar", "category": "Best Original Score", "nominees": ["Edward H. Plumb", "Paul J. Smith", "Charles Wolcott"], "result": "nominated"},
+
+    {"year": 1945, "medium": "film", "media": "The Three Caballeros", "award": "Oscar", "category": "Best Sound", "nominees": ["C.O. Slyfield"], "result": "nominated"},
+    {"year": 1945, "medium": "film", "media": "The Three Caballeros", "award": "Oscar", "category": "Best Original Score", "nominees": ["Edward H. Plumb", "Paul J. Smith", "Charles Wolcott"], "result": "nominated"},
+
+    {"year": 1947, "medium": "film", "media": "Make Mine Music", "award": "Oscar", "category": "Best Original Song", "nominees": ["Allie Wrubel", "Ray Gilbert"], "result": "nominated", "notes": "All the Cats Join In"},
+
+    {"year": 1947, "medium": "film", "media": "Song of the South", "award": "Oscar", "category": "Best Original Song", "nominees": ["Allie Wrubel", "Ray Gilbert"], "result": "won", "notes": "Zip-a-Dee-Doo-Dah"},
+    {"year": 1947, "medium": "film", "media": "Song of the South", "award": "Oscar", "category": "Honorary Award", "nominees": ["James Baskett"], "result": "won"},
+
+    {"year": 1948, "medium": "film", "media": "Fun and Fancy Free", "award": "Oscar", "category": "Best Original Song", "nominees": ["Eliot Daniel", "Bobby Worth"], "result": "nominated", "notes": "Fun and Fancy Free"},
+
+    {"year": 1950, "medium": "film", "media": "Cinderella", "award": "Oscar", "category": "Best Original Song", "nominees": ["Mack David", "Al Hoffman", "Jerry Livingston"], "result": "nominated", "notes": "Bibbidi-Bobbidi-Boo"},
+    {"year": 1950, "medium": "film", "media": "Cinderella", "award": "Oscar", "category": "Best Original Score", "nominees": ["Oliver Wallace", "Paul J. Smith"], "result": "nominated"},
+    {"year": 1950, "medium": "film", "media": "Cinderella", "award": "Oscar", "category": "Best Sound", "nominees": ["C.O. Slyfield"], "result": "nominated"},
+    {"year": 1951, "medium": "film", "media": "Cinderella", "award": "Golden Globe", "category": "Best Cinematography - Color", "nominees": ["Walt Disney Productions"], "result": "nominated"},
+
+    {"year": 1952, "medium": "film", "media": "Alice in Wonderland", "award": "Oscar", "category": "Best Original Score", "nominees": ["Oliver Wallace"], "result": "nominated"},
+
+    {"year": 1960, "medium": "film", "media": "Sleeping Beauty", "award": "Oscar", "category": "Best Original Score", "nominees": ["George Bruns"], "result": "nominated"},
+
+    {"year": 1968, "medium": "film", "media": "The Jungle Book", "award": "Oscar", "category": "Best Original Song", "nominees": ["Terry Gilkyson"], "result": "nominated", "notes": "The Bare Necessities"},
+
+    {"year": 1971, "medium": "film", "media": "The Aristocats", "award": "Oscar", "category": "Best Original Song", "nominees": ["Richard M. Sherman", "Robert B. Sherman"], "result": "nominated", "notes": "The Aristocats (theme)"},
+
+    {"year": 1974, "medium": "film", "media": "Robin Hood", "award": "Oscar", "category": "Best Original Song", "nominees": ["Roger Miller"], "result": "nominated", "notes": "Love"},
+
+    {"year": 1978, "medium": "film", "media": "The Rescuers", "award": "Oscar", "category": "Best Original Song", "nominees": ["Carol Connors", "Ayn Robbins", "Sammy Fain"], "result": "nominated", "notes": "Someone's Waiting for You"},
+
+    {"year": 1978, "medium": "film", "media": "Pete's Dragon", "award": "Oscar", "category": "Best Original Song", "nominees": ["Al Kasha", "Joel Hirschhorn"], "result": "nominated", "notes": "Candle on the Water"},
+    {"year": 1978, "medium": "film", "media": "Pete's Dragon", "award": "Oscar", "category": "Best Original Score", "nominees": ["Al Kasha", "Joel Hirschhorn", "Irwin Kostal"], "result": "nominated"},
+    {"year": 1978, "medium": "film", "media": "Pete's Dragon", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Al Kasha", "Joel Hirschhorn"], "result": "nominated"},
+
+    {"year": 1989, "medium": "film", "media": "Oliver & Company", "award": "Oscar", "category": "Best Original Song", "nominees": ["Barry Mann", "Howard Ashman"], "result": "nominated", "notes": "Why Should I Worry - lost to Let the River Run"},
+
+    {"year": 1990, "medium": "film", "media": "The Little Mermaid", "award": "Oscar", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "won"},
+    {"year": 1990, "medium": "film", "media": "The Little Mermaid", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "won", "notes": "Under the Sea"},
+    {"year": 1990, "medium": "film", "media": "The Little Mermaid", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "nominated", "notes": "Kiss the Girl"},
+    {"year": 1990, "medium": "film", "media": "The Little Mermaid", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "won"},
+    {"year": 1990, "medium": "film", "media": "The Little Mermaid", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "won", "notes": "Under the Sea"},
+    {"year": 1990, "medium": "film", "media": "The Little Mermaid", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Alan Menken", "Howard Ashman"], "result": "won", "notes": "Under the Sea"},
+
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Oscar", "category": "Best Picture", "nominees": ["Don Hahn"], "result": "nominated"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Oscar", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "won"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "won", "notes": "Beauty and the Beast"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "nominated", "notes": "Belle"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "nominated", "notes": "Be Our Guest"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Oscar", "category": "Best Sound", "nominees": ["Terry Porter", "Mel Metcalfe", "David J. Hudson", "Doc Kane"], "result": "nominated"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Walt Disney Pictures"], "result": "won"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "won"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "won", "notes": "Beauty and the Beast"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Alan Menken", "Howard Ashman"], "result": "won", "notes": "Beauty and the Beast"},
+    {"year": 1992, "medium": "film", "media": "Beauty and the Beast", "award": "Grammy", "category": "Best Instrumental Composition Written for a Motion Picture", "nominees": ["Alan Menken"], "result": "won"},
+
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Oscar", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "won"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Tim Rice"], "result": "won", "notes": "A Whole New World"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Howard Ashman"], "result": "nominated", "notes": "Friend Like Me"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Oscar", "category": "Best Sound", "nominees": ["Terry Porter", "Mel Metcalfe", "David J. Hudson", "Doc Kane"], "result": "nominated"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Oscar", "category": "Best Sound Effects Editing", "nominees": ["Mark Mangini"], "result": "nominated"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "won"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Alan Menken", "Tim Rice"], "result": "won", "notes": "A Whole New World"},
+    {"year": 1993, "medium": "film", "media": "Aladdin", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Alan Menken", "Tim Rice"], "result": "won", "notes": "A Whole New World"},
+    {"year": 1994, "medium": "film", "media": "Aladdin", "award": "Grammy", "category": "Best Musical Album for Children", "nominees": ["Alan Menken", "Howard Ashman", "Tim Rice"], "result": "won"},
+
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Oscar", "category": "Best Original Score", "nominees": ["Hans Zimmer"], "result": "won"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Oscar", "category": "Best Original Song", "nominees": ["Elton John", "Tim Rice"], "result": "won", "notes": "Can You Feel the Love Tonight"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Oscar", "category": "Best Original Song", "nominees": ["Elton John", "Tim Rice"], "result": "nominated", "notes": "Circle of Life"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Oscar", "category": "Best Original Song", "nominees": ["Elton John", "Tim Rice"], "result": "nominated", "notes": "Hakuna Matata"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Walt Disney Pictures"], "result": "won"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Hans Zimmer"], "result": "won"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Elton John", "Tim Rice"], "result": "won", "notes": "Can You Feel the Love Tonight"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Elton John", "Tim Rice"], "result": "won", "notes": "Can You Feel the Love Tonight"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Grammy", "category": "Best Instrumental Composition Written for a Motion Picture", "nominees": ["Hans Zimmer"], "result": "nominated"},
+    {"year": 1995, "medium": "film", "media": "The Lion King", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "won"},
+
+    {"year": 1996, "medium": "film", "media": "Pocahontas", "award": "Oscar", "category": "Best Original Score", "nominees": ["Alan Menken", "Stephen Schwartz"], "result": "won"},
+    {"year": 1996, "medium": "film", "media": "Pocahontas", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Stephen Schwartz"], "result": "won", "notes": "Colors of the Wind"},
+    {"year": 1996, "medium": "film", "media": "Pocahontas", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Alan Menken", "Stephen Schwartz"], "result": "won"},
+    {"year": 1996, "medium": "film", "media": "Pocahontas", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Alan Menken", "Stephen Schwartz"], "result": "won", "notes": "Colors of the Wind"},
+    {"year": 1996, "medium": "film", "media": "Pocahontas", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Alan Menken", "Stephen Schwartz"], "result": "won", "notes": "Colors of the Wind"},
+    {"year": 1996, "medium": "film", "media": "Pocahontas", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Oscar", "category": "Special Achievement Award", "nominees": ["John Lasseter"], "result": "won", "notes": "For the development and inspired application of techniques that have made possible the first feature-length computer-animated film"},
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Joss Whedon", "Andrew Stanton", "Joel Cohen", "Alec Sokolow"], "result": "nominated"},
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Oscar", "category": "Best Original Score", "nominees": ["Randy Newman"], "result": "nominated"},
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "You've Got a Friend in Me"},
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "You've Got a Friend in Me"},
+    {"year": 1996, "medium": "film", "media": "Toy Story", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 1997, "medium": "film", "media": "The Hunchback of Notre Dame", "award": "Oscar", "category": "Best Original Score", "nominees": ["Alan Menken", "Stephen Schwartz"], "result": "nominated"},
+    {"year": 1997, "medium": "film", "media": "The Hunchback of Notre Dame", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Alan Menken"], "result": "nominated"},
+    {"year": 1997, "medium": "film", "media": "The Hunchback of Notre Dame", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 1998, "medium": "film", "media": "Hercules", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "David Zippel"], "result": "nominated", "notes": "Go the Distance"},
+    {"year": 1998, "medium": "film", "media": "Hercules", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Alan Menken", "David Zippel"], "result": "nominated", "notes": "Go the Distance"},
+    {"year": 1998, "medium": "film", "media": "Hercules", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 1998, "medium": "film", "media": "Anastasia", "award": "Oscar", "category": "Best Original Song", "nominees": ["Stephen Flaherty", "Lynn Ahrens"], "result": "nominated", "notes": "Journey to the Past"},
+    {"year": 1998, "medium": "film", "media": "Anastasia", "award": "Oscar", "category": "Best Original Song", "nominees": ["Stephen Flaherty", "Lynn Ahrens"], "result": "nominated", "notes": "Once Upon a December"},
+    {"year": 1998, "medium": "film", "media": "Anastasia", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Stephen Flaherty", "Lynn Ahrens"], "result": "won", "notes": "Journey to the Past"},
+    {"year": 1998, "medium": "film", "media": "Anastasia", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Fox Animation Studios"], "result": "nominated"},
+
+    {"year": 1999, "medium": "film", "media": "Mulan", "award": "Oscar", "category": "Best Original Score", "nominees": ["Jerry Goldsmith", "Matthew Wilder", "David Zippel"], "result": "nominated"},
+    {"year": 1999, "medium": "film", "media": "Mulan", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Matthew Wilder", "David Zippel"], "result": "nominated", "notes": "Reflection"},
+    {"year": 1999, "medium": "film", "media": "Mulan", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "won"},
+
+    {"year": 1999, "medium": "film", "media": "A Bug's Life", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 1999, "medium": "film", "media": "A Bug's Life", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2000, "medium": "film", "media": "Tarzan", "award": "Oscar", "category": "Best Original Song", "nominees": ["Phil Collins"], "result": "won", "notes": "You'll Be in My Heart"},
+    {"year": 2000, "medium": "film", "media": "Tarzan", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Phil Collins"], "result": "won", "notes": "You'll Be in My Heart"},
+    {"year": 2000, "medium": "film", "media": "Tarzan", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Phil Collins"], "result": "won", "notes": "You'll Be in My Heart"},
+    {"year": 2000, "medium": "film", "media": "Tarzan", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 2000, "medium": "film", "media": "Toy Story 2", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "When She Loved Me"},
+    {"year": 2000, "medium": "film", "media": "Toy Story 2", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2000, "medium": "film", "media": "Toy Story 2", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2001, "medium": "film", "media": "The Emperor's New Groove", "award": "Oscar", "category": "Best Original Song", "nominees": ["Sting", "David Hartley"], "result": "nominated", "notes": "My Funny Friend and Me"},
+    {"year": 2001, "medium": "film", "media": "The Emperor's New Groove", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Sting", "David Hartley"], "result": "nominated", "notes": "My Funny Friend and Me"},
+    {"year": 2001, "medium": "film", "media": "The Emperor's New Groove", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Pete Docter", "David Silverman", "Lee Unkrich"], "result": "nominated"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Oscar", "category": "Best Original Score", "nominees": ["Randy Newman"], "result": "nominated"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "won", "notes": "If I Didn't Have You"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Gary Rydstrom", "Michael Silvers"], "result": "nominated"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Randy Newman"], "result": "won", "notes": "If I Didn't Have You"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2002, "medium": "film", "media": "Monsters, Inc.", "award": "BAFTA", "category": "Best Visual Effects", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2003, "medium": "film", "media": "Lilo & Stitch", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Chris Sanders", "Dean DeBlois"], "result": "nominated"},
+    {"year": 2003, "medium": "film", "media": "Lilo & Stitch", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 2003, "medium": "film", "media": "Treasure Planet", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Ron Clements", "John Musker"], "result": "nominated"},
+    {"year": 2003, "medium": "film", "media": "Treasure Planet", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 2003, "medium": "film", "media": "Ice Age", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Chris Wedge", "Carlos Saldanha"], "result": "nominated"},
+    {"year": 2003, "medium": "film", "media": "Ice Age", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Blue Sky Studios"], "result": "nominated"},
+    {"year": 2003, "medium": "film", "media": "Ice Age", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Chris Wedge"], "result": "nominated"},
+
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Andrew Stanton"], "result": "won"},
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Andrew Stanton", "Bob Peterson", "David Reynolds"], "result": "nominated"},
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "Oscar", "category": "Best Original Score", "nominees": ["Thomas Newman"], "result": "nominated"},
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Gary Rydstrom", "Michael Silvers"], "result": "nominated"},
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2004, "medium": "film", "media": "Finding Nemo", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Andrew Stanton"], "result": "won"},
+
+    {"year": 2004, "medium": "film", "media": "Brother Bear", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Aaron Blaise", "Robert Walker"], "result": "nominated"},
+    {"year": 2004, "medium": "film", "media": "Brother Bear", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Pictures"], "result": "nominated"},
+
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Brad Bird"], "result": "won"},
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Brad Bird"], "result": "nominated"},
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "Oscar", "category": "Best Sound Mixing", "nominees": ["Randy Thom", "Gary Rizzo", "Doc Kane"], "result": "nominated"},
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Randy Thom", "Michael Silvers"], "result": "won"},
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "Golden Globe", "category": "Best Motion Picture - Musical or Comedy", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2005, "medium": "film", "media": "The Incredibles", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Brad Bird"], "result": "won"},
+
+    {"year": 2006, "medium": "film", "media": "Robots", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Blue Sky Studios"], "result": "nominated"},
+
+    {"year": 2007, "medium": "film", "media": "Cars", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["John Lasseter"], "result": "nominated"},
+    {"year": 2007, "medium": "film", "media": "Cars", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "Our Town"},
+    {"year": 2007, "medium": "film", "media": "Cars", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["John Lasseter"], "result": "won"},
+    {"year": 2007, "medium": "film", "media": "Cars", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Brad Bird"], "result": "won"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Brad Bird", "Jan Pinkava", "Jim Capobianco"], "result": "nominated"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Oscar", "category": "Best Original Score", "nominees": ["Michael Giacchino"], "result": "nominated"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Oscar", "category": "Best Sound Mixing", "nominees": ["Randy Thom", "Michael Semanick", "Doc Kane"], "result": "nominated"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Randy Thom", "Michael Silvers"], "result": "nominated"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Brad Bird"], "result": "won"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2008, "medium": "film", "media": "Ratatouille", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Brad Bird"], "result": "won"},
+
+    {"year": 2008, "medium": "film", "media": "The Simpsons Movie", "award": "Annie", "category": "Best Animated Feature", "nominees": ["20th Century Fox"], "result": "nominated"},
+
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Andrew Stanton"], "result": "won"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Andrew Stanton", "Jim Reardon", "Pete Docter"], "result": "nominated"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Oscar", "category": "Best Original Score", "nominees": ["Thomas Newman"], "result": "nominated"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Oscar", "category": "Best Original Song", "nominees": ["Peter Gabriel", "Thomas Newman"], "result": "nominated", "notes": "Down to Earth"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Oscar", "category": "Best Sound Mixing", "nominees": ["Tom Myers", "Michael Semanick", "Ben Burtt"], "result": "nominated"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Ben Burtt", "Matthew Wood"], "result": "nominated"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Andrew Stanton"], "result": "won"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Andrew Stanton"], "result": "won"},
+    {"year": 2009, "medium": "film", "media": "WALL-E", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Andrew Stanton"], "result": "won"},
+
+    {"year": 2009, "medium": "film", "media": "Bolt", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Chris Williams", "Byron Howard"], "result": "nominated"},
+    {"year": 2009, "medium": "film", "media": "Bolt", "award": "Oscar", "category": "Best Original Song", "nominees": ["John Powell", "Miley Cyrus"], "result": "nominated", "notes": "I Thought I Lost You"},
+    {"year": 2009, "medium": "film", "media": "Bolt", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Chris Williams", "Byron Howard"], "result": "nominated"},
+    {"year": 2009, "medium": "film", "media": "Bolt", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Oscar", "category": "Best Picture", "nominees": ["Jonas Rivera"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Pete Docter", "Bob Peterson"], "result": "won"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Pete Docter", "Bob Peterson", "Tom McCarthy"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Oscar", "category": "Best Original Score", "nominees": ["Michael Giacchino"], "result": "won"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Michael Silvers", "Tom Myers"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Michael Giacchino"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2010, "medium": "film", "media": "Up", "award": "Grammy", "category": "Best Score Soundtrack for Visual Media", "nominees": ["Michael Giacchino"], "result": "won"},
+
+    {"year": 2010, "medium": "film", "media": "The Princess and the Frog", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Ron Clements", "John Musker"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "The Princess and the Frog", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "Almost There"},
+    {"year": 2010, "medium": "film", "media": "The Princess and the Frog", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "Down in New Orleans"},
+    {"year": 2010, "medium": "film", "media": "The Princess and the Frog", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Ron Clements", "John Musker"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "The Princess and the Frog", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+
+    {"year": 2010, "medium": "film", "media": "Fantastic Mr. Fox", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Wes Anderson"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "Fantastic Mr. Fox", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Wes Anderson"], "result": "nominated"},
+    {"year": 2010, "medium": "film", "media": "Fantastic Mr. Fox", "award": "Annie", "category": "Best Animated Feature", "nominees": ["20th Century Fox"], "result": "nominated"},
+
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Oscar", "category": "Best Picture", "nominees": ["Darla K. Anderson"], "result": "nominated"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Lee Unkrich"], "result": "won"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Oscar", "category": "Best Adapted Screenplay", "nominees": ["Michael Arndt"], "result": "nominated"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "won", "notes": "We Belong Together"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Oscar", "category": "Best Sound Editing", "nominees": ["Tom Myers", "Michael Silvers"], "result": "nominated"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Lee Unkrich"], "result": "won"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Lee Unkrich"], "result": "won"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Lee Unkrich"], "result": "won"},
+    {"year": 2011, "medium": "film", "media": "Toy Story 3", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Randy Newman"], "result": "won", "notes": "We Belong Together"},
+
+    {"year": 2011, "medium": "film", "media": "Tangled", "award": "Oscar", "category": "Best Original Song", "nominees": ["Alan Menken", "Glenn Slater"], "result": "nominated", "notes": "I See the Light"},
+    {"year": 2011, "medium": "film", "media": "Tangled", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Nathan Greno", "Byron Howard"], "result": "nominated"},
+    {"year": 2011, "medium": "film", "media": "Tangled", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Alan Menken", "Glenn Slater"], "result": "nominated", "notes": "I See the Light"},
+    {"year": 2011, "medium": "film", "media": "Tangled", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+
+    {"year": 2012, "medium": "film", "media": "Winnie the Pooh", "award": "Oscar", "category": "Best Original Song", "nominees": ["Richard M. Sherman", "Robert Lopez", "Kristen Anderson-Lopez"], "result": "nominated", "notes": "A Very Important Thing to Do - withdrew from consideration"},
+    {"year": 2012, "medium": "film", "media": "Winnie the Pooh", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+
+    {"year": 2012, "medium": "film", "media": "Rio", "award": "Oscar", "category": "Best Original Song", "nominees": ["Sergio Mendes", "Carlinhos Brown", "Siedah Garrett"], "result": "nominated", "notes": "Real in Rio"},
+    {"year": 2012, "medium": "film", "media": "Rio", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Carlos Saldanha"], "result": "nominated"},
+
+    {"year": 2013, "medium": "film", "media": "Brave", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Mark Andrews", "Brenda Chapman"], "result": "won"},
+    {"year": 2013, "medium": "film", "media": "Brave", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Mark Andrews", "Brenda Chapman"], "result": "won"},
+    {"year": 2013, "medium": "film", "media": "Brave", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2013, "medium": "film", "media": "Brave", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Mark Andrews", "Brenda Chapman"], "result": "won"},
+    {"year": 2013, "medium": "film", "media": "Brave", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Mark Andrews", "Brenda Chapman"], "result": "nominated"},
+
+    {"year": 2013, "medium": "film", "media": "Wreck-It Ralph", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Rich Moore"], "result": "nominated"},
+    {"year": 2013, "medium": "film", "media": "Wreck-It Ralph", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Rich Moore"], "result": "nominated"},
+    {"year": 2013, "medium": "film", "media": "Wreck-It Ralph", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+    {"year": 2013, "medium": "film", "media": "Wreck-It Ralph", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Rich Moore"], "result": "nominated"},
+    {"year": 2013, "medium": "film", "media": "Wreck-It Ralph", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Rich Moore"], "result": "won"},
+
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Chris Buck", "Jennifer Lee"], "result": "won"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Oscar", "category": "Best Original Song", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "won", "notes": "Let It Go"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Chris Buck", "Jennifer Lee"], "result": "won"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "nominated", "notes": "Let It Go"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Chris Buck", "Jennifer Lee"], "result": "won"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Chris Buck", "Jennifer Lee"], "result": "won"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "won", "notes": "Let It Go"},
+    {"year": 2014, "medium": "film", "media": "Frozen", "award": "Grammy", "category": "Best Compilation Soundtrack for Visual Media", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez", "Christophe Beck"], "result": "won"},
+
+    {"year": 2015, "medium": "film", "media": "Big Hero 6", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Don Hall", "Chris Williams"], "result": "won"},
+    {"year": 2015, "medium": "film", "media": "Big Hero 6", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Don Hall", "Chris Williams"], "result": "won"},
+    {"year": 2015, "medium": "film", "media": "Big Hero 6", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+    {"year": 2015, "medium": "film", "media": "Big Hero 6", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Don Hall", "Chris Williams"], "result": "nominated"},
+
+    {"year": 2015, "medium": "film", "media": "The Book of Life", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Jorge R. Gutierrez"], "result": "nominated"},
+    {"year": 2015, "medium": "film", "media": "The Book of Life", "award": "Annie", "category": "Best Animated Feature", "nominees": ["20th Century Fox"], "result": "nominated"},
+
+    {"year": 2016, "medium": "film", "media": "Inside Out", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Pete Docter", "Jonas Rivera"], "result": "won"},
+    {"year": 2016, "medium": "film", "media": "Inside Out", "award": "Oscar", "category": "Best Original Screenplay", "nominees": ["Pete Docter", "Meg LeFauve", "Josh Cooley"], "result": "nominated"},
+    {"year": 2016, "medium": "film", "media": "Inside Out", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2016, "medium": "film", "media": "Inside Out", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2016, "medium": "film", "media": "Inside Out", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2016, "medium": "film", "media": "Inside Out", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Pete Docter"], "result": "won"},
+
+    {"year": 2016, "medium": "film", "media": "The Good Dinosaur", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Peter Sohn"], "result": "nominated"},
+    {"year": 2016, "medium": "film", "media": "The Good Dinosaur", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2016, "medium": "film", "media": "The Peanuts Movie", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Steve Martino"], "result": "nominated"},
+    {"year": 2016, "medium": "film", "media": "The Peanuts Movie", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Blue Sky Studios"], "result": "nominated"},
+
+    {"year": 2017, "medium": "film", "media": "Zootopia", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Byron Howard", "Rich Moore", "Jared Bush"], "result": "won"},
+    {"year": 2017, "medium": "film", "media": "Zootopia", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Byron Howard", "Rich Moore"], "result": "won"},
+    {"year": 2017, "medium": "film", "media": "Zootopia", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+    {"year": 2017, "medium": "film", "media": "Zootopia", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Byron Howard", "Rich Moore"], "result": "nominated"},
+    {"year": 2017, "medium": "film", "media": "Zootopia", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Byron Howard", "Rich Moore"], "result": "won"},
+
+    {"year": 2017, "medium": "film", "media": "Moana", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Ron Clements", "John Musker"], "result": "nominated"},
+    {"year": 2017, "medium": "film", "media": "Moana", "award": "Oscar", "category": "Best Original Song", "nominees": ["Lin-Manuel Miranda"], "result": "nominated", "notes": "How Far I'll Go"},
+    {"year": 2017, "medium": "film", "media": "Moana", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Ron Clements", "John Musker"], "result": "nominated"},
+    {"year": 2017, "medium": "film", "media": "Moana", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Lin-Manuel Miranda"], "result": "nominated", "notes": "How Far I'll Go"},
+    {"year": 2017, "medium": "film", "media": "Moana", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+    {"year": 2017, "medium": "film", "media": "Moana", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Ron Clements", "John Musker"], "result": "nominated"},
+
+    {"year": 2017, "medium": "film", "media": "Finding Dory", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2017, "medium": "film", "media": "Finding Dory", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Andrew Stanton", "Angus MacLane"], "result": "nominated"},
+
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Lee Unkrich", "Adrian Molina"], "result": "won"},
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "Oscar", "category": "Best Original Song", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "won", "notes": "Remember Me"},
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Lee Unkrich"], "result": "won"},
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Lee Unkrich", "Adrian Molina"], "result": "won"},
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Lee Unkrich"], "result": "won"},
+    {"year": 2018, "medium": "film", "media": "Coco", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "won", "notes": "Remember Me"},
+
+    {"year": 2018, "medium": "film", "media": "Ferdinand", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Carlos Saldanha"], "result": "nominated"},
+    {"year": 2018, "medium": "film", "media": "Ferdinand", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Carlos Saldanha"], "result": "nominated"},
+    {"year": 2018, "medium": "film", "media": "Ferdinand", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Blue Sky Studios"], "result": "nominated"},
+
+    {"year": 2019, "medium": "film", "media": "Incredibles 2", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Brad Bird"], "result": "nominated"},
+    {"year": 2019, "medium": "film", "media": "Incredibles 2", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Brad Bird"], "result": "nominated"},
+    {"year": 2019, "medium": "film", "media": "Incredibles 2", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2019, "medium": "film", "media": "Incredibles 2", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Brad Bird"], "result": "nominated"},
+
+    {"year": 2019, "medium": "film", "media": "Ralph Breaks the Internet", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Rich Moore", "Phil Johnston"], "result": "nominated"},
+    {"year": 2019, "medium": "film", "media": "Ralph Breaks the Internet", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Rich Moore", "Phil Johnston"], "result": "nominated"},
+    {"year": 2019, "medium": "film", "media": "Ralph Breaks the Internet", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+    {"year": 2019, "medium": "film", "media": "Ralph Breaks the Internet", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Rich Moore", "Phil Johnston"], "result": "nominated"},
+
+    {"year": 2020, "medium": "film", "media": "Toy Story 4", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Josh Cooley", "Mark Nielsen"], "result": "won"},
+    {"year": 2020, "medium": "film", "media": "Toy Story 4", "award": "Oscar", "category": "Best Original Song", "nominees": ["Randy Newman"], "result": "nominated", "notes": "I Can't Let You Throw Yourself Away"},
+    {"year": 2020, "medium": "film", "media": "Toy Story 4", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Josh Cooley"], "result": "won"},
+    {"year": 2020, "medium": "film", "media": "Toy Story 4", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2020, "medium": "film", "media": "Toy Story 4", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Josh Cooley"], "result": "won"},
+    {"year": 2020, "medium": "film", "media": "Toy Story 4", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Josh Cooley"], "result": "won"},
+
+    {"year": 2020, "medium": "film", "media": "Frozen II", "award": "Oscar", "category": "Best Original Song", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "nominated", "notes": "Into the Unknown"},
+    {"year": 2020, "medium": "film", "media": "Frozen II", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Chris Buck", "Jennifer Lee"], "result": "nominated"},
+    {"year": 2020, "medium": "film", "media": "Frozen II", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Kristen Anderson-Lopez", "Robert Lopez"], "result": "nominated", "notes": "Into the Unknown"},
+    {"year": 2020, "medium": "film", "media": "Frozen II", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+    {"year": 2020, "medium": "film", "media": "Frozen II", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Chris Buck", "Jennifer Lee"], "result": "nominated"},
+
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Pete Docter", "Dana Murray"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Oscar", "category": "Best Original Score", "nominees": ["Trent Reznor", "Atticus Ross", "Jon Batiste"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Oscar", "category": "Best Sound", "nominees": ["Ren Klyce", "Coya Elliott", "David Parker"], "result": "nominated"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Golden Globe", "category": "Best Original Score", "nominees": ["Trent Reznor", "Atticus Ross", "Jon Batiste"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Pete Docter"], "result": "won"},
+    {"year": 2021, "medium": "film", "media": "Soul", "award": "Grammy", "category": "Best Score Soundtrack for Visual Media", "nominees": ["Trent Reznor", "Atticus Ross", "Jon Batiste"], "result": "won"},
+
+    {"year": 2021, "medium": "film", "media": "Onward", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Dan Scanlon", "Kori Rae"], "result": "nominated"},
+    {"year": 2021, "medium": "film", "media": "Onward", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Dan Scanlon"], "result": "nominated"},
+    {"year": 2021, "medium": "film", "media": "Onward", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Jared Bush", "Byron Howard", "Yvett Merino", "Clark Spencer"], "result": "won"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Oscar", "category": "Best Original Score", "nominees": ["Germaine Franco"], "result": "nominated"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Oscar", "category": "Best Original Song", "nominees": ["Lin-Manuel Miranda"], "result": "nominated", "notes": "Dos Oruguitas"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Jared Bush", "Byron Howard"], "result": "won"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Golden Globe", "category": "Best Original Song", "nominees": ["Lin-Manuel Miranda"], "result": "nominated", "notes": "Dos Oruguitas"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Jared Bush", "Byron Howard"], "result": "won"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Jared Bush", "Byron Howard"], "result": "won"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Grammy", "category": "Best Song Written for Visual Media", "nominees": ["Lin-Manuel Miranda"], "result": "nominated", "notes": "We Don't Talk About Bruno"},
+    {"year": 2022, "medium": "film", "media": "Encanto", "award": "Grammy", "category": "Best Compilation Soundtrack for Visual Media", "nominees": ["Lin-Manuel Miranda"], "result": "won"},
+
+    {"year": 2022, "medium": "film", "media": "Luca", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Enrico Casarosa", "Andrea Warren"], "result": "nominated"},
+    {"year": 2022, "medium": "film", "media": "Luca", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2022, "medium": "film", "media": "Luca", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Enrico Casarosa"], "result": "nominated"},
+
+    {"year": 2022, "medium": "film", "media": "Raya and the Last Dragon", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Don Hall", "Carlos López Estrada"], "result": "nominated"},
+    {"year": 2022, "medium": "film", "media": "Raya and the Last Dragon", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Don Hall", "Carlos López Estrada"], "result": "nominated"},
+    {"year": 2022, "medium": "film", "media": "Raya and the Last Dragon", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+    {"year": 2022, "medium": "film", "media": "Raya and the Last Dragon", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Don Hall", "Carlos López Estrada"], "result": "nominated"},
+
+    {"year": 2023, "medium": "film", "media": "Turning Red", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Domee Shi", "Lindsey Collins"], "result": "nominated"},
+    {"year": 2023, "medium": "film", "media": "Turning Red", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Domee Shi"], "result": "nominated"},
+    {"year": 2023, "medium": "film", "media": "Turning Red", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2023, "medium": "film", "media": "Turning Red", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Domee Shi"], "result": "nominated"},
+    {"year": 2023, "medium": "film", "media": "Turning Red", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Domee Shi"], "result": "nominated"},
+
+    {"year": 2024, "medium": "film", "media": "Elemental", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Peter Sohn", "Denise Ream"], "result": "nominated"},
+    {"year": 2024, "medium": "film", "media": "Elemental", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Peter Sohn"], "result": "nominated"},
+    {"year": 2024, "medium": "film", "media": "Elemental", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2024, "medium": "film", "media": "Elemental", "award": "BAFTA", "category": "Best Animated Film", "nominees": ["Peter Sohn"], "result": "nominated"},
+    {"year": 2024, "medium": "film", "media": "Elemental", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Peter Sohn"], "result": "nominated"},
+
+    {"year": 2024, "medium": "film", "media": "Wish", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Chris Buck", "Fawn Veerasunthorn"], "result": "nominated"},
+    {"year": 2024, "medium": "film", "media": "Wish", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+
+    {"year": 2025, "medium": "film", "media": "Inside Out 2", "award": "Oscar", "category": "Best Animated Feature", "nominees": ["Kelsey Mann", "Mark Nielsen"], "result": "nominated", "notes": "Pending ceremony"},
+    {"year": 2025, "medium": "film", "media": "Inside Out 2", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["Kelsey Mann"], "result": "nominated"},
+    {"year": 2025, "medium": "film", "media": "Inside Out 2", "award": "Annie", "category": "Best Animated Feature", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+    {"year": 2025, "medium": "film", "media": "Inside Out 2", "award": "Critics Choice", "category": "Best Animated Feature", "nominees": ["Kelsey Mann"], "result": "nominated"},
+
+    {"year": 2025, "medium": "film", "media": "Moana 2", "award": "Golden Globe", "category": "Best Animated Feature Film", "nominees": ["David G. Derrick Jr.", "Jason Hand", "Dana Ledoux Miller"], "result": "nominated"},
+
+    {"year": 1987, "medium": "short", "media": "Luxo Jr.", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["John Lasseter", "William Reeves"], "result": "nominated"},
+
+    {"year": 1989, "medium": "short", "media": "Tin Toy", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["John Lasseter", "William Reeves"], "result": "won"},
+
+    {"year": 1998, "medium": "short", "media": "Geri's Game", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Jan Pinkava"], "result": "won"},
+
+    {"year": 2001, "medium": "short", "media": "For the Birds", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Ralph Eggleston"], "result": "won"},
+
+    {"year": 2004, "medium": "short", "media": "Boundin'", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Bud Luckey", "Roger Gould"], "result": "nominated"},
+
+    {"year": 2006, "medium": "short", "media": "One Man Band", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Mark Andrews", "Andrew Jimenez"], "result": "nominated"},
+
+    {"year": 2007, "medium": "short", "media": "Lifted", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Gary Rydstrom"], "result": "nominated"},
+    {"year": 2007, "medium": "short", "media": "No Time for Nuts", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Chris Renaud", "Mike Thurmeier"], "result": "nominated"},
+
+    {"year": 2009, "medium": "short", "media": "Presto", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Doug Sweetland"], "result": "nominated"},
+    {"year": 2009, "medium": "short", "media": "Presto", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2010, "medium": "short", "media": "Partly Cloudy", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2011, "medium": "short", "media": "Day & Night", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Teddy Newton"], "result": "nominated"},
+    {"year": 2011, "medium": "short", "media": "Day & Night", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2012, "medium": "short", "media": "La Luna", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Enrico Casarosa"], "result": "nominated"},
+    {"year": 2012, "medium": "short", "media": "La Luna", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2013, "medium": "short", "media": "Paperman", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["John Kahrs"], "result": "won"},
+    {"year": 2013, "medium": "short", "media": "Paperman", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+    {"year": 2013, "medium": "short", "media": "Maggie Simpson in 'The Longest Daycare'", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["David Silverman"], "result": "nominated"},
+
+    {"year": 2014, "medium": "short", "media": "Get a Horse!", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Lauren MacMullan", "Dorothy McKim"], "result": "nominated"},
+    {"year": 2014, "medium": "short", "media": "Get a Horse!", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+
+    {"year": 2015, "medium": "short", "media": "Feast", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Patrick Osborne", "Kristina Reed"], "result": "won"},
+    {"year": 2015, "medium": "short", "media": "Feast", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+
+    {"year": 2016, "medium": "short", "media": "Sanjay's Super Team", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Sanjay Patel", "Nicole Paradis Grindle"], "result": "nominated"},
+    {"year": 2016, "medium": "short", "media": "Sanjay's Super Team", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2017, "medium": "short", "media": "Piper", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Alan Barillaro", "Marc Sondheimer"], "result": "won"},
+    {"year": 2017, "medium": "short", "media": "Piper", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2018, "medium": "short", "media": "Lou", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Dave Mullins", "Dana Murray"], "result": "nominated"},
+    {"year": 2018, "medium": "short", "media": "Lou", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2019, "medium": "short", "media": "Bao", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Domee Shi", "Becky Neiman-Cobb"], "result": "won"},
+    {"year": 2019, "medium": "short", "media": "Bao", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "won"},
+
+    {"year": 2020, "medium": "short", "media": "Kitbull", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Rosana Sullivan", "Kathryn Hendrickson"], "result": "nominated"},
+    {"year": 2020, "medium": "short", "media": "Kitbull", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "nominated"},
+
+    {"year": 2022, "medium": "short", "media": "Us Again", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Walt Disney Animation Studios"], "result": "nominated"},
+
+    {"year": 2022, "medium": "short", "media": "Far From the Tree", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Natalie Nourigat"], "result": "nominated"},
+    {"year": 2022, "medium": "short", "media": "Far From the Tree", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Walt Disney Animation Studios"], "result": "won"},
+
+    {"year": 2021, "medium": "short", "media": "Burrow", "award": "Oscar", "category": "Best Animated Short Film", "nominees": ["Madeline Sharafian", "Michael Capbarat"], "result": "nominated"},
+    {"year": 2021, "medium": "short", "media": "Burrow", "award": "Annie", "category": "Best Animated Short Subject", "nominees": ["Pixar Animation Studios"], "result": "nominated"}
+  ]
+}

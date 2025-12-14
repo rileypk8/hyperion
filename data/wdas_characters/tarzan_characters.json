@@ -8,6 +8,7 @@
   "categories": {
     "tarzan_1999": {
       "year": 1999,
+      "directors": ["Chris Buck", "Kevin Lima"],
       "count": 18,
       "characters": [
         {

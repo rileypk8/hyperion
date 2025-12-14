@@ -1,0 +1,501 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2025-12-14",
+  "shorts": [
+    {
+      "title": "Luxo Jr.",
+      "year": 1986,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "First Pixar short, standalone release"
+    },
+    {
+      "title": "Red's Dream",
+      "year": 1987,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null
+    },
+    {
+      "title": "Tin Toy",
+      "year": 1988,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null
+    },
+    {
+      "title": "Knick Knack",
+      "year": 1989,
+      "studio": "Pixar",
+      "released_with": "Finding Nemo",
+      "released_with_year": 2003,
+      "notes": "Originally 1989, theatrically released with Finding Nemo"
+    },
+    {
+      "title": "Geri's Game",
+      "year": 1997,
+      "studio": "Pixar",
+      "released_with": "A Bug's Life",
+      "released_with_year": 1998
+    },
+    {
+      "title": "For the Birds",
+      "year": 2000,
+      "studio": "Pixar",
+      "released_with": "Monsters, Inc.",
+      "released_with_year": 2001
+    },
+    {
+      "title": "Mike's New Car",
+      "year": 2002,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Monsters, Inc."
+    },
+    {
+      "title": "Boundin'",
+      "year": 2003,
+      "studio": "Pixar",
+      "released_with": "The Incredibles",
+      "released_with_year": 2004
+    },
+    {
+      "title": "Jack-Jack Attack",
+      "year": 2005,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with The Incredibles"
+    },
+    {
+      "title": "One Man Band",
+      "year": 2005,
+      "studio": "Pixar",
+      "released_with": "Cars",
+      "released_with_year": 2006
+    },
+    {
+      "title": "Mater and the Ghostlight",
+      "year": 2006,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Cars"
+    },
+    {
+      "title": "Lifted",
+      "year": 2006,
+      "studio": "Pixar",
+      "released_with": "Ratatouille",
+      "released_with_year": 2007
+    },
+    {
+      "title": "Your Friend the Rat",
+      "year": 2007,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Ratatouille"
+    },
+    {
+      "title": "Presto",
+      "year": 2008,
+      "studio": "Pixar",
+      "released_with": "WALL-E",
+      "released_with_year": 2008
+    },
+    {
+      "title": "BURN-E",
+      "year": 2008,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with WALL-E"
+    },
+    {
+      "title": "Partly Cloudy",
+      "year": 2009,
+      "studio": "Pixar",
+      "released_with": "Up",
+      "released_with_year": 2009
+    },
+    {
+      "title": "Dug's Special Mission",
+      "year": 2009,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Up"
+    },
+    {
+      "title": "Day & Night",
+      "year": 2010,
+      "studio": "Pixar",
+      "released_with": "Toy Story 3",
+      "released_with_year": 2010
+    },
+    {
+      "title": "Hawaiian Vacation",
+      "year": 2011,
+      "studio": "Pixar",
+      "released_with": "Cars 2",
+      "released_with_year": 2011
+    },
+    {
+      "title": "Small Fry",
+      "year": 2011,
+      "studio": "Pixar",
+      "released_with": "The Muppets",
+      "released_with_year": 2011
+    },
+    {
+      "title": "La Luna",
+      "year": 2011,
+      "studio": "Pixar",
+      "released_with": "Brave",
+      "released_with_year": 2012
+    },
+    {
+      "title": "Partysaurus Rex",
+      "year": 2012,
+      "studio": "Pixar",
+      "released_with": "Finding Nemo 3D",
+      "released_with_year": 2012
+    },
+    {
+      "title": "The Blue Umbrella",
+      "year": 2013,
+      "studio": "Pixar",
+      "released_with": "Monsters University",
+      "released_with_year": 2013
+    },
+    {
+      "title": "The Radiator Springs 500½",
+      "year": 2014,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Television/home video release"
+    },
+    {
+      "title": "Lava",
+      "year": 2014,
+      "studio": "Pixar",
+      "released_with": "Inside Out",
+      "released_with_year": 2015
+    },
+    {
+      "title": "Sanjay's Super Team",
+      "year": 2015,
+      "studio": "Pixar",
+      "released_with": "The Good Dinosaur",
+      "released_with_year": 2015
+    },
+    {
+      "title": "Riley's First Date?",
+      "year": 2015,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Inside Out"
+    },
+    {
+      "title": "Piper",
+      "year": 2016,
+      "studio": "Pixar",
+      "released_with": "Finding Dory",
+      "released_with_year": 2016
+    },
+    {
+      "title": "Lou",
+      "year": 2017,
+      "studio": "Pixar",
+      "released_with": "Cars 3",
+      "released_with_year": 2017
+    },
+    {
+      "title": "Bao",
+      "year": 2018,
+      "studio": "Pixar",
+      "released_with": "Incredibles 2",
+      "released_with_year": 2018
+    },
+    {
+      "title": "Auntie Edna",
+      "year": 2018,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Incredibles 2"
+    },
+    {
+      "title": "Kitbull",
+      "year": 2019,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program, released on YouTube"
+    },
+    {
+      "title": "Purl",
+      "year": 2019,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Smash and Grab",
+      "year": 2019,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Float",
+      "year": 2019,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Wind",
+      "year": 2019,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Loop",
+      "year": 2020,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Out",
+      "year": 2020,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Burrow",
+      "year": 2020,
+      "studio": "Pixar",
+      "released_with": "Soul",
+      "released_with_year": 2020
+    },
+    {
+      "title": "Twenty Something",
+      "year": 2021,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Nona",
+      "year": 2021,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "SparkShorts program"
+    },
+    {
+      "title": "Us Again",
+      "year": 2021,
+      "studio": "WDAS",
+      "released_with": "Raya and the Last Dragon",
+      "released_with_year": 2021
+    },
+    {
+      "title": "Ciao Alberto",
+      "year": 2021,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Disney+ release, companion to Luca"
+    },
+    {
+      "title": "Far From the Tree",
+      "year": 2021,
+      "studio": "WDAS",
+      "released_with": "Encanto",
+      "released_with_year": 2021
+    },
+    {
+      "title": "Turning Red: Embrace the Panda",
+      "year": 2022,
+      "studio": "Pixar",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Making-of documentary short"
+    },
+    {
+      "title": "Carl's Date",
+      "year": 2023,
+      "studio": "Pixar",
+      "released_with": "Elemental",
+      "released_with_year": 2023
+    },
+    {
+      "title": "Once Upon a Studio",
+      "year": 2023,
+      "studio": "WDAS",
+      "released_with": "Wish",
+      "released_with_year": 2023,
+      "notes": "Disney 100th anniversary special"
+    },
+    {
+      "title": "Paperman",
+      "year": 2012,
+      "studio": "WDAS",
+      "released_with": "Wreck-It Ralph",
+      "released_with_year": 2012
+    },
+    {
+      "title": "Get a Horse!",
+      "year": 2013,
+      "studio": "WDAS",
+      "released_with": "Frozen",
+      "released_with_year": 2013
+    },
+    {
+      "title": "Feast",
+      "year": 2014,
+      "studio": "WDAS",
+      "released_with": "Big Hero 6",
+      "released_with_year": 2014
+    },
+    {
+      "title": "Frozen Fever",
+      "year": 2015,
+      "studio": "WDAS",
+      "released_with": "Cinderella",
+      "released_with_year": 2015,
+      "notes": "Released with live-action Cinderella"
+    },
+    {
+      "title": "Inner Workings",
+      "year": 2016,
+      "studio": "WDAS",
+      "released_with": "Moana",
+      "released_with_year": 2016
+    },
+    {
+      "title": "Olaf's Frozen Adventure",
+      "year": 2017,
+      "studio": "WDAS",
+      "released_with": "Coco",
+      "released_with_year": 2017,
+      "notes": "Featurette (21 minutes)"
+    },
+    {
+      "title": "Myth: A Frozen Tale",
+      "year": 2019,
+      "studio": "WDAS",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "VR short"
+    },
+    {
+      "title": "The Simpsons: The Good, the Bart, and the Loki",
+      "year": 2021,
+      "studio": "20th Century Animation",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Disney+ exclusive"
+    },
+    {
+      "title": "Ice Age: Scrat Tales",
+      "year": 2022,
+      "studio": "Blue Sky Studios",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Disney+ series of shorts"
+    },
+    {
+      "title": "Maggie Simpson in 'The Longest Daycare'",
+      "year": 2012,
+      "studio": "20th Century Animation",
+      "released_with": "Ice Age: Continental Drift",
+      "released_with_year": 2012
+    },
+    {
+      "title": "The Simpsons: Playdate with Destiny",
+      "year": 2020,
+      "studio": "20th Century Animation",
+      "released_with": "Onward",
+      "released_with_year": 2020
+    },
+    {
+      "title": "Scrat: Spaced Out",
+      "year": 2016,
+      "studio": "Blue Sky Studios",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Cosmic Scrat-tastrophe sequel"
+    },
+    {
+      "title": "Cosmic Scrat-tastrophe",
+      "year": 2015,
+      "studio": "Blue Sky Studios",
+      "released_with": "The Peanuts Movie",
+      "released_with_year": 2015
+    },
+    {
+      "title": "Gone Nutty",
+      "year": 2002,
+      "studio": "Blue Sky Studios",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Ice Age"
+    },
+    {
+      "title": "No Time for Nuts",
+      "year": 2006,
+      "studio": "Blue Sky Studios",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Ice Age: The Meltdown"
+    },
+    {
+      "title": "Surviving Sid",
+      "year": 2008,
+      "studio": "Blue Sky Studios",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release"
+    },
+    {
+      "title": "Scrat's Continental Crack-up",
+      "year": 2010,
+      "studio": "Blue Sky Studios",
+      "released_with": "Gulliver's Travels",
+      "released_with_year": 2010
+    },
+    {
+      "title": "Scrat's Continental Crack-up Part 2",
+      "year": 2011,
+      "studio": "Blue Sky Studios",
+      "released_with": "Rio",
+      "released_with_year": 2011
+    },
+    {
+      "title": "Rio: Nico & Pedro's Carnival Jam",
+      "year": 2011,
+      "studio": "Blue Sky Studios",
+      "released_with": null,
+      "released_with_year": null,
+      "notes": "Home video release with Rio"
+    }
+  ]
+}

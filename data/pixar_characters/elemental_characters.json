@@ -5,6 +5,7 @@
   "categories": {
     "elemental": {
       "year": 2023,
+      "directors": ["Peter Sohn"],
       "count": 18,
       "characters": [
         {"name": "Ember Lumen", "role": "protagonist", "species": "fire element", "gender": "female", "voice_actor": "Leah Lewis"},

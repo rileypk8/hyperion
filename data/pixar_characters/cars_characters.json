@@ -22,6 +22,7 @@
     },
     "cars": {
       "year": 2006,
+      "directors": ["John Lasseter", "Joe Ranft"],
       "count": 15,
       "characters": [
         {"name": "Chick Hicks", "role": "antagonist", "species": "car (race car)", "gender": "male", "voice_actor": "Michael Keaton"},
@@ -43,6 +44,7 @@
     },
     "cars_2": {
       "year": 2011,
+      "directors": ["John Lasseter", "Brad Lewis"],
       "count": 20,
       "characters": [
         {"name": "Finn McMissile", "role": "deuteragonist", "species": "car (Aston Martin)", "gender": "male", "voice_actor": "Michael Caine"},
@@ -69,6 +71,7 @@
     },
     "cars_3": {
       "year": 2017,
+      "directors": ["Brian Fee"],
       "count": 15,
       "characters": [
         {"name": "Cruz Ramirez", "role": "deuteragonist", "species": "car (race car)", "gender": "female", "voice_actor": "Cristela Alonzo"},

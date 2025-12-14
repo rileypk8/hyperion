@@ -5,6 +5,7 @@
   "categories": {
     "lightyear": {
       "year": 2022,
+      "directors": ["Angus MacLane"],
       "count": 15,
       "characters": [
         {"name": "Buzz Lightyear", "role": "protagonist", "species": "human", "gender": "male", "voice_actor": "Chris Evans"},

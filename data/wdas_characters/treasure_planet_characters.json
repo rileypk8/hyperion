@@ -8,6 +8,7 @@
   "categories": {
     "treasure_planet_2002": {
       "year": 2002,
+      "directors": ["Ron Clements", "John Musker"],
       "count": 18,
       "characters": [
         {
