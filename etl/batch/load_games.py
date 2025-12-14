@@ -87,6 +87,9 @@ class GamesLoader:
                 except json.JSONDecodeError:
                     continue
 
+                if not isinstance(data, dict):
+                    continue
+
                 franchise = data.get("franchise", "Unknown")
                 studio = data.get("studio", "Disney Interactive Studios")
                 publisher = studio.split("/")[0].strip() if "/" in studio else studio
