@@ -1,4 +1,5 @@
-import { useCallback, useMemo, useRef } from 'react';
+import { useCallback, useMemo, useRef, useState } from 'react';
+import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import ForceGraph2D from 'react-force-graph-2d';
 import {
@@ -13,6 +14,7 @@ import {
   Pie,
   Cell,
 } from 'recharts';
+import { ChartZoomModal } from '../../components/ChartZoomModal';
 
 // Mock data for KH characters - would come from API
 const khCharacters = [
@@ -125,8 +127,15 @@ const speciesBreakdown = [
   { name: 'Dream Eater', value: 8, color: '#9b59b6' },
 ];
 
+interface ChartConfig {
+  id: string;
+  title: string;
+  render: (height: number) => ReactNode;
+}
+
 export function KingdomHeartsHub() {
   const graphRef = useRef<any>(null);
+  const [zoomedChart, setZoomedChart] = useState<string | null>(null);
 
   const graphData = useMemo(() => ({
     nodes: khCharacters.map((char) => ({
@@ -179,6 +188,66 @@ export function KingdomHeartsHub() {
     ctx.fillText(label, node.x, node.y + nodeSize + 2 + fontSize / 2);
   }, []);
 
+  const charts: ChartConfig[] = [
+    {
+      id: 'game-sales',
+      title: 'Game Sales by Release (millions)',
+      render: (height) => (
+        <ResponsiveContainer width="100%" height={height}>
+          <BarChart data={gameTimeline}>
+            <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
+            <XAxis dataKey="name" stroke="#94a3b8" fontSize={12} />
+            <YAxis stroke="#94a3b8" fontSize={12} />
+            <Tooltip
+              contentStyle={{
+                background: '#1e293b',
+                border: '1px solid #475569',
+                borderRadius: '6px',
+              }}
+            />
+            <Bar dataKey="sales" fill="#9b59b6" radius={[4, 4, 0, 0]} />
+          </BarChart>
+        </ResponsiveContainer>
+      ),
+    },
+    {
+      id: 'species-breakdown',
+      title: 'Character Species Breakdown',
+      render: (height) => (
+        <ResponsiveContainer width="100%" height={height}>
+          <PieChart>
+            <Pie
+              data={speciesBreakdown}
+              cx="50%"
+              cy="50%"
+              innerRadius={height > 400 ? 80 : 60}
+              outerRadius={height > 400 ? 140 : 100}
+              paddingAngle={2}
+              dataKey="value"
+              label={({ name, percent }) =>
+                `${name} ${((percent ?? 0) * 100).toFixed(0)}%`
+              }
+              labelLine={false}
+            >
+              {speciesBreakdown.map((entry, index) => (
+                <Cell key={`cell-${index}`} fill={entry.color} />
+              ))}
+            </Pie>
+            <Tooltip
+              contentStyle={{
+                background: '#1e293b',
+                border: '1px solid #475569',
+                borderRadius: '6px',
+              }}
+            />
+          </PieChart>
+        </ResponsiveContainer>
+      ),
+    },
+  ];
+
+  const selectedChart = charts.find((c) => c.id === zoomedChart);
+
   return (
     <div className="hub-page">
       <Link to="/" className="back-link">← Back to Hub</Link>
@@ -192,7 +261,7 @@ export function KingdomHeartsHub() {
       </div>
 
       <div className="charts-grid">
-        {/* Character Network Graph */}
+        {/* Character Network Graph - not zoomable (has built-in zoom) */}
         <div className="chart-card" style={{ gridColumn: '1 / -1' }}>
           <h3>Character Relationship Network</h3>
           <div className="network-container">
@@ -233,59 +302,29 @@ export function KingdomHeartsHub() {
           </div>
         </div>
 
-        {/* Game Sales Timeline */}
-        <div className="chart-card">
-          <h3>Game Sales by Release (millions)</h3>
-          <ResponsiveContainer width="100%" height={300}>
-            <BarChart data={gameTimeline}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
-              <XAxis dataKey="name" stroke="#94a3b8" fontSize={12} />
-              <YAxis stroke="#94a3b8" fontSize={12} />
-              <Tooltip
-                contentStyle={{
-                  background: '#1e293b',
-                  border: '1px solid #475569',
-                  borderRadius: '6px',
-                }}
-              />
-              <Bar dataKey="sales" fill="#9b59b6" radius={[4, 4, 0, 0]} />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-
-        {/* Species Breakdown */}
-        <div className="chart-card">
-          <h3>Character Species Breakdown</h3>
-          <ResponsiveContainer width="100%" height={300}>
-            <PieChart>
-              <Pie
-                data={speciesBreakdown}
-                cx="50%"
-                cy="50%"
-                innerRadius={60}
-                outerRadius={100}
-                paddingAngle={2}
-                dataKey="value"
-                label={({ name, percent }) =>
-                  `${name} ${((percent ?? 0) * 100).toFixed(0)}%`
-                }
-                labelLine={false}
-              >
-                {speciesBreakdown.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={entry.color} />
-                ))}
-              </Pie>
-              <Tooltip
-                contentStyle={{
-                  background: '#1e293b',
-                  border: '1px solid #475569',
-                  borderRadius: '6px',
-                }}
-              />
-            </PieChart>
-          </ResponsiveContainer>
-        </div>
+        {/* Zoomable Charts */}
+        {charts.map((chart) => (
+          <div
+            key={chart.id}
+            className="chart-card zoomable"
+            onClick={() => setZoomedChart(chart.id)}
+          >
+            <h3>{chart.title}</h3>
+            {chart.render(300)}
+          </div>
+        ))}
       </div>
+
+      {/* Zoom Modal */}
+      {selectedChart && (
+        <ChartZoomModal
+          isOpen={!!zoomedChart}
+          onClose={() => setZoomedChart(null)}
+          title={selectedChart.title}
+        >
+          {selectedChart.render(500)}
+        </ChartZoomModal>
+      )}
 
       {/* Stats row */}
       <div className="stats-row">

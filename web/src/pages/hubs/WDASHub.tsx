@@ -1,3 +1,5 @@
+import { useState } from 'react';
+import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import {
   BarChart,
@@ -13,6 +15,7 @@ import {
   Pie,
   Cell,
 } from 'recharts';
+import { ChartZoomModal } from '../../components/ChartZoomModal';
 
 // Mock soundtrack data - would come from wdas_soundtracks_complete.json
 const soundtracksByDecade = [
@@ -124,7 +127,93 @@ const eraComparison = [
   { era: 'Revival (2010-present)', avgSongs: 5.6, films: 8 },
 ];
 
+interface ChartConfig {
+  id: string;
+  title: string;
+  render: (height: number) => ReactNode;
+}
+
 export function WDASHub() {
+  const [zoomedChart, setZoomedChart] = useState<string | null>(null);
+
+  const charts: ChartConfig[] = [
+    {
+      id: 'oscar-wins',
+      title: 'Best Original Song Oscars by Decade',
+      render: (height) => (
+        <ResponsiveContainer width="100%" height={height}>
+          <BarChart data={oscarData}>
+            <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
+            <XAxis dataKey="decade" stroke="#94a3b8" fontSize={10} angle={-30} textAnchor="end" height={60} />
+            <YAxis stroke="#94a3b8" fontSize={12} />
+            <Tooltip
+              contentStyle={{
+                background: '#1e293b',
+                border: '1px solid #475569',
+                borderRadius: '6px',
+              }}
+            />
+            <Bar dataKey="wins" fill="#ffd700" name="Oscar Wins" radius={[4, 4, 0, 0]} />
+          </BarChart>
+        </ResponsiveContainer>
+      ),
+    },
+    {
+      id: 'composers',
+      title: 'Most Prolific Composers',
+      render: (height) => (
+        <ResponsiveContainer width="100%" height={height}>
+          <PieChart>
+            <Pie
+              data={composerData}
+              cx="50%"
+              cy="50%"
+              outerRadius={height > 400 ? 140 : 100}
+              paddingAngle={2}
+              dataKey="films"
+              label={({ name, value }) => `${name}: ${value}`}
+              labelLine={false}
+            >
+              {composerData.map((entry, index) => (
+                <Cell key={`cell-${index}`} fill={entry.color} />
+              ))}
+            </Pie>
+            <Tooltip
+              contentStyle={{
+                background: '#1e293b',
+                border: '1px solid #475569',
+                borderRadius: '6px',
+              }}
+            />
+          </PieChart>
+        </ResponsiveContainer>
+      ),
+    },
+    {
+      id: 'era-comparison',
+      title: 'Average Songs per Film by Era',
+      render: (height) => (
+        <ResponsiveContainer width="100%" height={height}>
+          <LineChart data={eraComparison}>
+            <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
+            <XAxis dataKey="era" stroke="#94a3b8" fontSize={9} angle={-20} textAnchor="end" height={80} />
+            <YAxis stroke="#94a3b8" fontSize={12} domain={[0, 6]} />
+            <Tooltip
+              contentStyle={{
+                background: '#1e293b',
+                border: '1px solid #475569',
+                borderRadius: '6px',
+              }}
+            />
+            <Line type="monotone" dataKey="avgSongs" stroke="#1e90ff" strokeWidth={3} dot={{ fill: '#1e90ff', r: 6 }} />
+          </LineChart>
+        </ResponsiveContainer>
+      ),
+    },
+  ];
+
+  const selectedChart = charts.find((c) => c.id === zoomedChart);
+
   return (
     <div className="hub-page">
       <Link to="/" className="back-link">← Back to Hub</Link>
@@ -157,76 +246,28 @@ export function WDASHub() {
       </div>
 
       <div className="charts-grid">
-        {/* Oscar wins by decade */}
-        <div className="chart-card">
-          <h3>Best Original Song Oscars by Decade</h3>
-          <ResponsiveContainer width="100%" height={300}>
-            <BarChart data={oscarData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
-              <XAxis dataKey="decade" stroke="#94a3b8" fontSize={10} angle={-30} textAnchor="end" height={60} />
-              <YAxis stroke="#94a3b8" fontSize={12} />
-              <Tooltip
-                contentStyle={{
-                  background: '#1e293b',
-                  border: '1px solid #475569',
-                  borderRadius: '6px',
-                }}
-              />
-              <Bar dataKey="wins" fill="#ffd700" name="Oscar Wins" radius={[4, 4, 0, 0]} />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-
-        {/* Composer pie chart */}
-        <div className="chart-card">
-          <h3>Most Prolific Composers</h3>
-          <ResponsiveContainer width="100%" height={300}>
-            <PieChart>
-              <Pie
-                data={composerData}
-                cx="50%"
-                cy="50%"
-                outerRadius={100}
-                paddingAngle={2}
-                dataKey="films"
-                label={({ name, value }) => `${name}: ${value}`}
-                labelLine={false}
-              >
-                {composerData.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={entry.color} />
-                ))}
-              </Pie>
-              <Tooltip
-                contentStyle={{
-                  background: '#1e293b',
-                  border: '1px solid #475569',
-                  borderRadius: '6px',
-                }}
-              />
-            </PieChart>
-          </ResponsiveContainer>
-        </div>
-
-        {/* Era comparison */}
-        <div className="chart-card">
-          <h3>Average Songs per Film by Era</h3>
-          <ResponsiveContainer width="100%" height={300}>
-            <LineChart data={eraComparison}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
-              <XAxis dataKey="era" stroke="#94a3b8" fontSize={9} angle={-20} textAnchor="end" height={80} />
-              <YAxis stroke="#94a3b8" fontSize={12} domain={[0, 6]} />
-              <Tooltip
-                contentStyle={{
-                  background: '#1e293b',
-                  border: '1px solid #475569',
-                  borderRadius: '6px',
-                }}
-              />
-              <Line type="monotone" dataKey="avgSongs" stroke="#1e90ff" strokeWidth={3} dot={{ fill: '#1e90ff', r: 6 }} />
-            </LineChart>
-          </ResponsiveContainer>
-        </div>
+        {charts.map((chart) => (
+          <div
+            key={chart.id}
+            className="chart-card zoomable"
+            onClick={() => setZoomedChart(chart.id)}
+          >
+            <h3>{chart.title}</h3>
+            {chart.render(300)}
+          </div>
+        ))}
       </div>
+
+      {/* Zoom Modal */}
+      {selectedChart && (
+        <ChartZoomModal
+          isOpen={!!zoomedChart}
+          onClose={() => setZoomedChart(null)}
+          title={selectedChart.title}
+        >
+          {selectedChart.render(500)}
+        </ChartZoomModal>
+      )}
 
       {/* Soundtrack Timeline */}
       <div className="section">
